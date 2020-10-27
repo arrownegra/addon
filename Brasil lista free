@@ -1,7 +1,6 @@
-
 #EXTM3U
 
-#EXTINF:-----------------@by_flecha_negra--------LISTA GRATIS----------1-tvg-logo =https://i.imgur.com/mqj4GLj.jpg",-------@by_flecha_negra--------LiSTA GRÁTIS SE FICAR OFFLINE ESPERAR ATÉ FICAR ON UM ABRAÇO
+#EXTINF:-1 tvg-id="tvg-name" --------------@by_flecha_negra--------LISTA GRATIS-----------tvg-logo =https://i.imgur.com/mqj4GLj.jpg",-------@by_flecha_negra--------LiSTA GRÁTIS SE FICAR OFFLINE ESPERAR ATÉ FICAR ON UM ABRAÇO
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="1HD Music SD¢" tvg-logo="http://centralbr.top:9000/images/36cadef5a03b283551daf14d26dece17.png" group-title="ABERTOS",1HD Music SD¢
