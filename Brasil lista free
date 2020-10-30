@@ -1,375 +1,273 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tvg-name" --------------@by_flecha_negra--------LISTA GRATIS-----------tvg-logo =https://i.imgur.com/mqj4GLj.jpg",-------@by_flecha_negra--------LiSTA GRÁTIS SE FICAR OFFLINE ESPERAR ATÉ FICAR ON UM ABRAÇO
+#EXTINF:-1 tvg-id="tvg-name" --------------@by_flecha_negra--------LISTA GRATIS-----------tvg-logo="https://i.imgur.com/mqj4GLj.jpg",-------@by_flecha_negra--------LiSTA GRÁTIS SE FICAR OFFLINE ESPERAR ATÉ FICAR ON UM ABRAÇO
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="1HD Music SD¢" tvg-logo="http://centralbr.top:9000/images/36cadef5a03b283551daf14d26dece17.png" group-title="ABERTOS",1HD Music SD¢
-http://centralbr.top:8080/live/Miguel/Miguel/11684.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="4U GONE FISHING" tvg-logo="https://img.freepik.com/vetores-gratis/foi-pescar_5435-1420.jpg?size=338&ext=jpg" group-title="CAÇA & PESCA ESPORTIVA",4U GONE FISHING
-http://centralbr.top:8080/live/Miguel/Miguel/3944.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="4U HUNTING" tvg-logo="https://i.pinimg.com/736x/09/5d/91/095d918b5a0c01a4a6af5aef57754446.jpg" group-title="CAÇA & PESCA ESPORTIVA",4U HUNTING
-http://centralbr.top:8080/live/Miguel/Miguel/3945.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E" tvg-logo="http://imagembr.top/imagemservidor/canais/xQ2sG46.png" group-title="FILMES E SERIES",A&E
-http://centralbr.top:8080/live/Miguel/Miguel/4435.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="http://imagembr.top/imagemservidor/canais/xQ2sG46.png" group-title="FILMES E SERIES",A&E HD
-http://centralbr.top:8080/live/Miguel/Miguel/4251.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Amc_logo.svg.png" group-title="FILMES E SERIES",AMC
-http://centralbr.top:8080/live/Miguel/Miguel/4436.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/canal-axn-logo.png" group-title="FILMES E SERIES",AMC HD
-http://centralbr.top:8080/live/Miguel/Miguel/4252.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="ANHAGUERA HD" tvg-logo="http://centralbr.top:9000/images/ecc36785d9d0d491f2590dba07bb60bf.jpg" group-title="GLOBO",ANHAGUERA HD
-http://centralbr.top:8080/live/Miguel/Miguel/12023.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="ANHAGUERA HD'" tvg-logo="http://centralbr.top:9000/images/ecc36785d9d0d491f2590dba07bb60bf.jpg" group-title="ABERTOS",ANHAGUERA HD'
-http://centralbr.top:8080/live/Miguel/Miguel/12024.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://imagembr.top/imagemservidor/canais/Animal_Planet.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
-http://centralbr.top:8080/live/Miguel/Miguel/4253.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://imagembr.top/imagemservidor/canais/Animal_Planet.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET SD
-http://centralbr.top:8080/live/Miguel/Miguel/4437.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="http://imagembr.top/imagemservidor/filmes4/canal-axn-logo.png" group-title="FILMES E SERIES",AXN
-http://centralbr.top:8080/live/Miguel/Miguel/4438.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/canal-axn-logo.png" group-title="FILMES E SERIES",AXN HD
-http://centralbr.top:8080/live/Miguel/Miguel/4254.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="B4U MUSIC HD*" tvg-logo="https://seeklogo.com/images/B/b4u-music-logo-12FA930444-seeklogo.com.png" group-title="VARIEDADES E MUSICAIS",B4U MUSIC HD*
-http://centralbr.top:8080/live/Miguel/Miguel/3708.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="babytv.br" tvg-name="BABY TV" tvg-logo="https://lh3.googleusercontent.com/proxy/zu_8uSYFoBUVfa9BeAaY1aV1BdEK3Lvr7qFWisLPRZdzhuSTsQvZsS0yPZsxVhaofhxxi2m7vKKeRZW0ZyhcJGBGx8X0NJDjZnmAXGMv5TCWw6lzKLD3fPwfPko" group-title="INFANTIL",BABY TV
-http://centralbr.top:8080/live/Miguel/Miguel/4439.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="BAND BAHIA" tvg-logo="https://observatoriodatv.bol.uol.com.br/wp-content/uploads/2015/01/Logo-Band-1024x8351.jpg" group-title="ABERTOS",BAND BAHIA
-http://centralbr.top:8080/live/Miguel/Miguel/4440.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band BSB HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Band.png" group-title="ABERTOS",Band BSB HD
-http://centralbr.top:8080/live/Miguel/Miguel/13051.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="aande.br" tvg-name="BAND CAMPINAS HD" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2015/01/Logo-Band-1024x8351.jpg" group-title="ABERTOS",BAND CAMPINAS HD
-http://centralbr.top:8080/live/Miguel/Miguel/4365.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/123fv.png" group-title="JORNALISMO",BAND NEWS HD
-http://centralbr.top:8080/live/Miguel/Miguel/21646.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/bandnews-logo.png" group-title="JORNALISMO",BAND NEWS HD
-http://centralbr.top:8080/live/Miguel/Miguel/4442.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="BAND RJ HD" tvg-logo="http://imagem.band.com.br/f_394138.jpg" group-title="ABERTOS",BAND RJ HD
-http://centralbr.top:8080/live/Miguel/Miguel/4366.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RS HD" tvg-logo="http://imagem.band.com.br/f_394138.jpg" group-title="ABERTOS",BAND RS HD
-http://centralbr.top:8080/live/Miguel/Miguel/4367.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="BAND SERGIPE HD" tvg-logo="http://imagem.band.com.br/f_394138.jpg" group-title="ABERTOS",BAND SERGIPE HD
-http://centralbr.top:8080/live/Miguel/Miguel/4368.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="bandminas.br" tvg-name="BAND SP HD" tvg-logo="http://imagem.band.com.br/f_394138.jpg" group-title="ABERTOS",BAND SP HD
-http://centralbr.top:8080/live/Miguel/Miguel/4369.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS" tvg-logo="https://4.bp.blogspot.com/-TqV1xE_FWzc/V1MsBqQjTqI/AAAAAAAAJtY/z35YuOc2sqIX_RFm309wupQ3vMEhNC5YwCLcB/s1600/123.jpg" group-title="SPORT",BAND SPORTS
-http://centralbr.top:8080/live/Miguel/Miguel/4443.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/BandSports-HD_Logotipo.png" group-title="SPORT",BAND SPORTS HD
-http://centralbr.top:8080/live/Miguel/Miguel/4255.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="BANDEIRANTES" tvg-logo="https://observatoriodatv.bol.uol.com.br/wp-content/uploads/2015/01/Logo-Band-1024x8351.jpg" group-title="ABERTOS",BANDEIRANTES
-http://centralbr.top:8080/live/Miguel/Miguel/4441.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS" tvg-logo="https://www.pngkey.com/png/detail/894-8946384_budweiser-logo-download-de-logotipos-canal-bis-logo.png" group-title="VARIEDADES E MUSICAIS",BIS
-http://centralbr.top:8080/live/Miguel/Miguel/4444.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8cYq3j_MOOlBENHRA5AjK7GSZZ84tqxnvIXlvt0cMPoKU3VmU&s" group-title="VARIEDADES E MUSICAIS",BIS HD
-http://centralbr.top:8080/live/Miguel/Miguel/4256.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7GdJFudoTKMTcWeJaiaz8080QMdqX5t6EdcXoarm0qZNrLkWu&s" group-title="INFANTIL",BOOMERANG
-http://centralbr.top:8080/live/Miguel/Miguel/4445.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CACA VISION HD*" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="CAÇA & PESCA ESPORTIVA",CACA VISION HD*
-http://centralbr.top:8080/live/Miguel/Miguel/3869.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CACAVISION" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAABjCAMAAABt21ivAAAAilBMVEX////+/v4jHyAdGRobFxghHR4eGxwYFBURDQ7k5OTv7+8VEBL39vbt7Oz8/PwpJSZIRUZkYmMMCAk1MjO+vL1QTU4tKis/PD2LiIl3dXZwbm9gXl/T0tKqqqrFxMTY19edm5xWVFWNi4x/fX64t7elo6SVk5TW1dVKSEljYWKxr7BCQEHMysuLiovx8QgoAAAIC0lEQVRoge1Y2ZKjOBBECCzEaRD3jblsYP7/97YExsZHTx8zG7ERSz50gyWVUqmqUglB2LFjx44dO3bs2LFjx47/HNDm7/3/B93+/twIrcb/lRm+weRbLP46WXT7h979+J7dp7v2AwobBgiZqkGLdMpz94p8mtKCGvrC5l/cMoSQTqehDCO78saA+ZYlyrIoi6JoWT4LxqNX2XHYZW5hmMD4r1MxjcItoyqwYOLrpDf4nA0migNQNCJzQlXcDSnV/x4PvWhO8WhZwbFKorBrBxC/L+gVRZ9ObpOVXR3b1TmwsKZphEgSPlhjEmaT8YMZn72LZnU1jlXUDXlh6L8fa6q0z4eyts++fMASAWDmxWX6dtwnaWZtVtMyrpK6naj+tQ2+dtLnvfMYqEKAisi8MDc+sYBeHuZQSNs6Dgeq/572OzuLU+q06eyjRSSMJSyew1x/7fg0+qmBZqdTNuk3adCXvP0xNfAR1O1sBiQOmPhVSR+Sy8vgNTPPzWb6Kyp7ddP2If+PFoPueUUvspiJBB8IHsNi7fJmTXyEMQ3N7EJFbberT38z72x73xcFwrY2AzkkiZ3om64raOf5ssQm/pgZK9MfxflLDp9FmbojliBmxlb/aGuHo0RkTGwDCQV91+Fu+jfEXpvQRksj80QiS4dL/9aGGkKrKEox+IFp++6TRbQe5J9x2Gzem5AD98g8DL4RDC+GkGDEGCjIMwekVg5L30321pHu8YAEk25EvL6gp3FGGcCeiCfz2ZpqcxlEYqvclOEREptbHR8yGNrafYwb1ZYv5vpiVHJkoqfBHEV8wBh325VwjeKZAz7SeQp6lmQr3S4fPQn35nGmZlxwYq5bYlRSZL4M40szOwtjMXv03A4f+MEoD0vHPsCi1G639GHdc9Z62IU7aLruAN+b+WXbYx2GBghXVmxX5lozhwO7pobcP4i4Xp7VLLbjgYfUFNpJPGcP2tmXOocHs4mSJBpQcep60HM4ZU3XCOYQJXY9wXvnIvDE6BK3qoDck2uc7LidUzdyfUmKNjqqniTOQrDrKjIMW2PPbUYiaVjj/tr6xGISqQyUB0STFKtDei1Lvk8O4eQrkYAKJkWJU5khxr5F/EE9OjYYOCiSIlVUiLXR0xTovUydiYT1d4E7HhhcCb9YJLMJxGrFtxNFihUO9cHpDN/xpqLGxFVHJWiHRDlMjaZEfZoojNqOZwiZ5ucX51IwJSqmxDlSz4lRrVj1cLIUW48IPredT656mzURh5sSEAviogQnAVt54uUankn0YBD6x6ymLZw9QisSt+GDUeGNWd9lENG14tNSsnIhViojcezc0uwe0SYHEhFlGhgQQslKI+AoCJHip4sUIFx2I9FYixDgE3w7DIgfcVViEDFna+q6YE5tXVkydsNlLTr8puZddBTBwwrmdHqgdXrlJOpFUcQxcnX17ES5RbiB/CAPtTIC5U7xp+vE8UoCPLe8CiFi3olWc7SKOOF824PYzDskqLFIgiSxcFOTQF1+6yuCj7YnQWZLFLuxxBRIVMgoEyaBH3ElGktqwNAkiu2NxFUJIbSam090ykoi0RFwuL7Ei0qkhX9lUraHQ0dN1yJup/kFOH1tD7XjNwbiZoVWYh6udE6C9oZO3YRYQ+VE4LIlVxTL7qMSQKQO7tn1RoKEkLW0ldFp9pdR8Xo9Z07dyRYMrrHkTgcpMtSOaFnsjCZSEw1IFP5BJicBEr49WAxWWEJ4VE6se8ox1WmlBTRSRtjG07odSEgi4YWELLq3QBG5L/DEkolaYDOFFa5MvDCWJS1D4OZeIiqJelJEO6wIAbOmrRHwO5UrcXZYXQdKVUB0gJZgYNTkFsVOwEk41rScXYXX3zgg11rShJbolGFxEym8Fc5eyapyQQ8ZJkHosRKpXSCKLKICjaF8rMJgBK/PAhaDp8Z+jFLbIsSyC/3i1wg1YEA+Zyaq/QRSVuufl7nRqdym/07UoABUYCEn6cpBlBL9mqTVyV3q9SKHC4RqcKfMWdzPRWCfpzoy+D3ANKAFobldL/K8gCS7dNbTfOL/r2+GsZwnWa0/nEFZxSyWuAKqpHlbuH90V+/ZdLujT4LkswL+Le5X2bYqnlr0fur5yr1VCSnob0NeSjXBaKZRTH9S+a0Hv1qfnwqW9ZRDqF5zJzkh/Wno/SxFFC573Tfvuw9FWV496bCxz4+gJVg9dbqU9MbgoeSdLzXq16d/WMo8S81q9aESuZmep2kY3JYkci6E2tHGMEXP9cL9DvRctX1OYVkoPY3J9Kb5LhWabOazGLSi5VlyfHug7x3jmxSug5GZ1sdq0NHG6NbgujxU5MUyg5pdLEcL4qwwNxTQo47f4IDgem+P8XArcN/W0VcW9zZz6jxZISzpcmPD4qm4/SIJOkRe0qW3QV8fjdT8l2dpihjEZc6/DqAXAh9UvdsnZKQtVHzd9AN3vlrRpzIegQhmSd3mhXoPlzfzPtx9uKw6zbNTFIdZ8YPc9mic5lDRMAmqFebZdTlMFJwLzbq825u52lb5F7au+9W1/JL9JxRW89xROZMk8GW4Mlh+4NlRWGZNPhWUGldQWhRT7sLcdRTHcd0N06cfmL7MYhNRXN6uhpQ5MuZbcOTj9TtewDHyj4gXmD7LqWo+uPmPxXi84dyuPhDwOi3S3G2GIWuvyLKhcfMUln79LPHiJT/fk8eEvZjd/PY2byH04iN/jMc5P7a4+TCD7h0fomnHjh07duzYsWPHjh07dvzf8Q+mC5ij/cM3EQAAAABJRU5ErkJggg==" group-title="CAÇA & PESCA ESPORTIVA",CACAVISION
-http://centralbr.top:8080/live/Miguel/Miguel/3934.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CALIFORNIA MUSIC CHANNEL HD*" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" group-title="VARIEDADES E MUSICAIS",CALIFORNIA MUSIC CHANNEL HD*
-http://centralbr.top:8080/live/Miguel/Miguel/3710.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CALIFORNIA MUSIC CHANNEL HD*" tvg-logo="http://www.freeetv.com/images/01_logo/cmc_tv.jpg" group-title="VARIEDADES E MUSICAIS",CALIFORNIA MUSIC CHANNEL HD*
-http://centralbr.top:8080/live/Miguel/Miguel/3711.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO 1)" tvg-logo="https://acontecendoaqui.com.br/sites/default/files/logo_sc_do_mundo_-_nsc_tv.png" group-title="SPORT",CAMPEONATO CATARINENSE (JOGO 1)
-http://centralbr.top:8080/live/Miguel/Miguel/10195.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO2)" tvg-logo="https://acontecendoaqui.com.br/sites/default/files/logo_sc_do_mundo_-_nsc_tv.png" group-title="SPORT",CAMPEONATO CATARINENSE (JOGO2)
-http://centralbr.top:8080/live/Miguel/Miguel/10194.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO3)" tvg-logo="https://acontecendoaqui.com.br/sites/default/files/logo_sc_do_mundo_-_nsc_tv.png" group-title="SPORT",CAMPEONATO CATARINENSE (JOGO3)
-http://centralbr.top:8080/live/Miguel/Miguel/10196.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO4)" tvg-logo="https://acontecendoaqui.com.br/sites/default/files/logo_sc_do_mundo_-_nsc_tv.png" group-title="SPORT",CAMPEONATO CATARINENSE (JOGO4)
-http://centralbr.top:8080/live/Miguel/Miguel/10197.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo_azul.fundo_branco.RGB.JPG" group-title="ABERTOS",CANAL BRASIL
-http://centralbr.top:8080/live/Miguel/Miguel/4446.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi" tvg-logo="https://1.bp.blogspot.com/-km-GoIRdoDw/XikUjHy4h9I/AAAAAAAACac/9obSsDvdHCwQx4XArR3ZH7AiEGQ1WzXIQCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-01-23-00-33-03.png" group-title="VARIEDADES E MUSICAIS",Canal do Boi
-http://centralbr.top:8080/live/Miguel/Miguel/4447.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Canal_Sony.png" group-title="FILMES E SERIES",CANAL SONY HD
-http://centralbr.top:8080/live/Miguel/Miguel/4257.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="CANCAO NOVA" tvg-logo="https://storage.alboom.ninja/sites/5638/media/unnamed_62a1fce4db38.jpg?t=1564587008" group-title="RELIGIOSOS",CANCAO NOVA
-http://centralbr.top:8080/live/Miguel/Miguel/4449.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CAPITAL777 SD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSJWD-809CfaLlVaMEva0QlEc7A3UsJT5gPR5_jkyvb29xcJVy" group-title="FILMES E SERIES",CAPITAL777 SD*
-http://centralbr.top:8080/live/Miguel/Miguel/9136.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Cartoon1.png" group-title="INFANTIL",CARTOON NETWORK
-http://centralbr.top:8080/live/Miguel/Miguel/4450.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Cartoon1.png" group-title="INFANTIL",CARTOON NETWORK HD
-http://centralbr.top:8080/live/Miguel/Miguel/4258.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/cinemax.png" group-title="FILMES E SERIES",Cinemax HD
-http://centralbr.top:8080/live/Miguel/Miguel/4259.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Cinemax_LA_logo.png" group-title="FILMES E SERIES",CINEMAX SD
-http://centralbr.top:8080/live/Miguel/Miguel/4451.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="aande.br" tvg-name="CNN Brasil HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/cnnbrasil.png" group-title="JORNALISMO",CNN Brasil HD
-http://centralbr.top:8080/live/Miguel/Miguel/12502.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="aande.br" tvg-name="CNN Brasil SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/cnnbrasil.png" group-title="JORNALISMO",CNN Brasil SD
-http://centralbr.top:8080/live/Miguel/Miguel/17440.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://ap.imagensbrasil.org/images/2017/04/03/combate.png" group-title="SPORT",COMBATE HD
-http://centralbr.top:8080/live/Miguel/Miguel/4260.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD²" tvg-logo="https://ap.imagensbrasil.org/images/2017/04/03/combate.png" group-title="SPORT ROTA 2",Combate HD²
-http://centralbr.top:8080/live/Miguel/Miguel/31942.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220" group-title="SPORT",COMBATE SD
-http://centralbr.top:8080/live/Miguel/Miguel/10330.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/123-1235332_comedy-central-logo-png-transparent-evolution-of-comedy.png" group-title="VARIEDADES E MUSICAIS",COMEDY CENTRAL HD
-http://centralbr.top:8080/live/Miguel/Miguel/4261.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV  FHD (JOGO 1)" tvg-logo="http://imagembr.top/imagemservidor/filmes4/tv-conmebol-pay-per-view-da-libertadores-custara-r-40-por-mes1600129478.jpg" group-title="SPORT",CONMEBOL TV  FHD (JOGO 1)
-http://centralbr.top:8080/live/Miguel/Miguel/41407.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV  FHD (JOGO 2)" tvg-logo="http://imagembr.top/imagemservidor/filmes4/tv-conmebol-pay-per-view-da-libertadores-custara-r-40-por-mes1600129478.jpg" group-title="SPORT",CONMEBOL TV  FHD (JOGO 2)
-http://centralbr.top:8080/live/Miguel/Miguel/41408.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV  HD (JOGO 1)" tvg-logo="http://imagembr.top/imagemservidor/filmes4/tv-conmebol-pay-per-view-da-libertadores-custara-r-40-por-mes1600129478.jpg" group-title="SPORT",CONMEBOL TV  HD (JOGO 1)
-http://centralbr.top:8080/live/Miguel/Miguel/41409.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV  HD (JOGO 2)" tvg-logo="http://imagembr.top/imagemservidor/filmes4/tv-conmebol-pay-per-view-da-libertadores-custara-r-40-por-mes1600129478.jpg" group-title="SPORT",CONMEBOL TV  HD (JOGO 2)
-http://centralbr.top:8080/live/Miguel/Miguel/41410.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 ( JOGO 5 )" tvg-logo="" group-title="SPORT",COPA DO NORDESTE 2020 ( JOGO 5 )
-http://centralbr.top:8080/live/Miguel/Miguel/26388.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (JOGO 2)" tvg-logo="http://www.fotobol.com.br/NORDESTE/COPA-DO-NORDESTE-LOGO.png" group-title="SPORT",COPA DO NORDESTE 2020 (JOGO 2)
-http://centralbr.top:8080/live/Miguel/Miguel/10198.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (JOGO 3)" tvg-logo="http://www.fotobol.com.br/NORDESTE/COPA-DO-NORDESTE-LOGO.png" group-title="SPORT",COPA DO NORDESTE 2020 (JOGO 3)
-http://centralbr.top:8080/live/Miguel/Miguel/10199.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (JOGO 4)" tvg-logo="http://www.fotobol.com.br/NORDESTE/COPA-DO-NORDESTE-LOGO.png" group-title="SPORT",COPA DO NORDESTE 2020 (JOGO 4)
-http://centralbr.top:8080/live/Miguel/Miguel/10200.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (JOGO 6)" tvg-logo="" group-title="SPORT",COPA DO NORDESTE 2020 (JOGO 6)
-http://centralbr.top:8080/live/Miguel/Miguel/26387.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (JOGO1)" tvg-logo="http://www.fotobol.com.br/NORDESTE/COPA-DO-NORDESTE-LOGO.png" group-title="SPORT",COPA DO NORDESTE 2020 (JOGO1)
-http://centralbr.top:8080/live/Miguel/Miguel/10193.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA !" tvg-logo="https://s3.amazonaws.com/festivaldorio/files/imagens/d2fa2136f64ecbf3cb7647b523a92102.jpg" group-title="VARIEDADES E MUSICAIS",CURTA !
-http://centralbr.top:8080/live/Miguel/Miguel/4454.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="DARCIZZLE OFFSHORE FISHING" tvg-logo="" group-title="CAÇA & PESCA ESPORTIVA",DARCIZZLE OFFSHORE FISHING
-http://centralbr.top:8080/live/Miguel/Miguel/3943.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="aande.br" tvg-name="DAZN 01 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/DAZN_Logo.png" group-title="SPORT",DAZN 01 HD
-http://centralbr.top:8080/live/Miguel/Miguel/4370.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/DAZN_Logo.png" group-title="SPORT",DAZN 02 HD
-http://centralbr.top:8080/live/Miguel/Miguel/10823.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 03 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/DAZN_Logo.png" group-title="SPORT",DAZN 03 HD
-http://centralbr.top:8080/live/Miguel/Miguel/11936.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 04 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/DAZN_Logo.png" group-title="SPORT",DAZN 04 HD
-http://centralbr.top:8080/live/Miguel/Miguel/4373.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DiISCOVERY HOME & HEATH HD²" tvg-logo="http://centralbrplay.com/imagemservidor/filmes4/discovery-home-and-health-logo-2.png" group-title="VARIEDADES E MUSICAIS",DiISCOVERY HOME & HEATH HD²
-http://centralbr.top:8080/live/Miguel/Miguel/7906.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DiISCOVERY HOME & HEATH SD²" tvg-logo="http://imagembr.top/imagemservidor/canais/kisspng-discovery-home-health-discovery-channel-discover-discovery-travel-living-5b174cebdbc5d5.8253028215282536759002.png" group-title="VARIEDADES E MUSICAIS",DiISCOVERY HOME & HEATH SD²
-http://centralbr.top:8080/live/Miguel/Miguel/7908.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD" tvg-logo="https://img2.gratispng.com/20180509/sqw/kisspng-discovery-channel-logo-television-documentary-discovery-5af28165caf1a6.8877193415258422778313.jpg" group-title="DISCOVERY",Discovery Channel HD
-http://centralbr.top:8080/live/Miguel/Miguel/7907.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD²" tvg-logo="https://img2.gratispng.com/20180509/sqw/kisspng-discovery-channel-logo-television-documentary-discovery-5af28165caf1a6.8877193415258422778313.jpg" group-title="DOCUMENTÁRIOS",Discovery Channel HD²
-http://centralbr.top:8080/live/Miguel/Miguel/13084.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://img2.gratispng.com/20180509/sqw/kisspng-discovery-channel-logo-television-documentary-discovery-5af28165caf1a6.8877193415258422778313.jpg" group-title="DISCOVERY",DISCOVERY CHANNEL SD
-http://centralbr.top:8080/live/Miguel/Miguel/4455.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY H&H SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="DISCOVERY",DISCOVERY H&H SD
-http://centralbr.top:8080/live/Miguel/Miguel/4456.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="DISCOVERY",DISCOVERY HOME & HEALTH HD
-http://centralbr.top:8080/live/Miguel/Miguel/10970.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS" tvg-logo="http://centralbrplay.com/imagemservidor/canais/kisspng-discovery-kids-television-channel-discovery-channe-zak-storm-5b42a3d668ee36.4509346715310939744298.png" group-title="INFANTIL",DISCOVERY KIDS
-http://centralbr.top:8080/live/Miguel/Miguel/4457.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/discoverykidshd.png" group-title="INFANTIL",DISCOVERY KIDS HD
-http://centralbr.top:8080/live/Miguel/Miguel/4265.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://www.speedbol.com.br/wp-content/uploads/2017/12/d-science.png" group-title="DISCOVERY",DISCOVERY SCIENCE HD
-http://centralbr.top:8080/live/Miguel/Miguel/4266.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://dastvplay.com/images/canales/otros/discoverytheater_290x422.png" group-title="DISCOVERY",DISCOVERY THEATER HD
-http://centralbr.top:8080/live/Miguel/Miguel/4267.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://imagembr.top/imagemservidor/canais/kTrySJZ.png" group-title="DISCOVERY",DISCOVERY TURBO HD
-http://centralbr.top:8080/live/Miguel/Miguel/4268.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD²" tvg-logo="https://quinto-canal.com/wp-content/uploads/2014/07/Discovery-Turbo.jpg" group-title="VARIEDADES E MUSICAIS",DISCOVERY TURBO HD²
-http://centralbr.top:8080/live/Miguel/Miguel/7905.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://imagembr.top/imagemservidor/canais/kTrySJZ.png" group-title="DISCOVERY",DISCOVERY TURBO SD
-http://centralbr.top:8080/live/Miguel/Miguel/4458.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO SD²" tvg-logo="https://quinto-canal.com/wp-content/uploads/2014/07/Discovery-Turbo.jpg" group-title="VARIEDADES E MUSICAIS",DISCOVERY TURBO SD²
-http://centralbr.top:8080/live/Miguel/Miguel/7904.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORD HD" tvg-logo="http://cdn.realscreen.com/wp/wp-content/uploads/2011/07/discoveryworldhd.jpg?d0c3c2" group-title="DISCOVERY",DISCOVERY WORD HD
-http://centralbr.top:8080/live/Miguel/Miguel/4269.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISNEY" tvg-logo="https://i.pinimg.com/originals/00/ca/9b/00ca9b9bc682b2ba9b655e117c845b17.png" group-title="INFANTIL",DISNEY
-http://centralbr.top:8080/live/Miguel/Miguel/4459.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://i.pinimg.com/originals/00/ca/9b/00ca9b9bc682b2ba9b655e117c845b17.png" group-title="INFANTIL",DISNEY CHANNEL HD
-http://centralbr.top:8080/live/Miguel/Miguel/4270.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.pinimg.com/originals/79/37/9e/79379ebe8f8398aeb819899a1468ae81.png" group-title="INFANTIL",DISNEY JUNIOR
-http://centralbr.top:8080/live/Miguel/Miguel/4460.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://centralbrplay.com/imagemservidor/filmes4/Logo%20Disney_Junior.png" group-title="INFANTIL",DISNEY JUNIOR HD
-http://centralbr.top:8080/live/Miguel/Miguel/4271.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD SD" tvg-logo="https://fontmeme.com/images/disney-xd-logo.png" group-title="INFANTIL",DISNEY XD SD
-http://centralbr.top:8080/live/Miguel/Miguel/4461.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E!" tvg-logo="https://4.bp.blogspot.com/-UxeAWZXGMnA/WRz3cN58mOI/AAAAAAAA5lc/ly6xCHooKS8szlmznDkllrADygcrgLoSwCEw/s640/E%2521%2BHD_Brothers%2Bdo%2BAZ.png" group-title="VARIEDADES E MUSICAIS",E!
-http://centralbr.top:8080/live/Miguel/Miguel/4462.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD" tvg-logo="https://4.bp.blogspot.com/-UxeAWZXGMnA/WRz3cN58mOI/AAAAAAAA5lc/ly6xCHooKS8szlmznDkllrADygcrgLoSwCEw/s640/E%2521%2BHD_Brothers%2Bdo%2BAZ.png" group-title="VARIEDADES E MUSICAIS",E! HD
-http://centralbr.top:8080/live/Miguel/Miguel/4272.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Ei Max Jogo 1" tvg-logo="https://1.bp.blogspot.com/-HUBwGbYoQfA/VnggwDSqpFI/AAAAAAAAGfQ/KqF3pW2aBO8/s1600/pordentrodasnoticiasuefachampionseitvpaga2015_01.png" group-title="SPORT",Ei Max Jogo 1
-http://centralbr.top:8080/live/Miguel/Miguel/10326.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="EiMax Jogos02" tvg-logo="http://imagembr.top/imagemservidor/filmes4/elpluz.png" group-title="SPORT",EiMax Jogos02
-http://centralbr.top:8080/live/Miguel/Miguel/10327.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Ei Max Jogos03" tvg-logo="https://1.bp.blogspot.com/-HUBwGbYoQfA/VnggwDSqpFI/AAAAAAAAGfQ/KqF3pW2aBO8/s1600/pordentrodasnoticiasuefachampionseitvpaga2015_01.png" group-title="SPORT",Ei Max Jogos03
-http://centralbr.top:8080/live/Miguel/Miguel/10328.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Ei Max Jogos04" tvg-logo="https://1.bp.blogspot.com/-HUBwGbYoQfA/VnggwDSqpFI/AAAAAAAAGfQ/KqF3pW2aBO8/s1600/pordentrodasnoticiasuefachampionseitvpaga2015_01.png" group-title="SPORT",Ei Max Jogos04
-http://centralbr.top:8080/live/Miguel/Miguel/10329.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="EiPlus HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/elpluz.png" group-title="SPORT",EiPlus HD
-http://centralbr.top:8080/live/Miguel/Miguel/13070.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="EPTV CAMPINAS FHD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/EPTV.png" group-title="GLOBO",EPTV CAMPINAS FHD
-http://centralbr.top:8080/live/Miguel/Miguel/12002.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="EPTV CAMPINAS HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/EPTV.png" group-title="GLOBO",EPTV CAMPINAS HD
-http://centralbr.top:8080/live/Miguel/Miguel/12001.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN" tvg-logo="http://imagembr.top/imagemservidor/canais/kisspng-espn-television-espn-extra-high-definition-video-lam-radio-hd-5b3af92fd342f2.2658225715305915358653.png" group-title="SPORT",ESPN
-http://centralbr.top:8080/live/Miguel/Miguel/4466.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="http://imagembr.top/imagemservidor/canais/14-146250_espn2-logo-png-transparent-png.png" group-title="SPORT",ESPN 2 HD
-http://centralbr.top:8080/live/Miguel/Miguel/4273.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD²" tvg-logo="http://imagembr.top/imagemservidor/canais/14-146250_espn2-logo-png-transparent-png.png" group-title="SPORT ROTA 2",ESPN 2 HD²
-http://centralbr.top:8080/live/Miguel/Miguel/31943.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 SD" tvg-logo="http://imagembr.top/imagemservidor/canais/14-146250_espn2-logo-png-transparent-png.png" group-title="SPORT",ESPN 2 SD
-http://centralbr.top:8080/live/Miguel/Miguel/7890.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/1200px-Logo_espnbrasil.png" group-title="SPORT",ESPN BRASIL HD
-http://centralbr.top:8080/live/Miguel/Miguel/4274.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD²" tvg-logo="http://imagembr.top/imagemservidor/filmes4/1200px-Logo_espnbrasil.png" group-title="SPORT ROTA 2",ESPN Brasil HD²
-http://centralbr.top:8080/live/Miguel/Miguel/31944.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxBOW3exxwRpYS2N8wUhqNKt7_QB_bue4m5jQp6Wt7Cze6-aHK&s" group-title="SPORT",ESPN BRASIL SD
-http://centralbr.top:8080/live/Miguel/Miguel/7891.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/ESPN_Extra_Brazil_logo.png" group-title="SPORT",ESPN EXTRA HD
-http://centralbr.top:8080/live/Miguel/Miguel/31946.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA HD²" tvg-logo="http://imagembr.top/imagemservidor/filmes4/ESPN_Extra_Brazil_logo.png" group-title="SPORT ROTA 2",ESPN EXTRA HD²
-http://centralbr.top:8080/live/Miguel/Miguel/31947.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/espn-logo-4.png" group-title="SPORT",ESPN HD
-http://centralbr.top:8080/live/Miguel/Miguel/4275.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD²" tvg-logo="http://imagembr.top/imagemservidor/filmes4/espn-logo-4.png" group-title="SPORT ROTA 2",ESPN HD²
-http://centralbr.top:8080/live/Miguel/Miguel/31945.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="FAZENDA 2020 HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/a-fazenda-9-ao-vivo-online.png" group-title="REALITY SHOW",FAZENDA 2020 HD
-http://centralbr.top:8080/live/Miguel/Miguel/41008.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="FAZENDA 2020 SD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/a-fazenda-9-ao-vivo-online.png" group-title="REALITY SHOW",FAZENDA 2020 SD
-http://centralbr.top:8080/live/Miguel/Miguel/41007.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="FISH TV" tvg-logo="http://pescanapraia.com/wp-content/uploads/2014/02/logo-fishtv-blog1-930x530_c.jpg" group-title="CAÇA & PESCA ESPORTIVA",FISH TV
-http://centralbr.top:8080/live/Miguel/Miguel/4470.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="FISHING AND HUNTING" tvg-logo="https://images-platform.99static.com/NJcwWc4RM0ZfnKLBHPYa8v2fPb0=/272x52:1111x891/500x500/top/smart/99designs-contests-attachments/83/83844/attachment_83844121" group-title="CAÇA & PESCA ESPORTIVA",FISHING AND HUNTING
-http://centralbr.top:8080/live/Miguel/Miguel/3947.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK" tvg-logo="http://www.sidys.com.br/pacotes/img/food.jpg" group-title="VARIEDADES E MUSICAIS",FOOD NETWORK
-http://centralbr.top:8080/live/Miguel/Miguel/4471.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://3.bp.blogspot.com/-9jHowGItW3E/WzVHZcgNPMI/AAAAAAABrWU/osrwi_vg7jc0GbaZ6GJkaZa7FUNPnQyrQCLcBGAs/s1600/food%2Blogo.jpg" group-title="VARIEDADES E MUSICAIS",FOOD NETWORK HD
-http://centralbr.top:8080/live/Miguel/Miguel/4277.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="fox.br" tvg-name="FOX HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/foxhd.png" group-title="FOX",FOX HD
-http://centralbr.top:8080/live/Miguel/Miguel/30913.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="foxlife.br" tvg-name="FOX LIFE HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/foxlifeb.png" group-title="FOX",FOX LIFE HD
-http://centralbr.top:8080/live/Miguel/Miguel/4279.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="foxlife.br" tvg-name="FOX LIFE SD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/foxlifeb.png" group-title="FOX",FOX LIFE SD
-http://centralbr.top:8080/live/Miguel/Miguel/4473.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/foxpremium2b.png" group-title="FOX",FOX PREMIUM 1 HD
-http://centralbr.top:8080/live/Miguel/Miguel/4280.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/foxpremium2b.png" group-title="FOX",FOX PREMIUM 2 HD
-http://centralbr.top:8080/live/Miguel/Miguel/4281.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="fox.br" tvg-name="FOX SD" tvg-logo="https://www.vippng.com/png/detail/54-542720_fox-logo-logo-fox-tv-png.png" group-title="FOX",FOX SD
-http://centralbr.top:8080/live/Miguel/Miguel/4472.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/fox-sports-2.png" group-title="SPORT",FOX SPORTS 2 HD
-http://centralbr.top:8080/live/Miguel/Miguel/4282.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports 2 HD²" tvg-logo="http://imagembr.top/imagemservidor/filmes4/fox-sports-2.png" group-title="SPORT ROTA 2",Fox Sports 2 HD²
-http://centralbr.top:8080/live/Miguel/Miguel/32662.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/fox-sports-2.png" group-title="SPORT",FOX SPORTS 2 SD
-http://centralbr.top:8080/live/Miguel/Miguel/4475.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="http://portalmakingof.com.br/uploads/posts/bc70cc1478a09d602e01cc4d6b806218.png" group-title="SPORT",FOX SPORTS HD
-http://centralbr.top:8080/live/Miguel/Miguel/4283.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="SPORT",FOX SPORTS SD
-http://centralbr.top:8080/live/Miguel/Miguel/4474.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL  HD" tvg-logo="https://defatoonline.com.br/wp-content/uploads/2020/03/clubes-do-futebol-brasileiro-e-jogadores-seguem-sem-acordo-sobre-paralisacao-780x520.jpeg" group-title="SPORT",FUTEBOL  HD
-http://centralbr.top:8080/live/Miguel/Miguel/41406.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA" tvg-logo="https://3.bp.blogspot.com/-X-YDI4Fbfq0/WvyqGjdwTjI/AAAAAAABqqI/IHCZgt-jcJM6J8aH2LFwIBtHjavm_ACGgCLcBGAs/s1600/futura%2Blogo.jpg" group-title="ABERTOS",FUTURA
-http://centralbr.top:8080/live/Miguel/Miguel/4476.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/0049824.png" group-title="VARIEDADES E MUSICAIS",FX HD
-http://centralbr.top:8080/live/Miguel/Miguel/4284.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/0049824.png" group-title="VARIEDADES E MUSICAIS",FX SD
-http://centralbr.top:8080/live/Miguel/Miguel/4477.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="GAZETA HD SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1024px-TV_Gazeta.svg.png" group-title="ABERTOS",GAZETA HD SP
-http://centralbr.top:8080/live/Miguel/Miguel/4379.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GAZETA HD SP²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1024px-TV_Gazeta.svg.png" group-title="GLOBO",GAZETA HD SP²
-http://centralbr.top:8080/live/Miguel/Miguel/13059.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA" tvg-logo="http://centralbr.top:9000/images/ecc36785d9d0d491f2590dba07bb60bf.jpg" group-title="GLOBO",GLOBO BRASILIA
-http://centralbr.top:8080/live/Miguel/Miguel/12008.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA FHD H265" tvg-logo="http://imagembr.top/imagemservidor/filmes4/globodf.png" group-title="GLOBO",GLOBO BRASILIA FHD H265
-http://centralbr.top:8080/live/Miguel/Miguel/12000.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA FHD H265²" tvg-logo="http://imagembr.top/imagemservidor/filmes4/globodf.png" group-title="ABERTOS",GLOBO BRASILIA FHD H265²
-http://centralbr.top:8080/live/Miguel/Miguel/13058.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/globodf.png" group-title="GLOBO",GLOBO BRASILIA HD
-http://centralbr.top:8080/live/Miguel/Miguel/11983.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD²" tvg-logo="http://imagembr.top/imagemservidor/filmes4/globodf.png" group-title="ABERTOS",GLOBO BRASILIA HD²
-http://centralbr.top:8080/live/Miguel/Miguel/13071.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO GAZETA SUL ES SD" tvg-logo="http://imagembr.top/imagemservidor/canais/XZcHfYd.png" group-title="GLOBO",GLOBO GAZETA SUL ES SD
-http://centralbr.top:8080/live/Miguel/Miguel/11984.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO GAZETA SUL ES. FHD" tvg-logo="http://imagembr.top/imagemservidor/canais/XZcHfYd.png" group-title="GLOBO",GLOBO GAZETA SUL ES. FHD
-http://centralbr.top:8080/live/Miguel/Miguel/11985.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO GAZETA SUL ES. HD" tvg-logo="http://imagembr.top/imagemservidor/canais/XZcHfYd.png" group-title="GLOBO",GLOBO GAZETA SUL ES. HD
-http://centralbr.top:8080/live/Miguel/Miguel/11986.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name="GLOBO INTERNACINAL HD" tvg-logo="http://centralbr.top:9000/images/ecc36785d9d0d491f2590dba07bb60bf.jpg" group-title="GLOBO",GLOBO INTERNACINAL HD
-http://centralbr.top:8080/live/Miguel/Miguel/11987.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Internacional HD" tvg-logo="http://imagembr.top/imagemservidor/canais/Redeglobo.png" group-title="ABERTOS",Globo Internacional HD
-http://centralbr.top:8080/live/Miguel/Miguel/12516.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERTV CABO FRIO HD²" tvg-logo="http://imagembr.top/imagemservidor/filmes4/intertv.png" group-title="ABERTOS",GLOBO INTERTV CABO FRIO HD²
-http://centralbr.top:8080/live/Miguel/Miguel/13793.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MANAUS HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Logotipo_da_Rede_Amaz%c3%b4nica.png" group-title="GLOBO",GLOBO MANAUS HD
-http://centralbr.top:8080/live/Miguel/Miguel/11993.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MANAUS HD²" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Logotipo_da_Rede_Amaz%c3%b4nica.png" group-title="ABERTOS",GLOBO MANAUS HD²
-http://centralbr.top:8080/live/Miguel/Miguel/13063.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MG FHD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Redeglobo.png" group-title="GLOBO",GLOBO MG FHD
-http://centralbr.top:8080/live/Miguel/Miguel/11997.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MG FHD²" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Redeglobo.png" group-title="ABERTOS",GLOBO MG FHD²
-http://centralbr.top:8080/live/Miguel/Miguel/13075.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD" tvg-logo="http://centralbr.top:9000/images/ecc36785d9d0d491f2590dba07bb60bf.jpg" group-title="GLOBO",GLOBO MINAS HD
-http://centralbr.top:8080/live/Miguel/Miguel/11992.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS SD" tvg-logo="http://centralbr.top:9000/images/ecc36785d9d0d491f2590dba07bb60bf.jpg" group-title="GLOBO",GLOBO MINAS SD
-http://centralbr.top:8080/live/Miguel/Miguel/12009.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/GloboNews_Logo_1996.png" group-title="JORNALISMO",GLOBO NEWS
-http://centralbr.top:8080/live/Miguel/Miguel/4480.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/GloboNews_Logo_2005.png" group-title="JORNALISMO",Globo News HD
-http://centralbr.top:8080/live/Miguel/Miguel/24901.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE" tvg-logo="http://centralbr.top:9000/images/ecc36785d9d0d491f2590dba07bb60bf.jpg" group-title="GLOBO",GLOBO NORDESTE
-http://centralbr.top:8080/live/Miguel/Miguel/12010.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PARAIBA HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/TV_Paraiba_2017.png" group-title="GLOBO",GLOBO PARAIBA HD
-http://centralbr.top:8080/live/Miguel/Miguel/12003.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PARAIBA HD²" tvg-logo="http://imagembr.top/imagemservidor/filmes4/TV_Paraiba_2017.png" group-title="ABERTOS",GLOBO PARAIBA HD²
-http://centralbr.top:8080/live/Miguel/Miguel/13060.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Porto Alegre SD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Redeglobo.png" group-title="ABERTOS",Globo RBS TV Porto Alegre SD
-http://centralbr.top:8080/live/Miguel/Miguel/13514.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV PortoAlegre HD²" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Redeglobo.png" group-title="ABERTOS",Globo RBS TV PortoAlegre HD²
-http://centralbr.top:8080/live/Miguel/Miguel/13081.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ" tvg-logo="http://imagembr.top/imagemservidor/filmes4/520c643.png" group-title="GLOBO",GLOBO RJ
-http://centralbr.top:8080/live/Miguel/Miguel/12011.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO Rj FHD" tvg-logo="http://imagembr.top/imagemservidor/canais/520c643.png" group-title="GLOBO",GLOBO Rj FHD
-http://centralbr.top:8080/live/Miguel/Miguel/11999.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/520c643.png" group-title="ABERTOS",Globo RJ HD
-http://centralbr.top:8080/live/Miguel/Miguel/10023.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/temp_78439e70-49cf-44db-8429-9b79eb2e6215.png" group-title="GLOBO",GLOBO SERGIPE HD
-http://centralbr.top:8080/live/Miguel/Miguel/11988.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE HD²" tvg-logo="http://imagembr.top/imagemservidor/filmes4/temp_78439e70-49cf-44db-8429-9b79eb2e6215.png" group-title="ABERTOS",GLOBO SERGIPE HD²
-http://centralbr.top:8080/live/Miguel/Miguel/13052.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP" tvg-logo="http://imagembr.top/imagemservidor/canais/URH9vRH.png" group-title="GLOBO",GLOBO SP
-http://centralbr.top:8080/live/Miguel/Miguel/12012.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP FHD" tvg-logo="http://imagembr.top/imagemservidor/canais/URH9vRH.png" group-title="ABERTOS",GLOBO SP FHD
-http://centralbr.top:8080/live/Miguel/Miguel/12517.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP HD" tvg-logo="http://imagembr.top/imagemservidor/canais/URH9vRH.png" group-title="GLOBO",GLOBO SP HD
-http://centralbr.top:8080/live/Miguel/Miguel/11989.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA ES .SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_TV_Gazeta_ES.png" group-title="GLOBO",GLOBO VITORIA ES .SD
-http://centralbr.top:8080/live/Miguel/Miguel/39715.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA ES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_TV_Gazeta_ES.png" group-title="GLOBO",GLOBO VITORIA ES FHD
-http://centralbr.top:8080/live/Miguel/Miguel/39713.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA ES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_TV_Gazeta_ES.png" group-title="ABERTOS",GLOBO VITORIA ES SD
-http://centralbr.top:8080/live/Miguel/Miguel/39714.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA ES. FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_TV_Gazeta_ES.png" group-title="ABERTOS",GLOBO VITORIA ES. FHD
-http://centralbr.top:8080/live/Miguel/Miguel/39712.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="maisglobosat.br" tvg-name="GLOBOSAT FHD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/globosat.png" group-title="FILMES E SERIES",GLOBOSAT FHD
-http://centralbr.top:8080/live/Miguel/Miguel/4286.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB" tvg-logo="http://imagembr.top/imagemservidor/canais/gloob-logo.png" group-title="INFANTIL",GLOOB
-http://centralbr.top:8080/live/Miguel/Miguel/4484.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="http://imagembr.top/imagemservidor/canais/gloob-logo.png" group-title="INFANTIL",GLOOB HD
-http://centralbr.top:8080/live/Miguel/Miguel/4287.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/f/f6/GNT2002.jpg/revision/latest?cb=20190209212906" group-title="DOCUMENTÁRIOS",GNT HD
-http://centralbr.top:8080/live/Miguel/Miguel/4288.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/f/f6/GNT2002.jpg/revision/latest?cb=20190209212906" group-title="DOCUMENTÁRIOS",GNT SD
-http://centralbr.top:8080/live/Miguel/Miguel/4485.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="history2.br" tvg-name="HBO 2 HD" tvg-logo="https://i.pinimg.com/originals/cd/26/68/cd26688b9093f69b88646ed7c4b1a350.png" group-title="HBO",HBO 2 HD
-http://centralbr.top:8080/live/Miguel/Miguel/4289.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://imagembr.top/imagemservidor/canais/200px-HBO_Family_logo.png" group-title="HBO",HBO FAMILY HD
-http://centralbr.top:8080/live/Miguel/Miguel/4290.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="http://imagembr.top/imagemservidor/canais/200px-HBO_Family_logo.png" group-title="HBO",HBO FAMILY SD
-http://centralbr.top:8080/live/Miguel/Miguel/4487.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/03/o-HBO-STREAMING-facebook.jpg" group-title="HBO",HBO HD
-http://centralbr.top:8080/live/Miguel/Miguel/4291.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="aande.br" tvg-name="HBO MUNDI HD" tvg-logo="http://imagembr.top/imagemservidor/canais/hbomundib.png" group-title="HBO",HBO MUNDI HD
-http://centralbr.top:8080/live/Miguel/Miguel/11499.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS HD" tvg-logo="http://www.assistirtvonlinegratis.com.br/tvonline/wp-content/uploads/2018/07/hbo-plus.png" group-title="HBO",HBO PLUS HD
-http://centralbr.top:8080/live/Miguel/Miguel/4292.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS SD" tvg-logo="http://www.assistirtvonlinegratis.com.br/tvonline/wp-content/uploads/2018/07/hbo-plus.png" group-title="HBO",HBO PLUS SD
-http://centralbr.top:8080/live/Miguel/Miguel/4488.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Logo-hboPOP2020.png" group-title="HBO",HBO POP HD
-http://centralbr.top:8080/live/Miguel/Miguel/11501.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Logo-hboPOP2020.png" group-title="HBO",HBO POP HD
-http://centralbr.top:8080/live/Miguel/Miguel/4300.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/03/o-HBO-STREAMING-facebook.jpg" group-title="HBO",HBO SD
-http://centralbr.top:8080/live/Miguel/Miguel/4486.ts|user-agent=GoPlayer
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTezqmDP2yM8A0ER2XgdP3qHoBKitJsEmtX6OkQFHmK_fXRTr2T&s" group-title="HBO",HBO SIGNATURE HD
-http://centralbr.top:8080/live/Miguel/Miguel/4293.ts|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://centralbr.top:9000/images/36cadef5a03b283551daf14d26dece17.png",1HD Music SD¢
+http://centralbr.top:8080/live/Miguel/Miguel/11684.|user-agent=GoPlayer
+#EXTINF:-1 group-title="CAÇA & PESCA ESPORTIVA" tvg-logo="https://img.freepik.com/vetores-gratis/foi-pescar_5435-1420.jpg?size=338&ext=jpg",4U GONE FISHING
+http://centralbr.top:8080/live/Miguel/Miguel/3944.|user-agent=GoPlayer
+#EXTINF:-1 group-title="CAÇA & PESCA ESPORTIVA" tvg-logo="https://i.pinimg.com/736x/09/5d/91/095d918b5a0c01a4a6af5aef57754446.jpg",4U HUNTING
+http://centralbr.top:8080/live/Miguel/Miguel/3945.|user-agent=GoPlayer
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://imagembr.top/imagemservidor/canais/xQ2sG46.png",A&E
+http://centralbr.top:8080/live/Miguel/Miguel/4435.|user-agent=GoPlayer
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://imagembr.top/imagemservidor/canais/xQ2sG46.png",A&E HD
+http://centralbr.top:8080/live/Miguel/Miguel/4251.|user-agent=GoPlayer
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Amc_logo.svg.png",AMC
+http://centralbr.top:8080/live/Miguel/Miguel/4436.|user-agent=GoPlayer
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://imagembr.top/imagemservidor/filmes4/canal-axn-logo.png",AMC HD
+http://centralbr.top:8080/live/Miguel/Miguel/4252.|user-agent=GoPlayer
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://centralbr.top:9000/images/ecc36785d9d0d491f2590dba07bb60bf.jpg",ANHAGUERA HD
+http://centralbr.top:8080/live/Miguel/Miguel/12023.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://centralbr.top:9000/images/ecc36785d9d0d491f2590dba07bb60bf.jpg",ANHAGUERA HD'
+http://centralbr.top:8080/live/Miguel/Miguel/12024.|user-agent=GoPlayer
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="http://imagembr.top/imagemservidor/canais/Animal_Planet.png",ANIMAL PLANET HD
+http://centralbr.top:8080/live/Miguel/Miguel/4253.|user-agent=GoPlayer
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="http://imagembr.top/imagemservidor/canais/Animal_Planet.png",ANIMAL PLANET SD
+http://centralbr.top:8080/live/Miguel/Miguel/4437.|user-agent=GoPlayer
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://imagembr.top/imagemservidor/filmes4/canal-axn-logo.png",AXN
+http://centralbr.top:8080/live/Miguel/Miguel/4438.|user-agent=GoPlayer
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://lh3.googleusercontent.com/proxy/zu_8uSYFoBUVfa9BeAaY1aV1BdEK3Lvr7qFWisLPRZdzhuS|user-agent=GoPlayerQvZsS0yPZsxVhaofhxxi2m7vKKeRZW0ZyhcJGBGx8X0NJDjZnmAXGMv5TCWw6lzKLD3fPwfPko",BABY TV
+http://centralbr.top:8080/live/Miguel/Miguel/4439.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://observatoriodatv.bol.uol.com.br/wp-content/uploads/2015/01/Logo-Band-1024x8351.jpg",BAND BAHIA
+http://centralbr.top:8080/live/Miguel/Miguel/4440.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Band.png",Band BSB HD
+http://centralbr.top:8080/live/Miguel/Miguel/13051.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2015/01/Logo-Band-1024x8351.jpg",BAND CAMPINAS HD
+http://centralbr.top:8080/live/Miguel/Miguel/4365.|user-agent=GoPlayer
+#EXTINF:-1 group-title="JORNALISMO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/123fv.png",BAND NEWS HD
+http://centralbr.top:8080/live/Miguel/Miguel/21646.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagem.band.com.br/f_394138.jpg",BAND RJ HD
+http://centralbr.top:8080/live/Miguel/Miguel/4366.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagem.band.com.br/f_394138.jpg",BAND RS HD
+http://centralbr.top:8080/live/Miguel/Miguel/4367.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagem.band.com.br/f_394138.jpg",BAND SERGIPE HD
+http://centralbr.top:8080/live/Miguel/Miguel/4368.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagem.band.com.br/f_394138.jpg",BAND SP HD
+http://centralbr.top:8080/live/Miguel/Miguel/4369.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://4.bp.blogspot.com/-TqV1xE_FWzc/V1MsBqQjTqI/AAAAAAAAJtY/z35YuOc2sqIX_RFm309wupQ3vMEhNC5YwCLcB/s1600/123.jpg",BAND SPOR|user-agent=GoPlayer
+http://centralbr.top:8080/live/Miguel/Miguel/4443.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/filmes4/BandSpor|user-agent=GoPlayer-HD_Logotipo.png",BAND SPOR|user-agent=GoPlayer HD
+http://centralbr.top:8080/live/Miguel/Miguel/4255.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://observatoriodatv.bol.uol.com.br/wp-content/uploads/2015/01/Logo-Band-1024x8351.jpg",BANDEIRANTES
+http://centralbr.top:8080/live/Miguel/Miguel/4441.|user-agent=GoPlayer
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://www.pngkey.com/png/detail/894-8946384_budweiser-logo-download-de-logotipos-canal-bis-logo.png",BIS
+http://centralbr.top:8080/live/Miguel/Miguel/4444.|user-agent=GoPlayer
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8cYq3j_MOOlBENHRA5AjK7GSZZ84tqxnvIXlvt0cMPoKU3VmU&s",BIS HD
+http://centralbr.top:8080/live/Miguel/Miguel/4256.|user-agent=GoPlayer
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7GdJFudoTKMTcWeJaiaz8080QMdqX5t6EdcXoarm0qZNrLkWu&s",BOOMERANG
+http://centralbr.top:8080/live/Miguel/Miguel/4445.|user-agent=GoPlayer
+#EXTINF:-1 group-title="CAÇA & PESCA ESPORTIVA" tvg-logo="https://i.imgur.com/3qB3JL7.png",CACA VISION HD*
+http://centralbr.top:8080/live/Miguel/Miguel/3869.|user-agent=GoPlayer
+#EXTINF:-1 group-title="CAÇA & PESCA ESPORTIVA" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAABjCAMAAABt21ivAAAAilBMVEX////+/v4jHyAdGRobFxghHR4eGxwYFBURDQ7k5OTv7+8VEBL39vbt7Oz8/PwpJSZIRUZkYmMMCAk1MjO+vL1QTU4tKis/PD2LiIl3dXZwbm9gXl/T0tKqqqrFxMTY19edm5xWVFWNi4x/fX64t7elo6SVk5TW1dVKSEljYWKxr7BCQEHMysuLiovx8QgoAAAIC0lEQVRoge1Y2ZKjOBBECCzEaRD3jblsYP7/97YExsZHTx8zG7ERSz50gyWVUqmqUglB2LFjx44dO3bs2LFjx47/HNDm7/3/B93+/twIrcb/lRm+weRbLP46WXT7h979+J7dp7v2AwobBgiZqkGLdMpz94p8mtKCGvrC5l/cMoSQTqehDCO78saA+ZYlyrIoi6JoWT4LxqNX2XHYZW5hmMD4r1MxjcItoyqwYOLrpDf4nA0migNQNCJzQlXcDSnV/x4PvWhO8WhZwbFKorBrBxC/L+gVRZ9ObpOVXR3b1TmwsKZphEgSPlhjEmaT8YMZn72LZnU1jlXUDXlh6L8fa6q0z4ey|user-agent=GoPlayer++fMASAWDmxWX6dtwnaWZtVtMyrpK6naj+tQ2+dtLnvfMYqEKAisi8MDc+sYBeHuZQSNs6Dgeq/572OzuLU+q06eyjRSSMJSyew1x/7fg0+qmBZqdTNuk3adCXvP0xNfAR1O1sBiQOmPhVSR+Sy8vgNTPPzWb6Kyp7ddP2If+PFoPueUUvspiJBB8IHsNi7fJmTXyEMQ3N7EJFbberT38z72x73xcFwrY2AzkkiZ3om64raOf5ssQm/pgZK9MfxflLDp9FmbojliBmxlb/aGuHo0RkTGwDCQV91+Fu+jfEXpvQRksj80QiS4dL/9aGGkKrKEox+IFp++6TRbQe5J9x2Gzem5AD98g8DL4RDC+GkGDEGCjIMwekVg5L30321pHu8YAEk25EvL6gp3FGGcCeiCfz2ZpqcxlEYqvclOEREptbHR8yGNrafYwb1ZYv5vpiVHJkoqfBHEV8wBh325VwjeKZAz7SeQp6lmQr3S4fPQn35nGmZlxwYq5bYlRSZL4M40szOwtjMXv03A4f+MEoD0vHPsCi1G639GHdc9Z62IU7aLruAN+b+WXbYx2GBghXVmxX5lozhwO7pobcP4i4Xp7VLLbjgYfUFNpJPGcP2tmXOocHs4mSJBpQcep60HM4ZU3XCOYQJXY9wXvnIvDE6BK3qoDck2uc7LidUzdyfUmKNjqqniTOQrDrKjIMW2PPbUYiaVjj/tr6xGISqQyUB0STFKtDei1Lvk8O4eQrkYAKJkWJU5khxr5F/EE9OjYYOCiSIlVUiLXR0xTovUydiYT1d4E7HhhcCb9YJLMJxGrFtxNFihUO9cHpDN/xpqLGxFVHJWiHRDlMjaZEfZoojNqOZwiZ5ucX51IwJSqmxDlSz4lRrVj1cLIUW48IPredT656mzURh5sSEAviogQnAVt54uUankn0YBD6x6ymLZw9QisSt+GDUeGNWd9lENG14tNSsnIhViojcezc0uwe0SYHEhFlGhgQQslKI+AoCJHip4sUIFx2I9FYixDgE3w7DIgfcVViEDFna+q6YE5tXVkydsNlLTr8puZddBTBwwrmdHqgdXrlJOpFUcQxcnX17ES5RbiB/CAPtTIC5U7xp+vE8UoCPLe8CiFi3olWc7SKOOF824PYzDskqLFIgiSxcFOTQF1+6yuCj7YnQWZLFLuxxBRIVMgoEyaBH3ElGktqwNAkiu2NxFUJIbSam090ykoi0RFwuL7Ei0qkhX9lUraHQ0dN1yJup/kFOH1tD7XjNwbiZoVWYh6udE6C9oZO3YRYQ+VE4LIlVxTL7qMSQKQO7tn1RoKEkLW0ldFp9pdR8Xo9Z07dyRYMrrHkTgcpM|user-agent=GoPlayerOaFnsjCZSEw1IFP5BJicBEr49WAxWWEJ4VE6se8ox1WmlBTRSRtjG07odSEgi4YWELLq3QBG5L/DEkolaYDOFFa5MvDCWJS1D4OZeIiqJelJEO6wIAbOmrRHwO5UrcXZYXQdKVUB0gJZgYNTkFsVOwEk41rScXYXX3zgg11rShJbolGFxEym8Fc5eyapyQQ8ZJkHosRKpXSCKLKICjaF8rMJgBK/PAhaDp8Z+jFLbIsSyC/3i1wg1YEA+Zyaq/QRSVuufl7nRqdym/07UoABUYCEn6cpBlBL9mqTVyV3q9SKHC4RqcKfMWdzPRWCfpzoy+D3ANKAFobldL/K8gCS7dNbTfOL/r2+GsZwnWa0/nEFZxSyWuAKqpHlbuH90V+/ZdLujT4LkswL+Le5X2bYqnlr0fur5yr1VCSnob0NeSjXBaKZRTH9S+a0Hv1qfnwqW9ZRDqF5zJzkh/Wno/SxFFC573Tfvuw9FWV496bCxz4+gJVg9dbqU9MbgoeSdLzXq16d/WMo8S81q9aESuZmep2kY3JYkci6E2tHGMEXP9cL9DvRctX1OYVkoPY3J9Kb5LhWabOazGLSi5VlyfHug7x3jmxSug5GZ1sdq0NHG6NbgujxU5MUyg5pdLEcL4qwwNxTQo47f4IDgem+P8XArcN/W0VcW9zZz6jxZISzpcmPD4qm4/SIJOkRe0qW3QV8fjdT8l2dpihjEZc6/DqAXAh9UvdsnZKQtVHzd9AN3vlrRpzIegQhmSd3mhXoPlzfzPtx9uKw6zbNTFIdZ8YPc9mic5lDRMAmqFebZdTlMFJwLzbq825u52lb5F7au+9W1/JL9JxRW89xROZMk8GW4Mlh+4NlRWGZNPhWUGldQWhRT7sLcdRTHcd0N06cfmL7MYhNRXN6uhpQ5MuZbcOTj9TtewDHyj4gXmD7LqWo+uPmPxXi84dyuPhDwOi3S3G2GIWuvyLKhcfMUln79LPHiJT/fk8eEvZjd/PY2byH04iN/jMc5P7a4+TCD7h0fomnHjh07duzYsWPHjh07dvzf8Q+mC5ij/cM3EQAAAABJRU5ErkJggg==",CACAVISION
+http://centralbr.top:8080/live/Miguel/Miguel/3934.|user-agent=GoPlayer
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png",CALIFORNIA MUSIC CHANNEL HD*
+http://centralbr.top:8080/live/Miguel/Miguel/3710.|user-agent=GoPlayer
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://www.freeetv.com/images/01_logo/cmc_tv.jpg",CALIFORNIA MUSIC CHANNEL HD*
+http://centralbr.top:8080/live/Miguel/Miguel/3711.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo_azul.fundo_branco.RGB.JPG",CANAL BRASIL
+http://centralbr.top:8080/live/Miguel/Miguel/4446.|user-agent=GoPlayer
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://1.bp.blogspot.com/-km-GoIRdoDw/XikUjHy4h9I/AAAAAAAACac/9obSsDvdHCwQx4XArR3ZH7AiEGQ1WzXIQCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-01-23-00-33-03.png",Canal do Boi
+http://centralbr.top:8080/live/Miguel/Miguel/4447.|user-agent=GoPlayer
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Canal_Sony.png",CANAL SONY HD
+http://centralbr.top:8080/live/Miguel/Miguel/4257.|user-agent=GoPlayer
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://storage.alboom.ninja/sites/5638/media/unnamed_62a1fce4db38.jpg?t=1564587008",CANCAO NOVA
+http://centralbr.top:8080/live/Miguel/Miguel/4449.|user-agent=GoPlayer
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Cartoon1.png",CARTOON NETWORK
+http://centralbr.top:8080/live/Miguel/Miguel/4450.|user-agent=GoPlayer
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Cartoon1.png",CARTOON NETWORK HD
+http://centralbr.top:8080/live/Miguel/Miguel/4258.|user-agent=GoPlayer
+#EXTINF:-1 group-title="JORNALISMO" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/cnnbrasil.png",CNN Brasil SD
+http://centralbr.top:8080/live/Miguel/Miguel/17440.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://ap.imagensbrasil.org/images/2017/04/03/combate.png",COMBATE HD
+http://centralbr.top:8080/live/Miguel/Miguel/4260.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT ROTA 2" tvg-logo="https://ap.imagensbrasil.org/images/2017/04/03/combate.png",Combate HD²
+http://centralbr.top:8080/live/Miguel/Miguel/31942.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220",COMBATE SD
+http://centralbr.top:8080/live/Miguel/Miguel/10330.|user-agent=GoPlayer
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/123-1235332_comedy-central-logo-png-transparent-evolution-of-comedy.png",COMEDY CENTRAL HD
+http://centralbr.top:8080/live/Miguel/Miguel/4261.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/filmes4/tv-conmebol-pay-per-view-da-libertadores-custara-r-40-por-mes1600129478.jpg",CONMEBOL TV  FHD (JOGO 1)
+http://centralbr.top:8080/live/Miguel/Miguel/41407.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/filmes4/tv-conmebol-pay-per-view-da-libertadores-custara-r-40-por-mes1600129478.jpg",CONMEBOL TV  HD (JOGO 1)
+http://centralbr.top:8080/live/Miguel/Miguel/41409.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/filmes4/tv-conmebol-pay-per-view-da-libertadores-custara-r-40-por-mes1600129478.jpg",CONMEBOL TV  HD (JOGO 2)
+http://centralbr.top:8080/live/Miguel/Miguel/41410.|user-agent=GoPlayer
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://s3.amazonaws.com/festivaldorio/files/imagens/d2fa2136f64ecbf3cb7647b523a92102.jpg",CURTA !
+http://centralbr.top:8080/live/Miguel/Miguel/4454.|user-agent=GoPlayer
+#EXTINF:-1 group-title="CAÇA & PESCA ESPORTIVA",DARCIZZLE OFFSHORE FISHING
+http://centralbr.top:8080/live/Miguel/Miguel/3943.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/DAZN_Logo.png",DAZN 02 HD
+http://centralbr.top:8080/live/Miguel/Miguel/10823.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/DAZN_Logo.png",DAZN 03 HD
+http://centralbr.top:8080/live/Miguel/Miguel/11936.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/DAZN_Logo.png",DAZN 04 HD
+http://centralbr.top:8080/live/Miguel/Miguel/4373.|user-agent=GoPlayer
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://centralbrplay.com/imagemservidor/filmes4/discovery-home-and-health-logo-2.png",DiISCOVERY HOME & HEATH HD²
+http://centralbr.top:8080/live/Miguel/Miguel/7906.|user-agent=GoPlayer
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://imagembr.top/imagemservidor/canais/kisspng-discovery-home-health-discovery-channel-discover-discovery-travel-living-5b174cebdbc5d5.8253028215282536759002.png",DiISCOVERY HOME & HEATH SD²
+http://centralbr.top:8080/live/Miguel/Miguel/7908.|user-agent=GoPlayer
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://img2.gratispng.com/20180509/sqw/kisspng-discovery-channel-logo-television-documentary-discovery-5af28165caf1a6.8877193415258422778313.jpg",Discovery Channel HD
+http://centralbr.top:8080/live/Miguel/Miguel/7907.|user-agent=GoPlayer
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://img2.gratispng.com/20180509/sqw/kisspng-discovery-channel-logo-television-documentary-discovery-5af28165caf1a6.8877193415258422778313.jpg",Discovery Channel HD²
+http://centralbr.top:8080/live/Miguel/Miguel/13084.|user-agent=GoPlayer
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png",DISCOVERY HOME & HEALTH HD
+http://centralbr.top:8080/live/Miguel/Miguel/10970.|user-agent=GoPlayer
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://centralbrplay.com/imagemservidor/canais/kisspng-discovery-kids-television-channel-discovery-channe-zak-storm-5b42a3d668ee36.4509346715310939744298.png",DISCOVERY KIDS
+http://centralbr.top:8080/live/Miguel/Miguel/4457.|user-agent=GoPlayer
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://imagembr.top/imagemservidor/filmes4/discoverykidshd.png",DISCOVERY KIDS HD
+http://centralbr.top:8080/live/Miguel/Miguel/4265.|user-agent=GoPlayer
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://www.speedbol.com.br/wp-content/uploads/2017/12/d-science.png",DISCOVERY SCIENCE HD
+http://centralbr.top:8080/live/Miguel/Miguel/4266.|user-agent=GoPlayer
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="http://dastvplay.com/images/canales/otros/discoverytheater_290x422.png",DISCOVERY THEATER HD
+http://centralbr.top:8080/live/Miguel/Miguel/4267.|user-agent=GoPlayer
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="http://imagembr.top/imagemservidor/canais/kTrySJZ.png",DISCOVERY TURBO HD
+http://centralbr.top:8080/live/Miguel/Miguel/4268.|user-agent=GoPlayer
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://quinto-canal.com/wp-content/uploads/2014/07/Discovery-Turbo.jpg",DISCOVERY TURBO HD²
+http://centralbr.top:8080/live/Miguel/Miguel/7905.|user-agent=GoPlayer
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="http://imagembr.top/imagemservidor/canais/kTrySJZ.png",DISCOVERY TURBO SD
+http://centralbr.top:8080/live/Miguel/Miguel/4458.|user-agent=GoPlayer
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://quinto-canal.com/wp-content/uploads/2014/07/Discovery-Turbo.jpg",DISCOVERY TURBO SD²
+http://centralbr.top:8080/live/Miguel/Miguel/7904.|user-agent=GoPlayer
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="http://cdn.realscreen.com/wp/wp-content/uploads/2011/07/discoveryworldhd.jpg?d0c3c2",DISCOVERY WORD HD
+http://centralbr.top:8080/live/Miguel/Miguel/4269.|user-agent=GoPlayer
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.pinimg.com/originals/00/ca/9b/00ca9b9bc682b2ba9b655e117c845b17.png",DISNEY
+http://centralbr.top:8080/live/Miguel/Miguel/4459.|user-agent=GoPlayer
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.pinimg.com/originals/00/ca/9b/00ca9b9bc682b2ba9b655e117c845b17.png",DISNEY CHANNEL HD
+http://centralbr.top:8080/live/Miguel/Miguel/4270.|user-agent=GoPlayer
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.pinimg.com/originals/79/37/9e/79379ebe8f8398aeb819899a1468ae81.png",DISNEY JUNIOR
+http://centralbr.top:8080/live/Miguel/Miguel/4460.|user-agent=GoPlayer
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://centralbrplay.com/imagemservidor/filmes4/Logo%20Disney_Junior.png",DISNEY JUNIOR HD
+http://centralbr.top:8080/live/Miguel/Miguel/4271.|user-agent=GoPlayer
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://4.bp.blogspot.com/-UxeAWZXGMnA/WRz3cN58mOI/AAAAAAAA5lc/ly6xCHooKS8szlmznDkllrADygcrgLoSwCEw/s640/E%2521%2BHD_Brothers%2Bdo%2BAZ.png",E!
+http://centralbr.top:8080/live/Miguel/Miguel/4462.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/filmes4/elpluz.png",EiPlus HD
+http://centralbr.top:8080/live/Miguel/Miguel/13070.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT ROTA 2" tvg-logo="http://imagembr.top/imagemservidor/canais/14-146250_espn2-logo-png-transparent-png.png",ESPN 2 HD²
+http://centralbr.top:8080/live/Miguel/Miguel/31943.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/canais/14-146250_espn2-logo-png-transparent-png.png",ESPN 2 SD
+http://centralbr.top:8080/live/Miguel/Miguel/7890.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/filmes4/1200px-Logo_espnbrasil.png",ESPN BRASIL HD
+http://centralbr.top:8080/live/Miguel/Miguel/4274.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT ROTA 2" tvg-logo="http://imagembr.top/imagemservidor/filmes4/1200px-Logo_espnbrasil.png",ESPN Brasil HD²
+http://centralbr.top:8080/live/Miguel/Miguel/31944.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxBOW3exxwRpYS2N8wUhqNKt7_QB_bue4m5jQp6Wt7Cze6-aHK&s",ESPN BRASIL SD
+http://centralbr.top:8080/live/Miguel/Miguel/7891.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/filmes4/ESPN_Extra_Brazil_logo.png",ESPN EXTRA HD
+http://centralbr.top:8080/live/Miguel/Miguel/31946.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT ROTA 2" tvg-logo="http://imagembr.top/imagemservidor/filmes4/ESPN_Extra_Brazil_logo.png",ESPN EXTRA HD²
+http://centralbr.top:8080/live/Miguel/Miguel/31947.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/filmes4/espn-logo-4.png",ESPN HD
+http://centralbr.top:8080/live/Miguel/Miguel/4275.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT ROTA 2" tvg-logo="http://imagembr.top/imagemservidor/filmes4/espn-logo-4.png",ESPN HD²
+http://centralbr.top:8080/live/Miguel/Miguel/31945.|user-agent=GoPlayer
+#EXTINF:-1 group-title="REALITY SHOW" tvg-logo="http://imagembr.top/imagemservidor/filmes4/a-fazenda-9-ao-vivo-online.png",FAZENDA 2020 HD
+http://centralbr.top:8080/live/Miguel/Miguel/41008.|user-agent=GoPlayer
+#EXTINF:-1 group-title="REALITY SHOW" tvg-logo="http://imagembr.top/imagemservidor/filmes4/a-fazenda-9-ao-vivo-online.png",FAZENDA 2020 SD
+http://centralbr.top:8080/live/Miguel/Miguel/41007.|user-agent=GoPlayer
+#EXTINF:-1 group-title="CAÇA & PESCA ESPORTIVA" tvg-logo="http://pescanapraia.com/wp-content/uploads/2014/02/logo-fishtv-blog1-930x530_c.jpg",FISH TV
+http://centralbr.top:8080/live/Miguel/Miguel/4470.|user-agent=GoPlayer
+#EXTINF:-1 group-title="CAÇA & PESCA ESPORTIVA" tvg-logo="https://images-platform.99static.com/NJcwWc4RM0ZfnKLBHPYa8v2fPb0=/272x52:1111x891/500x500/top/smart/99designs-contes|user-agent=GoPlayer-attachmen|user-agent=GoPlayer/83/83844/attachment_83844121",FISHING AND HUNTING
+http://centralbr.top:8080/live/Miguel/Miguel/3947.|user-agent=GoPlayer
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://www.sidys.com.br/pacotes/img/food.jpg",FOOD NETWORK
+http://centralbr.top:8080/live/Miguel/Miguel/4471.|user-agent=GoPlayer
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://3.bp.blogspot.com/-9jHowGItW3E/WzVHZcgNPMI/AAAAAAABrWU/osrwi_vg7jc0GbaZ6GJkaZa7FUNPnQyrQCLcBGAs/s1600/food%2Blogo.jpg",FOOD NETWORK HD
+http://centralbr.top:8080/live/Miguel/Miguel/4277.|user-agent=GoPlayer
+#EXTINF:-1 group-title="FOX" tvg-logo="http://imagembr.top/imagemservidor/filmes4/foxhd.png",FOX HD
+http://centralbr.top:8080/live/Miguel/Miguel/30913.|user-agent=GoPlayer
+#EXTINF:-1 group-title="FOX" tvg-logo="http://imagembr.top/imagemservidor/filmes4/foxlifeb.png",FOX LIFE HD
+http://centralbr.top:8080/live/Miguel/Miguel/4279.|user-agent=GoPlayer
+#EXTINF:-1 group-title="FOX" tvg-logo="http://imagembr.top/imagemservidor/filmes4/foxlifeb.png",FOX LIFE SD
+http://centralbr.top:8080/live/Miguel/Miguel/4473.|user-agent=GoPlayer
+#EXTINF:-1 group-title="FOX" tvg-logo="http://imagembr.top/imagemservidor/filmes4/foxpremium2b.png",FOX PREMIUM 1 HD
+http://centralbr.top:8080/live/Miguel/Miguel/4280.|user-agent=GoPlayer
+#EXTINF:-1 group-title="FOX" tvg-logo="http://imagembr.top/imagemservidor/filmes4/foxpremium2b.png",FOX PREMIUM 2 HD
+http://centralbr.top:8080/live/Miguel/Miguel/4281.|user-agent=GoPlayer
+#EXTINF:-1 group-title="FOX" tvg-logo="https://www.vippng.com/png/detail/54-542720_fox-logo-logo-fox-tv-png.png",FOX SD
+http://centralbr.top:8080/live/Miguel/Miguel/4472.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/filmes4/fox-spor|user-agent=GoPlayer-2.png",FOX SPOR|user-agent=GoPlayer 2 HD
+http://centralbr.top:8080/live/Miguel/Miguel/4282.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT ROTA 2" tvg-logo="http://imagembr.top/imagemservidor/filmes4/fox-spor|user-agent=GoPlayer-2.png",Fox Spor|user-agent=GoPlayer 2 HD²
+http://centralbr.top:8080/live/Miguel/Miguel/32662.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/filmes4/fox-spor|user-agent=GoPlayer-2.png",FOX SPOR|user-agent=GoPlayer 2 SD
+http://centralbr.top:8080/live/Miguel/Miguel/4475.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://portalmakingof.com.br/uploads/pos|user-agent=GoPlayer/bc70cc1478a09d602e01cc4d6b806218.png",FOX SPOR|user-agent=GoPlayer HD
+http://centralbr.top:8080/live/Miguel/Miguel/4283.|user-agent=GoPlayer
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Spor|user-agent=GoPlayer_Logo.png",FOX SPOR|user-agent=GoPlayer SD
+http://centralbr.top:8080/live/Miguel/Miguel/4474.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://3.bp.blogspot.com/-X-YDI4Fbfq0/WvyqGjdwTjI/AAAAAAABqqI/IHCZgt-jcJM6J8aH2LFwIBtHjavm_ACGgCLcBGAs/s1600/futura%2Blogo.jpg",FUTURA
+http://centralbr.top:8080/live/Miguel/Miguel/4476.|user-agent=GoPlayer
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/0049824.png",FX HD
+http://centralbr.top:8080/live/Miguel/Miguel/4284.|user-agent=GoPlayer
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/0049824.png",FX SD
+http://centralbr.top:8080/live/Miguel/Miguel/4477.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1024px-TV_Gazeta.svg.png",GAZETA HD SP
+http://centralbr.top:8080/live/Miguel/Miguel/4379.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/globodf.png",GLOBO BRASILIA FHD H265²
+http://centralbr.top:8080/live/Miguel/Miguel/13058.|user-agent=GoPlayer
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/globodf.png",GLOBO BRASILIA HD
+http://centralbr.top:8080/live/Miguel/Miguel/11983.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/globodf.png",GLOBO BRASILIA HD²
+http://centralbr.top:8080/live/Miguel/Miguel/13071.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/canais/Redeglobo.png",Globo Internacional HD
+http://centralbr.top:8080/live/Miguel/Miguel/12516.|user-agent=GoPlayer
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Logotipo_da_Rede_Amaz%c3%b4nica.png",GLOBO MANAUS HD
+http://centralbr.top:8080/live/Miguel/Miguel/11993.|user-agent=GoPlayer
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Redeglobo.png",GLOBO MG FHD
+http://centralbr.top:8080/live/Miguel/Miguel/11997.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Redeglobo.png",GLOBO MG FHD²
+http://centralbr.top:8080/live/Miguel/Miguel/13075.|user-agent=GoPlayer
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://centralbr.top:9000/images/ecc36785d9d0d491f2590dba07bb60bf.jpg",GLOBO MINAS HD
+http://centralbr.top:8080/live/Miguel/Miguel/11992.|user-agent=GoPlayer
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://centralbr.top:9000/images/ecc36785d9d0d491f2590dba07bb60bf.jpg",GLOBO MINAS SD
+http://centralbr.top:8080/live/Miguel/Miguel/12009.|user-agent=GoPlayer
+#EXTINF:-1 group-title="JORNALISMO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/GloboNews_Logo_1996.png",GLOBO NEWS
+http://centralbr.top:8080/live/Miguel/Miguel/4480.|user-agent=GoPlayer
+#EXTINF:-1 group-title="JORNALISMO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/GloboNews_Logo_2005.png",Globo News HD
+http://centralbr.top:8080/live/Miguel/Miguel/24901.|user-agent=GoPlayer
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://centralbr.top:9000/images/ecc36785d9d0d491f2590dba07bb60bf.jpg",GLOBO NORDESTE
+http://centralbr.top:8080/live/Miguel/Miguel/12010.|user-agent=GoPlayer
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/TV_Paraiba_2017.png",GLOBO PARAIBA HD
+http://centralbr.top:8080/live/Miguel/Miguel/12003.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/TV_Paraiba_2017.png",GLOBO PARAIBA HD²
+http://centralbr.top:8080/live/Miguel/Miguel/13060.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Redeglobo.png",Globo RBS TV Porto Alegre SD
+http://centralbr.top:8080/live/Miguel/Miguel/13514.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Redeglobo.png",Globo RBS TV PortoAlegre HD²
+http://centralbr.top:8080/live/Miguel/Miguel/13081.|user-agent=GoPlayer
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/520c643.png",GLOBO RJ
+http://centralbr.top:8080/live/Miguel/Miguel/12011.|user-agent=GoPlayer
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://imagembr.top/imagemservidor/canais/520c643.png",GLOBO Rj FHD
+http://centralbr.top:8080/live/Miguel/Miguel/11999.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/520c643.png",Globo RJ HD
+http://centralbr.top:8080/live/Miguel/Miguel/10023.|user-agent=GoPlayer
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/temp_78439e70-49cf-44db-8429-9b79eb2e6215.png",GLOBO SERGIPE HD
+http://centralbr.top:8080/live/Miguel/Miguel/11988.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/temp_78439e70-49cf-44db-8429-9b79eb2e6215.png",GLOBO SERGIPE HD²
+http://centralbr.top:8080/live/Miguel/Miguel/13052.|user-agent=GoPlayer
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://imagembr.top/imagemservidor/canais/URH9vRH.png",GLOBO SP
+http://centralbr.top:8080/live/Miguel/Miguel/12012.|user-agent=GoPlayer
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/canais/URH9vRH.png",GLOBO SP FHD
+http://centralbr.top:8080/live/Miguel/Miguel/12517.|user-agent=GoPlayer
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://imagembr.top/imagemservidor/canais/URH9vRH.png",GLOBO SP HD
+http://centralbr.top:8080/live/Miguel/Miguel/11989.|user-agent=GoPlayer
+#EXTINF:-1 group-title="HBO" tvg-logo="https://i.pinimg.com/originals/cd/26/68/cd26688b9093f69b88646ed7c4b1a350.png",HBO 2 HD
+http://centralbr.top:8080/live/Miguel/Miguel/4289.|user-agent=GoPlayer
+#EXTINF:-1 group-title="HBO" tvg-logo="http://imagembr.top/imagemservidor/canais/200px-HBO_Family_logo.png",HBO FAMILY SD
+http://centralbr.top:8080/live/Miguel/Miguel/4487.|user-agent=GoPlayer
+#EXTINF:-1 group-title="HBO" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/03/o-HBO-STREAMING-facebook.jpg",HBO HD
+http://centralbr.top:8080/live/Miguel/Miguel/4291.|user-agent=GoPlayer
+#EXTINF:-1 group-title="HBO" tvg-logo="http://imagembr.top/imagemservidor/canais/hbomundib.png",HBO MUNDI HD
+http://centralbr.top:8080/live/Miguel/Miguel/11499.|user-agent=GoPlayer
+#EXTINF:-1 group-title="HBO" tvg-logo="http://www.assistirtvonlinegratis.com.br/tvonline/wp-content/uploads/2018/07/hbo-plus.png",HBO PLUS HD
+http://centralbr.top:8080/live/Miguel/Miguel/4292.|user-agent=GoPlayer
+#EXTINF:-1 group-title="HBO" tvg-logo="http://www.assistirtvonlinegratis.com.br/tvonline/wp-content/uploads/2018/07/hbo-plus.png",HBO PLUS SD
+http://centralbr.top:8080/live/Miguel/Miguel/4488.|user-agent=GoPlayer
+#EXTINF:-1 group-title="HBO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Logo-hboPOP2020.png",HBO POP HD
+http://centralbr.top:8080/live/Miguel/Miguel/11501.|user-agent=GoPlayer
+#EXTINF:-1 group-title="HBO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Logo-hboPOP2020.png",HBO POP HD
+http://centralbr.top:8080/live/Miguel/Miguel/4300.|user-agent=GoPlayer
+#EXTINF:-1 group-title="HBO" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/03/o-HBO-STREAMING-facebook.jpg",HBO SD
+http://centralbr.top:8080/live/Miguel/Miguel/4486.|user-agent=GoPlayer
+#EXTINF:-1 group-title="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTezqmDP2yM8A0ER2XgdP3qHoBKitJsEmtX6OkQFHmK_fXRTr2T&s",HBO SIGNATURE HD
+http://centralbr.top:8080/live/Miguel/Miguel/4293.|user-agent=GoPlayer
