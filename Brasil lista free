@@ -2,271 +2,935 @@
 #EXTINF:-1 tvg-id="" tvg-name="--------------@by_flecha_negra--------LISTA GRATIS-----------" tvg-logo="https://i.imgur.com/DZfGQwI.jpg",-------@by_flecha_negra--------LiSTA GRÁTIS SE FICAR OFFLINE ESPERAR ATÉ FICAR ON UM ABRAÇO
 
 #EXTM3U
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://centralbr.top:9000/images/36cadef5a03b283551daf14d26dece17.png",1HD Music SD¢
-http://centralbr.top:8080/live/Miguel/Miguel/11684.|user-agent=GoPlayer
-#EXTINF:-1 group-title="CAÇA & PESCA ESPORTIVA" tvg-logo="https://img.freepik.com/vetores-gratis/foi-pescar_5435-1420.jpg?size=338&ext=jpg",4U GONE FISHING
-http://centralbr.top:8080/live/Miguel/Miguel/3944.|user-agent=GoPlayer
-#EXTINF:-1 group-title="CAÇA & PESCA ESPORTIVA" tvg-logo="https://i.pinimg.com/736x/09/5d/91/095d918b5a0c01a4a6af5aef57754446.jpg",4U HUNTING
-http://centralbr.top:8080/live/Miguel/Miguel/3945.|user-agent=GoPlayer
-#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://imagembr.top/imagemservidor/canais/xQ2sG46.png",A&E
-http://centralbr.top:8080/live/Miguel/Miguel/4435.|user-agent=GoPlayer
-#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://imagembr.top/imagemservidor/canais/xQ2sG46.png",A&E HD
-http://centralbr.top:8080/live/Miguel/Miguel/4251.|user-agent=GoPlayer
-#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Amc_logo.svg.png",AMC
-http://centralbr.top:8080/live/Miguel/Miguel/4436.|user-agent=GoPlayer
-#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://imagembr.top/imagemservidor/filmes4/canal-axn-logo.png",AMC HD
-http://centralbr.top:8080/live/Miguel/Miguel/4252.|user-agent=GoPlayer
-#EXTINF:-1 group-title="GLOBO" tvg-logo="http://centralbr.top:9000/images/ecc36785d9d0d491f2590dba07bb60bf.jpg",ANHAGUERA HD
-http://centralbr.top:8080/live/Miguel/Miguel/12023.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://centralbr.top:9000/images/ecc36785d9d0d491f2590dba07bb60bf.jpg",ANHAGUERA HD'
-http://centralbr.top:8080/live/Miguel/Miguel/12024.|user-agent=GoPlayer
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="http://imagembr.top/imagemservidor/canais/Animal_Planet.png",ANIMAL PLANET HD
-http://centralbr.top:8080/live/Miguel/Miguel/4253.|user-agent=GoPlayer
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="http://imagembr.top/imagemservidor/canais/Animal_Planet.png",ANIMAL PLANET SD
-http://centralbr.top:8080/live/Miguel/Miguel/4437.|user-agent=GoPlayer
-#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://imagembr.top/imagemservidor/filmes4/canal-axn-logo.png",AXN
-http://centralbr.top:8080/live/Miguel/Miguel/4438.|user-agent=GoPlayer
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://lh3.googleusercontent.com/proxy/zu_8uSYFoBUVfa9BeAaY1aV1BdEK3Lvr7qFWisLPRZdzhuS|user-agent=GoPlayerQvZsS0yPZsxVhaofhxxi2m7vKKeRZW0ZyhcJGBGx8X0NJDjZnmAXGMv5TCWw6lzKLD3fPwfPko",BABY TV
-http://centralbr.top:8080/live/Miguel/Miguel/4439.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://observatoriodatv.bol.uol.com.br/wp-content/uploads/2015/01/Logo-Band-1024x8351.jpg",BAND BAHIA
-http://centralbr.top:8080/live/Miguel/Miguel/4440.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Band.png",Band BSB HD
-http://centralbr.top:8080/live/Miguel/Miguel/13051.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2015/01/Logo-Band-1024x8351.jpg",BAND CAMPINAS HD
-http://centralbr.top:8080/live/Miguel/Miguel/4365.|user-agent=GoPlayer
-#EXTINF:-1 group-title="JORNALISMO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/123fv.png",BAND NEWS HD
-http://centralbr.top:8080/live/Miguel/Miguel/21646.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagem.band.com.br/f_394138.jpg",BAND RJ HD
-http://centralbr.top:8080/live/Miguel/Miguel/4366.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagem.band.com.br/f_394138.jpg",BAND RS HD
-http://centralbr.top:8080/live/Miguel/Miguel/4367.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagem.band.com.br/f_394138.jpg",BAND SERGIPE HD
-http://centralbr.top:8080/live/Miguel/Miguel/4368.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagem.band.com.br/f_394138.jpg",BAND SP HD
-http://centralbr.top:8080/live/Miguel/Miguel/4369.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://4.bp.blogspot.com/-TqV1xE_FWzc/V1MsBqQjTqI/AAAAAAAAJtY/z35YuOc2sqIX_RFm309wupQ3vMEhNC5YwCLcB/s1600/123.jpg",BAND SPOR|user-agent=GoPlayer
-http://centralbr.top:8080/live/Miguel/Miguel/4443.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/filmes4/BandSpor|user-agent=GoPlayer-HD_Logotipo.png",BAND SPOR|user-agent=GoPlayer HD
-http://centralbr.top:8080/live/Miguel/Miguel/4255.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://observatoriodatv.bol.uol.com.br/wp-content/uploads/2015/01/Logo-Band-1024x8351.jpg",BANDEIRANTES
-http://centralbr.top:8080/live/Miguel/Miguel/4441.|user-agent=GoPlayer
-#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://www.pngkey.com/png/detail/894-8946384_budweiser-logo-download-de-logotipos-canal-bis-logo.png",BIS
-http://centralbr.top:8080/live/Miguel/Miguel/4444.|user-agent=GoPlayer
-#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8cYq3j_MOOlBENHRA5AjK7GSZZ84tqxnvIXlvt0cMPoKU3VmU&s",BIS HD
-http://centralbr.top:8080/live/Miguel/Miguel/4256.|user-agent=GoPlayer
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7GdJFudoTKMTcWeJaiaz8080QMdqX5t6EdcXoarm0qZNrLkWu&s",BOOMERANG
-http://centralbr.top:8080/live/Miguel/Miguel/4445.|user-agent=GoPlayer
-#EXTINF:-1 group-title="CAÇA & PESCA ESPORTIVA" tvg-logo="https://i.imgur.com/3qB3JL7.png",CACA VISION HD*
-http://centralbr.top:8080/live/Miguel/Miguel/3869.|user-agent=GoPlayer
-#EXTINF:-1 group-title="CAÇA & PESCA ESPORTIVA" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAABjCAMAAABt21ivAAAAilBMVEX////+/v4jHyAdGRobFxghHR4eGxwYFBURDQ7k5OTv7+8VEBL39vbt7Oz8/PwpJSZIRUZkYmMMCAk1MjO+vL1QTU4tKis/PD2LiIl3dXZwbm9gXl/T0tKqqqrFxMTY19edm5xWVFWNi4x/fX64t7elo6SVk5TW1dVKSEljYWKxr7BCQEHMysuLiovx8QgoAAAIC0lEQVRoge1Y2ZKjOBBECCzEaRD3jblsYP7/97YExsZHTx8zG7ERSz50gyWVUqmqUglB2LFjx44dO3bs2LFjx47/HNDm7/3/B93+/twIrcb/lRm+weRbLP46WXT7h979+J7dp7v2AwobBgiZqkGLdMpz94p8mtKCGvrC5l/cMoSQTqehDCO78saA+ZYlyrIoi6JoWT4LxqNX2XHYZW5hmMD4r1MxjcItoyqwYOLrpDf4nA0migNQNCJzQlXcDSnV/x4PvWhO8WhZwbFKorBrBxC/L+gVRZ9ObpOVXR3b1TmwsKZphEgSPlhjEmaT8YMZn72LZnU1jlXUDXlh6L8fa6q0z4ey|user-agent=GoPlayer++fMASAWDmxWX6dtwnaWZtVtMyrpK6naj+tQ2+dtLnvfMYqEKAisi8MDc+sYBeHuZQSNs6Dgeq/572OzuLU+q06eyjRSSMJSyew1x/7fg0+qmBZqdTNuk3adCXvP0xNfAR1O1sBiQOmPhVSR+Sy8vgNTPPzWb6Kyp7ddP2If+PFoPueUUvspiJBB8IHsNi7fJmTXyEMQ3N7EJFbberT38z72x73xcFwrY2AzkkiZ3om64raOf5ssQm/pgZK9MfxflLDp9FmbojliBmxlb/aGuHo0RkTGwDCQV91+Fu+jfEXpvQRksj80QiS4dL/9aGGkKrKEox+IFp++6TRbQe5J9x2Gzem5AD98g8DL4RDC+GkGDEGCjIMwekVg5L30321pHu8YAEk25EvL6gp3FGGcCeiCfz2ZpqcxlEYqvclOEREptbHR8yGNrafYwb1ZYv5vpiVHJkoqfBHEV8wBh325VwjeKZAz7SeQp6lmQr3S4fPQn35nGmZlxwYq5bYlRSZL4M40szOwtjMXv03A4f+MEoD0vHPsCi1G639GHdc9Z62IU7aLruAN+b+WXbYx2GBghXVmxX5lozhwO7pobcP4i4Xp7VLLbjgYfUFNpJPGcP2tmXOocHs4mSJBpQcep60HM4ZU3XCOYQJXY9wXvnIvDE6BK3qoDck2uc7LidUzdyfUmKNjqqniTOQrDrKjIMW2PPbUYiaVjj/tr6xGISqQyUB0STFKtDei1Lvk8O4eQrkYAKJkWJU5khxr5F/EE9OjYYOCiSIlVUiLXR0xTovUydiYT1d4E7HhhcCb9YJLMJxGrFtxNFihUO9cHpDN/xpqLGxFVHJWiHRDlMjaZEfZoojNqOZwiZ5ucX51IwJSqmxDlSz4lRrVj1cLIUW48IPredT656mzURh5sSEAviogQnAVt54uUankn0YBD6x6ymLZw9QisSt+GDUeGNWd9lENG14tNSsnIhViojcezc0uwe0SYHEhFlGhgQQslKI+AoCJHip4sUIFx2I9FYixDgE3w7DIgfcVViEDFna+q6YE5tXVkydsNlLTr8puZddBTBwwrmdHqgdXrlJOpFUcQxcnX17ES5RbiB/CAPtTIC5U7xp+vE8UoCPLe8CiFi3olWc7SKOOF824PYzDskqLFIgiSxcFOTQF1+6yuCj7YnQWZLFLuxxBRIVMgoEyaBH3ElGktqwNAkiu2NxFUJIbSam090ykoi0RFwuL7Ei0qkhX9lUraHQ0dN1yJup/kFOH1tD7XjNwbiZoVWYh6udE6C9oZO3YRYQ+VE4LIlVxTL7qMSQKQO7tn1RoKEkLW0ldFp9pdR8Xo9Z07dyRYMrrHkTgcpM|user-agent=GoPlayerOaFnsjCZSEw1IFP5BJicBEr49WAxWWEJ4VE6se8ox1WmlBTRSRtjG07odSEgi4YWELLq3QBG5L/DEkolaYDOFFa5MvDCWJS1D4OZeIiqJelJEO6wIAbOmrRHwO5UrcXZYXQdKVUB0gJZgYNTkFsVOwEk41rScXYXX3zgg11rShJbolGFxEym8Fc5eyapyQQ8ZJkHosRKpXSCKLKICjaF8rMJgBK/PAhaDp8Z+jFLbIsSyC/3i1wg1YEA+Zyaq/QRSVuufl7nRqdym/07UoABUYCEn6cpBlBL9mqTVyV3q9SKHC4RqcKfMWdzPRWCfpzoy+D3ANKAFobldL/K8gCS7dNbTfOL/r2+GsZwnWa0/nEFZxSyWuAKqpHlbuH90V+/ZdLujT4LkswL+Le5X2bYqnlr0fur5yr1VCSnob0NeSjXBaKZRTH9S+a0Hv1qfnwqW9ZRDqF5zJzkh/Wno/SxFFC573Tfvuw9FWV496bCxz4+gJVg9dbqU9MbgoeSdLzXq16d/WMo8S81q9aESuZmep2kY3JYkci6E2tHGMEXP9cL9DvRctX1OYVkoPY3J9Kb5LhWabOazGLSi5VlyfHug7x3jmxSug5GZ1sdq0NHG6NbgujxU5MUyg5pdLEcL4qwwNxTQo47f4IDgem+P8XArcN/W0VcW9zZz6jxZISzpcmPD4qm4/SIJOkRe0qW3QV8fjdT8l2dpihjEZc6/DqAXAh9UvdsnZKQtVHzd9AN3vlrRpzIegQhmSd3mhXoPlzfzPtx9uKw6zbNTFIdZ8YPc9mic5lDRMAmqFebZdTlMFJwLzbq825u52lb5F7au+9W1/JL9JxRW89xROZMk8GW4Mlh+4NlRWGZNPhWUGldQWhRT7sLcdRTHcd0N06cfmL7MYhNRXN6uhpQ5MuZbcOTj9TtewDHyj4gXmD7LqWo+uPmPxXi84dyuPhDwOi3S3G2GIWuvyLKhcfMUln79LPHiJT/fk8eEvZjd/PY2byH04iN/jMc5P7a4+TCD7h0fomnHjh07duzYsWPHjh07dvzf8Q+mC5ij/cM3EQAAAABJRU5ErkJggg==",CACAVISION
-http://centralbr.top:8080/live/Miguel/Miguel/3934.|user-agent=GoPlayer
-#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png",CALIFORNIA MUSIC CHANNEL HD*
-http://centralbr.top:8080/live/Miguel/Miguel/3710.|user-agent=GoPlayer
-#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://www.freeetv.com/images/01_logo/cmc_tv.jpg",CALIFORNIA MUSIC CHANNEL HD*
-http://centralbr.top:8080/live/Miguel/Miguel/3711.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo_azul.fundo_branco.RGB.JPG",CANAL BRASIL
-http://centralbr.top:8080/live/Miguel/Miguel/4446.|user-agent=GoPlayer
-#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://1.bp.blogspot.com/-km-GoIRdoDw/XikUjHy4h9I/AAAAAAAACac/9obSsDvdHCwQx4XArR3ZH7AiEGQ1WzXIQCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-01-23-00-33-03.png",Canal do Boi
-http://centralbr.top:8080/live/Miguel/Miguel/4447.|user-agent=GoPlayer
-#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Canal_Sony.png",CANAL SONY HD
-http://centralbr.top:8080/live/Miguel/Miguel/4257.|user-agent=GoPlayer
-#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://storage.alboom.ninja/sites/5638/media/unnamed_62a1fce4db38.jpg?t=1564587008",CANCAO NOVA
-http://centralbr.top:8080/live/Miguel/Miguel/4449.|user-agent=GoPlayer
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Cartoon1.png",CARTOON NETWORK
-http://centralbr.top:8080/live/Miguel/Miguel/4450.|user-agent=GoPlayer
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Cartoon1.png",CARTOON NETWORK HD
-http://centralbr.top:8080/live/Miguel/Miguel/4258.|user-agent=GoPlayer
-#EXTINF:-1 group-title="JORNALISMO" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/cnnbrasil.png",CNN Brasil SD
-http://centralbr.top:8080/live/Miguel/Miguel/17440.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://ap.imagensbrasil.org/images/2017/04/03/combate.png",COMBATE HD
-http://centralbr.top:8080/live/Miguel/Miguel/4260.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT ROTA 2" tvg-logo="https://ap.imagensbrasil.org/images/2017/04/03/combate.png",Combate HD²
-http://centralbr.top:8080/live/Miguel/Miguel/31942.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220",COMBATE SD
-http://centralbr.top:8080/live/Miguel/Miguel/10330.|user-agent=GoPlayer
-#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/123-1235332_comedy-central-logo-png-transparent-evolution-of-comedy.png",COMEDY CENTRAL HD
-http://centralbr.top:8080/live/Miguel/Miguel/4261.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/filmes4/tv-conmebol-pay-per-view-da-libertadores-custara-r-40-por-mes1600129478.jpg",CONMEBOL TV  FHD (JOGO 1)
-http://centralbr.top:8080/live/Miguel/Miguel/41407.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/filmes4/tv-conmebol-pay-per-view-da-libertadores-custara-r-40-por-mes1600129478.jpg",CONMEBOL TV  HD (JOGO 1)
-http://centralbr.top:8080/live/Miguel/Miguel/41409.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/filmes4/tv-conmebol-pay-per-view-da-libertadores-custara-r-40-por-mes1600129478.jpg",CONMEBOL TV  HD (JOGO 2)
-http://centralbr.top:8080/live/Miguel/Miguel/41410.|user-agent=GoPlayer
-#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://s3.amazonaws.com/festivaldorio/files/imagens/d2fa2136f64ecbf3cb7647b523a92102.jpg",CURTA !
-http://centralbr.top:8080/live/Miguel/Miguel/4454.|user-agent=GoPlayer
-#EXTINF:-1 group-title="CAÇA & PESCA ESPORTIVA",DARCIZZLE OFFSHORE FISHING
-http://centralbr.top:8080/live/Miguel/Miguel/3943.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/DAZN_Logo.png",DAZN 02 HD
-http://centralbr.top:8080/live/Miguel/Miguel/10823.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/DAZN_Logo.png",DAZN 03 HD
-http://centralbr.top:8080/live/Miguel/Miguel/11936.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/DAZN_Logo.png",DAZN 04 HD
-http://centralbr.top:8080/live/Miguel/Miguel/4373.|user-agent=GoPlayer
-#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://centralbrplay.com/imagemservidor/filmes4/discovery-home-and-health-logo-2.png",DiISCOVERY HOME & HEATH HD²
-http://centralbr.top:8080/live/Miguel/Miguel/7906.|user-agent=GoPlayer
-#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://imagembr.top/imagemservidor/canais/kisspng-discovery-home-health-discovery-channel-discover-discovery-travel-living-5b174cebdbc5d5.8253028215282536759002.png",DiISCOVERY HOME & HEATH SD²
-http://centralbr.top:8080/live/Miguel/Miguel/7908.|user-agent=GoPlayer
-#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://img2.gratispng.com/20180509/sqw/kisspng-discovery-channel-logo-television-documentary-discovery-5af28165caf1a6.8877193415258422778313.jpg",Discovery Channel HD
-http://centralbr.top:8080/live/Miguel/Miguel/7907.|user-agent=GoPlayer
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://img2.gratispng.com/20180509/sqw/kisspng-discovery-channel-logo-television-documentary-discovery-5af28165caf1a6.8877193415258422778313.jpg",Discovery Channel HD²
-http://centralbr.top:8080/live/Miguel/Miguel/13084.|user-agent=GoPlayer
-#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png",DISCOVERY HOME & HEALTH HD
-http://centralbr.top:8080/live/Miguel/Miguel/10970.|user-agent=GoPlayer
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://centralbrplay.com/imagemservidor/canais/kisspng-discovery-kids-television-channel-discovery-channe-zak-storm-5b42a3d668ee36.4509346715310939744298.png",DISCOVERY KIDS
-http://centralbr.top:8080/live/Miguel/Miguel/4457.|user-agent=GoPlayer
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://imagembr.top/imagemservidor/filmes4/discoverykidshd.png",DISCOVERY KIDS HD
-http://centralbr.top:8080/live/Miguel/Miguel/4265.|user-agent=GoPlayer
-#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://www.speedbol.com.br/wp-content/uploads/2017/12/d-science.png",DISCOVERY SCIENCE HD
-http://centralbr.top:8080/live/Miguel/Miguel/4266.|user-agent=GoPlayer
-#EXTINF:-1 group-title="DISCOVERY" tvg-logo="http://dastvplay.com/images/canales/otros/discoverytheater_290x422.png",DISCOVERY THEATER HD
-http://centralbr.top:8080/live/Miguel/Miguel/4267.|user-agent=GoPlayer
-#EXTINF:-1 group-title="DISCOVERY" tvg-logo="http://imagembr.top/imagemservidor/canais/kTrySJZ.png",DISCOVERY TURBO HD
-http://centralbr.top:8080/live/Miguel/Miguel/4268.|user-agent=GoPlayer
-#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://quinto-canal.com/wp-content/uploads/2014/07/Discovery-Turbo.jpg",DISCOVERY TURBO HD²
-http://centralbr.top:8080/live/Miguel/Miguel/7905.|user-agent=GoPlayer
-#EXTINF:-1 group-title="DISCOVERY" tvg-logo="http://imagembr.top/imagemservidor/canais/kTrySJZ.png",DISCOVERY TURBO SD
-http://centralbr.top:8080/live/Miguel/Miguel/4458.|user-agent=GoPlayer
-#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://quinto-canal.com/wp-content/uploads/2014/07/Discovery-Turbo.jpg",DISCOVERY TURBO SD²
-http://centralbr.top:8080/live/Miguel/Miguel/7904.|user-agent=GoPlayer
-#EXTINF:-1 group-title="DISCOVERY" tvg-logo="http://cdn.realscreen.com/wp/wp-content/uploads/2011/07/discoveryworldhd.jpg?d0c3c2",DISCOVERY WORD HD
-http://centralbr.top:8080/live/Miguel/Miguel/4269.|user-agent=GoPlayer
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.pinimg.com/originals/00/ca/9b/00ca9b9bc682b2ba9b655e117c845b17.png",DISNEY
-http://centralbr.top:8080/live/Miguel/Miguel/4459.|user-agent=GoPlayer
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.pinimg.com/originals/00/ca/9b/00ca9b9bc682b2ba9b655e117c845b17.png",DISNEY CHANNEL HD
-http://centralbr.top:8080/live/Miguel/Miguel/4270.|user-agent=GoPlayer
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.pinimg.com/originals/79/37/9e/79379ebe8f8398aeb819899a1468ae81.png",DISNEY JUNIOR
-http://centralbr.top:8080/live/Miguel/Miguel/4460.|user-agent=GoPlayer
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://centralbrplay.com/imagemservidor/filmes4/Logo%20Disney_Junior.png",DISNEY JUNIOR HD
-http://centralbr.top:8080/live/Miguel/Miguel/4271.|user-agent=GoPlayer
-#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://4.bp.blogspot.com/-UxeAWZXGMnA/WRz3cN58mOI/AAAAAAAA5lc/ly6xCHooKS8szlmznDkllrADygcrgLoSwCEw/s640/E%2521%2BHD_Brothers%2Bdo%2BAZ.png",E!
-http://centralbr.top:8080/live/Miguel/Miguel/4462.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/filmes4/elpluz.png",EiPlus HD
-http://centralbr.top:8080/live/Miguel/Miguel/13070.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT ROTA 2" tvg-logo="http://imagembr.top/imagemservidor/canais/14-146250_espn2-logo-png-transparent-png.png",ESPN 2 HD²
-http://centralbr.top:8080/live/Miguel/Miguel/31943.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/canais/14-146250_espn2-logo-png-transparent-png.png",ESPN 2 SD
-http://centralbr.top:8080/live/Miguel/Miguel/7890.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/filmes4/1200px-Logo_espnbrasil.png",ESPN BRASIL HD
-http://centralbr.top:8080/live/Miguel/Miguel/4274.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT ROTA 2" tvg-logo="http://imagembr.top/imagemservidor/filmes4/1200px-Logo_espnbrasil.png",ESPN Brasil HD²
-http://centralbr.top:8080/live/Miguel/Miguel/31944.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxBOW3exxwRpYS2N8wUhqNKt7_QB_bue4m5jQp6Wt7Cze6-aHK&s",ESPN BRASIL SD
-http://centralbr.top:8080/live/Miguel/Miguel/7891.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/filmes4/ESPN_Extra_Brazil_logo.png",ESPN EXTRA HD
-http://centralbr.top:8080/live/Miguel/Miguel/31946.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT ROTA 2" tvg-logo="http://imagembr.top/imagemservidor/filmes4/ESPN_Extra_Brazil_logo.png",ESPN EXTRA HD²
-http://centralbr.top:8080/live/Miguel/Miguel/31947.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/filmes4/espn-logo-4.png",ESPN HD
-http://centralbr.top:8080/live/Miguel/Miguel/4275.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT ROTA 2" tvg-logo="http://imagembr.top/imagemservidor/filmes4/espn-logo-4.png",ESPN HD²
-http://centralbr.top:8080/live/Miguel/Miguel/31945.|user-agent=GoPlayer
-#EXTINF:-1 group-title="REALITY SHOW" tvg-logo="http://imagembr.top/imagemservidor/filmes4/a-fazenda-9-ao-vivo-online.png",FAZENDA 2020 HD
-http://centralbr.top:8080/live/Miguel/Miguel/41008.|user-agent=GoPlayer
-#EXTINF:-1 group-title="REALITY SHOW" tvg-logo="http://imagembr.top/imagemservidor/filmes4/a-fazenda-9-ao-vivo-online.png",FAZENDA 2020 SD
-http://centralbr.top:8080/live/Miguel/Miguel/41007.|user-agent=GoPlayer
-#EXTINF:-1 group-title="CAÇA & PESCA ESPORTIVA" tvg-logo="http://pescanapraia.com/wp-content/uploads/2014/02/logo-fishtv-blog1-930x530_c.jpg",FISH TV
-http://centralbr.top:8080/live/Miguel/Miguel/4470.|user-agent=GoPlayer
-#EXTINF:-1 group-title="CAÇA & PESCA ESPORTIVA" tvg-logo="https://images-platform.99static.com/NJcwWc4RM0ZfnKLBHPYa8v2fPb0=/272x52:1111x891/500x500/top/smart/99designs-contes|user-agent=GoPlayer-attachmen|user-agent=GoPlayer/83/83844/attachment_83844121",FISHING AND HUNTING
-http://centralbr.top:8080/live/Miguel/Miguel/3947.|user-agent=GoPlayer
-#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://www.sidys.com.br/pacotes/img/food.jpg",FOOD NETWORK
-http://centralbr.top:8080/live/Miguel/Miguel/4471.|user-agent=GoPlayer
-#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://3.bp.blogspot.com/-9jHowGItW3E/WzVHZcgNPMI/AAAAAAABrWU/osrwi_vg7jc0GbaZ6GJkaZa7FUNPnQyrQCLcBGAs/s1600/food%2Blogo.jpg",FOOD NETWORK HD
-http://centralbr.top:8080/live/Miguel/Miguel/4277.|user-agent=GoPlayer
-#EXTINF:-1 group-title="FOX" tvg-logo="http://imagembr.top/imagemservidor/filmes4/foxhd.png",FOX HD
-http://centralbr.top:8080/live/Miguel/Miguel/30913.|user-agent=GoPlayer
-#EXTINF:-1 group-title="FOX" tvg-logo="http://imagembr.top/imagemservidor/filmes4/foxlifeb.png",FOX LIFE HD
-http://centralbr.top:8080/live/Miguel/Miguel/4279.|user-agent=GoPlayer
-#EXTINF:-1 group-title="FOX" tvg-logo="http://imagembr.top/imagemservidor/filmes4/foxlifeb.png",FOX LIFE SD
-http://centralbr.top:8080/live/Miguel/Miguel/4473.|user-agent=GoPlayer
-#EXTINF:-1 group-title="FOX" tvg-logo="http://imagembr.top/imagemservidor/filmes4/foxpremium2b.png",FOX PREMIUM 1 HD
-http://centralbr.top:8080/live/Miguel/Miguel/4280.|user-agent=GoPlayer
-#EXTINF:-1 group-title="FOX" tvg-logo="http://imagembr.top/imagemservidor/filmes4/foxpremium2b.png",FOX PREMIUM 2 HD
-http://centralbr.top:8080/live/Miguel/Miguel/4281.|user-agent=GoPlayer
-#EXTINF:-1 group-title="FOX" tvg-logo="https://www.vippng.com/png/detail/54-542720_fox-logo-logo-fox-tv-png.png",FOX SD
-http://centralbr.top:8080/live/Miguel/Miguel/4472.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/filmes4/fox-spor|user-agent=GoPlayer-2.png",FOX SPOR|user-agent=GoPlayer 2 HD
-http://centralbr.top:8080/live/Miguel/Miguel/4282.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT ROTA 2" tvg-logo="http://imagembr.top/imagemservidor/filmes4/fox-spor|user-agent=GoPlayer-2.png",Fox Spor|user-agent=GoPlayer 2 HD²
-http://centralbr.top:8080/live/Miguel/Miguel/32662.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://imagembr.top/imagemservidor/filmes4/fox-spor|user-agent=GoPlayer-2.png",FOX SPOR|user-agent=GoPlayer 2 SD
-http://centralbr.top:8080/live/Miguel/Miguel/4475.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://portalmakingof.com.br/uploads/pos|user-agent=GoPlayer/bc70cc1478a09d602e01cc4d6b806218.png",FOX SPOR|user-agent=GoPlayer HD
-http://centralbr.top:8080/live/Miguel/Miguel/4283.|user-agent=GoPlayer
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Spor|user-agent=GoPlayer_Logo.png",FOX SPOR|user-agent=GoPlayer SD
-http://centralbr.top:8080/live/Miguel/Miguel/4474.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://3.bp.blogspot.com/-X-YDI4Fbfq0/WvyqGjdwTjI/AAAAAAABqqI/IHCZgt-jcJM6J8aH2LFwIBtHjavm_ACGgCLcBGAs/s1600/futura%2Blogo.jpg",FUTURA
-http://centralbr.top:8080/live/Miguel/Miguel/4476.|user-agent=GoPlayer
-#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/0049824.png",FX HD
-http://centralbr.top:8080/live/Miguel/Miguel/4284.|user-agent=GoPlayer
-#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/0049824.png",FX SD
-http://centralbr.top:8080/live/Miguel/Miguel/4477.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1024px-TV_Gazeta.svg.png",GAZETA HD SP
-http://centralbr.top:8080/live/Miguel/Miguel/4379.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/globodf.png",GLOBO BRASILIA FHD H265²
-http://centralbr.top:8080/live/Miguel/Miguel/13058.|user-agent=GoPlayer
-#EXTINF:-1 group-title="GLOBO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/globodf.png",GLOBO BRASILIA HD
-http://centralbr.top:8080/live/Miguel/Miguel/11983.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/globodf.png",GLOBO BRASILIA HD²
-http://centralbr.top:8080/live/Miguel/Miguel/13071.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/canais/Redeglobo.png",Globo Internacional HD
-http://centralbr.top:8080/live/Miguel/Miguel/12516.|user-agent=GoPlayer
-#EXTINF:-1 group-title="GLOBO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Logotipo_da_Rede_Amaz%c3%b4nica.png",GLOBO MANAUS HD
-http://centralbr.top:8080/live/Miguel/Miguel/11993.|user-agent=GoPlayer
-#EXTINF:-1 group-title="GLOBO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Redeglobo.png",GLOBO MG FHD
-http://centralbr.top:8080/live/Miguel/Miguel/11997.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Redeglobo.png",GLOBO MG FHD²
-http://centralbr.top:8080/live/Miguel/Miguel/13075.|user-agent=GoPlayer
-#EXTINF:-1 group-title="GLOBO" tvg-logo="http://centralbr.top:9000/images/ecc36785d9d0d491f2590dba07bb60bf.jpg",GLOBO MINAS HD
-http://centralbr.top:8080/live/Miguel/Miguel/11992.|user-agent=GoPlayer
-#EXTINF:-1 group-title="GLOBO" tvg-logo="http://centralbr.top:9000/images/ecc36785d9d0d491f2590dba07bb60bf.jpg",GLOBO MINAS SD
-http://centralbr.top:8080/live/Miguel/Miguel/12009.|user-agent=GoPlayer
-#EXTINF:-1 group-title="JORNALISMO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/GloboNews_Logo_1996.png",GLOBO NEWS
-http://centralbr.top:8080/live/Miguel/Miguel/4480.|user-agent=GoPlayer
-#EXTINF:-1 group-title="JORNALISMO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/GloboNews_Logo_2005.png",Globo News HD
-http://centralbr.top:8080/live/Miguel/Miguel/24901.|user-agent=GoPlayer
-#EXTINF:-1 group-title="GLOBO" tvg-logo="http://centralbr.top:9000/images/ecc36785d9d0d491f2590dba07bb60bf.jpg",GLOBO NORDESTE
-http://centralbr.top:8080/live/Miguel/Miguel/12010.|user-agent=GoPlayer
-#EXTINF:-1 group-title="GLOBO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/TV_Paraiba_2017.png",GLOBO PARAIBA HD
-http://centralbr.top:8080/live/Miguel/Miguel/12003.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/TV_Paraiba_2017.png",GLOBO PARAIBA HD²
-http://centralbr.top:8080/live/Miguel/Miguel/13060.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Redeglobo.png",Globo RBS TV Porto Alegre SD
-http://centralbr.top:8080/live/Miguel/Miguel/13514.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Redeglobo.png",Globo RBS TV PortoAlegre HD²
-http://centralbr.top:8080/live/Miguel/Miguel/13081.|user-agent=GoPlayer
-#EXTINF:-1 group-title="GLOBO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/520c643.png",GLOBO RJ
-http://centralbr.top:8080/live/Miguel/Miguel/12011.|user-agent=GoPlayer
-#EXTINF:-1 group-title="GLOBO" tvg-logo="http://imagembr.top/imagemservidor/canais/520c643.png",GLOBO Rj FHD
-http://centralbr.top:8080/live/Miguel/Miguel/11999.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/520c643.png",Globo RJ HD
-http://centralbr.top:8080/live/Miguel/Miguel/10023.|user-agent=GoPlayer
-#EXTINF:-1 group-title="GLOBO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/temp_78439e70-49cf-44db-8429-9b79eb2e6215.png",GLOBO SERGIPE HD
-http://centralbr.top:8080/live/Miguel/Miguel/11988.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/filmes4/temp_78439e70-49cf-44db-8429-9b79eb2e6215.png",GLOBO SERGIPE HD²
-http://centralbr.top:8080/live/Miguel/Miguel/13052.|user-agent=GoPlayer
-#EXTINF:-1 group-title="GLOBO" tvg-logo="http://imagembr.top/imagemservidor/canais/URH9vRH.png",GLOBO SP
-http://centralbr.top:8080/live/Miguel/Miguel/12012.|user-agent=GoPlayer
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://imagembr.top/imagemservidor/canais/URH9vRH.png",GLOBO SP FHD
-http://centralbr.top:8080/live/Miguel/Miguel/12517.|user-agent=GoPlayer
-#EXTINF:-1 group-title="GLOBO" tvg-logo="http://imagembr.top/imagemservidor/canais/URH9vRH.png",GLOBO SP HD
-http://centralbr.top:8080/live/Miguel/Miguel/11989.|user-agent=GoPlayer
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.pinimg.com/originals/cd/26/68/cd26688b9093f69b88646ed7c4b1a350.png",HBO 2 HD
-http://centralbr.top:8080/live/Miguel/Miguel/4289.|user-agent=GoPlayer
-#EXTINF:-1 group-title="HBO" tvg-logo="http://imagembr.top/imagemservidor/canais/200px-HBO_Family_logo.png",HBO FAMILY SD
-http://centralbr.top:8080/live/Miguel/Miguel/4487.|user-agent=GoPlayer
-#EXTINF:-1 group-title="HBO" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/03/o-HBO-STREAMING-facebook.jpg",HBO HD
-http://centralbr.top:8080/live/Miguel/Miguel/4291.|user-agent=GoPlayer
-#EXTINF:-1 group-title="HBO" tvg-logo="http://imagembr.top/imagemservidor/canais/hbomundib.png",HBO MUNDI HD
-http://centralbr.top:8080/live/Miguel/Miguel/11499.|user-agent=GoPlayer
-#EXTINF:-1 group-title="HBO" tvg-logo="http://www.assistirtvonlinegratis.com.br/tvonline/wp-content/uploads/2018/07/hbo-plus.png",HBO PLUS HD
-http://centralbr.top:8080/live/Miguel/Miguel/4292.|user-agent=GoPlayer
-#EXTINF:-1 group-title="HBO" tvg-logo="http://www.assistirtvonlinegratis.com.br/tvonline/wp-content/uploads/2018/07/hbo-plus.png",HBO PLUS SD
-http://centralbr.top:8080/live/Miguel/Miguel/4488.|user-agent=GoPlayer
-#EXTINF:-1 group-title="HBO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Logo-hboPOP2020.png",HBO POP HD
-http://centralbr.top:8080/live/Miguel/Miguel/11501.|user-agent=GoPlayer
-#EXTINF:-1 group-title="HBO" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Logo-hboPOP2020.png",HBO POP HD
-http://centralbr.top:8080/live/Miguel/Miguel/4300.|user-agent=GoPlayer
-#EXTINF:-1 group-title="HBO" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/03/o-HBO-STREAMING-facebook.jpg",HBO SD
-http://centralbr.top:8080/live/Miguel/Miguel/4486.|user-agent=GoPlayer
-#EXTINF:-1 group-title="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTezqmDP2yM8A0ER2XgdP3qHoBKitJsEmtX6OkQFHmK_fXRTr2T&s",HBO SIGNATURE HD
-http://centralbr.top:8080/live/Miguel/Miguel/4293.|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA HD [1]" tvg-logo="https://canaismax.com/img/canais/338e9e28ca7d1ed5dcc46a241576e062.png" group-title="REALITY SHOW",A FAZENDA HD [1]
+http://familytv.net:80/live/ricardinho/ricardinho/99359.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA HD [2]" tvg-logo="http://familytv.net:80/images/ee0b077803db26ff30d570a69acfe12d.png" group-title="REALITY SHOW",A FAZENDA HD [2]
+http://familytv.net:80/live/ricardinho/ricardinho/99360.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA HD [3]" tvg-logo="http://familytv.net:80/images/ee0b077803db26ff30d570a69acfe12d.png" group-title="REALITY SHOW",A FAZENDA HD [3]
+http://familytv.net:80/live/ricardinho/ricardinho/99361.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA HD [4]" tvg-logo="http://familytv.net:80/images/ee0b077803db26ff30d570a69acfe12d.png" group-title="REALITY SHOW",A FAZENDA HD [4]
+http://familytv.net:80/live/ricardinho/ricardinho/99362.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA HD [5]" tvg-logo="http://familytv.net:80/images/ee0b077803db26ff30d570a69acfe12d.png" group-title="REALITY SHOW",A FAZENDA HD [5]
+http://familytv.net:80/live/ricardinho/ricardinho/99363.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA HD [6]" tvg-logo="http://familytv.net:80/images/ee0b077803db26ff30d570a69acfe12d.png" group-title="REALITY SHOW",A FAZENDA HD [6]
+http://familytv.net:80/live/ricardinho/ricardinho/99364.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="A&E | HD" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="CANAIS: FILMES E SERIES",A&E HD
+http://familytv.net:80/live/ricardinho/ricardinho/40074.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="A&E | HD" tvg-name="A&E HD*" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/13082018090432.png" group-title="CANAIS: FILMES E SERIES",A&E HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57176.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="AMC | HD" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="CANAIS: FILMES E SERIES",AMC HD
+http://familytv.net:80/live/ricardinho/ricardinho/40076.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="AMC | HD" tvg-name="AMC HD*" tvg-logo="http://abre.ai/Xt5" group-title="CANAIS: FILMES E SERIES",AMC HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57174.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Animal Planet | HD" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CANAIS: 4K",ANIMAL PLANET 4K
+http://familytv.net:80/live/ricardinho/ricardinho/58401.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Animal Planet | FHD" tvg-name="ANIMAL PLANET FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/animalplanet2019.png" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99064.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Animal Planet | HD" tvg-name="ANIMAL PLANET HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/animalplanet2019.png" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET HD
+http://familytv.net:80/live/ricardinho/ricardinho/40003.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Animal Planet | HD" tvg-name="ANIMAL PLANET HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/animalplanet2019.png" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57161.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ANOS 2000" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",ANOS 2000
+http://familytv.net:80/live/ricardinho/ricardinho/76173.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ANOS 80" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",ANOS 80
+http://familytv.net:80/live/ricardinho/ricardinho/76175.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ANOS 90" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",ANOS 90
+http://familytv.net:80/live/ricardinho/ricardinho/76176.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="AXN | FHD" tvg-name="AXN FULLHD H264" tvg-logo="https://logoeps.com/wp-content/uploads/2012/10/axn-vector-logo.png" group-title="CANAIS: LEGENDADOS",AXN FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99103.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="AXN | HD" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/1280px-AXN_logo.svg.png" group-title="CANAIS: FILMES E SERIES",AXN HD
+http://familytv.net:80/live/ricardinho/ricardinho/40078.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="AXN | HD" tvg-name="AXN HD" tvg-logo="https://logoeps.com/wp-content/uploads/2012/10/axn-vector-logo.png" group-title="CANAIS: LEGENDADOS",AXN HD
+http://familytv.net:80/live/ricardinho/ricardinho/99104.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="AXN | HD" tvg-name="AXN HD*" tvg-logo="https://logoeps.com/wp-content/uploads/2012/10/axn-vector-logo.png" group-title="CANAIS: FILMES E SERIES",AXN HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57177.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AXÉ MUSIC" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",AXÉ MUSIC
+http://familytv.net:80/live/ricardinho/ricardinho/76177.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABYTV HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="CANAIS: INFANTIS",BABYTV HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57195.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND" tvg-logo="https://i.pinimg.com/originals/5a/7d/35/5a7d3504cbc28a424a9eaf8633b8ed0e.png" group-title="CANAIS: 4K",BAND
+http://familytv.net:80/live/ricardinho/ricardinho/58395.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND BSB ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS: ABERTOS",BAND BSB ¹
+http://familytv.net:80/live/ricardinho/ricardinho/39889.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band Campinas | HD" tvg-name="BAND CAMPINAS ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS: ABERTOS",BAND CAMPINAS ¹
+http://familytv.net:80/live/ricardinho/ricardinho/39890.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band News | HD" tvg-name="BAND NEWS HD*" tvg-logo="http://abre.ai/XtS" group-title="CANAIS: NOTICIAS",BAND NEWS HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57223.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band RJ | HD" tvg-name="BAND RJ ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS: ABERTOS",BAND RJ ¹
+http://familytv.net:80/live/ricardinho/ricardinho/39891.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band RS | HD" tvg-name="BAND RS ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS: ABERTOS",BAND RS ¹
+http://familytv.net:80/live/ricardinho/ricardinho/39892.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND SERGIPE ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS: ABERTOS",BAND SERGIPE ¹
+http://familytv.net:80/live/ricardinho/ricardinho/39893.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND SP ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS: ABERTOS",BAND SP ¹
+http://familytv.net:80/live/ricardinho/ricardinho/39894.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band Sports | FHD" tvg-name="BAND SPORTS FULLHD H264" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="CANAIS: ESPORTES",BAND SPORTS FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99027.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND TV GOIANIA ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS: ABERTOS",BAND TV GOIANIA ¹
+http://familytv.net:80/live/ricardinho/ricardinho/39896.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="BIS | HD" tvg-name="BIS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bis.png" group-title="CANAIS: VARIEDADES",BIS HD
+http://familytv.net:80/live/ricardinho/ricardinho/40052.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="BIS | HD" tvg-name="BIS HD*" tvg-logo="https://danceparadise.com.br/wp-content/uploads/2019/02/logo-bis-300.png" group-title="CANAIS: VARIEDADES",BIS HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57209.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG PT *" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bloomberg.png" group-title="CANAIS: NOTICIAS",BLOOMBERG PT *
+http://familytv.net:80/live/ricardinho/ricardinho/95846.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG USA *" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bloomberg.png" group-title="CANAIS: NOTICIAS",BLOOMBERG USA *
+http://familytv.net:80/live/ricardinho/ricardinho/95847.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Bons Tempos FM" tvg-logo="https://img.radios.com.br/radio/md/radio37027_1516218896.jpg" group-title="RADIOS",Bons Tempos FM
+http://familytv.net:80/live/ricardinho/ricardinho/41523.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Boomerang | FHD" tvg-name="BOOMERANG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="CANAIS: INFANTIS",BOOMERANG HD
+http://familytv.net:80/live/ricardinho/ricardinho/57199.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="BOOMERANG FHD***" tvg-name="BOOMERANG HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png" group-title="CANAIS: INFANTIS",BOOMERANG HD+
+http://familytv.net:80/live/ricardinho/ricardinho/88705.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Campeiro FM Cruzeiro Do Sul / RS - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio48151_1531416352.jpg" group-title="RADIOS",Campeiro FM Cruzeiro Do Sul / RS - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41536.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Canal Sony | HD" tvg-name="CANAL SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/1113px-Canal_Sony_logo.svg.png" group-title="CANAIS: FILMES E SERIES",CANAL SONY HD
+http://familytv.net:80/live/ricardinho/ricardinho/40082.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Canal Sony | HD" tvg-name="CANAL SONY HD*" tvg-logo="http://abre.ai/Xue" group-title="CANAIS: FILMES E SERIES",CANAL SONY HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57180.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo.png" group-title="CANAIS: RELIGIOSOS",CANÇÃO NOVA HD
+http://familytv.net:80/live/ricardinho/ricardinho/44960.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Cartoon Network | HD" tvg-name="CARTOON NETWORK 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png" group-title="CANAIS: 4K",CARTOON NETWORK 4K
+http://familytv.net:80/live/ricardinho/ricardinho/58399.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Cartoon Network | HD" tvg-name="CARTOON NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png" group-title="CANAIS: INFANTIS",CARTOON NETWORK HD
+http://familytv.net:80/live/ricardinho/ricardinho/40031.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Cartoon Network | HD" tvg-name="CARTOON NETWORK HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png" group-title="CANAIS: INFANTIS",CARTOON NETWORK HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57200.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 1" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY HD 1
+http://familytv.net:80/live/ricardinho/ricardinho/67933.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 2" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY HD 2
+http://familytv.net:80/live/ricardinho/ricardinho/67934.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 3" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY HD 3
+http://familytv.net:80/live/ricardinho/ricardinho/67935.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 4" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY HD 4
+http://familytv.net:80/live/ricardinho/ricardinho/67936.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 5" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY HD 5
+http://familytv.net:80/live/ricardinho/ricardinho/67937.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Cinemax | HD" tvg-name="CINEMAX HD" tvg-logo="https://1.bp.blogspot.com/-OBhvAEVnuRg/WVRH1i723bI/AAAAAAAA78M/ueGL8nehJpoUz3bsozz_25jL5hc02jxQACLcBGAs/s640/cinemax.png" group-title="CANAIS: FILMES E SERIES",CINEMAX HD
+http://familytv.net:80/live/ricardinho/ricardinho/40080.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Cinemax | HD" tvg-name="CINEMAX HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1200px-Cinemax.svg.png" group-title="CANAIS: FILMES E SERIES",CINEMAX HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57175.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="CNN Brasil | HD" tvg-name="CNN BRASIl HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="CANAIS: NOTICIAS",CNN BRASIl HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57224.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="CNN Brasil | HD" tvg-name="CNN BRASIL HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="CANAIS: NOTICIAS",CNN BRASIL HD¹
+http://familytv.net:80/live/ricardinho/ricardinho/39937.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="CNN Brasil | HD" tvg-name="CNN BRASIL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="CANAIS: NOTICIAS",CNN BRASIL UHD
+http://familytv.net:80/live/ricardinho/ricardinho/39939.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="COLETÂNEAS" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",COLETÂNEAS
+http://familytv.net:80/live/ricardinho/ricardinho/76178.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Combate | HD" tvg-name="COMBATE 4K" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220" group-title="CANAIS: 4K",COMBATE 4K
+http://familytv.net:80/live/ricardinho/ricardinho/58400.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Combate | FHD" tvg-name="COMBATE FULLHD H264" tvg-logo="https://s2.glbimg.com/ytSilzyUQFVzltQyYH03r53GRFg=/250x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/1/6/pXxNtXS4qc254tF6d9XA/imagem1.png" group-title="CANAIS: ESPORTES",COMBATE FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99044.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Comedy Central | HD" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://i.dlpng.com/static/png/474084_preview.png" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL HD
+http://familytv.net:80/live/ricardinho/ricardinho/40054.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Comedy Central | HD" tvg-name="COMEDY CENTRAL HD*" tvg-logo="http://abre.ai/UOS" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57215.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL LIBERTADORES FULLHD 03" tvg-logo="https://static.wixstatic.com/media/29c778_29ed079f22b04ce69c0567d6b269d6ff~mv2.png/v1/fill/w_386,h_340,al_c,q_85,usm_0.66_1.00_0.01/Libertadores%20Cortesia.webp" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL LIBERTADORES FULLHD 03
+http://familytv.net:80/live/ricardinho/ricardinho/96989.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL LIBERTADORES FULLHD 04" tvg-logo="https://static.wixstatic.com/media/29c778_29ed079f22b04ce69c0567d6b269d6ff~mv2.png/v1/fill/w_386,h_340,al_c,q_85,usm_0.66_1.00_0.01/Libertadores%20Cortesia.webp" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL LIBERTADORES FULLHD 04
+http://familytv.net:80/live/ricardinho/ricardinho/96990.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL LIBERTADORES HD 01" tvg-logo="https://static.wixstatic.com/media/29c778_29ed079f22b04ce69c0567d6b269d6ff~mv2.png/v1/fill/w_386,h_340,al_c,q_85,usm_0.66_1.00_0.01/Libertadores%20Cortesia.webp" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL LIBERTADORES HD 01
+http://familytv.net:80/live/ricardinho/ricardinho/96987.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL LIBERTADORES HD 02" tvg-logo="https://static.wixstatic.com/media/29c778_29ed079f22b04ce69c0567d6b269d6ff~mv2.png/v1/fill/w_386,h_340,al_c,q_85,usm_0.66_1.00_0.01/Libertadores%20Cortesia.webp" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL LIBERTADORES HD 02
+http://familytv.net:80/live/ricardinho/ricardinho/96988.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL LIBERTADORES HD²" tvg-logo="https://static.wixstatic.com/media/29c778_29ed079f22b04ce69c0567d6b269d6ff~mv2.png/v1/fill/w_386,h_340,al_c,q_85,usm_0.66_1.00_0.01/Libertadores%20Cortesia.webp" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL LIBERTADORES HD²
+http://familytv.net:80/live/ricardinho/ricardinho/96991.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV HD 1*" tvg-logo="" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV HD 1*
+http://familytv.net:80/live/ricardinho/ricardinho/99012.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV HD 2" tvg-logo="" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV HD 2
+http://familytv.net:80/live/ricardinho/ricardinho/99013.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Copa_do_Nordeste.png" group-title="CANAIS: ESPORTES ESPECIAIS",COPA NORDESTE
+http://familytv.net:80/live/ricardinho/ricardinho/88778.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Curta !" tvg-name="CURTA! HD*" tvg-logo="http://abre.ai/XsO" group-title="CANAIS: VARIEDADES",CURTA! HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57210.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 HD²" tvg-logo="http://familytv.net:80/images/401e068911e28999267ce83c4324868c.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 01 HD²
+http://familytv.net:80/live/ricardinho/ricardinho/99017.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 HD³" tvg-logo="http://familytv.net:80/images/401e068911e28999267ce83c4324868c.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 01 HD³
+http://familytv.net:80/live/ricardinho/ricardinho/99021.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 HD¹" tvg-logo="http://familytv.net:80/images/401e068911e28999267ce83c4324868c.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 01 HD¹
+http://familytv.net:80/live/ricardinho/ricardinho/99014.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 HD²" tvg-logo="http://familytv.net:80/images/401e068911e28999267ce83c4324868c.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 02 HD²
+http://familytv.net:80/live/ricardinho/ricardinho/99018.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 HD³" tvg-logo="http://familytv.net:80/images/401e068911e28999267ce83c4324868c.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 02 HD³
+http://familytv.net:80/live/ricardinho/ricardinho/99022.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 HD¹" tvg-logo="http://familytv.net:80/images/401e068911e28999267ce83c4324868c.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 02 HD¹
+http://familytv.net:80/live/ricardinho/ricardinho/99015.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 03 HD²" tvg-logo="http://familytv.net:80/images/401e068911e28999267ce83c4324868c.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 03 HD²
+http://familytv.net:80/live/ricardinho/ricardinho/99019.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 03 HD³" tvg-logo="http://familytv.net:80/images/354eb21dd811decf16cba3a6ed5daab1.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 03 HD³
+http://familytv.net:80/live/ricardinho/ricardinho/99023.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 03 HD¹" tvg-logo="http://familytv.net:80/images/401e068911e28999267ce83c4324868c.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 03 HD¹
+http://familytv.net:80/live/ricardinho/ricardinho/99016.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 04 HD²" tvg-logo="http://familytv.net:80/images/401e068911e28999267ce83c4324868c.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 04 HD²
+http://familytv.net:80/live/ricardinho/ricardinho/99020.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Channel | HD" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo.png" group-title="CANAIS: 4K",DISCOVERY CHANNEL 4K
+http://familytv.net:80/live/ricardinho/ricardinho/58413.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Channel | FHD" tvg-name="DISCOVERY CHANNEL FULLHD H264" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_rev.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY CHANNEL FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99068.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Channel | HD" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_rev.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://familytv.net:80/live/ricardinho/ricardinho/40005.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Channel | HD" tvg-name="DISCOVERY CHANNEL HD*" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_rev.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY CHANNEL HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57165.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Civilization | HD" tvg-name="DISCOVERY CIVILIZATION HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverycivilizationb.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY CIVILIZATION HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57169.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Disc. Home & Health | FHD" tvg-name="DISCOVERY HOME & HEALTH FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY HOME & HEALTH FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99067.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Disc. Home & Health | HD" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD
+http://familytv.net:80/live/ricardinho/ricardinho/40007.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Disc. Home & Health | HD" tvg-name="DISCOVERY HOME & HEALTH HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57168.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Kids | HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="CANAIS: INFANTIS",DISCOVERY KIDS HD
+http://familytv.net:80/live/ricardinho/ricardinho/40033.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Kids | HD" tvg-name="DISCOVERY KIDS HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="CANAIS: INFANTIS",DISCOVERY KIDS HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57201.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Science | HD" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY SCIENCE HD
+http://familytv.net:80/live/ricardinho/ricardinho/40009.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Science | HD" tvg-name="DISCOVERY SCIENCE HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY SCIENCE HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57166.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Theater | HD" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY THEATER HD
+http://familytv.net:80/live/ricardinho/ricardinho/40011.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Theater | HD" tvg-name="DISCOVERY THEATER HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY THEATER HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57170.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Turbo | HD" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY TURBO HD
+http://familytv.net:80/live/ricardinho/ricardinho/40013.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Turbo | HD" tvg-name="DISCOVERY TURBO HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY TURBO HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57167.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery World | FHD" tvg-name="DISCOVERY WORD FULLHD H264" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2010/01/12/WORLD_RGB_rev.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY WORD FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99062.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery World | HD" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2010/01/12/WORLD_RGB_rev.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY WORLD HD
+http://familytv.net:80/live/ricardinho/ricardinho/40015.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery World | HD" tvg-name="DISCOVERY WORLD HD*" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2010/01/12/WORLD_RGB_rev.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY WORLD HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57172.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Disney channel | HD" tvg-name="DISNEY CHANNEL  HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/792px-2014_Disney_Channel_logo.svg.png" group-title="CANAIS: INFANTIS",DISNEY CHANNEL  HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57202.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Disney channel | HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/792px-2014_Disney_Channel_logo.svg.png" group-title="CANAIS: INFANTIS",DISNEY CHANNEL HD
+http://familytv.net:80/live/ricardinho/ricardinho/40035.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Disney Junior | HD" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://vignette.wikia.nocookie.net/vampirina/images/b/bb/1200px-Disney_Junior.svg.png/revision/latest?cb=20180129214747&path-prefix=pt-br" group-title="CANAIS: INFANTIS",DISNEY JUNIOR HD
+http://familytv.net:80/live/ricardinho/ricardinho/40037.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Disney Junior | HD" tvg-name="DISNEY JUNIOR HD*" tvg-logo="https://vignette.wikia.nocookie.net/vampirina/images/b/bb/1200px-Disney_Junior.svg.png/revision/latest?cb=20180129214747&path-prefix=pt-br" group-title="CANAIS: INFANTIS",DISNEY JUNIOR HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57198.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="CANAIS: INFANTIS",DISNEY XD HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57197.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD" tvg-logo="https://2l1u9e17xv36q4vh49azw1wb-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/DOGTV-logo_COLOR-horiz.png" group-title="CANAIS: VARIEDADES",DOG TV HD
+http://familytv.net:80/live/ricardinho/ricardinho/99040.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="E! | HD" tvg-name="E HD" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707495&t=1524412279568" group-title="CANAIS: VARIEDADES",E HD
+http://familytv.net:80/live/ricardinho/ricardinho/40056.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="E! | HD" tvg-name="E! HD*" tvg-logo="http://abre.ai/URx" group-title="CANAIS: VARIEDADES",E! HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57214.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="0" tvg-name="EI PLUS HD²" tvg-logo="http://familytv.net:80/images/a7834da45ab0e4a23e0ebd3331924f7a.png" group-title="CANAIS: ESPORTES ESPECIAIS",EI PLUS HD²
+http://familytv.net:80/live/ricardinho/ricardinho/99025.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="0" tvg-name="EI PLUS HD¹" tvg-logo="http://familytv.net:80/images/a7834da45ab0e4a23e0ebd3331924f7a.png" group-title="CANAIS: ESPORTES ESPECIAIS",EI PLUS HD¹
+http://familytv.net:80/live/ricardinho/ricardinho/99024.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELECTRO ROCK" tvg-logo="https://i.ibb.co/L0Gw4yS/512.png" group-title="CANAIS: CLIPES 24HS",ELECTRO ROCK
+http://familytv.net:80/live/ricardinho/ricardinho/41565.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELETRÔNICA" tvg-logo="https://i.ibb.co/L0Gw4yS/512.png" group-title="CANAIS: CLIPES 24HS",ELETRÔNICA
+http://familytv.net:80/live/ricardinho/ricardinho/41566.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ESPN 2 | FHD" tvg-name="ESPN 2 FULLHD H264" tvg-logo="https://1.bp.blogspot.com/-uto56pmxCcQ/XXFWkBk_6OI/AAAAAAABZlU/JYiZAU-1wJgWkDqAw8U2dZVtS17LahKEwCLcBGAs/w1200-h630-p-k-no-nu/ESPN%2B2.png" group-title="CANAIS: ESPORTES",ESPN 2 FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99031.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsxNq1HrD-e2wKqUHJnoDcHcB0hkOIvY3nlifhi6yoSq4Hg0tZ&usqp=CAU" group-title="CANAIS: 4K",ESPN 4K
+http://familytv.net:80/live/ricardinho/ricardinho/58414.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ESPN Brasil | FHD" tvg-name="ESPN BRASIL FHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="CANAIS: GLOBO",ESPN BRASIL FHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/100035.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ESPN Extra | FHD" tvg-name="ESPN EXTRA FULLHD H264" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/w1200-h630-p-k-no-nu/espnextra.png" group-title="CANAIS: ESPORTES",ESPN EXTRA FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99029.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FULLHD H264" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-5.png" group-title="CANAIS: ESPORTES",ESPN FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99030.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE INTERATIVO 1" tvg-logo="https://4.bp.blogspot.com/-TDkI2D1naI0/VbEUHXVojeI/AAAAAAAAbLQ/2IGpLsXNgC4/s1600/esporte-interativo-novo-logo.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPORTE INTERATIVO 1
+http://familytv.net:80/live/ricardinho/ricardinho/76199.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE INTERATIVO 2" tvg-logo="https://4.bp.blogspot.com/-TDkI2D1naI0/VbEUHXVojeI/AAAAAAAAbLQ/2IGpLsXNgC4/s1600/esporte-interativo-novo-logo.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPORTE INTERATIVO 2
+http://familytv.net:80/live/ricardinho/ricardinho/76200.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ESTEREO CLASE HONDURAS" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",ESTEREO CLASE HONDURAS
+http://familytv.net:80/live/ricardinho/ricardinho/76179.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FLASHBACKS" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",FLASHBACKS
+http://familytv.net:80/live/ricardinho/ricardinho/76180.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FM O DIA 100,5" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",FM O DIA 100,5
+http://familytv.net:80/live/ricardinho/ricardinho/76181.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Food Network | HD" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANAIS: VARIEDADES",FOOD NETWORK HD
+http://familytv.net:80/live/ricardinho/ricardinho/40058.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Food Network | HD" tvg-name="FOOD NETWORK HD*" tvg-logo="http://abre.ai/UO8" group-title="CANAIS: VARIEDADES",FOOD NETWORK HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57216.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fox | FHD" tvg-name="FOX FULLHD H264" tvg-logo="https://i.pinimg.com/originals/0d/d3/59/0dd359c8864991c19ecc079ee8210fdc.png" group-title="CANAIS: LEGENDADOS",FOX FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99101.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="FOX | HD" tvg-name="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1200px-FOX_HD.svg.png" group-title="CANAIS: FILMES E SERIES",FOX HD
+http://familytv.net:80/live/ricardinho/ricardinho/40084.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="FOX | HD" tvg-name="FOX HD" tvg-logo="https://i.pinimg.com/originals/0d/d3/59/0dd359c8864991c19ecc079ee8210fdc.png" group-title="CANAIS: LEGENDADOS",FOX HD
+http://familytv.net:80/live/ricardinho/ricardinho/99102.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="FOX | HD" tvg-name="FOX HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1200px-FOX_HD.svg.png" group-title="CANAIS: FILMES E SERIES",FOX HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57178.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="FOX Life | HD" tvg-name="FOX LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/a3/FOX_Life_Polska_2013.png" group-title="CANAIS: VARIEDADES",FOX LIFE HD
+http://familytv.net:80/live/ricardinho/ricardinho/40059.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="FOX Life | HD" tvg-name="FOX LIFE HD*" tvg-logo="http://abre.ai/UNE" group-title="CANAIS: VARIEDADES",FOX LIFE HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57219.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fox Premium 1 | HD" tvg-name="FOX PREMIUM 1 FULLHD H264" tvg-logo="https://3.bp.blogspot.com/-ldTDigdNPa8/WzLuYjKaW4I/AAAAAAAAA7Y/4ifFLafRMB4JivBu_TOLGPncF0qSeOKUQCLcBGAs/w1200-h630-p-k-no-nu/assistir-fox-premium-1-online.png" group-title="CANAIS: LEGENDADOS",FOX PREMIUM 1 FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99105.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fox Premium 1 | HD" tvg-name="FOX PREMIUM 1 HD" tvg-logo="https://cdn.iptv.black/channels/104.png" group-title="CANAIS: FILMES E SERIES",FOX PREMIUM 1 HD
+http://familytv.net:80/live/ricardinho/ricardinho/40086.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fox Premium 1 | HD" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://abre.ai/Xt9" group-title="CANAIS: LEGENDADOS",FOX PREMIUM 1 HD
+http://familytv.net:80/live/ricardinho/ricardinho/99106.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fox Premium 2 | HD" tvg-name="FOX PREMIUM 2 FULLHD H264" tvg-logo="http://i.imgur.com/XQ4U8aw.png" group-title="CANAIS: LEGENDADOS",FOX PREMIUM 2 FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99107.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fox Premium 2 | HD" tvg-name="FOX PREMIUM 2 HD" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023498272/FOX_Premium_2_HD.png" group-title="CANAIS: FILMES E SERIES",FOX PREMIUM 2 HD
+http://familytv.net:80/live/ricardinho/ricardinho/40088.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fox Premium 2 | HD" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://i.imgur.com/XQ4U8aw.png" group-title="CANAIS: LEGENDADOS",FOX PREMIUM 2 HD
+http://familytv.net:80/live/ricardinho/ricardinho/99108.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fox Premium 2 | HD" tvg-name="FOX PREMIUM 2 HD*" tvg-logo="http://i.imgur.com/XQ4U8aw.png" group-title="CANAIS: FILMES E SERIES",FOX PREMIUM 2 HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57193.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Premiere 1 | HD" tvg-name="FOX PREMIUM HD*" tvg-logo="http://abre.ai/Xt9" group-title="CANAIS: FILMES E SERIES",FOX PREMIUM HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57194.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="FOX SPORTS 2 4K" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="CANAIS: 4K",FOX SPORTS 2 4K
+http://familytv.net:80/live/ricardinho/ricardinho/58415.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 FULLHD H264" tvg-logo="https://i.pinimg.com/originals/80/da/81/80da81f404f838a714050d3f201ac7ba.png" group-title="CANAIS: ESPORTES",FOX SPORTS 2 FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99032.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fox Sports | HD" tvg-name="FOX SPORTS 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="CANAIS: 4K",FOX SPORTS 4K
+http://familytv.net:80/live/ricardinho/ricardinho/58416.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fox Sports | HD" tvg-name="FOX SPORTS FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="CANAIS: ESPORTES",FOX SPORTS FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99033.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="FX | HD" tvg-name="FX HD" tvg-logo="https://flussonic-tv.jupiter.com.br/images/logos_stb/fxhd-black.png" group-title="CANAIS: FILMES E SERIES",FX HD
+http://familytv.net:80/live/ricardinho/ricardinho/40090.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="FX | HD" tvg-name="FX HD*" tvg-logo="https://flussonic-tv.jupiter.com.br/images/logos_stb/fxhd-black.png" group-title="CANAIS: FILMES E SERIES",FX HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57179.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TV Gazeta | HD" tvg-name="GAZETA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="CANAIS: 4K",GAZETA
+http://familytv.net:80/live/ricardinho/ricardinho/58398.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="GAZETA ¹ SP" tvg-logo="http://abre.ai/ZVr" group-title="CANAIS: ABERTOS",GAZETA ¹ SP
+http://familytv.net:80/live/ricardinho/ricardinho/39895.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Gloob | HD" tvg-name="GLOBINHO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4c/Tv_globinho_2009.png/revision/latest/scale-to-width-down/340?cb=20150523173515" group-title="CANAIS: INFANTIS",GLOBINHO
+http://familytv.net:80/live/ricardinho/ricardinho/42746.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo SP | HD" tvg-name="GLOBO" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/2/21/Globo_2000_clear.png" group-title="CANAIS: 4K",GLOBO
+http://familytv.net:80/live/ricardinho/ricardinho/58394.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="GLOBO BRASILIA" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO BRASILIA
+http://familytv.net:80/live/ricardinho/ricardinho/65736.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Campinas" tvg-name="GLOBO EPTV CAMPINAS" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO EPTV CAMPINAS
+http://familytv.net:80/live/ricardinho/ricardinho/99298.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Ribeirao Preto" tvg-name="GLOBO EPTV RIBEIRAO PRETO FHD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO EPTV RIBEIRAO PRETO FHD
+http://familytv.net:80/live/ricardinho/ricardinho/66971.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record TV RJ | HD" tvg-name="GLOBO INTERTV ALTO LITORAL HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO INTERTV ALTO LITORAL HD
+http://familytv.net:80/live/ricardinho/ricardinho/76210.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Manaus" tvg-name="GLOBO MANAUS HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO MANAUS HD
+http://familytv.net:80/live/ricardinho/ricardinho/58433.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="GLOBO MINAS HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO MINAS HD
+http://familytv.net:80/live/ricardinho/ricardinho/58432.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo News | HD" tvg-name="GLOBO NEWS HD" tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia-2/images/9/9c/GloboNews_logo_1998.png/revision/latest/scale-to-width-down/340?cb=20200927104540" group-title="CANAIS: NOTICIAS",GLOBO NEWS HD
+http://familytv.net:80/live/ricardinho/ricardinho/39941.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo News | HD" tvg-name="GLOBO NEWS HD*" tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia-2/images/9/9c/GloboNews_logo_1998.png/revision/latest/scale-to-width-down/340?cb=20200927104540" group-title="CANAIS: NOTICIAS",GLOBO NEWS HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57225.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="GLOBO NORDESTE" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO NORDESTE
+http://familytv.net:80/live/ricardinho/ricardinho/99365.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Florianopolis | HD" tvg-name="GLOBO NSC FLORIANÓPOLIS" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO NSC FLORIANÓPOLIS
+http://familytv.net:80/live/ricardinho/ricardinho/99853.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Florianopolis | HD" tvg-name="GLOBO NSC JOINVILLE" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO NSC JOINVILLE
+http://familytv.net:80/live/ricardinho/ricardinho/99854.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Florianopolis | HD" tvg-name="GLOBO NSC TV BLUMENAU" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO NSC TV BLUMENAU
+http://familytv.net:80/live/ricardinho/ricardinho/99855.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Paraiba | HD" tvg-name="GLOBO PARAIBA HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO PARAIBA HD
+http://familytv.net:80/live/ricardinho/ricardinho/58437.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GLOBO RBS HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO RBS HD
+http://familytv.net:80/live/ricardinho/ricardinho/58424.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO RBS TV PELOTAS HD
+http://familytv.net:80/live/ricardinho/ricardinho/58425.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Ribeirao Preto" tvg-name="GLOBO RIBEIRAO PRETO HD²" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO RIBEIRAO PRETO HD²
+http://familytv.net:80/live/ricardinho/ricardinho/66980.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo RJ | HD" tvg-name="GLOBO RJ FHD²" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO RJ FHD²
+http://familytv.net:80/live/ricardinho/ricardinho/66981.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band RJ | HD" tvg-name="GLOBO RJ HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO RJ HD
+http://familytv.net:80/live/ricardinho/ricardinho/58420.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ HD²" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO RJ HD²
+http://familytv.net:80/live/ricardinho/ricardinho/58422.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Curitiba | HD" tvg-name="GLOBO RPC PARANA HD¹" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO RPC PARANA HD¹
+http://familytv.net:80/live/ricardinho/ricardinho/72501.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Sergipe | HD" tvg-name="GLOBO SERGIPE" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO SERGIPE
+http://familytv.net:80/live/ricardinho/ricardinho/58426.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO SP HD
+http://familytv.net:80/live/ricardinho/ricardinho/58418.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo SP | HD" tvg-name="GLOBO SP HD*" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO SP HD*
+http://familytv.net:80/live/ricardinho/ricardinho/58419.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo BA" tvg-name="GLOBO TV BAHIA HD*" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO TV BAHIA HD*
+http://familytv.net:80/live/ricardinho/ricardinho/58662.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="GLOBO TV GAZETA ALAGOAS FHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO TV GAZETA ALAGOAS FHD
+http://familytv.net:80/live/ricardinho/ricardinho/98236.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="GLOBO TV RIO SUL" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO TV RIO SUL
+http://familytv.net:80/live/ricardinho/ricardinho/97006.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo BA" tvg-name="GLOBO TV VERDES MARES FORTALEZA SD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO TV VERDES MARES FORTALEZA SD
+http://familytv.net:80/live/ricardinho/ricardinho/66999.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Mais Globosat" tvg-name="GLOBOSAT HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/55/Globosat-hd.png/revision/latest/scale-to-width-down/340?cb=20190209220937" group-title="CANAIS: VARIEDADES",GLOBOSAT HD
+http://familytv.net:80/live/ricardinho/ricardinho/40065.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Gloob | HD" tvg-name="GLOOB HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/1280px-Gloob_logo.svg.png" group-title="CANAIS: INFANTIS",GLOOB HD
+http://familytv.net:80/live/ricardinho/ricardinho/40039.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Gloob | HD" tvg-name="GLOOB HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/1280px-Gloob_logo.svg.png" group-title="CANAIS: INFANTIS",GLOOB HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57203.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="GNT | HD" tvg-name="GNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/GNT_HD.jpg" group-title="CANAIS: VARIEDADES",GNT HD
+http://familytv.net:80/live/ricardinho/ricardinho/40061.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="GNT | HD" tvg-name="GNT HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/661px-GNT_logo-roxo.svg.png" group-title="CANAIS: VARIEDADES",GNT HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57213.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="https://www.pngkey.com/png/full/142-1427918_golf-channel-logo-png.png" group-title="CANAIS: ESPORTES",GOLF CHANNEL HD
+http://familytv.net:80/live/ricardinho/ricardinho/99043.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL" tvg-logo="https://i.ibb.co/L0Gw4yS/512.png" group-title="CANAIS: CLIPES 24HS",GOSPEL
+http://familytv.net:80/live/ricardinho/ricardinho/41569.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL" tvg-logo="https://i.ibb.co/L0Gw4yS/512.png" group-title="CANAIS: CLIPES 24HS",GOSPEL
+http://familytv.net:80/live/ricardinho/ricardinho/41571.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL KIDS" tvg-logo="https://i.ibb.co/L0Gw4yS/512.png" group-title="CANAIS: CLIPES 24HS",GOSPEL KIDS
+http://familytv.net:80/live/ricardinho/ricardinho/41570.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="H2 | FHD" tvg-name="H2 FULLHD H264" tvg-logo="https://skytvplanos.com.br/img/channels/lg-295-canal-h2.png" group-title="CANAIS: DOCUMENTARIOS",H2 FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99066.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="H2 | HD" tvg-name="H2 HD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-295-canal-h2.png" group-title="CANAIS: DOCUMENTARIOS",H2 HD
+http://familytv.net:80/live/ricardinho/ricardinho/40019.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="H2 | HD" tvg-name="H2 HD*" tvg-logo="https://skytvplanos.com.br/img/channels/lg-295-canal-h2.png" group-title="CANAIS: DOCUMENTARIOS",H2 HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57163.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO | HD" tvg-name="HB 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/640px-HBO-Logo.svg.png" group-title="CANAIS: 4K",HB 4K
+http://familytv.net:80/live/ricardinho/ricardinho/58402.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO 2 | HD" tvg-name="HBO 2 FULLHD H264" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f6/HBO_2_%282016-.n.v.%29.png/revision/latest?cb=20171126141432" group-title="CANAIS: HBO",HBO 2 FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99053.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="H2 | HD" tvg-name="HBO 2 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png" group-title="CANAIS: HBO",HBO 2 HD
+http://familytv.net:80/live/ricardinho/ricardinho/39965.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO 2 | HD" tvg-name="HBO 2 HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png" group-title="CANAIS: HBO",HBO 2 HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57141.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Family | FHD" tvg-name="HBO FAMILY FULLHD H264" tvg-logo="https://logodix.com/logo/789245.png" group-title="CANAIS: HBO",HBO FAMILY FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99055.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Family | HD" tvg-name="HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS: HBO",HBO FAMILY HD
+http://familytv.net:80/live/ricardinho/ricardinho/39966.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Family | HD" tvg-name="HBO FAMILY HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS: HBO",HBO FAMILY HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57142.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO | FHD" tvg-name="HBO FULLHD H264" tvg-logo="https://lh3.googleusercontent.com/proxy/4I6kJhFwDp7ij8dRMM2tBO9RPO0reBHQFQ4rtHI09Vs17Y2QB1b1L5HQQDopPQK8P1m_LeaGy5i7sH4dpc8rZnB8_rjdnoG72lXpRXTQbb4PgwTci3m0" group-title="CANAIS: HBO",HBO FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99052.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO | HD" tvg-name="HBO FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/640px-HBO-Logo.svg.png" group-title="CANAIS: LEGENDADOS",HBO FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99089.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO | HD" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/640px-HBO-Logo.svg.png" group-title="CANAIS: HBO",HBO HD
+http://familytv.net:80/live/ricardinho/ricardinho/39967.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO | HD" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/640px-HBO-Logo.svg.png" group-title="CANAIS: LEGENDADOS",HBO HD
+http://familytv.net:80/live/ricardinho/ricardinho/99090.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO | HD" tvg-name="HBO HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/640px-HBO-Logo.svg.png" group-title="CANAIS: HBO",HBO HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57143.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FULLHD" tvg-logo="https://i.ibb.co/12hFkv2/mund.png" group-title="CANAIS: LEGENDADOS",HBO MUNDI FULLHD
+http://familytv.net:80/live/ricardinho/ricardinho/99095.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI FULLHD H264" tvg-logo="https://canaismax.com/img/canais/e7a60609d36071d225eae42151773901.png" group-title="CANAIS: HBO",HBO MUNDI FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99057.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="MAX HD***" tvg-name="HBO MUNDI HD" tvg-logo="https://i.ibb.co/12hFkv2/mund.png" group-title="CANAIS: HBO",HBO MUNDI HD
+http://familytv.net:80/live/ricardinho/ricardinho/39970.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="https://i.ibb.co/12hFkv2/mund.png" group-title="CANAIS: LEGENDADOS",HBO MUNDI HD
+http://familytv.net:80/live/ricardinho/ricardinho/99096.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="MAX HD***" tvg-name="HBO MUNDI HD*" tvg-logo="https://i.ibb.co/12hFkv2/mund.png" group-title="CANAIS: HBO",HBO MUNDI HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57146.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Plus | FHD" tvg-name="HBO PLUS FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" group-title="CANAIS: HBO",HBO PLUS FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99054.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Plus | HD" tvg-name="HBO PLUS FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS: LEGENDADOS",HBO PLUS FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99091.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Plus | HD" tvg-name="HBO PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS: HBO",HBO PLUS HD
+http://familytv.net:80/live/ricardinho/ricardinho/39968.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Plus | HD" tvg-name="HBO PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS: LEGENDADOS",HBO PLUS HD
+http://familytv.net:80/live/ricardinho/ricardinho/99092.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Plus | HD" tvg-name="HBO PLUS HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS: HBO",HBO PLUS HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57139.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Pop | FHD" tvg-name="HBO POP FULLHD H264" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbopopGris_Enero20v2.png" group-title="CANAIS: HBO",HBO POP FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99059.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Pop | FHD" tvg-name="HBO POP FULLHD H264" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbopopGris_Enero20v2.png" group-title="CANAIS: LEGENDADOS",HBO POP FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99097.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Pop | FHD" tvg-name="HBO POP HD" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097937893-HBO-pop-pequenio.png" group-title="CANAIS: HBO",HBO POP HD
+http://familytv.net:80/live/ricardinho/ricardinho/39972.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Pop | FHD" tvg-name="HBO POP HD" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbopopGris_Enero20v2.png" group-title="CANAIS: LEGENDADOS",HBO POP HD
+http://familytv.net:80/live/ricardinho/ricardinho/99098.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Pop | FHD" tvg-name="HBO POP HD*" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097937893-HBO-pop-pequenio.png" group-title="CANAIS: HBO",HBO POP HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57145.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Signature | FHD" tvg-name="HBO SIGNATURE FULLHD H264" tvg-logo="https://canaismax.com/img/canais/93aadc0910348fcf43def9484e5f0fc4.png" group-title="CANAIS: HBO",HBO SIGNATURE FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99056.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Signature | HD" tvg-name="HBO SIGNATURE FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="CANAIS: LEGENDADOS",HBO SIGNATURE FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99093.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Signature | HD" tvg-name="HBO SIGNATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="CANAIS: HBO",HBO SIGNATURE HD
+http://familytv.net:80/live/ricardinho/ricardinho/39969.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Signature | HD" tvg-name="HBO SIGNATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="CANAIS: LEGENDADOS",HBO SIGNATURE HD
+http://familytv.net:80/live/ricardinho/ricardinho/99094.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Signature | HD" tvg-name="HBO SIGNATURE HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="CANAIS: HBO",HBO SIGNATURE HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57144.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Xtreme | FHD" tvg-name="HBO XTREAM FULLHD H264" tvg-logo="https://canaismax.com/img/canais/0e05114d7f0bcdbc6b537219e42f2f7b.png" group-title="CANAIS: HBO",HBO XTREAM FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99058.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Xtreme | FHD" tvg-name="HBO XTREAM HD" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="CANAIS: HBO",HBO XTREAM HD
+http://familytv.net:80/live/ricardinho/ricardinho/39971.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Xtreme | FHD" tvg-name="HBO XTREAM HD" tvg-logo="https://canaismax.com/img/canais/0e05114d7f0bcdbc6b537219e42f2f7b.png" group-title="CANAIS: LEGENDADOS",HBO XTREAM HD
+http://familytv.net:80/live/ricardinho/ricardinho/99100.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Xtreme | FHD" tvg-name="HBO XTREME FULLHD H264" tvg-logo="https://canaismax.com/img/canais/0e05114d7f0bcdbc6b537219e42f2f7b.png" group-title="CANAIS: LEGENDADOS",HBO XTREME FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99099.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Xtreme | FHD" tvg-name="HBO XTREME HD*" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="CANAIS: HBO",HBO XTREME HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57147.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="CANAIS: DOCUMENTARIOS",HGTV HD
+http://familytv.net:80/live/ricardinho/ricardinho/40021.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HIP HOP FM" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",HIP HOP FM
+http://familytv.net:80/live/ricardinho/ricardinho/76182.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="History channel | FHD" tvg-name="HISTORY FULLHD H264" tvg-logo="https://catracalivre.com.br/wp-content/uploads/2019/05/cientistas-desenvolvem-sistema-que-transmite-emocoes-pelo-ar.png" group-title="CANAIS: DOCUMENTARIOS",HISTORY FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99041.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="History channel | HD" tvg-name="HISTORY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/1200px-History_HD_Logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",HISTORY HD
+http://familytv.net:80/live/ricardinho/ricardinho/40017.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="History channel | HD" tvg-name="HISTORY HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/1200px-History_HD_Logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",HISTORY HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57162.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ID - Investigacao Discovery  | HD" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="CANAIS: DOCUMENTARIOS",INVESTIGATION DISCOVERY HD
+http://familytv.net:80/live/ricardinho/ricardinho/40023.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ID - Investigacao Discovery  | HD" tvg-name="INVESTIGATION DISCOVERY HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="CANAIS: DOCUMENTARIOS",INVESTIGATION DISCOVERY HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57171.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="IURD TV" tvg-logo="https://www.igrejauniversal.pt/wp-content/uploads/2020/03/iurd-tv2020ok2.png" group-title="CANAIS: RELIGIOSOS",IURD TV
+http://familytv.net:80/live/ricardinho/ricardinho/95053.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN LOVE" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",JOVEM PAN LOVE
+http://familytv.net:80/live/ricardinho/ricardinho/76183.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN POA 90.7MHz" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",JOVEM PAN POA 90.7MHz
+http://familytv.net:80/live/ricardinho/ricardinho/76184.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="LIBERTADORES 1 HD*" tvg-logo="" group-title="CANAIS: ESPORTES ESPECIAIS",LIBERTADORES 1 HD*
+http://familytv.net:80/live/ricardinho/ricardinho/99011.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Lifetime | FHD" tvg-name="LIFETIME FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="CANAIS: VARIEDADES",LIFETIME FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99061.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Lifetime | HD" tvg-name="LIFETIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/768px-Lifetime_logo17.svg.png" group-title="CANAIS: VARIEDADES",LIFETIME HD
+http://familytv.net:80/live/ricardinho/ricardinho/40063.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Lifetime | HD" tvg-name="LIFETIME HD*" tvg-logo="http://abre.ai/UNO" group-title="CANAIS: VARIEDADES",LIFETIME HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57220.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="CANAIS: DOCUMENTARIOS",LOVE NATURE
+http://familytv.net:80/live/ricardinho/ricardinho/40001.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Mais Globosat | HD" tvg-name="MAIS GLOBOSAT HD" tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="CANAIS: VARIEDADES",MAIS GLOBOSAT HD
+http://familytv.net:80/live/ricardinho/ricardinho/45277.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Mais Globosat | HD" tvg-name="MAIS GLOBOSAT HD*" tvg-logo="http://abre.ai/URe" group-title="CANAIS: VARIEDADES",MAIS GLOBOSAT HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57211.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="MARIA ROSA 104.9 FM" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",MARIA ROSA 104.9 FM
+http://familytv.net:80/live/ricardinho/ricardinho/76185.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Megapix | HD" tvg-name="MEGAPIX 4K" tvg-logo="http://clarotv.claro.com.br/image/Get/3821" group-title="CANAIS: 4K",MEGAPIX 4K
+http://familytv.net:80/live/ricardinho/ricardinho/58403.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Megapix | HD" tvg-name="MEGAPIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS: FILMES E SERIES",MEGAPIX HD
+http://familytv.net:80/live/ricardinho/ricardinho/40092.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Megapix | HD" tvg-name="MEGAPIX HD*" tvg-logo="http://clarotv.claro.com.br/image/Get/3821" group-title="CANAIS: FILMES E SERIES",MEGAPIX HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57187.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="MEIO NORTE FM" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",MEIO NORTE FM
+http://familytv.net:80/live/ricardinho/ricardinho/76186.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="MIX FM 106,3MHz" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",MIX FM 106,3MHz
+http://familytv.net:80/live/ricardinho/ricardinho/76187.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="MIX FM 2" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",MIX FM 2
+http://familytv.net:80/live/ricardinho/ricardinho/76188.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="MTV | HD" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="CANAIS: VARIEDADES",MTV HD
+http://familytv.net:80/live/ricardinho/ricardinho/40067.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="MTV | HD" tvg-name="MTV HD*" tvg-logo="http://abre.ai/UNT" group-title="CANAIS: VARIEDADES",MTV HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57217.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Multishow | HD" tvg-name="MULTISHOW 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Multishow_logo-laranja.png" group-title="CANAIS: 4K",MULTISHOW 4K
+http://familytv.net:80/live/ricardinho/ricardinho/58404.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Multishow | HD" tvg-name="MULTISHOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Multishow_logo-laranja.png/1200px-Multishow_logo-laranja.png" group-title="CANAIS: VARIEDADES",MULTISHOW HD
+http://familytv.net:80/live/ricardinho/ricardinho/40069.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Multishow | HD" tvg-name="MULTISHOW HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Multishow_logo-laranja.png" group-title="CANAIS: VARIEDADES",MULTISHOW HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57212.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NatGeo | FHD" tvg-name="NATGEO FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99065.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NatGeo | HD" tvg-name="NATGEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO HD
+http://familytv.net:80/live/ricardinho/ricardinho/40025.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NatGeo | HD" tvg-name="NATGEO HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57164.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NatGeo Kids | HD" tvg-name="NATGEO KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="CANAIS: INFANTIS",NATGEO KIDS HD
+http://familytv.net:80/live/ricardinho/ricardinho/40041.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NatGeo Kids | HD" tvg-name="NATGEO KIDS HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="CANAIS: INFANTIS",NATGEO KIDS HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57204.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NatGeo Wild | FHD" tvg-name="NATGEO WILD FULLHD H264" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO WILD FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99063.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NatGeo Wild | HD" tvg-name="NATGEO WILD HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO WILD HD
+http://familytv.net:80/live/ricardinho/ricardinho/40027.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NatGeo Wild | HD" tvg-name="NATGEO WILD HD*" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO WILD HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57173.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NatGeo | HD" tvg-name="NATIONAL GEOGRAPHIC 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CANAIS: 4K",NATIONAL GEOGRAPHIC 4K
+http://familytv.net:80/live/ricardinho/ricardinho/58405.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK HD*" tvg-logo="https://cdn.mitvstatic.com/channels/br_nhk_m.png" group-title="CANAIS: NOTICIAS",NHK HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57221.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="NHK JAPÃO" tvg-logo="" group-title="CANAIS: NOTICIAS",NHK JAPÃO
+http://familytv.net:80/live/ricardinho/ricardinho/98238.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK JAPÃO²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/599px-NHK_World.svg.png" group-title="CANAIS: NOTICIAS",NHK JAPÃO²
+http://familytv.net:80/live/ricardinho/ricardinho/99367.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NickJr | HD" tvg-name="NICK JR HD" tvg-logo="https://vignette.wikia.nocookie.net/catcamedian/images/c/c9/Nickelodeon_Junior_logo_1999.png/revision/latest/scale-to-width-down/340?cb=20191220153229" group-title="CANAIS: INFANTIS",NICK JR HD
+http://familytv.net:80/live/ricardinho/ricardinho/40045.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NickJr | HD" tvg-name="NICK JR HD*" tvg-logo="https://vignette.wikia.nocookie.net/catcamedian/images/c/c9/Nickelodeon_Junior_logo_1999.png/revision/latest/scale-to-width-down/340?cb=20191220153229" group-title="CANAIS: INFANTIS",NICK JR HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57205.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Nickelodeon | HD" tvg-name="NICKELODEON HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/nickelodeon.png" group-title="CANAIS: INFANTIS",NICKELODEON HD
+http://familytv.net:80/live/ricardinho/ricardinho/40043.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Nickelodeon | HD" tvg-name="NICKELODEON HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/nickelodeon.png" group-title="CANAIS: INFANTIS",NICKELODEON HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57206.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Nova Rádio Cidade 105.9 FM Itapetininga / SP - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio80400_1564486487.jpg" group-title="RADIOS",Nova Rádio Cidade 105.9 FM Itapetininga / SP - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41515.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NOVO TEMPO HD***" tvg-name="NOVO TEMPO" tvg-logo="https://files.adventistas.org/noticias/pt/2015/07/30192608/TV-NOVO-TEMPO-copy-Copia.png" group-title="CANAIS: RELIGIOSOS",NOVO TEMPO
+http://familytv.net:80/live/ricardinho/ricardinho/39863.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Paramount | HD" tvg-name="PARAMOUNT CHANNEL HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paramount.png/250px-Paramount.png" group-title="CANAIS: FILMES E SERIES",PARAMOUNT CHANNEL HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57188.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Paramount | HD" tvg-name="PARAMOUNT HD" tvg-logo="https://www.pngkey.com/png/full/141-1417598_launch-of-paramount-channel-in-italy-paramount-channel.png" group-title="CANAIS: FILMES E SERIES",PARAMOUNT HD
+http://familytv.net:80/live/ricardinho/ricardinho/40094.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="POLÍCIA 24HS" tvg-logo="https://i0.wp.com/mixdeseries.com.br/wp-content/uploads/2014/05/policia-24.png?resize=620%2C348&ssl=1" group-title="CANAIS: SÉRIES 24HS",POLÍCIA 24HS
+http://familytv.net:80/live/ricardinho/ricardinho/99155.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Premiere 1 | FHD" tvg-name="PREMIER CLUBE FULLHD H264" tvg-logo="https://www.nossagente.net/wp_new/wp-content/uploads/2013/08/PFC_LOGO_slogan2.png" group-title="CANAIS: PREMIERE",PREMIER CLUBE FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99034.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Premiere 1 | HD" tvg-name="PREMIERE 1 CLUBES" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: 4K",PREMIERE 1 CLUBES
+http://familytv.net:80/live/ricardinho/ricardinho/58396.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Premiere 2 | FHD" tvg-name="PREMIERE 2 FULLHD H264" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: PREMIERE",PREMIERE 2 FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99075.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Premiere 3 | FHD" tvg-name="PREMIERE 3 FULLHD H264" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: PREMIERE",PREMIERE 3 FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99074.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Premiere 4 | FHD" tvg-name="PREMIERE 4 FULLHD H264" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: PREMIERE",PREMIERE 4 FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99073.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Premiere 5 | FHD" tvg-name="PREMIERE 5 FULLHD H264" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: PREMIERE",PREMIERE 5 FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99072.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Premiere 6 | FHD" tvg-name="PREMIERE 6 FULLHD H264" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: PREMIERE",PREMIERE 6 FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99071.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Premiere 7 | FHD" tvg-name="PREMIERE 7 FULLHD H264" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: PREMIERE",PREMIERE 7 FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99070.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ENERGIA 97 FM" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",RADIO ENERGIA 97 FM
+http://familytv.net:80/live/ricardinho/ricardinho/76189.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RADIO INDIE POP" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",RADIO INDIE POP
+http://familytv.net:80/live/ricardinho/ricardinho/76190.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Radio Melodia Sertaneja Itapetininga / SP - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio38674_1519726473.PNG" group-title="RADIOS",Radio Melodia Sertaneja Itapetininga / SP - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41519.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RAI INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/640px-Rai_Italia_-_Logo_2017.svg.png" group-title="CANAIS: ESPORTES ESPECIAIS",RAI INTERNACIONAL
+http://familytv.net:80/live/ricardinho/ricardinho/85328.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RAI INTERNACIONAL FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/fe/RAI_International_Logo.svg/2000px-RAI_International_Logo.svg.png" group-title="CANAIS: NOTICIAS",RAI INTERNACIONAL FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99038.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="RBS | HD" tvg-name="RBS STA MARIA" tvg-logo="https://s2.glbimg.com/ag5jIzwh74Pd8_7NaZfw4qFXt-U=/s.glbimg.com/og/rg/f/original/2013/07/23/600logo_rbstv.png" group-title="CANAIS: GLOBO",RBS STA MARIA
+http://familytv.net:80/live/ricardinho/ricardinho/99060.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record TV BA (TV Cabrália) | HD" tvg-name="RECORD BAHIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS: RECORD",RECORD BAHIA HD
+http://familytv.net:80/live/ricardinho/ricardinho/76201.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record TV" tvg-name="RECORD BRASILIA ¹" tvg-logo="http://abre.ai/XrR" group-title="CANAIS: RECORD",RECORD BRASILIA ¹
+http://familytv.net:80/live/ricardinho/ricardinho/39873.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record Parana | HD" tvg-name="RECORD CAMPINAS  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS: RECORD",RECORD CAMPINAS  HD
+http://familytv.net:80/live/ricardinho/ricardinho/76207.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record BSB | HD" tvg-name="RECORD DF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS: RECORD",RECORD DF HD
+http://familytv.net:80/live/ricardinho/ricardinho/76203.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record BH | HD" tvg-name="RECORD ITAPOAN - BAHIA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6e/Record_logo1-1-.png/revision/latest?cb=20150728123200" group-title="CANAIS: RECORD",RECORD ITAPOAN - BAHIA
+http://familytv.net:80/live/ricardinho/ricardinho/39883.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record Minas | HD" tvg-name="RECORD MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS: RECORD",RECORD MINAS HD
+http://familytv.net:80/live/ricardinho/ricardinho/76205.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record News | HD" tvg-name="RECORD NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="CANAIS: NOTICIAS",RECORD NEWS HD
+http://familytv.net:80/live/ricardinho/ricardinho/39936.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record News | HD" tvg-name="RECORD NEWS HD*" tvg-logo="http://abre.ai/XtX" group-title="CANAIS: NOTICIAS",RECORD NEWS HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57222.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record Parana | HD" tvg-name="RECORD PARANÁ HD³" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS: RECORD",RECORD PARANÁ HD³
+http://familytv.net:80/live/ricardinho/ricardinho/76208.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record TV RJ | HD" tvg-name="RECORD RJ HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS: RECORD",RECORD RJ HD²
+http://familytv.net:80/live/ricardinho/ricardinho/76209.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record TV RJ | HD" tvg-name="RECORD RJ ¹" tvg-logo="http://abre.ai/XrR" group-title="CANAIS: RECORD",RECORD RJ ¹
+http://familytv.net:80/live/ricardinho/ricardinho/39881.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record RS | HD" tvg-name="RECORD RS ¹" tvg-logo="http://abre.ai/XrR" group-title="CANAIS: RECORD",RECORD RS ¹
+http://familytv.net:80/live/ricardinho/ricardinho/39874.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record TV" tvg-name="RECORD SERGIPE - TV ATALAIA ¹" tvg-logo="http://abre.ai/XrR" group-title="CANAIS: RECORD",RECORD SERGIPE - TV ATALAIA ¹
+http://familytv.net:80/live/ricardinho/ricardinho/39876.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record TV | FHD" tvg-name="RECORD SP HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS: RECORD",RECORD SP HD²
+http://familytv.net:80/live/ricardinho/ricardinho/76212.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record TV SP (Sao Jose Rio Preto) | HD" tvg-name="RECORD SP ¹" tvg-logo="http://abre.ai/XrR" group-title="CANAIS: RECORD",RECORD SP ¹
+http://familytv.net:80/live/ricardinho/ricardinho/39877.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Goiania | HD" tvg-name="RECORD TV GOIANIA HD" tvg-logo="http://abre.ai/XrR" group-title="CANAIS: RECORD",RECORD TV GOIANIA HD
+http://familytv.net:80/live/ricardinho/ricardinho/39888.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record Parana | HD" tvg-name="RECORD TV PARANA ¹" tvg-logo="http://abre.ai/XrR" group-title="CANAIS: RECORD",RECORD TV PARANA ¹
+http://familytv.net:80/live/ricardinho/ricardinho/39882.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record SC | HD" tvg-name="RECORD TV SANTA CATARINA ¹" tvg-logo="http://abre.ai/XrR" group-title="CANAIS: RECORD",RECORD TV SANTA CATARINA ¹
+http://familytv.net:80/live/ricardinho/ricardinho/39885.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record TV SP (Sao Jose Rio Preto) | HD" tvg-name="RECORDTV" tvg-logo="http://51.79.39.244/canais/record.png" group-title="CANAIS: 4K",RECORDTV
+http://familytv.net:80/live/ricardinho/ricardinho/58397.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record Santos | HD" tvg-name="RECORDTV SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS: RECORD",RECORDTV SP HD
+http://familytv.net:80/live/ricardinho/ricardinho/45368.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="rede.gospel.br" tvg-name="REDE GOSPEL FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/ba/LGT_Rede_Gospel.png/235px-LGT_Rede_Gospel.png" group-title="CANAIS: RELIGIOSOS",REDE GOSPEL FULLHD
+http://familytv.net:80/live/ricardinho/ricardinho/39869.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="rede.super.br" tvg-name="REDE SUPER" tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-super-hd_m.png" group-title="CANAIS: RELIGIOSOS",REDE SUPER
+http://familytv.net:80/live/ricardinho/ricardinho/39868.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Rede TV | HD" tvg-name="REDE TV 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="CANAIS: 4K",REDE TV 4K
+http://familytv.net:80/live/ricardinho/ricardinho/58406.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="REDE TV***" tvg-name="REDE TV HD" tvg-logo="http://abre.ai/XrT" group-title="CANAIS: ABERTOS",REDE TV HD
+http://familytv.net:80/live/ricardinho/ricardinho/39920.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="REDE VIDA***" tvg-name="REDE VIDA " tvg-logo="https://4.bp.blogspot.com/-oKYur1WMPGI/XQ0N9xIv3JI/AAAAAAAABK4/7qgUvY6F4cEpFLvkbLLGSNj35kd4jw1eQCPcBGAYYCw/s320/Screenshot_2019-06-21-13-43-10.png" group-title="CANAIS: RELIGIOSOS",REDE VIDA 
+http://familytv.net:80/live/ricardinho/ricardinho/39866.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_da_RIT_%282016%29.png" group-title="CANAIS: RELIGIOSOS",RIT
+http://familytv.net:80/live/ricardinho/ricardinho/95052.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ROCK 'N ROLL" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",ROCK 'N ROLL
+http://familytv.net:80/live/ricardinho/ricardinho/76191.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Alto Uruguai 970 AM Três Passos / RS - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio9044_1439401367.jpg" group-title="RADIOS",Rádio Alto Uruguai 970 AM Três Passos / RS - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41533.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Antena 1 103.7 FM Rio De Janeiro / RJ - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio15456_1470953779.jpg" group-title="RADIOS",Rádio Antena 1 103.7 FM Rio De Janeiro / RJ - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41522.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Ativa 104.5 FM Itaqui / RS - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio32732_1511517858.jpg" group-title="RADIOS",Rádio Ativa 104.5 FM Itaqui / RS - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41531.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Ativa de Itapetininga Itapetininga / SP - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio17679_1513704243.jpg" group-title="RADIOS",Rádio Ativa de Itapetininga Itapetininga / SP - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41518.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Bagual Blumenau / SC - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio22852_1444302429.jpg" group-title="RADIOS",Rádio Bagual Blumenau / SC - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41538.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Blau Nunes 97.9 FM Santa Barbara Do Sul / RS - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio22896_1540210393.jpg" group-title="RADIOS",Rádio Blau Nunes 97.9 FM Santa Barbara Do Sul / RS - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41528.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Casa dos Caipiras Pardinho / SP - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio36246_1585720041.jpg" group-title="RADIOS",Rádio Casa dos Caipiras Pardinho / SP - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41525.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Central 87.9 FM Santiago / RS - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio27060_1439401685.jpg" group-title="RADIOS",Rádio Central 87.9 FM Santiago / RS - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41532.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Cidade Jaú 87.9 FM Jau / SP - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio24500_1528456471.jpg" group-title="RADIOS",Rádio Cidade Jaú 87.9 FM Jau / SP - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41539.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Clube 89.9 FM Itapetininga / SP - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio14890_1580408401.png" group-title="RADIOS",Rádio Clube 89.9 FM Itapetininga / SP - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41516.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Extreme - Brasil Jau / SP - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio34192_1545073046.jpg" group-title="RADIOS",Rádio Extreme - Brasil Jau / SP - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41540.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Fandango Clássica 89.5 FM Cachoeira Do Sul / RS - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio25211_1588248849.jpg" group-title="RADIOS",Rádio Fandango Clássica 89.5 FM Cachoeira Do Sul / RS - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41537.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Grenal 1020 AM 95.9 FM Porto Alegre / RS - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio14075_1506599378.png" group-title="RADIOS",Rádio Grenal 1020 AM 95.9 FM Porto Alegre / RS - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41526.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Liberdade 970 AM Porto Alegre / RS - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio13606_1562165073.jpg" group-title="RADIOS",Rádio Liberdade 970 AM Porto Alegre / RS - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41530.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Liberdade 99.7 FM Capivari Do Sul / RS - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio40301_1562165810.jpg" group-title="RADIOS",Rádio Liberdade 99.7 FM Capivari Do Sul / RS - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41529.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Minuano 1410 AM Rio Grande / RS - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio13698_1550595205.jpg" group-title="RADIOS",Rádio Minuano 1410 AM Rio Grande / RS - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41527.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Ouro Verde 105.5 FM Curitiba / PR - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio13892_1534789940.png" group-title="RADIOS",Rádio Ouro Verde 105.5 FM Curitiba / PR - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41542.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Panter FM Itapetininga / SP - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio91365_1548251605.jpg" group-title="RADIOS",Rádio Panter FM Itapetininga / SP - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41520.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Axé" tvg-logo="https://img.radios.com.br/radio/md/radio38914_1470331216.jpg" group-title="RADIOS",Rádio Studio Souto - Axé
+http://familytv.net:80/live/ricardinho/ricardinho/41481.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Boleros em Seresta" tvg-logo="https://img.radios.com.br/radio/lg/radio38912_1470331089.jpg" group-title="RADIOS",Rádio Studio Souto - Boleros em Seresta
+http://familytv.net:80/live/ricardinho/ricardinho/41482.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Brega Hits" tvg-logo="https://img.radios.com.br/radio/md/radio39030_1470682338.jpg" group-title="RADIOS",Rádio Studio Souto - Brega Hits
+http://familytv.net:80/live/ricardinho/ricardinho/41483.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Clube da Criança" tvg-logo="https://img.radios.com.br/radio/md/radio38811_1470245452.jpg" group-title="RADIOS",Rádio Studio Souto - Clube da Criança
+http://familytv.net:80/live/ricardinho/ricardinho/41484.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Country" tvg-logo="https://img.radios.com.br/radio/md/radio39032_1470682460.jpg" group-title="RADIOS",Rádio Studio Souto - Country
+http://familytv.net:80/live/ricardinho/ricardinho/41485.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Discoteca 70s" tvg-logo="https://img.radios.com.br/radio/md/radio39034_1470682542.jpg" group-title="RADIOS",Rádio Studio Souto - Discoteca 70s
+http://familytv.net:80/live/ricardinho/ricardinho/41486.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Dubstep" tvg-logo="https://img.radios.com.br/radio/md/radio39036_1470682810.jpg" group-title="RADIOS",Rádio Studio Souto - Dubstep
+http://familytv.net:80/live/ricardinho/ricardinho/41487.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Eurodance 90s" tvg-logo="https://img.radios.com.br/radio/md/radio39038_1470682925.jpg" group-title="RADIOS",Rádio Studio Souto - Eurodance 90s
+http://familytv.net:80/live/ricardinho/ricardinho/41489.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Forró" tvg-logo="https://img.radios.com.br/radio/md/radio38813_1470245636.jpg" group-title="RADIOS",Rádio Studio Souto - Forró
+http://familytv.net:80/live/ricardinho/ricardinho/41490.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Gospel" tvg-logo="https://img.radios.com.br/radio/md/radio38847_1470257621.jpg" group-title="RADIOS",Rádio Studio Souto - Gospel
+http://familytv.net:80/live/ricardinho/ricardinho/41491.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Hip Hop" tvg-logo="https://img.radios.com.br/radio/md/radio39046_1470684551.jpg" group-title="RADIOS",Rádio Studio Souto - Hip Hop
+http://familytv.net:80/live/ricardinho/ricardinho/41492.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Historinha Infantil" tvg-logo="https://img.radios.com.br/radio/md/radio39065_1470690190.jpg" group-title="RADIOS",Rádio Studio Souto - Historinha Infantil
+http://familytv.net:80/live/ricardinho/ricardinho/41493.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Jovem Guarda" tvg-logo="https://img.radios.com.br/radio/md/radio39047_1470684650.jpg" group-title="RADIOS",Rádio Studio Souto - Jovem Guarda
+http://familytv.net:80/live/ricardinho/ricardinho/41494.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Love Songs" tvg-logo="https://img.radios.com.br/radio/md/radio39048_1470684739.jpg" group-title="RADIOS",Rádio Studio Souto - Love Songs
+http://familytv.net:80/live/ricardinho/ricardinho/41495.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Megamix 80s" tvg-logo="https://img.radios.com.br/radio/md/radio38810_1470245249.jpg" group-title="RADIOS",Rádio Studio Souto - Megamix 80s
+http://familytv.net:80/live/ricardinho/ricardinho/41496.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - MPB Musicalidade" tvg-logo="https://img.radios.com.br/radio/md/radio39049_1470684855.jpg" group-title="RADIOS",Rádio Studio Souto - MPB Musicalidade
+http://familytv.net:80/live/ricardinho/ricardinho/41497.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - New Age" tvg-logo="https://img.radios.com.br/radio/md/radio39050_1470684946.jpg" group-title="RADIOS",Rádio Studio Souto - New Age
+http://familytv.net:80/live/ricardinho/ricardinho/41498.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Pagode" tvg-logo="https://img.radios.com.br/radio/md/radio38845_1470257541.jpg" group-title="RADIOS",Rádio Studio Souto - Pagode
+http://familytv.net:80/live/ricardinho/ricardinho/41499.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Rap Nacional" tvg-logo="https://img.radios.com.br/radio/md/radio39051_1470685069.jpg" group-title="RADIOS",Rádio Studio Souto - Rap Nacional
+http://familytv.net:80/live/ricardinho/ricardinho/41500.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Reggae" tvg-logo="https://img.radios.com.br/radio/md/radio39064_1470690001.jpg" group-title="RADIOS",Rádio Studio Souto - Reggae
+http://familytv.net:80/live/ricardinho/ricardinho/41501.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Rodeio" tvg-logo="https://img.radios.com.br/radio/md/radio38814_1470245756.jpg" group-title="RADIOS",Rádio Studio Souto - Rodeio
+http://familytv.net:80/live/ricardinho/ricardinho/41504.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Saudade" tvg-logo="https://img.radios.com.br/radio/md/radio16376_1470050792.png" group-title="RADIOS",Rádio Studio Souto - Saudade
+http://familytv.net:80/live/ricardinho/ricardinho/41505.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Sertaneja" tvg-logo="https://img.radios.com.br/radio/md/radio38844_1470257356.jpg" group-title="RADIOS",Rádio Studio Souto - Sertaneja
+http://familytv.net:80/live/ricardinho/ricardinho/41506.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Sertanejo Raizes" tvg-logo="https://img.radios.com.br/radio/md/radio38808_1526043886.png" group-title="RADIOS",Rádio Studio Souto - Sertanejo Raizes
+http://familytv.net:80/live/ricardinho/ricardinho/41507.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Sertanejo Universitário" tvg-logo="https://img.radios.com.br/radio/md/radio38848_1470318620.jpg" group-title="RADIOS",Rádio Studio Souto - Sertanejo Universitário
+http://familytv.net:80/live/ricardinho/ricardinho/41508.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Smooth Jazz" tvg-logo="https://img.radios.com.br/radio/md/radio39060_1470689595.jpg" group-title="RADIOS",Rádio Studio Souto - Smooth Jazz
+http://familytv.net:80/live/ricardinho/ricardinho/41509.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Studio do Amor" tvg-logo="https://img.radios.com.br/radio/md/radio38809_1470245057.jpg" group-title="RADIOS",Rádio Studio Souto - Studio do Amor
+http://familytv.net:80/live/ricardinho/ricardinho/41510.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Techno" tvg-logo="https://img.radios.com.br/radio/md/radio39061_1470689682.jpg" group-title="RADIOS",Rádio Studio Souto - Techno
+http://familytv.net:80/live/ricardinho/ricardinho/41511.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Tecnobrega" tvg-logo="https://img.radios.com.br/radio/md/radio39062_1470689803.jpg" group-title="RADIOS",Rádio Studio Souto - Tecnobrega
+http://familytv.net:80/live/ricardinho/ricardinho/41512.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Top 40" tvg-logo="https://img.radios.com.br/radio/md/radio68599_1525109165.jpg" group-title="RADIOS",Rádio Studio Souto - Top 40
+http://familytv.net:80/live/ricardinho/ricardinho/41513.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Studio Souto - Versão Brasileira" tvg-logo="https://img.radios.com.br/radio/md/radio39063_1470689912.jpg" group-title="RADIOS",Rádio Studio Souto - Versão Brasileira
+http://familytv.net:80/live/ricardinho/ricardinho/41514.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio T 99.9 FM Ponta Grossa / PR - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio26393_1439401631.jpg" group-title="RADIOS",Rádio T 99.9 FM Ponta Grossa / PR - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41543.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Web Campeira FM Caxias Do Sul / RS - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio16418_1439401496.jpg" group-title="RADIOS",Rádio Web Campeira FM Caxias Do Sul / RS - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41535.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SBT SP | HD" tvg-name="SBT 4K" tvg-logo="" group-title="CANAIS: 4K",SBT 4K
+http://familytv.net:80/live/ricardinho/ricardinho/58407.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SBT SP | HD" tvg-name="SBT NORDESTE FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2-1.png" group-title="CANAIS: ABERTOS",SBT NORDESTE FHD
+http://familytv.net:80/live/ricardinho/ricardinho/67017.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SBT PR | HD" tvg-name="SBT PARANA ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2-1.png" group-title="CANAIS: ABERTOS",SBT PARANA ¹
+http://familytv.net:80/live/ricardinho/ricardinho/39913.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SBT RJ | HD" tvg-name="SBT RJ ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2-1.png" group-title="CANAIS: ABERTOS",SBT RJ ¹
+http://familytv.net:80/live/ricardinho/ricardinho/39900.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SBT RS | HD" tvg-name="SBT RS ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2-1.png" group-title="CANAIS: ABERTOS",SBT RS ¹
+http://familytv.net:80/live/ricardinho/ricardinho/39901.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SBT SP | HD" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2-1.png" group-title="CANAIS: ABERTOS",SBT SP
+http://familytv.net:80/live/ricardinho/ricardinho/99762.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SBT | FHD" tvg-name="SBT TV ALTEROSA ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2-1.png" group-title="CANAIS: ABERTOS",SBT TV ALTEROSA ¹
+http://familytv.net:80/live/ricardinho/ricardinho/39911.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SBT | FHD" tvg-name="SBT TV SERRA DOURADA ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2-1.png" group-title="CANAIS: ABERTOS",SBT TV SERRA DOURADA ¹
+http://familytv.net:80/live/ricardinho/ricardinho/39898.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SERTANEJO 2" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",SERTANEJO 2
+http://familytv.net:80/live/ricardinho/ricardinho/76192.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SERTANEJO HITS" tvg-logo="https://i.ibb.co/dBMrKB3/icon-radios.png" group-title="RADIOS",SERTANEJO HITS
+http://familytv.net:80/live/ricardinho/ricardinho/76193.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="RECORD" tvg-name="SMITHSONIAN HD" tvg-logo="https://seeklogo.com/images/S/Smithsonian_Institution-logo-6857F768FD-seeklogo.com.png" group-title="CANAIS: DOCUMENTARIOS",SMITHSONIAN HD
+http://familytv.net:80/live/ricardinho/ricardinho/40028.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Space | HD" tvg-name="SPACE 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="CANAIS: 4K",SPACE 4K
+http://familytv.net:80/live/ricardinho/ricardinho/58408.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Space | HD" tvg-name="SPACE HD" tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png" group-title="CANAIS: FILMES E SERIES",SPACE HD
+http://familytv.net:80/live/ricardinho/ricardinho/40096.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Space | HD" tvg-name="SPACE HD*" tvg-logo="https://multicanais.com/wp-content/uploads/2019/09/Space-ao-vivo.png" group-title="CANAIS: FILMES E SERIES",SPACE HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57189.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SporTV2 | FHD" tvg-name="SPORTV 2 FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/SporTV_2_logo_2011.png" group-title="CANAIS: ESPORTES",SPORTV 2 FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99036.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SporTV3 | FHD" tvg-name="SPORTV 3 FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/SporTV_3_logo_2016.png" group-title="CANAIS: ESPORTES",SPORTV 3 FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99037.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS: 4K",SPORTV 4K
+http://familytv.net:80/live/ricardinho/ricardinho/58409.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Sportv | FHD" tvg-name="SPORTV FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="CANAIS: ESPORTES",SPORTV FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99035.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Studio Universal | HD" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png" group-title="CANAIS: FILMES E SERIES",STUDIO UNIVERSAL HD
+http://familytv.net:80/live/ricardinho/ricardinho/40098.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Studio Universal | HD" tvg-name="STUDIO UNIVERSAL HD*" tvg-logo="https://4.bp.blogspot.com/-zlI0-aFvSPs/VhWxcrzH_II/AAAAAAAAlqc/pT2pu__qCtM/s1600/2000px-Logo_Studio_Universal.svg.png" group-title="CANAIS: FILMES E SERIES",STUDIO UNIVERSAL HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57190.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SYFY | HD" tvg-name="SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1024px-Syfy.svg.png" group-title="CANAIS: FILMES E SERIES",SYFY HD
+http://familytv.net:80/live/ricardinho/ricardinho/40100.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SYFY | HD" tvg-name="SYFY HD*" tvg-logo="https://img.miptv.ws/Syfy.png" group-title="CANAIS: FILMES E SERIES",SYFY HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57181.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TBS | HD" tvg-name="TBS HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tbs-logo-png-4.png" group-title="CANAIS: FILMES E SERIES",TBS HD
+http://familytv.net:80/live/ricardinho/ricardinho/40102.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS: FILMES E SERIES",TCM HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57185.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Action | FHD" tvg-name="TELECINE ACTION FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="CANAIS: TELECINE",TELECINE ACTION FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99047.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Action | HD" tvg-name="TELECINE ACTION FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="CANAIS: LEGENDADOS",TELECINE ACTION FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99081.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Action | HD" tvg-name="TELECINE ACTION HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="CANAIS: TELECINE",TELECINE ACTION HD
+http://familytv.net:80/live/ricardinho/ricardinho/39951.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Action | HD" tvg-name="TELECINE ACTION HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="CANAIS: LEGENDADOS",TELECINE ACTION HD
+http://familytv.net:80/live/ricardinho/ricardinho/99082.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Action | HD" tvg-name="TELECINE ACTION HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="CANAIS: TELECINE",TELECINE ACTION HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57126.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Cult | FHD" tvg-name="TELECINE CULT FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="CANAIS: TELECINE",TELECINE CULT FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99051.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Cult | HD" tvg-name="TELECINE CULT FULLHD H264" tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-telecine-cult-ao-vivo.png" group-title="CANAIS: LEGENDADOS",TELECINE CULT FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99087.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Cult | HD" tvg-name="TELECINE CULT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="CANAIS: TELECINE",TELECINE CULT HD
+http://familytv.net:80/live/ricardinho/ricardinho/39952.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Cult | HD" tvg-name="TELECINE CULT HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-telecine-cult-ao-vivo.png" group-title="CANAIS: LEGENDADOS",TELECINE CULT HD
+http://familytv.net:80/live/ricardinho/ricardinho/99088.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Cult | HD" tvg-name="TELECINE CULT HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="CANAIS: TELECINE",TELECINE CULT HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57127.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Fun | FHD" tvg-name="TELECINE FUN FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="CANAIS: TELECINE",TELECINE FUN FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99050.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Fun | HD" tvg-name="TELECINE FUN FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="CANAIS: LEGENDADOS",TELECINE FUN FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99085.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Fun | HD" tvg-name="TELECINE FUN HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="CANAIS: TELECINE",TELECINE FUN HD
+http://familytv.net:80/live/ricardinho/ricardinho/39953.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Fun | HD" tvg-name="TELECINE FUN HD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="CANAIS: LEGENDADOS",TELECINE FUN HD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99086.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Fun | HD" tvg-name="TELECINE FUN HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="CANAIS: TELECINE",TELECINE FUN HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57128.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Pipoca | FHD" tvg-name="TELECINE PIPOCA FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="CANAIS: TELECINE",TELECINE PIPOCA FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99049.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Pipoca | HD" tvg-name="TELECINE PIPOCA FULLHD H264" tvg-logo="http://1.bp.blogspot.com/-kVrT1nJMzHI/US4iFNHdWWI/AAAAAAAAFHs/Ak6T31nq2PQ/s1600/telecine_pipoca.png" group-title="CANAIS: LEGENDADOS",TELECINE PIPOCA FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99077.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Pipoca | HD" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="CANAIS: TELECINE",TELECINE PIPOCA HD
+http://familytv.net:80/live/ricardinho/ricardinho/39954.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Pipoca | HD" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://1.bp.blogspot.com/-kVrT1nJMzHI/US4iFNHdWWI/AAAAAAAAFHs/Ak6T31nq2PQ/s1600/telecine_pipoca.png" group-title="CANAIS: LEGENDADOS",TELECINE PIPOCA HD
+http://familytv.net:80/live/ricardinho/ricardinho/99078.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Pipoca | HD" tvg-name="TELECINE PIPOCA HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="CANAIS: TELECINE",TELECINE PIPOCA HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57129.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Premium | HD" tvg-name="TELECINE PREMIUM 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS: 4K",TELECINE PREMIUM 4K
+http://familytv.net:80/live/ricardinho/ricardinho/58410.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Premium | FHD" tvg-name="TELECINE PREMIUM FULLHD H264" tvg-logo="https://static.wikia.nocookie.net/redeglobo/images/3/33/Tcpremiumb.png/revision/latest?cb=20200817020705&path-prefix=pt" group-title="CANAIS: TELECINE",TELECINE PREMIUM FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99046.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Premium | HD" tvg-name="TELECINE PREMIUM FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="CANAIS: LEGENDADOS",TELECINE PREMIUM FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99079.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Premium | HD" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="CANAIS: TELECINE",TELECINE PREMIUM HD
+http://familytv.net:80/live/ricardinho/ricardinho/39955.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Premium | HD" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="CANAIS: LEGENDADOS",TELECINE PREMIUM HD
+http://familytv.net:80/live/ricardinho/ricardinho/99080.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Premium | HD" tvg-name="TELECINE PREMIUM HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="CANAIS: TELECINE",TELECINE PREMIUM HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57130.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Touch | FHD" tvg-name="TELECINE TOUCH FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="CANAIS: TELECINE",TELECINE TOUCH FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99048.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Touch | HD" tvg-name="TELECINE TOUCH FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="CANAIS: LEGENDADOS",TELECINE TOUCH FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99083.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Touch | HD" tvg-name="TELECINE TOUCH HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="CANAIS: TELECINE",TELECINE TOUCH HD
+http://familytv.net:80/live/ricardinho/ricardinho/39956.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Touch | HD" tvg-name="TELECINE TOUCH HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="CANAIS: LEGENDADOS",TELECINE TOUCH HD
+http://familytv.net:80/live/ricardinho/ricardinho/99084.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Touch | HD" tvg-name="TELECINE TOUCH HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="CANAIS: TELECINE",TELECINE TOUCH HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57131.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TLC | HD" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="CANAIS: FILMES E SERIES",TLC HD
+http://familytv.net:80/live/ricardinho/ricardinho/40104.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TLC | HD" tvg-name="TLC HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="CANAIS: FILMES E SERIES",TLC HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57186.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TNT | HD" tvg-name="TNT 4K" tvg-logo="https://lh3.googleusercontent.com/proxy/PFbg4L5OdoNim-7v3taWKf-OSqQ6W3ljxVEPQQziaWF2VQfekpOcwTQtkx6qCMzkZXDj8GtUIITgKMzQVO2bFftppoeU226jkW0hzpKheJWTy2k1nQ" group-title="CANAIS: 4K",TNT 4K
+http://familytv.net:80/live/ricardinho/ricardinho/58411.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TNT | FHD" tvg-name="TNT FULLHD H264" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-hd_m.png" group-title="CANAIS: FILMES E SERIES",TNT FULLHD H264
+http://familytv.net:80/live/ricardinho/ricardinho/99045.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TNT Series | HD" tvg-name="TNT SERIES 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/TNT_Series.png/640px-TNT_Series.png" group-title="CANAIS: 4K",TNT SERIES 4K
+http://familytv.net:80/live/ricardinho/ricardinho/58412.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TNT Series | HD" tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png" group-title="CANAIS: FILMES E SERIES",TNT SERIES HD
+http://familytv.net:80/live/ricardinho/ricardinho/40108.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TNT Series | HD" tvg-name="TNT SERIES HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png" group-title="CANAIS: FILMES E SERIES",TNT SERIES HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57192.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST HD*" tvg-logo="https://ap.imagensbrasil.org/images/2020/02/14/tooncast.png" group-title="CANAIS: INFANTIS",TOONCAST HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57196.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST HD³" tvg-logo="https://ap.imagensbrasil.org/images/2020/02/14/tooncast.png" group-title="CANAIS: INFANTIS",TOONCAST HD³
+http://familytv.net:80/live/ricardinho/ricardinho/40050.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="CANAIS: DOCUMENTARIOS",TRAVEL BOX BRAZIL
+http://familytv.net:80/live/ricardinho/ricardinho/58503.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TRUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/TruTV_UK_logo.svg/1200px-TruTV_UK_logo.svg.png" group-title="CANAIS: VARIEDADES",TRUTV
+http://familytv.net:80/live/ricardinho/ricardinho/99109.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA***" tvg-name="TV ANHAGUERA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a0/Logo_TV_Anhanguera_2019.png" group-title="CANAIS: ABERTOS",TV ANHAGUERA HD
+http://familytv.net:80/live/ricardinho/ricardinho/39921.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TV APARECIDA***" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/1/1e/20180918053323%21Logotipo_da_TV_Aparecida.png" group-title="CANAIS: RELIGIOSOS",TV APARECIDA HD
+http://familytv.net:80/live/ricardinho/ricardinho/39870.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA" tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="CANAIS: ABERTOS",TV CULTURA
+http://familytv.net:80/live/ricardinho/ricardinho/40750.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvdiarioce.png" group-title="CANAIS: ABERTOS",TV DIARIO HD
+http://familytv.net:80/live/ricardinho/ricardinho/93739.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV EVAGILIZAR ES " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="CANAIS: RELIGIOSOS",TV EVAGILIZAR ES 
+http://familytv.net:80/live/ricardinho/ricardinho/39906.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo MA | HD" tvg-name="TV MIRANTE HD (GLOBO MARANHAO)" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",TV MIRANTE HD (GLOBO MARANHAO)
+http://familytv.net:80/live/ricardinho/ricardinho/58434.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="" group-title="CANAIS: RELIGIOSOS",TV PAI ETERNO
+http://familytv.net:80/live/ricardinho/ricardinho/39865.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO FULLHD" tvg-logo="" group-title="CANAIS: RELIGIOSOS",TV PAI ETERNO FULLHD
+http://familytv.net:80/live/ricardinho/ricardinho/39864.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TV RA TIM BUM HD***" tvg-name="TV RA TIM BUM HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/TV_R%C3%A1_Tim_Bum_%282012%29.png/revision/latest/scale-to-width-down/340?cb=20160511061708" group-title="CANAIS: INFANTIS",TV RA TIM BUM HD
+http://familytv.net:80/live/ricardinho/ricardinho/40046.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo BA | HD" tvg-name="TV SUBAE (GLOBO BAHIA HD)" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",TV SUBAE (GLOBO BAHIA HD)
+http://familytv.net:80/live/ricardinho/ricardinho/58431.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo São Jose do Rio Preto" tvg-name="TV TEM SÃO JOSÉ DO RIO PRETO" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",TV TEM SÃO JOSÉ DO RIO PRETO
+http://familytv.net:80/live/ricardinho/ricardinho/98928.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="TV VERDES MARES HD CE" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",TV VERDES MARES HD CE
+http://familytv.net:80/live/ricardinho/ricardinho/58440.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE ACTION HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcaction.png" group-title="CANAIS: FILMES ESPECIAIS ",TVCINE ACTION HD
+http://familytv.net:80/live/ricardinho/ricardinho/67932.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE EDITION" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcedition.png" group-title="CANAIS: FILMES ESPECIAIS ",TVCINE EDITION
+http://familytv.net:80/live/ricardinho/ricardinho/58145.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE EMOTION" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcemotion.png" group-title="CANAIS: FILMES ESPECIAIS ",TVCINE EMOTION
+http://familytv.net:80/live/ricardinho/ricardinho/58146.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE TOP" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvctop.png" group-title="CANAIS: FILMES ESPECIAIS ",TVCINE TOP
+http://familytv.net:80/live/ricardinho/ricardinho/58147.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Universal TV | HD" tvg-name="UNIVERSAL CHANNEL HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Universal_TV_HD_Logo_2018.png" group-title="CANAIS: FILMES E SERIES",UNIVERSAL CHANNEL HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57183.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Universal TV | HD" tvg-name="UNIVERSAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Universal_TV_HD_Logo_2018.png" group-title="CANAIS: FILMES E SERIES",UNIVERSAL TV HD
+http://familytv.net:80/live/ricardinho/ricardinho/40110.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="VH1 MegaHits | HD" tvg-name="VH1 HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_vh1-megahits_m.png" group-title="CANAIS: VARIEDADES",VH1 HD
+http://familytv.net:80/live/ricardinho/ricardinho/40071.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="VH1 MegaHits | HD" tvg-name="VH1 HD*" tvg-logo="https://www.lamac.org/system/channels/logos/000/000/129/original/pic_vh1.png?1522179256" group-title="CANAIS: VARIEDADES",VH1 HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57218.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Viva | HD" tvg-name="VIVA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/viva2018.png" group-title="CANAIS: VARIEDADES",VIVA HD
+http://familytv.net:80/live/ricardinho/ricardinho/40072.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Viva | HD" tvg-name="VIVA HD²" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/e/ef/Canal_viva_logo_.png" group-title="CANAIS: VARIEDADES",VIVA HD²
+http://familytv.net:80/live/ricardinho/ricardinho/45502.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Warner TV | HD" tvg-name="WARNER CHANNEL HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/warner-channel-logo-png-transparent.png" group-title="CANAIS: FILMES E SERIES",WARNER CHANNEL HD
+http://familytv.net:80/live/ricardinho/ricardinho/40112.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Warner TV | HD" tvg-name="WARNER CHANNEL HD*" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/warner-channel-logo-png-transparent.png" group-title="CANAIS: FILMES E SERIES",WARNER CHANNEL HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57184.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Webrádio Rotina Jau / SP - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio40073_1474468149.jpg" group-title="RADIOS",Webrádio Rotina Jau / SP - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41541.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zoomoo_logo.png" group-title="CANAIS: INFANTIS",ZOOMOO HD*
+http://familytv.net:80/live/ricardinho/ricardinho/57208.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO HD³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zoomoo_logo.png" group-title="CANAIS: INFANTIS",ZOOMOO HD³
+http://familytv.net:80/live/ricardinho/ricardinho/40048.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name=" Rádio Antena 1 94.7 FM São Paulo / SP - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio9505_1574106966.jpg" group-title="RADIOS", Rádio Antena 1 94.7 FM São Paulo / SP - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41521.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name=" Rádio Cultura Caipira Caxias Do Sul / RS - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio99500_1548161404.jpg" group-title="RADIOS", Rádio Cultura Caipira Caxias Do Sul / RS - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41524.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name=" Rádio Studio Souto - Electro House" tvg-logo="https://img.radios.com.br/radio/md/radio33760_1485197319.jpg" group-title="RADIOS", Rádio Studio Souto - Electro House
+http://familytv.net:80/live/ricardinho/ricardinho/41488.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name=" Rádio Studio Souto - Roberto Carlos" tvg-logo="https://img.radios.com.br/radio/md/radio38812_1470245536.jpg" group-title="RADIOS", Rádio Studio Souto - Roberto Carlos
+http://familytv.net:80/live/ricardinho/ricardinho/41502.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name=" Rádio Studio Souto - Rock Clássico" tvg-logo="https://img.radios.com.br/radio/md/radio38849_1470257916.jpg" group-title="RADIOS", Rádio Studio Souto - Rock Clássico
+http://familytv.net:80/live/ricardinho/ricardinho/41503.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name=" Rádio Super Difusora 94.5 FM Itapetininga / SP - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio32300_1562333209.jpg" group-title="RADIOS", Rádio Super Difusora 94.5 FM Itapetininga / SP - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41517.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name=" Rádio Top Campeira Santa Cruz Do Sul / RS - Brasil" tvg-logo="https://img.radios.com.br/radio/md/radio137635_1582032976.jpg" group-title="RADIOS", Rádio Top Campeira Santa Cruz Do Sul / RS - Brasil
+http://familytv.net:80/live/ricardinho/ricardinho/41534.ts|user-agent=GoPlayer
