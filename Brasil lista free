@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="--------------@by_flecha_negra--------LISTA GRATIS-----------" tvg-logo="https://i.imgur.com/DZfGQwI.jpg",-------@by_flecha_negra--------LiSTA GRÁTIS SE FICAR OFFLINE ESPERAR ATÉ FICAR ON UM ABRAÇO
+#EXTINF:-1 tvg-id="--------------@by_flecha_negra--------LISTA GRATIS-----------" tvg-name="--------------@by_flecha_negra--------LISTA GRATIS-----------" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" group-title="-------@by_flecha_negra--------",LiSTA GRÁTIS SE FICAR OFFLINE ESPERAR ATÉ FICAR ON UM ABRAÇO
+
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA HD [1]" tvg-logo="https://canaismax.com/img/canais/338e9e28ca7d1ed5dcc46a241576e062.png" group-title="REALITY SHOW",A FAZENDA HD [1]
