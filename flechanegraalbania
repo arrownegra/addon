@@ -1,0 +1,223 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="--------------@by_flecha_negra--------LISTA GRATIS-----------" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" group-title="-------@by_flecha_negra--------",--------------@by_flecha_negra--------LISTA GRATIS-----------LiSTA GRÁTIS SE FICAR OFFLINE ESPERAR ATÉ FICAR ON UM ABRAÇO
+
+#EXTINF:-1 tvg-id="" tvg-name="AL : A1 REPORT" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : A1 REPORT
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93111.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : ABC NEWS" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : ABC NEWS
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93113.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : B ACTION" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : B ACTION
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93114.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : B HITS" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : B HITS
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93117.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : B THRILLER" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : B THRILLER
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93118.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : BABY TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : BABY TV
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98672.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : BANG BANG" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : BANG BANG
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93119.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : BBF MUSIC" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : BBF MUSIC
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93120.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : BESA TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : BESA TV
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93121.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : DIELLI TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : DIELLI TV
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93126.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : DISCOVERY CHANNEL" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : DISCOVERY CHANNEL
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93124.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : DUKAGJINI" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : DUKAGJINI
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93127.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : ELRODI TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : ELRODI TV
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93128.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : EXPLORER HISTORI" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : EXPLORER HISTORI
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93131.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : EXPLORER NATYRA" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : EXPLORER NATYRA
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93129.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : EXPLORER SHKENC" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : EXPLORER SHKENC
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93130.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : FILM AKSION" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : FILM AKSION
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98671.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : FILM AUTOR" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : FILM AUTOR
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93133.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : FILM DRAMË" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : FILM DRAMË
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93136.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : FILM DY" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : FILM DY
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93135.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : FILM HITS" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : FILM HITS
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93138.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : FILM NJE" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : FILM NJE
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93139.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : FILM THRILLER" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : FILM THRILLER
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93137.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : FILMBOX EXTRA" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : FILMBOX EXTRA
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93132.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : FIRST CHANNEL" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : FIRST CHANNEL
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93141.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : FOLK" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : FOLK
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93142.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : FOX CRIME" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : FOX CRIME
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93143.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : FOX LIFE" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : FOX LIFE
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98670.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : FOX MOVIES" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : FOX MOVIES
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93145.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : GJURMË SHQIPËTARE TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : GJURMË SHQIPËTARE TV
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93146.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : JUG TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : JUG TV
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93148.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : JUNIOR TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : JUNIOR TV
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93125.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : KLAN KOSOVA" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : KLAN KOSOVA
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93154.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : KLAN PLUS" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : KLAN PLUS
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93155.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : KLAN TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : KLAN TV
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93153.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : KTV HD" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : KTV HD
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93159.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : KUJTESA SPORT 1" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : KUJTESA SPORT 1
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93156.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : KUJTESA SPORT 2" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : KUJTESA SPORT 2
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93157.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : KUJTESA SPORT 4" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : KUJTESA SPORT 4
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98669.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : LEXO TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : LEXO TV
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93161.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : LIVING" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : LIVING
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93160.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : MEKKE LIVE" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : MEKKE LIVE
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93162.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : MUSE" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : MUSE
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93166.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : MY MUSIC" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : MY MUSIC
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93165.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : NEWS 24" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : NEWS 24
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98668.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : ON TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : ON TV
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98661.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : ORA NEWS" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : ORA NEWS
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93168.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : PEACE TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : PEACE TV
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93152.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : RROKUM TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : RROKUM TV
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93151.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : RTK 1" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : RTK 1
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93178.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : RTK 2" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : RTK 2
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93179.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : RTK 3" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : RTK 3
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93180.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : RTK 4" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : RTK 4
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93181.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : RTSH" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : RTSH
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93177.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : RTSH 3" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : RTSH 3
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93150.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : RTSH MUZIKE" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : RTSH MUZIKE
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98666.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : RTSH SPORT" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : RTSH SPORT
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93182.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : RTV FONTANA" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : RTV FONTANA
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93170.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : RTV ISLAM" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : RTV ISLAM
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98667.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : RTV21" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : RTV21
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93171.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : RTV21 JUNIOR" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : RTV21 JUNIOR
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93172.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : RTV21 MAQEDONIA" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : RTV21 MAQEDONIA
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93173.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : RTV21 MIX" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : RTV21 MIX
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93174.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : RTV21 PLUS" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : RTV21 PLUS
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93175.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : RTV21 POPULLORE" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : RTV21 POPULLORE
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93176.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : SKY AKSION" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : SKY AKSION
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93218.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : SKY DRAMË" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : SKY DRAMË
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93219.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : SKY KOMEDI" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : SKY KOMEDI
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93220.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : SKY NOVELA" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : SKY NOVELA
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93222.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : SKY SHKENCE" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : SKY SHKENCE
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93223.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : SOFIA TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : SOFIA TV
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93217.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : STV FOLK" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : STV FOLK
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98660.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : SUPER SPORT 2" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : SUPER SPORT 2
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93107.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : SUPER SPORT 3" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : SUPER SPORT 3
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93108.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : SUPER SPORT 4" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : SUPER SPORT 4
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93109.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : SUPER SPORT 5" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : SUPER SPORT 5
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93110.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : SUPERSONIC TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : SUPERSONIC TV
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93224.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : T" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : T
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93212.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : T7" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : T7
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93147.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TETOVA TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TETOVA TV
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93214.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TIP TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TIP TV
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93184.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TIRANA TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TIRANA TV
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98665.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TOP CHANNEL" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TOP CHANNEL
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93185.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TOP ESTRADA TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TOP ESTRADA TV
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93163.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TOP NEWS" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TOP NEWS
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93213.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TRING COMEDY" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TRING COMEDY
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93188.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TRING FANTASY" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TRING FANTASY
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93189.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TRING HISTORY" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TRING HISTORY
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93190.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TRING JOLLY" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TRING JOLLY
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98664.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TRING KIDS" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TRING KIDS
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93193.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TRING LIFE" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TRING LIFE
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93192.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TRING PLANET" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TRING PLANET
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93194.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TRING SHQIP" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TRING SHQIP
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93195.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TRING SMILE" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TRING SMILE
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93197.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TRING SPORT 1" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TRING SPORT 1
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93199.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TRING SPORT 2" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TRING SPORT 2
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93200.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TRING SPORT 3" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TRING SPORT 3
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93201.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TRING SPORT 4" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TRING SPORT 4
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93202.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TRING SPORT NEWS" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TRING SPORT NEWS
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93203.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TRING SUPER" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TRING SUPER
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93196.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TRING WORLD" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TRING WORLD
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93198.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TURBO CHANNEL" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TURBO CHANNEL
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93204.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TV KUTIA" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TV KUTIA
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98662.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TV MITROVICA" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TV MITROVICA
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98663.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TV OPOJA" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TV OPOJA
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93206.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : TV USKANA" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : TV USKANA
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93208.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : VIZION PLUS" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : VIZION PLUS
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93226.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : VIZION PLUS TOKSOR" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : VIZION PLUS TOKSOR
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93227.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : ZICO TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : ZICO TV
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93225.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL : ÇUFO" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png" group-title="ALBANIAN TV",AL : ÇUFO
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93123.ts|user-agent=GoPlayer
