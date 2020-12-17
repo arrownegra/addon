@@ -1,193 +1,569 @@
+
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="--------------@by_flecha_negra--------LISTA GRATIS-----------" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" group-title="-------@by_flecha_negra--------",--------------@by_flecha_negra--------LISTA GRATIS-----------LiSTA GRÁTIS SE FICAR OFFLINE ESPERAR ATÉ FICAR ON UM ABRAÇO
 
 
-#EXTM3U
-#EXTINF:-1,AL: A1 SHQIPTARE
-http://bestever.vodiptv.org:83/live/00569971/14721146/376593.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: ABC News
-http://bestever.vodiptv.org:83/live/00569971/14721146/376592.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Action
-http://bestever.vodiptv.org:83/live/00569971/14721146/376641.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: ALB ANIME
-http://bestever.vodiptv.org:83/live/00569971/14721146/376591.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: ALB Hindi
-http://bestever.vodiptv.org:83/live/00569971/14721146/376640.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: ALB UK
-http://bestever.vodiptv.org:83/live/00569971/14721146/376590.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: ALB UK HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376589.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Anime
-http://bestever.vodiptv.org:83/live/00569971/14721146/376639.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: BB11 Muzik
-http://bestever.vodiptv.org:83/live/00569971/14721146/376638.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Burimi TV
-http://bestever.vodiptv.org:83/live/00569971/14721146/376637.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Camel TV
-http://bestever.vodiptv.org:83/live/00569971/14721146/376636.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Classic
-http://bestever.vodiptv.org:83/live/00569971/14721146/376635.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Cufo
-http://bestever.vodiptv.org:83/live/00569971/14721146/376588.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: DIGI GOLD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376634.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: EXP HISTORI
-http://bestever.vodiptv.org:83/live/00569971/14721146/376633.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Explorer Histori
-http://bestever.vodiptv.org:83/live/00569971/14721146/376587.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Explorer Natyra
-http://bestever.vodiptv.org:83/live/00569971/14721146/376586.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Explorer Shkenc
-http://bestever.vodiptv.org:83/live/00569971/14721146/376585.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Film Aksion HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376584.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Film Autor HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376583.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: FILM DRAME
-http://bestever.vodiptv.org:83/live/00569971/14721146/376632.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: FILM DY
-http://bestever.vodiptv.org:83/live/00569971/14721146/376631.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: FILM GOLD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376630.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Film Hits|user-agent=GoPlayer HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376582.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Film Komedi HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376581.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Film Nje HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376580.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: FILM THRILLER
-http://bestever.vodiptv.org:83/live/00569971/14721146/376629.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: First TV
-http://bestever.vodiptv.org:83/live/00569971/14721146/376579.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Humor 1
-http://bestever.vodiptv.org:83/live/00569971/14721146/376628.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Humor 2
-http://bestever.vodiptv.org:83/live/00569971/14721146/376627.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: JOLLY HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376626.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: JUG TV
-http://bestever.vodiptv.org:83/live/00569971/14721146/376578.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Junior TV
-http://bestever.vodiptv.org:83/live/00569971/14721146/376577.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Kino Action
-http://bestever.vodiptv.org:83/live/00569971/14721146/376576.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Kino Comedy HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376575.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Kino Dark HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376574.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Kino Family HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376573.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Kino Premiere 1 HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376572.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Kino Premiere 2 HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376571.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Kino Premiere 3 HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376570.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Kino ROMANCE HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376569.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Kino Scifi HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376568.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Kino Thriller HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376567.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: KLAN HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376566.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: KLAN Kosova HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376565.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Klan Kosova Toksor
-http://bestever.vodiptv.org:83/live/00569971/14721146/376564.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: KLAN Plus
-http://bestever.vodiptv.org:83/live/00569971/14721146/376563.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: KTV HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376625.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Living HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376562.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Nat Geographic
-http://bestever.vodiptv.org:83/live/00569971/14721146/376624.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: NATIONAL GEOGRAPHIC
-http://bestever.vodiptv.org:83/live/00569971/14721146/376561.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: National Geographic(1)
-http://bestever.vodiptv.org:83/live/00569971/14721146/376623.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: News 24
-http://bestever.vodiptv.org:83/live/00569971/14721146/376560.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: News 24(1)
-http://bestever.vodiptv.org:83/live/00569971/14721146/376622.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: ON TV
-http://bestever.vodiptv.org:83/live/00569971/14721146/376539.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: ORA News
-http://bestever.vodiptv.org:83/live/00569971/14721146/376559.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Ora News(1)
-http://bestever.vodiptv.org:83/live/00569971/14721146/376621.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Plus HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376558.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: PLUS HD(Digitalb)
-http://bestever.vodiptv.org:83/live/00569971/14721146/376557.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Report TV
-http://bestever.vodiptv.org:83/live/00569971/14721146/376556.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Rrokum TV
-http://bestever.vodiptv.org:83/live/00569971/14721146/376555.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: RTK
-http://bestever.vodiptv.org:83/live/00569971/14721146/376620.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Rts|user-agent=GoPlayerH Sport HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376554.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: RTV 21
-http://bestever.vodiptv.org:83/live/00569971/14721146/376619.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: RTV 21 Junior
-http://bestever.vodiptv.org:83/live/00569971/14721146/376553.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: RTV 21 Maqedonia
-http://bestever.vodiptv.org:83/live/00569971/14721146/376552.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: RTV 21 Mix HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376551.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: RTV 21 Popullore
-http://bestever.vodiptv.org:83/live/00569971/14721146/376550.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Sky Aksion
-http://bestever.vodiptv.org:83/live/00569971/14721146/376549.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Sky AL Max
-http://bestever.vodiptv.org:83/live/00569971/14721146/376538.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Sky Comedy
-http://bestever.vodiptv.org:83/live/00569971/14721146/376548.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Sky Histori
-http://bestever.vodiptv.org:83/live/00569971/14721146/376537.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Sky Komedi
-http://bestever.vodiptv.org:83/live/00569971/14721146/376536.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Sky Shkence
-http://bestever.vodiptv.org:83/live/00569971/14721146/376547.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Super Sport 1
-http://bestever.vodiptv.org:83/live/00569971/14721146/376618.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Super Sport 1 HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376535.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Super Sport 2
-http://bestever.vodiptv.org:83/live/00569971/14721146/376617.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Super Sport 2 HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376534.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Super Sport 3 HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376533.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Super Sport 4 HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376532.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Super Sport Kosovo 1 HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376616.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Super Sport Kosovo 2 HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376615.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: SuperSport 3
-http://bestever.vodiptv.org:83/live/00569971/14721146/376614.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: SuperSport 4
-http://bestever.vodiptv.org:83/live/00569971/14721146/376613.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: SuperSport 5
-http://bestever.vodiptv.org:83/live/00569971/14721146/376612.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: SuperSport 6
-http://bestever.vodiptv.org:83/live/00569971/14721146/376611.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Tele Sport
-http://bestever.vodiptv.org:83/live/00569971/14721146/376546.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Thriller
-http://bestever.vodiptv.org:83/live/00569971/14721146/376610.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Top Channel HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376609.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Top News
-http://bestever.vodiptv.org:83/live/00569971/14721146/376594.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Vizion Plus HD
-http://bestever.vodiptv.org:83/live/00569971/14721146/376542.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Vizion Plus Toksor
-http://bestever.vodiptv.org:83/live/00569971/14721146/376541.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: WesterN
-http://bestever.vodiptv.org:83/live/00569971/14721146/376595.ts|user-agent=GoPlayer
-#EXTINF:-1,AL: Zjarr TV
-http://bestever.vodiptv.org:83/live/00569971/14721146/376540.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="===== ALBANIA =====" tvg-logo="" group-title="EU ALBANIA",===== ALBANIA =====
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95884.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: CORONA VIRUS INFO" tvg-logo="" group-title="EU ALBANIA",ALB: CORONA VIRUS INFO
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95885.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TOP CHANNEL HD" tvg-logo="" group-title="EU ALBANIA",ALB: TOP CHANNEL HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95886.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TOP CHANNEL 4K" tvg-logo="" group-title="EU ALBANIA",ALB: TOP CHANNEL 4K
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95887.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: KLAN TV HD" tvg-logo="" group-title="EU ALBANIA",ALB: KLAN TV HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95888.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: KLAN 4K" tvg-logo="" group-title="EU ALBANIA",ALB: KLAN 4K
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95889.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: KLAN PLUS 4K" tvg-logo="" group-title="EU ALBANIA",ALB: KLAN PLUS 4K
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95890.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: KLAN PLUS HD" tvg-logo="" group-title="EU ALBANIA",ALB: KLAN PLUS HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95891.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: VIZION PLUS HD" tvg-logo="" group-title="EU ALBANIA",ALB: VIZION PLUS HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95892.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: VIZION PLUS 4K" tvg-logo="" group-title="EU ALBANIA",ALB: VIZION PLUS 4K
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95893.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: KLAN KOSOVA HD" tvg-logo="" group-title="EU ALBANIA",ALB: KLAN KOSOVA HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95894.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: KLAN MACEDONIA" tvg-logo="" group-title="EU ALBANIA",ALB: KLAN MACEDONIA
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95895.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ALSAT M HD" tvg-logo="" group-title="EU ALBANIA",ALB: ALSAT M HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95896.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ALSAT M" tvg-logo="" group-title="EU ALBANIA",ALB: ALSAT M
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95897.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: IN TV" tvg-logo="" group-title="EU ALBANIA",ALB: IN TV
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95898.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH 1" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH 1
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95899.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH 1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH 1 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95900.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH 2 HD" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH 2 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95901.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH 3" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH 3
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95902.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH MUZIKE" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH MUZIKE
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95903.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH SHQIP" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH SHQIP
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95904.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH GJIROKASTRA" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH GJIROKASTRA
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95905.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH 24 HD" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH 24 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95906.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH PLUS" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH PLUS
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95907.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH KUVEND" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH KUVEND
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95908.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH SPORT HD" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH SPORT HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95909.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTK 1" tvg-logo="" group-title="EU ALBANIA",ALB: RTK 1
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95910.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTK 1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: RTK 1 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95911.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTK 2" tvg-logo="" group-title="EU ALBANIA",ALB: RTK 2
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95912.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTK 3" tvg-logo="" group-title="EU ALBANIA",ALB: RTK 3
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95913.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTK 4" tvg-logo="" group-title="EU ALBANIA",ALB: RTK 4
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95914.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV21" tvg-logo="" group-title="EU ALBANIA",ALB: RTV21
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95915.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV21 HD" tvg-logo="" group-title="EU ALBANIA",ALB: RTV21 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95916.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV21 MAQEDONIA" tvg-logo="" group-title="EU ALBANIA",ALB: RTV21 MAQEDONIA
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95917.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: KTV KOHAVISION" tvg-logo="" group-title="EU ALBANIA",ALB: KTV KOHAVISION
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95918.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV DUKAGJINI" tvg-logo="" group-title="EU ALBANIA",ALB: TV DUKAGJINI
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95919.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: T7" tvg-logo="" group-title="EU ALBANIA",ALB: T7
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95920.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV ERA" tvg-logo="" group-title="EU ALBANIA",ALB: TV ERA
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95921.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: MRT 2" tvg-logo="" group-title="EU ALBANIA",ALB: MRT 2
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95922.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SHENJA TV" tvg-logo="" group-title="EU ALBANIA",ALB: SHENJA TV
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95923.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FIRST TV" tvg-logo="" group-title="EU ALBANIA",ALB: FIRST TV
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95924.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV21 MIX" tvg-logo="" group-title="EU ALBANIA",ALB: RTV21 MIX
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95925.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV21 PLUS" tvg-logo="" group-title="EU ALBANIA",ALB: RTV21 PLUS
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95926.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV21 NEWSBIZ HD" tvg-logo="" group-title="EU ALBANIA",ALB: RTV21 NEWSBIZ HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95927.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV KOHA HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV KOHA HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95928.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV CHANNEL SHOKDER" tvg-logo="" group-title="EU ALBANIA",ALB: TV CHANNEL SHOKDER
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95929.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV MITROVICA" tvg-logo="" group-title="EU ALBANIA",ALB: TV MITROVICA
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95930.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SYRI VISION" tvg-logo="" group-title="EU ALBANIA",ALB: SYRI VISION
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95931.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV LLAPI" tvg-logo="" group-title="EU ALBANIA",ALB: TV LLAPI
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95932.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: BESA TV" tvg-logo="" group-title="EU ALBANIA",ALB: BESA TV
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95933.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV PREZRINI" tvg-logo="" group-title="EU ALBANIA",ALB: TV PREZRINI
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95934.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RROKUM TV" tvg-logo="" group-title="EU ALBANIA",ALB: RROKUM TV
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95935.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV GLOBI" tvg-logo="" group-title="EU ALBANIA",ALB: TV GLOBI
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95936.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV2 GOSTIVAR" tvg-logo="" group-title="EU ALBANIA",ALB: TV2 GOSTIVAR
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95937.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV TETOVA HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV TETOVA HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95938.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: STAR PLUS SHKODER HD" tvg-logo="" group-title="EU ALBANIA",ALB: STAR PLUS SHKODER HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95939.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV KOPLIKU HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV KOPLIKU HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95940.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV JUG" tvg-logo="" group-title="EU ALBANIA",ALB: TV JUG
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95941.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV LIRIA" tvg-logo="" group-title="EU ALBANIA",ALB: TV LIRIA
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95942.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TEMA TV" tvg-logo="" group-title="EU ALBANIA",ALB: TEMA TV
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95943.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="===== LAJME =====" tvg-logo="" group-title="EU ALBANIA",===== LAJME =====
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95944.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TOP NEWS" tvg-logo="" group-title="EU ALBANIA",ALB: TOP NEWS
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95945.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ABC NEWS" tvg-logo="" group-title="EU ALBANIA",ALB: ABC NEWS
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95946.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ORA NEWS HD" tvg-logo="" group-title="EU ALBANIA",ALB: ORA NEWS HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95947.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: NEWS 24" tvg-logo="" group-title="EU ALBANIA",ALB: NEWS 24
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95948.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FAX NEWS" tvg-logo="" group-title="EU ALBANIA",ALB: FAX NEWS
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95949.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: REPORT TV" tvg-logo="" group-title="EU ALBANIA",ALB: REPORT TV
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95950.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: A2 4K" tvg-logo="" group-title="EU ALBANIA",ALB: A2 4K
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95951.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: KANALI 7" tvg-logo="" group-title="EU ALBANIA",ALB: KANALI 7
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95952.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TNT TV" tvg-logo="" group-title="EU ALBANIA",ALB: TNT TV
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95953.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRIBUNA CHANNEL" tvg-logo="" group-title="EU ALBANIA",ALB: TRIBUNA CHANNEL
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95954.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ART CHANNEL HD" tvg-logo="" group-title="EU ALBANIA",ALB: ART CHANNEL HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95955.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: EURONEWS ALB:*ANIA" tvg-logo="" group-title="EU ALBANIA",ALB: EURONEWS ALB:*ANIA
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95956.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SCAN TV" tvg-logo="" group-title="EU ALBANIA",ALB: SCAN TV
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95957.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="===== FEMIJE =====" tvg-logo="" group-title="EU ALBANIA",===== FEMIJE =====
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95958.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: BUBRRECI TV HD" tvg-logo="" group-title="EU ALBANIA",ALB: BUBRRECI TV HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95959.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: BANG BANG" tvg-logo="" group-title="EU ALBANIA",ALB: BANG BANG
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95960.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: CUFO" tvg-logo="" group-title="EU ALBANIA",ALB: CUFO
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95961.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: BABY TV" tvg-logo="" group-title="EU ALBANIA",ALB: BABY TV
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95962.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: JUNIOR" tvg-logo="" group-title="EU ALBANIA",ALB: JUNIOR
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95963.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING KIDS" tvg-logo="" group-title="EU ALBANIA",ALB: TRING KIDS
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95964.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING TRING" tvg-logo="" group-title="EU ALBANIA",ALB: TRING TRING
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95965.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TIP TV" tvg-logo="" group-title="EU ALBANIA",ALB: TIP TV
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95966.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SOFIA" tvg-logo="" group-title="EU ALBANIA",ALB: SOFIA
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95967.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SOLE TV" tvg-logo="" group-title="EU ALBANIA",ALB: SOLE TV
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95968.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q TOM & JERRY" tvg-logo="" group-title="EU ALBANIA",ALB: Q TOM & JERRY
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95969.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV21 JUNIOR" tvg-logo="" group-title="EU ALBANIA",ALB: RTV21 JUNIOR
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95970.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH FEMIJE" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH FEMIJE
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95971.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: PJ MASKS" tvg-logo="" group-title="EU ALBANIA",ALB: PJ MASKS
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95972.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: BOOMERANG" tvg-logo="" group-title="EU ALBANIA",ALB: BOOMERANG
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95973.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ART PRINCE KIDS" tvg-logo="" group-title="EU ALBANIA",ALB: ART PRINCE KIDS
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95974.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: CARTOON NETWORK" tvg-logo="" group-title="EU ALBANIA",ALB: CARTOON NETWORK
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95975.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: DRAGON BALL Z HD" tvg-logo="" group-title="EU ALBANIA",ALB: DRAGON BALL Z HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95976.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: BARBIE TV" tvg-logo="" group-title="EU ALBANIA",ALB: BARBIE TV
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95977.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: BABY BOX TV HD" tvg-logo="" group-title="EU ALBANIA",ALB: BABY BOX TV HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95978.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: DUCK TV" tvg-logo="" group-title="EU ALBANIA",ALB: DUCK TV
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95979.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: JIM JAM" tvg-logo="" group-title="EU ALBANIA",ALB: JIM JAM
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95980.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: KIDS BOX" tvg-logo="" group-title="EU ALBANIA",ALB: KIDS BOX
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95981.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: MR BEAN" tvg-logo="" group-title="EU ALBANIA",ALB: MR BEAN
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95982.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: PERRALLA BOX" tvg-logo="" group-title="EU ALBANIA",ALB: PERRALLA BOX
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95983.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: KENGE PER FEMIJE" tvg-logo="" group-title="EU ALBANIA",ALB: KENGE PER FEMIJE
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95984.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: NINULLA PER GJUME" tvg-logo="" group-title="EU ALBANIA",ALB: NINULLA PER GJUME
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95985.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="===== DIGITALB FILM =====" tvg-logo="" group-title="EU ALBANIA",===== DIGITALB FILM =====
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95986.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM NJE HD" tvg-logo="" group-title="EU ALBANIA",ALB: FILM NJE HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95987.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM DY HD" tvg-logo="" group-title="EU ALBANIA",ALB: FILM DY HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95988.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM AKSION" tvg-logo="" group-title="EU ALBANIA",ALB: FILM AKSION
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95989.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM HITS" tvg-logo="" group-title="EU ALBANIA",ALB: FILM HITS
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95990.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM AUTOR" tvg-logo="" group-title="EU ALBANIA",ALB: FILM AUTOR
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95991.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM DRAMA" tvg-logo="" group-title="EU ALBANIA",ALB: FILM DRAMA
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95992.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM KOMEDI" tvg-logo="" group-title="EU ALBANIA",ALB: FILM KOMEDI
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95993.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM THRILLER" tvg-logo="" group-title="EU ALBANIA",ALB: FILM THRILLER
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95994.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM FAMILY HD" tvg-logo="" group-title="EU ALBANIA",ALB: FILM FAMILY HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95995.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM STINET" tvg-logo="" group-title="EU ALBANIA",ALB: FILM STINET
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95996.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM T HD" tvg-logo="" group-title="EU ALBANIA",ALB: FILM T HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95997.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TDC" tvg-logo="" group-title="EU ALBANIA",ALB: TDC
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95998.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TDC 4K" tvg-logo="" group-title="EU ALBANIA",ALB: TDC 4K
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/95999.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: EURO FILM" tvg-logo="" group-title="EU ALBANIA",ALB: EURO FILM
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96000.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: EURO FILM 1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: EURO FILM 1 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96001.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: EURO FILM 2 HD" tvg-logo="" group-title="EU ALBANIA",ALB: EURO FILM 2 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96002.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: EURO FILM 4 HD" tvg-logo="" group-title="EU ALBANIA",ALB: EURO FILM 4 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96003.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: EURO FILM 3 HD" tvg-logo="" group-title="EU ALBANIA",ALB: EURO FILM 3 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96004.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: DIGI GOLD 1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: DIGI GOLD 1 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96005.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: DIGI GOLD 2 HD" tvg-logo="" group-title="EU ALBANIA",ALB: DIGI GOLD 2 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96006.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: DIGI GOLD 3 HD" tvg-logo="" group-title="EU ALBANIA",ALB: DIGI GOLD 3 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96007.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: DIGI GOLD 4 HD" tvg-logo="" group-title="EU ALBANIA",ALB: DIGI GOLD 4 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96008.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: DIGI GOLD ACTION HD" tvg-logo="" group-title="EU ALBANIA",ALB: DIGI GOLD ACTION HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96009.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: DIGI GOLD CINEMA HD" tvg-logo="" group-title="EU ALBANIA",ALB: DIGI GOLD CINEMA HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96010.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: DIGI GOLD ATLANTIC HD" tvg-logo="" group-title="EU ALBANIA",ALB: DIGI GOLD ATLANTIC HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96011.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: DIGI GOLD FAMILY HD" tvg-logo="" group-title="EU ALBANIA",ALB: DIGI GOLD FAMILY HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96012.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="===== TRING FILM =====" tvg-logo="" group-title="EU ALBANIA",===== TRING FILM =====
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96013.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING ACTION" tvg-logo="" group-title="EU ALBANIA",ALB: TRING ACTION
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96014.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING FANTASY" tvg-logo="" group-title="EU ALBANIA",ALB: TRING FANTASY
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96015.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING LIFE" tvg-logo="" group-title="EU ALBANIA",ALB: TRING LIFE
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96016.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING COMEDY" tvg-logo="" group-title="EU ALBANIA",ALB: TRING COMEDY
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96017.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING SUPER" tvg-logo="" group-title="EU ALBANIA",ALB: TRING SUPER
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96018.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING 3" tvg-logo="" group-title="EU ALBANIA",ALB: TRING 3
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96019.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING SMILE" tvg-logo="" group-title="EU ALBANIA",ALB: TRING SMILE
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96020.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING SHQIP" tvg-logo="" group-title="EU ALBANIA",ALB: TRING SHQIP
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96021.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING JOLLY" tvg-logo="" group-title="EU ALBANIA",ALB: TRING JOLLY
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96022.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: LIVING HD" tvg-logo="" group-title="EU ALBANIA",ALB: LIVING HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96023.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FOX CHANNEL" tvg-logo="" group-title="EU ALBANIA",ALB: FOX CHANNEL
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96024.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FOX LIFE" tvg-logo="" group-title="EU ALBANIA",ALB: FOX LIFE
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96025.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: COMEDY CENTRAL EXTRA" tvg-logo="" group-title="EU ALBANIA",ALB: COMEDY CENTRAL EXTRA
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96026.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: KANAL D DRAMA" tvg-logo="" group-title="EU ALBANIA",ALB: KANAL D DRAMA
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96027.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="===== Q PREMIERE FILM =====" tvg-logo="" group-title="EU ALBANIA",===== Q PREMIERE FILM =====
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96028.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q AKSION HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q AKSION HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96029.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q CINEMA HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q CINEMA HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96030.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q FAMILY HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q FAMILY HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96031.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q FILM HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q FILM HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96032.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q FANTASY HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q FANTASY HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96033.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q KOMEDI HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q KOMEDI HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96034.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q HINDI HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q HINDI HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96035.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q DRAMA HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q DRAMA HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96036.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q WESTERN HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q WESTERN HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96037.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q SERIAL HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q SERIAL HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96038.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q QESHU HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q QESHU HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96039.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q HUMOR HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q HUMOR HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96040.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q STUPCAT HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q STUPCAT HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96041.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q HORROR HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q HORROR HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96042.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV PLISI ACTION HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV PLISI ACTION HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96043.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV PLISI COMEDY HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV PLISI COMEDY HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96044.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV PLISI FANTASY HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV PLISI FANTASY HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96045.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV PLISI HORROR HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV PLISI HORROR HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96046.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV PLISI THRILLER HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV PLISI THRILLER HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96047.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV PLISI HUMOR HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV PLISI HUMOR HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96048.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="===== X FILM =====" tvg-logo="" group-title="EU ALBANIA",===== X FILM =====
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96049.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X PREMIUM 1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: X PREMIUM 1 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96050.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X PREMIUM 2 HD" tvg-logo="" group-title="EU ALBANIA",ALB: X PREMIUM 2 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96051.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X PREMIUM 3 HD" tvg-logo="" group-title="EU ALBANIA",ALB: X PREMIUM 3 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96052.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X PREMIUM 4 HD" tvg-logo="" group-title="EU ALBANIA",ALB: X PREMIUM 4 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96053.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X ACTION HD" tvg-logo="" group-title="EU ALBANIA",ALB: X ACTION HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96054.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X COMEDY HD" tvg-logo="" group-title="EU ALBANIA",ALB: X COMEDY HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96055.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X FAMILY HD" tvg-logo="" group-title="EU ALBANIA",ALB: X FAMILY HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96056.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X DRAMA HD" tvg-logo="" group-title="EU ALBANIA",ALB: X DRAMA HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96057.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X THRILLER HD" tvg-logo="" group-title="EU ALBANIA",ALB: X THRILLER HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96058.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X FILMA 24 HD" tvg-logo="" group-title="EU ALBANIA",ALB: X FILMA 24 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96059.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X DARK HD" tvg-logo="" group-title="EU ALBANIA",ALB: X DARK HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96060.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X ROMANCE HD" tvg-logo="" group-title="EU ALBANIA",ALB: X ROMANCE HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96061.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X SCI-FI HD" tvg-logo="" group-title="EU ALBANIA",ALB: X SCI-FI HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96062.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X WESTERN HD" tvg-logo="" group-title="EU ALBANIA",ALB: X WESTERN HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96063.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X HUMOR HD" tvg-logo="" group-title="EU ALBANIA",ALB: X HUMOR HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96064.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="===== KUJTESA FILM =====" tvg-logo="" group-title="EU ALBANIA",===== KUJTESA FILM =====
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96065.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILMBOX PREMIUM" tvg-logo="" group-title="EU ALBANIA",ALB: FILMBOX PREMIUM
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96066.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILMBOX ARTHOUSE" tvg-logo="" group-title="EU ALBANIA",ALB: FILMBOX ARTHOUSE
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96067.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILMBOX EXTRA" tvg-logo="" group-title="EU ALBANIA",ALB: FILMBOX EXTRA
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96068.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILMBOX PLUS" tvg-logo="" group-title="EU ALBANIA",ALB: FILMBOX PLUS
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96069.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ART KINO 1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: ART KINO 1 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96070.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ART KINO 2 HD" tvg-logo="" group-title="EU ALBANIA",ALB: ART KINO 2 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96071.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ART KINO 3 HD" tvg-logo="" group-title="EU ALBANIA",ALB: ART KINO 3 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96072.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ART EPISODE HD" tvg-logo="" group-title="EU ALBANIA",ALB: ART EPISODE HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96073.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ART PRIME HD" tvg-logo="" group-title="EU ALBANIA",ALB: ART PRIME HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96074.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FIRST ACTION HD" tvg-logo="" group-title="EU ALBANIA",ALB: FIRST ACTION HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96075.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FIRST COMEDY HD" tvg-logo="" group-title="EU ALBANIA",ALB: FIRST COMEDY HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96076.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FIRST DRAME HD" tvg-logo="" group-title="EU ALBANIA",ALB: FIRST DRAME HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96077.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FIRST FAMILY HD" tvg-logo="" group-title="EU ALBANIA",ALB: FIRST FAMILY HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96078.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FIRST THRILLER HD" tvg-logo="" group-title="EU ALBANIA",ALB: FIRST THRILLER HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96079.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="===== DOKUMENTARE =====" tvg-logo="" group-title="EU ALBANIA",===== DOKUMENTARE =====
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96080.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: EXPLORER SHKENCE" tvg-logo="" group-title="EU ALBANIA",ALB: EXPLORER SHKENCE
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96081.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: EXPLORER NATYRA" tvg-logo="" group-title="EU ALBANIA",ALB: EXPLORER NATYRA
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96082.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: EXPLORER HISTORI" tvg-logo="" group-title="EU ALBANIA",ALB: EXPLORER HISTORI
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96083.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING HISTORY" tvg-logo="" group-title="EU ALBANIA",ALB: TRING HISTORY
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96084.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING PLANET" tvg-logo="" group-title="EU ALBANIA",ALB: TRING PLANET
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96085.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING WORLD" tvg-logo="" group-title="EU ALBANIA",ALB: TRING WORLD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96086.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X HISTORI HD" tvg-logo="" group-title="EU ALBANIA",ALB: X HISTORI HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96087.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X NATYRA HD" tvg-logo="" group-title="EU ALBANIA",ALB: X NATYRA HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96088.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X SHKENCE HD" tvg-logo="" group-title="EU ALBANIA",ALB: X SHKENCE HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96089.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SKY PLANET" tvg-logo="" group-title="EU ALBANIA",ALB: SKY PLANET
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96090.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SKY SHKENCE" tvg-logo="" group-title="EU ALBANIA",ALB: SKY SHKENCE
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96091.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: DISCOVERY TURBO EXTRA" tvg-logo="" group-title="EU ALBANIA",ALB: DISCOVERY TURBO EXTRA
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96092.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: DISCOVERY SCIENCE" tvg-logo="" group-title="EU ALBANIA",ALB: DISCOVERY SCIENCE
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96093.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: DISCOVERY CHANNEL" tvg-logo="" group-title="EU ALBANIA",ALB: DISCOVERY CHANNEL
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96094.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="EU ALBANIA",ALB: NATIONAL GEOGRAPHIC
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96095.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: NATIONAL GEOGRAPHIC WILD" tvg-logo="" group-title="EU ALBANIA",ALB: NATIONAL GEOGRAPHIC WILD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96096.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: HISTORY CHANNEL" tvg-logo="" group-title="EU ALBANIA",ALB: HISTORY CHANNEL
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96097.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: 24 KITCHEN" tvg-logo="" group-title="EU ALBANIA",ALB: 24 KITCHEN
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96098.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TLC" tvg-logo="" group-title="EU ALBANIA",ALB: TLC
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96099.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="===== MUSIC =====" tvg-logo="" group-title="EU ALBANIA",===== MUSIC =====
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96100.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: MY MUSIC HD" tvg-logo="" group-title="EU ALBANIA",ALB: MY MUSIC HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96101.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q FOLK HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q FOLK HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96102.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q QIFTELI HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q QIFTELI HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96103.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X MUSIC HITS HD" tvg-logo="" group-title="EU ALBANIA",ALB: X MUSIC HITS HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96104.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X POPULLORE HD" tvg-logo="" group-title="EU ALBANIA",ALB: X POPULLORE HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96105.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: X CIFTELI HD" tvg-logo="" group-title="EU ALBANIA",ALB: X CIFTELI HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96106.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV PLISI QIFTELI HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV PLISI QIFTELI HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96107.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV21 POPULLORE" tvg-logo="" group-title="EU ALBANIA",ALB: RTV21 POPULLORE
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96108.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q JETA HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q JETA HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96109.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SYRI BLU MUSIC HD" tvg-logo="" group-title="EU ALBANIA",ALB: SYRI BLU MUSIC HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96110.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV OPOJA HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV OPOJA HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96111.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ZICO TV" tvg-logo="" group-title="EU ALBANIA",ALB: ZICO TV
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96112.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: A-MOL TV" tvg-logo="" group-title="EU ALBANIA",ALB: A-MOL TV
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96113.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV PLISI HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV PLISI HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96114.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TOP ESTRADA MUSIC HD" tvg-logo="" group-title="EU ALBANIA",ALB: TOP ESTRADA MUSIC HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96115.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ALB" tvg-logo="" group-title="EU ALBANIA",ALB: ALB
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96116.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV ZJARR" tvg-logo="" group-title="EU ALBANIA",ALB: TV ZJARR
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96117.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SKY MUSIC HD" tvg-logo="" group-title="EU ALBANIA",ALB: SKY MUSIC HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96118.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB:  ASHKALI ISLAM" tvg-logo="" group-title="EU ALBANIA",ALB:  ASHKALI ISLAM
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96119.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: MIX MUSIC HD" tvg-logo="" group-title="EU ALBANIA",ALB: MIX MUSIC HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96120.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ELRODI" tvg-logo="" group-title="EU ALBANIA",ALB: ELRODI
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96121.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FOLK" tvg-logo="" group-title="EU ALBANIA",ALB: FOLK
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96122.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FOLK+" tvg-logo="" group-title="EU ALBANIA",ALB: FOLK+
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96123.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="===== SUPER SPORTS =====" tvg-logo="" group-title="EU ALBANIA",===== SUPER SPORTS =====
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96124.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 1 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96125.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 1 4K" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 1 4K
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96126.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 2 HD" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 2 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96127.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 2 4K" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 2 4K
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96128.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 3 HD" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 3 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96129.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 3 4K" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 3 4K
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96130.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 4 HD" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 4 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96131.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 4 4K (ONLY MATCH TIME)" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 4 4K (ONLY MATCH TIME)
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96132.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 5 HD" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 5 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96133.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 5 4K" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 5 4K
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96134.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 6 HD" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 6 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96135.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 6 4K" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 6 4K
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96136.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 7 HD" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 7 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96137.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 7 4K" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 7 4K
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96138.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="===== TRING SPORTS =====" tvg-logo="" group-title="EU ALBANIA",===== TRING SPORTS =====
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96139.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING SPORT NEWS" tvg-logo="" group-title="EU ALBANIA",ALB: TRING SPORT NEWS
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96140.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING SPORT NEWS HD" tvg-logo="" group-title="EU ALBANIA",ALB: TRING SPORT NEWS HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96141.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING SPORT 1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: TRING SPORT 1 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96142.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING SPORT 2 HD" tvg-logo="" group-title="EU ALBANIA",ALB: TRING SPORT 2 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96143.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING SPORT 3 HD (ONLY MATCH TIME)" tvg-logo="" group-title="EU ALBANIA",ALB: TRING SPORT 3 HD (ONLY MATCH TIME)
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96144.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING SPORT 4 HD (ONLY MATCH TIME)" tvg-logo="" group-title="EU ALBANIA",ALB: TRING SPORT 4 HD (ONLY MATCH TIME)
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96145.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="===== KUJTESA SPORT =====" tvg-logo="" group-title="EU ALBANIA",===== KUJTESA SPORT =====
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96146.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: K SPORT 1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: K SPORT 1 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96147.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: K SPORT 2 HD" tvg-logo="" group-title="EU ALBANIA",ALB: K SPORT 2 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96148.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: K SPORT 3 HD" tvg-logo="" group-title="EU ALBANIA",ALB: K SPORT 3 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96149.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: K SPORT 4 HD" tvg-logo="" group-title="EU ALBANIA",ALB: K SPORT 4 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96150.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: K SPORT 5 HD" tvg-logo="" group-title="EU ALBANIA",ALB: K SPORT 5 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96151.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="==== ART MOTION SPORT =====" tvg-logo="" group-title="EU ALBANIA",==== ART MOTION SPORT =====
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96152.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ART SPORT 1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: ART SPORT 1 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96153.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ART SPORT 2 HD" tvg-logo="" group-title="EU ALBANIA",ALB: ART SPORT 2 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96154.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ART SPORT 3 HD" tvg-logo="" group-title="EU ALBANIA",ALB: ART SPORT 3 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96155.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: FIGHT BOX HD" tvg-logo="" group-title="EU ALBANIA",ALB: FIGHT BOX HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96156.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: EDGE SPORT 4K" tvg-logo="" group-title="EU ALBANIA",ALB: EDGE SPORT 4K
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96157.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="===== ISLAM =====" tvg-logo="" group-title="EU ALBANIA",===== ISLAM =====
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96158.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ISLAM CHANNEL 1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: ISLAM CHANNEL 1 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96159.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ISLAM CHANNEL 2 HD" tvg-logo="" group-title="EU ALBANIA",ALB: ISLAM CHANNEL 2 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96160.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ISLAM CHANNEL 3 HD" tvg-logo="" group-title="EU ALBANIA",ALB: ISLAM CHANNEL 3 HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96161.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: ISLAM CHANNEL FEMIJE HD" tvg-logo="" group-title="EU ALBANIA",ALB: ISLAM CHANNEL FEMIJE HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96162.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: MIX ISLAM HD" tvg-logo="" group-title="EU ALBANIA",ALB: MIX ISLAM HD
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96163.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV PENDIMI TV" tvg-logo="" group-title="EU ALBANIA",ALB: RTV PENDIMI TV
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96164.ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-ID="" tvg-name="ALB: PEACE TV" tvg-logo="" group-title="EU ALBANIA",ALB: PEACE TV
+http://sansatplus.net:25461/live/VYJkbau4HSe1wsp/xXv7PqVvlpDc6Dq/96165.ts|user-agent=GoPlayer
