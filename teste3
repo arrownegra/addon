@@ -2,1024 +2,1024 @@
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====BRASIL=====[/B][/COLOR]
 #EXTM3U
 #EXTINF:-1,•●★--- BR canales ----★●•
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19287.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19287.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | A&E FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19286.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19286.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | A&E HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19285.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19285.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | A&E SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19284.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19284.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | AMC FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19283.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19283.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | AMC HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19282.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19282.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | AMC SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19281.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19281.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Animal Planet FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19280.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19280.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Animal Planet HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19279.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19279.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Animal Planet SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19278.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19278.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Arte 1 FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19277.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19277.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Arte 1 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19276.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19276.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Arte 1 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19275.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19275.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | AXN FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19274.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19274.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | AXN HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19273.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19273.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | AXN SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19272.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19272.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | BabyTV HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19271.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19271.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | BabyTV SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19270.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19270.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Band Campinas SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19269.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19269.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Band News FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19268.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19268.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Band News HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19267.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19267.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Band News SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19266.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19266.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Band Nordeste SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19265.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19265.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Band SP FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19264.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19264.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Band SP HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19263.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19263.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Band SP SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19262.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19262.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Band Sports FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19261.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19261.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Band Sports HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19260.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19260.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Band Sports SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19259.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19259.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Bis HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19258.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19258.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Bis SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19257.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19257.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Boomerang FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19256.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19256.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Boomerang HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19255.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19255.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Boomerang SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19254.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19254.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Canal Brasil FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19253.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19253.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Canal Brasil HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19252.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19252.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Canal Brasil SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19251.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19251.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Canal do Boi SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19250.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19250.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Canal Rural SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19249.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19249.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Canal Sony FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19248.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19248.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Canal Sony HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19247.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19247.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Canal Sony SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19246.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19246.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Canção Nova HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19245.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19245.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cartoon Network FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19244.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19244.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cartoon Network HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19243.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19243.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cartoon Network SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19242.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19242.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Chef TV HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19241.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19241.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Pipoca 1
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19240.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19240.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Pipoca 10
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19239.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19239.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Pipoca 11
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19238.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19238.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Pipoca 12
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19237.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19237.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Pipoca 13
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19236.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19236.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Pipoca 14
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19235.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19235.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Pipoca 2
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19234.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19234.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Pipoca 3
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19233.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19233.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Pipoca 4
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19232.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19232.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Pipoca 5
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19231.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19231.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Pipoca 6
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19230.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19230.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Pipoca 7
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19229.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19229.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Pipoca 8
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19228.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19228.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Pipoca 9
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19227.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19227.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Sky 01 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19226.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19226.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Sky 02 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19225.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19225.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Sky 03 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19224.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19224.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Sky 04 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19223.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19223.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Sky 05 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19222.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19222.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Sky 06 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19221.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19221.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Sky 07 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19220.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19220.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Sky 08 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19219.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19219.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Sky 09 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19218.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19218.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cine Sky 10 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19217.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19217.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cinemax FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19216.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19216.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cinemax HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19215.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19215.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cinemax SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19214.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19214.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | CNN Brasil HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19213.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19213.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | CNN Brasil SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19212.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19212.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Combate FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19211.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19211.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Combate HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19210.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19210.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Combate SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19209.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19209.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Comedy Central FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19208.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19208.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Comedy Central HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19207.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19207.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Comedy Central SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19206.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19206.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Conmebol TV 01
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19205.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19205.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Conmebol TV 02
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19204.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19204.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Conmebol TV 03
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19203.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19203.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Conmebol TV 04
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19202.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19202.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Copa Catarinense 1
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19201.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19201.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Copa Catarinense 2
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19200.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19200.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Copa Catarinense 3
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19199.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19199.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Copa Catarinense 4
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19198.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19198.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Copa do Nordeste 2020 #1
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19197.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19197.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Copa do Nordeste 2020 #2
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19196.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19196.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Copa do Nordeste 2020 #3
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19195.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19195.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Copa do Nordeste 2020 #4
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19194.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19194.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cultura SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19193.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19193.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Curta! HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19192.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19192.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Curta! SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19191.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19191.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | DAZN #1
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19190.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19190.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | DAZN #2
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19189.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19189.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | DAZN #3
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19188.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19188.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | DAZN #4
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19187.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19187.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery Channel FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19186.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19186.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery Channel HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19185.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19185.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery Channel SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19184.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19184.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery H&H FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19183.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19183.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery H&H HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19182.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19182.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery H&H SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19181.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19181.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery Kids FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19180.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19180.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery Kids HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19179.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19179.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery Kids SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19178.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19178.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery Science FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19177.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19177.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery Science HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19176.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19176.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery Science SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19175.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19175.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery Theater FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19174.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19174.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery Theater HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19173.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19173.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery Theater SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19172.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19172.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery TLC FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19171.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19171.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery TLC HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19170.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19170.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery TLC SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19169.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19169.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery Turbo FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19168.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19168.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery Turbo HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19167.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19167.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery Turbo SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19166.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19166.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery World FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19165.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19165.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery World HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19164.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19164.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery World SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19163.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19163.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Disney Channel FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19162.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19162.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Disney Channel HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19161.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19161.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Disney Channel SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19160.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19160.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Disney Junior FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19159.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19159.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Disney Junior HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19158.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19158.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Disney Junior SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19157.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19157.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Disney XD FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19156.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19156.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Disney XD HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19155.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19155.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Disney XD SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19154.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19154.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | E! HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19153.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19153.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | E! SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19152.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19152.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Ei Plus 1 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19151.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19151.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Ei Plus 2 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19150.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19150.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Ei Plus 3 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19149.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19149.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Ei Plus 4 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19148.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19148.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Ei Plus 5 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19147.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19147.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Ei Plus 6 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19146.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19146.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | ESPN 2 FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19145.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19145.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | ESPN 2 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19144.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19144.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | ESPN 2 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19143.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19143.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | ESPN Brasil FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19142.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19142.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | ESPN Brasil HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19141.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19141.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | ESPN Brasil SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19140.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19140.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | ESPN Extra HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19139.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19139.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | ESPN Extra SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19138.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19138.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | ESPN FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19137.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19137.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | ESPN HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19136.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19136.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | ESPN SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19135.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19135.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fashion TV HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19134.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19134.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Film & Arts SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19133.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19133.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fish TV HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19132.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19132.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fish TV SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19131.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19131.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Food Network FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19130.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19130.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Food Network HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19129.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19129.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Food Network SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19128.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19128.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fox FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19127.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19127.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fox HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19126.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19126.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fox Life FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19125.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19125.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fox Life HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19124.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19124.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fox Life SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19123.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19123.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fox Premium 1 FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19122.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19122.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fox Premium 1 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19121.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19121.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fox Premium 1 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19120.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19120.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fox Premium 2 FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19119.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19119.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fox Premium 2 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19118.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19118.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fox Premium 2 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19117.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19117.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fox SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19116.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19116.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fox Sports 2 FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19115.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19115.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fox Sports 2 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19114.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19114.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fox Sports 2 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19113.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19113.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fox Sports FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19112.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19112.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fox Sports HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19111.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19111.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fox Sports SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19110.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19110.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Futura HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19109.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19109.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Futura SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19108.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19108.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | FX FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19107.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19107.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | FX HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19106.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19106.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | FX SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19105.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19105.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo Anhanguera Goiania HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19104.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19104.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo Brasilia SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19103.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19103.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo Centro América Cuiaba SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19102.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19102.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo EPTV Araraquara SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19101.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19101.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo EPTV Campinas HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19100.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19100.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo EPTV Campinas SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19099.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19099.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo EPTV Ribeirao Preto HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19098.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19098.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo EPTV Ribeirao Preto SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19097.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19097.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo EPTV São Carlos SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19096.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19096.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo Inter TV Cabugi RN HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19095.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19095.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo Internacional SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19094.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19094.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo InterTV Alto Litoral HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19093.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19093.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo InterTV Cabugi RN SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19092.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19092.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo InterTV Serra Mar HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19091.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19091.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo Minas HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19090.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19090.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo Minas SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19089.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19089.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo News FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19088.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19088.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo News HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19087.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19087.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo News SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19086.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19086.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo Nordeste FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19085.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19085.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo Nordeste HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19084.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19084.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo Nordeste SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19083.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19083.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo NSC Blumenau HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19082.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19082.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo NSC Florianópolis HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19081.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19081.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo NSC Joinville SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19080.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19080.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo Petrolina HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19079.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19079.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo RBS Porto Alegre HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19078.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19078.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo RBS Porto Alegre SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19077.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19077.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo RBS TV Pelotas HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19076.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19076.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo Rede Amazonica SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19075.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19075.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo Rede Amazônica Boa Vista HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19074.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19074.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo Rede Amazônica Boa Vista SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19073.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19073.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo Rede Amazônica Porto Velho HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19072.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19072.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo Rede Amazônica Porto Velho SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19071.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19071.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo Rede Amazônica Rio Branco HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19070.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19070.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo Rede Amazônica Rio Branco SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19069.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19069.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo RJ FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19068.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19068.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo RJ HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19067.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19067.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo RJ SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19066.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19066.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo RPC Cascavel HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19065.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19065.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo RPC Curitiba HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19064.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19064.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo RPC Curitiba SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19063.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19063.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo RPC Maringa SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19062.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19062.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo RPC Paranavaí SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19061.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19061.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo SP FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19060.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19060.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo SP HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19059.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19059.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo SP SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19058.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19058.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Anhanguera Luziânia HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19057.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19057.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Anhanguera Rio Verde HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19056.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19056.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Bahia FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19055.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19055.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Bahia HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19054.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19054.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Bahia SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19053.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19053.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Cabo Branco HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19052.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19052.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Cabo Branco SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19051.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19051.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Caruaru (Asa Branca) HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19050.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19050.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Diario HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19049.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19049.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Fronteira Paulista HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19048.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19048.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Fronteira Paulista SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19047.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19047.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Gazeta Norte HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19046.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19046.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Gazeta Sul ES HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19045.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19045.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Gazeta Vitória HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19044.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19044.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Integração Araxa SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19043.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19043.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Integração Uberaba HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19042.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19042.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Itapetininga SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19041.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19041.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Liberal Belém HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19040.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19040.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Mirante SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19039.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19039.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Morena SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19038.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19038.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Nacional HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19037.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19037.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Sergipe HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19036.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19036.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Tem Bauru SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19035.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19035.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Tem Rio Preto HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19034.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19034.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Tem Sorocaba HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19033.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19033.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Tribuna Santos HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19032.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19032.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Tribuna Santos SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19031.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19031.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Vanguarda São José dos Campos SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19030.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19030.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Vanguarda Taubaté HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19029.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19029.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Verdes Mares Fortaleza HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19028.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19028.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Gloob FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19027.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19027.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Gloob HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19026.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19026.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Gloob SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19025.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19025.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Gloobinho HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19024.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19024.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Gloobinho SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19023.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19023.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | GNT HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19022.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19022.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | GNT SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19021.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19021.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | H2 FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19020.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19020.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | H2 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19019.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19019.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | H2 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19018.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19018.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO 2 FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19017.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19017.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO 2 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19016.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19016.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO 2 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19015.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19015.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO Family FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19014.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19014.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO Family HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19013.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19013.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO Family SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19012.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19012.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19011.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19011.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19010.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19010.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO Mundi HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19009.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19009.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO Mundi SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19008.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19008.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO Plus FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19007.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19007.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO Plus HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19006.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19006.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO Plus SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19005.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19005.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO Plus*e HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19004.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19004.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO Plus*e SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19003.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19003.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO Pop HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19002.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19002.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO Pop SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19001.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19001.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19000.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19000.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO Signature FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18999.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18999.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO Signature HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18998.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18998.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO Signature SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18997.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18997.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO Xtreme FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18996.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18996.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO Xtreme HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18995.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18995.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO Xtreme SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18994.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18994.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HGTV FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18993.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18993.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HGTV HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18992.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18992.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HGTV SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18991.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18991.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | History Channel FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18990.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18990.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | History Channel HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18989.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18989.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | History Channel SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18988.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18988.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | ID Investigação Discovery FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18987.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18987.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | ID Investigação Discovery HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18986.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18986.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | ID Investigação Discovery SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18985.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18985.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Lifetime FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18984.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18984.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Lifetime HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18983.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18983.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Lifetime SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18982.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18982.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Lovenature HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18981.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18981.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Mais Globosat FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18980.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18980.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Mais Globosat HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18979.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18979.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Mais Globosat SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18978.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18978.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Megapix FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18977.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18977.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Megapix HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18976.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18976.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Megapix SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18975.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18975.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | MTV FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18974.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18974.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | MTV HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18973.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18973.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | MTV Live FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18972.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18972.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | MTV Live HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18971.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18971.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | MTV SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18970.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18970.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Multishow FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18969.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18969.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Multishow HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18968.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18968.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Multishow SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18967.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18967.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Music Box Brazil SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18966.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18966.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Mycujoo TV
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18965.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18965.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Nat Geo Kids FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18964.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18964.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Nat Geo Kids HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18963.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18963.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Nat Geo Kids SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18962.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18962.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Nat Geo Wild FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18961.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18961.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Nat Geo Wild HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18960.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18960.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Nat Geo Wild SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18959.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18959.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | National Geographic FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18958.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18958.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | National Geographic HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18957.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18957.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | National Geographic SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18956.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18956.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | NHK HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18955.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18955.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | NHK SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18954.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18954.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Nick Jr FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18953.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18953.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Nick Jr HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18952.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18952.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Nick Jr SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18951.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18951.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Nickelodeon FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18950.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18950.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Nickelodeon HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18949.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18949.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Nickelodeon SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18948.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18948.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Novo Tempo SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18947.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18947.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | OFF HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18946.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18946.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | OFF SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18945.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18945.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Paramount Channel FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18944.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18944.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Paramount Channel HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18943.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18943.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Paramount Channel SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18942.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18942.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | PlayTV SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18941.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18941.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Polishop TV SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18940.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18940.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Premiere 1 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18939.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18939.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Premiere 2 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18938.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18938.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Premiere 2 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18937.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18937.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Premiere 3 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18936.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18936.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Premiere 3 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18935.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18935.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Premiere 4 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18934.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18934.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Premiere 4 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18933.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18933.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Premiere 5 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18932.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18932.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Premiere 5 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18931.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18931.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Premiere 6 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18930.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18930.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Premiere 6 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18929.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18929.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Premiere 7 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18928.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18928.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Premiere 8 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18927.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18927.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Premiere Clubes FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18926.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18926.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Premiere Clubes HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18925.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18925.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Premiere Clubes SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18924.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18924.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Prime Box Brazil SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18923.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18923.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Record Bahia HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18922.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18922.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Record Brasília HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18921.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18921.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Record Campinas HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18920.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18920.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Record Campinas SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18919.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18919.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Record Esp. Santo SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18918.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18918.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Record MG HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18917.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18917.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Record News FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18916.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18916.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Record News HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18915.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18915.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Record News SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18914.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18914.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Record RJ HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18913.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18913.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Record RS HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18912.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18912.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Record SP FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18911.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18911.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Record SP HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18910.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18910.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Record SP SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18909.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18909.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Record TV Vitoria SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18908.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18908.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Rede Familia SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18907.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18907.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Rede Gospel SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18906.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18906.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Rede Vida HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18905.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18905.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Rede Vida SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18904.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18904.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | RedeTV! HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18903.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18903.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | RedeTV! SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18902.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18902.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Rit TV SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18901.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18901.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SBT Goias HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18900.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18900.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SBT Nordeste HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18899.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18899.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SBT RJ HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18898.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18898.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SBT SP FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18897.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18897.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SBT SP HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18896.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18896.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SBT SP SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18895.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18895.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SBT TV Aratu Bahia HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18894.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18894.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SBT TV Jornal Pernambuco SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18893.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18893.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Shoptime SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18892.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18892.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Space FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18891.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18891.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Space HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18890.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18890.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Space SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18889.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18889.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SporTV 2 FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18888.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18888.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SporTV 2 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18887.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18887.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SporTV 2 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18886.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18886.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SporTV 3 FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18885.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18885.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SporTV 3 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18884.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18884.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SporTV 3 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18883.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18883.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SporTV FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18882.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18882.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SporTV HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18881.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18881.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SporTV SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18880.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18880.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Studio Universal FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18879.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18879.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Studio Universal HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18878.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18878.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Studio Universal SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18877.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18877.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SyFy FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18876.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18876.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SyFy HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18875.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18875.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SyFy SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18874.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18874.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TBS SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18873.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18873.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TCM SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18872.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18872.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Telecine Action FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18871.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18871.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Telecine Action HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18870.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18870.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Telecine Action SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18869.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18869.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Telecine Cult FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18868.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18868.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Telecine Cult HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18867.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18867.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Telecine Cult SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18866.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18866.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Telecine Fun FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18865.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18865.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Telecine Fun HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18864.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18864.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Telecine Fun SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18863.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18863.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Telecine Pipoca FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18862.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18862.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Telecine Pipoca HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18861.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18861.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Telecine Pipoca SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18860.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18860.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Telecine Premium FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18859.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18859.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Telecine Premium HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18858.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18858.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Telecine Premium SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18857.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18857.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Telecine Touch FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18856.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18856.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Telecine Touch HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18855.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18855.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Telecine Touch SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18854.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18854.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TNT FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18853.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18853.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TNT HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18852.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18852.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TNT SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18851.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18851.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TNT Séries FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18850.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18850.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TNT Séries HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18849.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18849.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TNT Séries SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18848.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18848.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Tooncast FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18847.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18847.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Tooncast HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18846.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18846.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Tooncast SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18845.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18845.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Top TV SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18844.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18844.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Travel Box Brasil HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18843.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18843.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Travel Box Brasil SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18842.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18842.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TruTV HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18841.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18841.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TV Aparecida SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18840.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18840.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TV Gazeta HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18839.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18839.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TV Playkids
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18838.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18838.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TV Ra Tim Bum FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18837.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18837.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TV Ra Tim Bum HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18836.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18836.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TV Ra Tim Bum SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18835.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18835.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TV Século 21
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18834.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18834.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TVCine Action HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18833.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18833.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TVCine Edition HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18832.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18832.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TVCine Emotion HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18831.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18831.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TVCine Top HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18830.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18830.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Universal Channel FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18829.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18829.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Universal Channel HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18828.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18828.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Universal Channel SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18827.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18827.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | VH1 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18826.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18826.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | VH1 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18825.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18825.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Viva FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18824.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18824.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Viva HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18823.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18823.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Viva SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18822.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18822.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Warner Channel FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18821.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18821.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Warner Channel HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18820.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18820.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Warner Channel SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18819.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18819.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Woohoo HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18818.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18818.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Woohoo SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18817.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18817.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Zoomoo HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18816.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18816.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Zoomoo SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18815.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18815.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SBT Brasilia HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18814.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18814.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo RPC TV Foz do Iguacu HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18813.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18813.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo RPC TV Ponta Grossa HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18812.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18812.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo RPC TV Ponta Grossa SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18811.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18811.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Clube Teresina HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18810.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18810.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Clube Teresina SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18809.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18809.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Integracao Juiz de Fora SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18808.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18808.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo TV Rio Sul SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18807.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18807.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SBT BSB HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18806.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18806.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Record Goias SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18805.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18805.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Record Parana HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18804.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18804.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Record Belem HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18803.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18803.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo Rede Amazonica Macapa HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18802.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18802.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo NSC Chapeco HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18801.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18801.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo RBS Santa Maria HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18800.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18800.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Animal Planet 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18799.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18799.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Band 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18798.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18798.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Cartoon Network 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18797.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18797.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Combate 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18796.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18796.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Discovery Channel 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18795.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18795.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fox 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18794.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18794.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Fox Sports 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18793.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18793.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Gazeta 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18792.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18792.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Globo 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18791.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18791.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | HBO 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18790.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18790.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Megapix 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18789.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18789.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Multishow 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18788.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18788.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | National Geographics 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18787.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18787.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Premiere Clubes 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18786.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18786.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Record 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18785.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18785.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Rede TV! 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18784.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18784.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SBT 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18783.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18783.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Space 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18782.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18782.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | SporTV 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18781.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18781.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Telecine Pipoca 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18780.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18780.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | Telecine Premium 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18779.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18779.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TNT 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18778.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18778.ts|user-agent=GoPlayer
 #EXTINF:-1,BR | TNT Series 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18777.m3u8|user-agent=GoPlayer
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18777.ts|user-agent=GoPlayer
