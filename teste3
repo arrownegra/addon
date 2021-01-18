@@ -5,7 +5,7 @@
 plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/116995.m3u8
 #EXTINF:-1,♛Generalistas♛
 plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/116994.m3u8
-#EXTINF:-1,RTP ❶
+#EXTINF:-1,RTP 
 plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/2.m3u8
 #EXTINF:-1,RTP ① ᴴᴰ
 plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/3.m3u8
