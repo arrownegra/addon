@@ -1,1025 +1,619 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====BRASIL=====[/B][/COLOR]
 #EXTM3U
-#EXTINF:-1,•●★--- BR canales ----★●•
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19287|user-agent=GoPlayer
-#EXTINF:-1,BR | A&E FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19286|user-agent=GoPlayer
-#EXTINF:-1,BR | A&E HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19285|user-agent=GoPlayer
-#EXTINF:-1,BR | A&E SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19284|user-agent=GoPlayer
-#EXTINF:-1,BR | AMC FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19283|user-agent=GoPlayer
-#EXTINF:-1,BR | AMC HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19282|user-agent=GoPlayer
-#EXTINF:-1,BR | AMC SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19281|user-agent=GoPlayer
-#EXTINF:-1,BR | Animal Planet FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19280|user-agent=GoPlayer
-#EXTINF:-1,BR | Animal Planet HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19279|user-agent=GoPlayer
-#EXTINF:-1,BR | Animal Planet SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19278|user-agent=GoPlayer
-#EXTINF:-1,BR | Arte 1 FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19277|user-agent=GoPlayer
-#EXTINF:-1,BR | Arte 1 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19276|user-agent=GoPlayer
-#EXTINF:-1,BR | Arte 1 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19275|user-agent=GoPlayer
-#EXTINF:-1,BR | AXN FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19274|user-agent=GoPlayer
-#EXTINF:-1,BR | AXN HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19273|user-agent=GoPlayer
-#EXTINF:-1,BR | AXN SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19272|user-agent=GoPlayer
-#EXTINF:-1,BR | BabyTV HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19271|user-agent=GoPlayer
-#EXTINF:-1,BR | BabyTV SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19270|user-agent=GoPlayer
-#EXTINF:-1,BR | Band Campinas SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19269|user-agent=GoPlayer
-#EXTINF:-1,BR | Band News FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19268|user-agent=GoPlayer
-#EXTINF:-1,BR | Band News HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19267|user-agent=GoPlayer
-#EXTINF:-1,BR | Band News SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19266|user-agent=GoPlayer
-#EXTINF:-1,BR | Band Nordeste SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19265|user-agent=GoPlayer
-#EXTINF:-1,BR | Band SP FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19264|user-agent=GoPlayer
-#EXTINF:-1,BR | Band SP HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19263|user-agent=GoPlayer
-#EXTINF:-1,BR | Band SP SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19262|user-agent=GoPlayer
-#EXTINF:-1,BR | Band Sports FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19261|user-agent=GoPlayer
-#EXTINF:-1,BR | Band Sports HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19260|user-agent=GoPlayer
-#EXTINF:-1,BR | Band Sports SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19259|user-agent=GoPlayer
-#EXTINF:-1,BR | Bis HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19258|user-agent=GoPlayer
-#EXTINF:-1,BR | Bis SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19257|user-agent=GoPlayer
-#EXTINF:-1,BR | Boomerang FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19256|user-agent=GoPlayer
-#EXTINF:-1,BR | Boomerang HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19255|user-agent=GoPlayer
-#EXTINF:-1,BR | Boomerang SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19254|user-agent=GoPlayer
-#EXTINF:-1,BR | Canal Brasil FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19253|user-agent=GoPlayer
-#EXTINF:-1,BR | Canal Brasil HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19252|user-agent=GoPlayer
-#EXTINF:-1,BR | Canal Brasil SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19251|user-agent=GoPlayer
-#EXTINF:-1,BR | Canal do Boi SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19250|user-agent=GoPlayer
-#EXTINF:-1,BR | Canal Rural SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19249|user-agent=GoPlayer
-#EXTINF:-1,BR | Canal Sony FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19248|user-agent=GoPlayer
-#EXTINF:-1,BR | Canal Sony HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19247|user-agent=GoPlayer
-#EXTINF:-1,BR | Canal Sony SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19246|user-agent=GoPlayer
-#EXTINF:-1,BR | Canção Nova HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19245|user-agent=GoPlayer
-#EXTINF:-1,BR | Cartoon Network FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19244|user-agent=GoPlayer
-#EXTINF:-1,BR | Cartoon Network HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19243|user-agent=GoPlayer
-#EXTINF:-1,BR | Cartoon Network SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19242|user-agent=GoPlayer
-#EXTINF:-1,BR | Chef TV HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19241|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Pipoca 1
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19240|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Pipoca 10
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19239|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Pipoca 11
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19238|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Pipoca 12
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19237|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Pipoca 13
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19236|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Pipoca 14
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19235|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Pipoca 2
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19234|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Pipoca 3
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19233|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Pipoca 4
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19232|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Pipoca 5
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19231|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Pipoca 6
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19230|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Pipoca 7
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19229|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Pipoca 8
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19228|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Pipoca 9
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19227|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Sky 01 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19226|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Sky 02 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19225|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Sky 03 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19224|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Sky 04 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19223|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Sky 05 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19222|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Sky 06 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19221|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Sky 07 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19220|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Sky 08 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19219|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Sky 09 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19218|user-agent=GoPlayer
-#EXTINF:-1,BR | Cine Sky 10 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19217|user-agent=GoPlayer
-#EXTINF:-1,BR | Cinemax FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19216|user-agent=GoPlayer
-#EXTINF:-1,BR | Cinemax HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19215|user-agent=GoPlayer
-#EXTINF:-1,BR | Cinemax SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19214|user-agent=GoPlayer
-#EXTINF:-1,BR | CNN Brasil HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19213|user-agent=GoPlayer
-#EXTINF:-1,BR | CNN Brasil SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19212|user-agent=GoPlayer
-#EXTINF:-1,BR | Combate FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19211|user-agent=GoPlayer
-#EXTINF:-1,BR | Combate HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19210|user-agent=GoPlayer
-#EXTINF:-1,BR | Combate SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19209|user-agent=GoPlayer
-#EXTINF:-1,BR | Comedy Central FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19208|user-agent=GoPlayer
-#EXTINF:-1,BR | Comedy Central HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19207|user-agent=GoPlayer
-#EXTINF:-1,BR | Comedy Central SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19206|user-agent=GoPlayer
-#EXTINF:-1,BR | Conmebol TV 01
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19205|user-agent=GoPlayer
-#EXTINF:-1,BR | Conmebol TV 02
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19204|user-agent=GoPlayer
-#EXTINF:-1,BR | Conmebol TV 03
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19203|user-agent=GoPlayer
-#EXTINF:-1,BR | Conmebol TV 04
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19202|user-agent=GoPlayer
-#EXTINF:-1,BR | Copa Catarinense 1
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19201|user-agent=GoPlayer
-#EXTINF:-1,BR | Copa Catarinense 2
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19200|user-agent=GoPlayer
-#EXTINF:-1,BR | Copa Catarinense 3
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19199|user-agent=GoPlayer
-#EXTINF:-1,BR | Copa Catarinense 4
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19198|user-agent=GoPlayer
-#EXTINF:-1,BR | Copa do Nordeste 2020 #1
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19197|user-agent=GoPlayer
-#EXTINF:-1,BR | Copa do Nordeste 2020 #2
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19196|user-agent=GoPlayer
-#EXTINF:-1,BR | Copa do Nordeste 2020 #3
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19195|user-agent=GoPlayer
-#EXTINF:-1,BR | Copa do Nordeste 2020 #4
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19194|user-agent=GoPlayer
-#EXTINF:-1,BR | Cultura SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19193|user-agent=GoPlayer
-#EXTINF:-1,BR | Curta! HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19192|user-agent=GoPlayer
-#EXTINF:-1,BR | Curta! SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19191|user-agent=GoPlayer
-#EXTINF:-1,BR | DAZN #1
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19190|user-agent=GoPlayer
-#EXTINF:-1,BR | DAZN #2
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19189|user-agent=GoPlayer
-#EXTINF:-1,BR | DAZN #3
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19188|user-agent=GoPlayer
-#EXTINF:-1,BR | DAZN #4
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19187|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery Channel FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19186|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery Channel HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19185|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery Channel SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19184|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery H&H FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19183|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery H&H HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19182|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery H&H SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19181|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery Kids FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19180|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery Kids HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19179|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery Kids SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19178|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery Science FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19177|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery Science HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19176|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery Science SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19175|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery Theater FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19174|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery Theater HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19173|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery Theater SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19172|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery TLC FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19171|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery TLC HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19170|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery TLC SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19169|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery Turbo FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19168|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery Turbo HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19167|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery Turbo SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19166|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery World FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19165|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery World HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19164|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery World SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19163|user-agent=GoPlayer
-#EXTINF:-1,BR | Disney Channel FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19162|user-agent=GoPlayer
-#EXTINF:-1,BR | Disney Channel HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19161|user-agent=GoPlayer
-#EXTINF:-1,BR | Disney Channel SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19160|user-agent=GoPlayer
-#EXTINF:-1,BR | Disney Junior FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19159|user-agent=GoPlayer
-#EXTINF:-1,BR | Disney Junior HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19158|user-agent=GoPlayer
-#EXTINF:-1,BR | Disney Junior SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19157|user-agent=GoPlayer
-#EXTINF:-1,BR | Disney XD FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19156|user-agent=GoPlayer
-#EXTINF:-1,BR | Disney XD HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19155|user-agent=GoPlayer
-#EXTINF:-1,BR | Disney XD SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19154|user-agent=GoPlayer
-#EXTINF:-1,BR | E! HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19153|user-agent=GoPlayer
-#EXTINF:-1,BR | E! SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19152|user-agent=GoPlayer
-#EXTINF:-1,BR | Ei Plus 1 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19151|user-agent=GoPlayer
-#EXTINF:-1,BR | Ei Plus 2 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19150|user-agent=GoPlayer
-#EXTINF:-1,BR | Ei Plus 3 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19149|user-agent=GoPlayer
-#EXTINF:-1,BR | Ei Plus 4 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19148|user-agent=GoPlayer
-#EXTINF:-1,BR | Ei Plus 5 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19147|user-agent=GoPlayer
-#EXTINF:-1,BR | Ei Plus 6 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19146|user-agent=GoPlayer
-#EXTINF:-1,BR | ESPN 2 FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19145|user-agent=GoPlayer
-#EXTINF:-1,BR | ESPN 2 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19144|user-agent=GoPlayer
-#EXTINF:-1,BR | ESPN 2 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19143|user-agent=GoPlayer
-#EXTINF:-1,BR | ESPN Brasil FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19142|user-agent=GoPlayer
-#EXTINF:-1,BR | ESPN Brasil HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19141|user-agent=GoPlayer
-#EXTINF:-1,BR | ESPN Brasil SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19140|user-agent=GoPlayer
-#EXTINF:-1,BR | ESPN Extra HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19139|user-agent=GoPlayer
-#EXTINF:-1,BR | ESPN Extra SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19138|user-agent=GoPlayer
-#EXTINF:-1,BR | ESPN FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19137|user-agent=GoPlayer
-#EXTINF:-1,BR | ESPN HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19136|user-agent=GoPlayer
-#EXTINF:-1,BR | ESPN SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19135|user-agent=GoPlayer
-#EXTINF:-1,BR | Fashion TV HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19134|user-agent=GoPlayer
-#EXTINF:-1,BR | Film & Arts SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19133|user-agent=GoPlayer
-#EXTINF:-1,BR | Fish TV HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19132|user-agent=GoPlayer
-#EXTINF:-1,BR | Fish TV SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19131|user-agent=GoPlayer
-#EXTINF:-1,BR | Food Network FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19130|user-agent=GoPlayer
-#EXTINF:-1,BR | Food Network HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19129|user-agent=GoPlayer
-#EXTINF:-1,BR | Food Network SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19128|user-agent=GoPlayer
-#EXTINF:-1,BR | Fox FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19127|user-agent=GoPlayer
-#EXTINF:-1,BR | Fox HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19126|user-agent=GoPlayer
-#EXTINF:-1,BR | Fox Life FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19125|user-agent=GoPlayer
-#EXTINF:-1,BR | Fox Life HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19124|user-agent=GoPlayer
-#EXTINF:-1,BR | Fox Life SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19123|user-agent=GoPlayer
-#EXTINF:-1,BR | Fox Premium 1 FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19122|user-agent=GoPlayer
-#EXTINF:-1,BR | Fox Premium 1 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19121|user-agent=GoPlayer
-#EXTINF:-1,BR | Fox Premium 1 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19120|user-agent=GoPlayer
-#EXTINF:-1,BR | Fox Premium 2 FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19119|user-agent=GoPlayer
-#EXTINF:-1,BR | Fox Premium 2 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19118|user-agent=GoPlayer
-#EXTINF:-1,BR | Fox Premium 2 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19117|user-agent=GoPlayer
-#EXTINF:-1,BR | Fox SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19116|user-agent=GoPlayer
-#EXTINF:-1,BR | Fox Sports 2 FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19115|user-agent=GoPlayer
-#EXTINF:-1,BR | Fox Sports 2 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19114|user-agent=GoPlayer
-#EXTINF:-1,BR | Fox Sports 2 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19113|user-agent=GoPlayer
-#EXTINF:-1,BR | Fox Sports FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19112|user-agent=GoPlayer
-#EXTINF:-1,BR | Fox Sports HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19111|user-agent=GoPlayer
-#EXTINF:-1,BR | Fox Sports SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19110|user-agent=GoPlayer
-#EXTINF:-1,BR | Futura HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19109|user-agent=GoPlayer
-#EXTINF:-1,BR | Futura SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19108|user-agent=GoPlayer
-#EXTINF:-1,BR | FX FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19107|user-agent=GoPlayer
-#EXTINF:-1,BR | FX HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19106|user-agent=GoPlayer
-#EXTINF:-1,BR | FX SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19105|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo Anhanguera Goiania HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19104|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo Brasilia SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19103|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo Centro América Cuiaba SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19102|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo EPTV Araraquara SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19101|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo EPTV Campinas HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19100|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo EPTV Campinas SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19099|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo EPTV Ribeirao Preto HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19098|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo EPTV Ribeirao Preto SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19097|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo EPTV São Carlos SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19096|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo Inter TV Cabugi RN HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19095|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo Internacional SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19094|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo InterTV Alto Litoral HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19093|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo InterTV Cabugi RN SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19092|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo InterTV Serra Mar HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19091|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo Minas HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19090|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo Minas SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19089|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo News FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19088|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo News HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19087|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo News SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19086|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo Nordeste FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19085|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo Nordeste HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19084|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo Nordeste SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19083|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo NSC Blumenau HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19082|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo NSC Florianópolis HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19081|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo NSC Joinville SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19080|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo Petrolina HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19079|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo RBS Porto Alegre HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19078|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo RBS Porto Alegre SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19077|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo RBS TV Pelotas HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19076|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo Rede Amazonica SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19075|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo Rede Amazônica Boa Vista HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19074|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo Rede Amazônica Boa Vista SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19073|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo Rede Amazônica Porto Velho HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19072|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo Rede Amazônica Porto Velho SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19071|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo Rede Amazônica Rio Branco HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19070|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo Rede Amazônica Rio Branco SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19069|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo RJ FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19068|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo RJ HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19067|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo RJ SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19066|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo RPC Cascavel HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19065|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo RPC Curitiba HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19064|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo RPC Curitiba SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19063|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo RPC Maringa SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19062|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo RPC Paranavaí SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19061|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo SP FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19060|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo SP HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19059|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo SP SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19058|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Anhanguera Luziânia HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19057|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Anhanguera Rio Verde HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19056|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Bahia FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19055|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Bahia HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19054|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Bahia SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19053|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Cabo Branco HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19052|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Cabo Branco SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19051|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Caruaru (Asa Branca) HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19050|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Diario HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19049|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Fronteira Paulista HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19048|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Fronteira Paulista SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19047|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Gazeta Norte HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19046|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Gazeta Sul ES HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19045|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Gazeta Vitória HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19044|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Integração Araxa SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19043|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Integração Uberaba HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19042|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Itapetininga SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19041|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Liberal Belém HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19040|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Mirante SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19039|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Morena SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19038|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Nacional HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19037|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Sergipe HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19036|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Tem Bauru SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19035|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Tem Rio Preto HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19034|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Tem Sorocaba HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19033|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Tribuna Santos HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19032|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Tribuna Santos SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19031|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Vanguarda São José dos Campos SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19030|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Vanguarda Taubaté HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19029|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Verdes Mares Fortaleza HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19028|user-agent=GoPlayer
-#EXTINF:-1,BR | Gloob FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19027|user-agent=GoPlayer
-#EXTINF:-1,BR | Gloob HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19026|user-agent=GoPlayer
-#EXTINF:-1,BR | Gloob SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19025|user-agent=GoPlayer
-#EXTINF:-1,BR | Gloobinho HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19024|user-agent=GoPlayer
-#EXTINF:-1,BR | Gloobinho SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19023|user-agent=GoPlayer
-#EXTINF:-1,BR | GNT HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19022|user-agent=GoPlayer
-#EXTINF:-1,BR | GNT SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19021|user-agent=GoPlayer
-#EXTINF:-1,BR | H2 FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19020|user-agent=GoPlayer
-#EXTINF:-1,BR | H2 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19019|user-agent=GoPlayer
-#EXTINF:-1,BR | H2 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19018|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO 2 FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19017|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO 2 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19016|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO 2 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19015|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO Family FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19014|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO Family HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19013|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO Family SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19012|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19011|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19010|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO Mundi HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19009|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO Mundi SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19008|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO Plus FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19007|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO Plus HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19006|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO Plus SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19005|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO Plus*e HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19004|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO Plus*e SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19003|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO Pop HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19002|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO Pop SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19001|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/19000|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO Signature FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18999|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO Signature HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18998|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO Signature SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18997|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO Xtreme FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18996|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO Xtreme HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18995|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO Xtreme SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18994|user-agent=GoPlayer
-#EXTINF:-1,BR | HGTV FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18993|user-agent=GoPlayer
-#EXTINF:-1,BR | HGTV HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18992|user-agent=GoPlayer
-#EXTINF:-1,BR | HGTV SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18991|user-agent=GoPlayer
-#EXTINF:-1,BR | History Channel FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18990|user-agent=GoPlayer
-#EXTINF:-1,BR | History Channel HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18989|user-agent=GoPlayer
-#EXTINF:-1,BR | History Channel SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18988|user-agent=GoPlayer
-#EXTINF:-1,BR | ID Investigação Discovery FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18987|user-agent=GoPlayer
-#EXTINF:-1,BR | ID Investigação Discovery HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18986|user-agent=GoPlayer
-#EXTINF:-1,BR | ID Investigação Discovery SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18985|user-agent=GoPlayer
-#EXTINF:-1,BR | Lifetime FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18984|user-agent=GoPlayer
-#EXTINF:-1,BR | Lifetime HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18983|user-agent=GoPlayer
-#EXTINF:-1,BR | Lifetime SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18982|user-agent=GoPlayer
-#EXTINF:-1,BR | Lovenature HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18981|user-agent=GoPlayer
-#EXTINF:-1,BR | Mais Globosat FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18980|user-agent=GoPlayer
-#EXTINF:-1,BR | Mais Globosat HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18979|user-agent=GoPlayer
-#EXTINF:-1,BR | Mais Globosat SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18978|user-agent=GoPlayer
-#EXTINF:-1,BR | Megapix FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18977|user-agent=GoPlayer
-#EXTINF:-1,BR | Megapix HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18976|user-agent=GoPlayer
-#EXTINF:-1,BR | Megapix SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18975|user-agent=GoPlayer
-#EXTINF:-1,BR | MTV FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18974|user-agent=GoPlayer
-#EXTINF:-1,BR | MTV HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18973|user-agent=GoPlayer
-#EXTINF:-1,BR | MTV Live FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18972|user-agent=GoPlayer
-#EXTINF:-1,BR | MTV Live HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18971|user-agent=GoPlayer
-#EXTINF:-1,BR | MTV SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18970|user-agent=GoPlayer
-#EXTINF:-1,BR | Multishow FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18969|user-agent=GoPlayer
-#EXTINF:-1,BR | Multishow HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18968|user-agent=GoPlayer
-#EXTINF:-1,BR | Multishow SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18967|user-agent=GoPlayer
-#EXTINF:-1,BR | Music Box Brazil SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18966|user-agent=GoPlayer
-#EXTINF:-1,BR | Mycujoo TV
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18965|user-agent=GoPlayer
-#EXTINF:-1,BR | Nat Geo Kids FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18964|user-agent=GoPlayer
-#EXTINF:-1,BR | Nat Geo Kids HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18963|user-agent=GoPlayer
-#EXTINF:-1,BR | Nat Geo Kids SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18962|user-agent=GoPlayer
-#EXTINF:-1,BR | Nat Geo Wild FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18961|user-agent=GoPlayer
-#EXTINF:-1,BR | Nat Geo Wild HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18960|user-agent=GoPlayer
-#EXTINF:-1,BR | Nat Geo Wild SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18959|user-agent=GoPlayer
-#EXTINF:-1,BR | National Geographic FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18958|user-agent=GoPlayer
-#EXTINF:-1,BR | National Geographic HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18957|user-agent=GoPlayer
-#EXTINF:-1,BR | National Geographic SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18956|user-agent=GoPlayer
-#EXTINF:-1,BR | NHK HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18955|user-agent=GoPlayer
-#EXTINF:-1,BR | NHK SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18954|user-agent=GoPlayer
-#EXTINF:-1,BR | Nick Jr FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18953|user-agent=GoPlayer
-#EXTINF:-1,BR | Nick Jr HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18952|user-agent=GoPlayer
-#EXTINF:-1,BR | Nick Jr SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18951|user-agent=GoPlayer
-#EXTINF:-1,BR | Nickelodeon FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18950|user-agent=GoPlayer
-#EXTINF:-1,BR | Nickelodeon HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18949|user-agent=GoPlayer
-#EXTINF:-1,BR | Nickelodeon SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18948|user-agent=GoPlayer
-#EXTINF:-1,BR | Novo Tempo SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18947|user-agent=GoPlayer
-#EXTINF:-1,BR | OFF HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18946|user-agent=GoPlayer
-#EXTINF:-1,BR | OFF SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18945|user-agent=GoPlayer
-#EXTINF:-1,BR | Paramount Channel FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18944|user-agent=GoPlayer
-#EXTINF:-1,BR | Paramount Channel HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18943|user-agent=GoPlayer
-#EXTINF:-1,BR | Paramount Channel SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18942|user-agent=GoPlayer
-#EXTINF:-1,BR | PlayTV SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18941|user-agent=GoPlayer
-#EXTINF:-1,BR | Polishop TV SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18940|user-agent=GoPlayer
-#EXTINF:-1,BR | Premiere 1 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18939|user-agent=GoPlayer
-#EXTINF:-1,BR | Premiere 2 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18938|user-agent=GoPlayer
-#EXTINF:-1,BR | Premiere 2 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18937|user-agent=GoPlayer
-#EXTINF:-1,BR | Premiere 3 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18936|user-agent=GoPlayer
-#EXTINF:-1,BR | Premiere 3 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18935|user-agent=GoPlayer
-#EXTINF:-1,BR | Premiere 4 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18934|user-agent=GoPlayer
-#EXTINF:-1,BR | Premiere 4 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18933|user-agent=GoPlayer
-#EXTINF:-1,BR | Premiere 5 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18932|user-agent=GoPlayer
-#EXTINF:-1,BR | Premiere 5 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18931|user-agent=GoPlayer
-#EXTINF:-1,BR | Premiere 6 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18930|user-agent=GoPlayer
-#EXTINF:-1,BR | Premiere 6 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18929|user-agent=GoPlayer
-#EXTINF:-1,BR | Premiere 7 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18928|user-agent=GoPlayer
-#EXTINF:-1,BR | Premiere 8 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18927|user-agent=GoPlayer
-#EXTINF:-1,BR | Premiere Clubes FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18926|user-agent=GoPlayer
-#EXTINF:-1,BR | Premiere Clubes HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18925|user-agent=GoPlayer
-#EXTINF:-1,BR | Premiere Clubes SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18924|user-agent=GoPlayer
-#EXTINF:-1,BR | Prime Box Brazil SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18923|user-agent=GoPlayer
-#EXTINF:-1,BR | Record Bahia HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18922|user-agent=GoPlayer
-#EXTINF:-1,BR | Record Brasília HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18921|user-agent=GoPlayer
-#EXTINF:-1,BR | Record Campinas HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18920|user-agent=GoPlayer
-#EXTINF:-1,BR | Record Campinas SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18919|user-agent=GoPlayer
-#EXTINF:-1,BR | Record Esp. Santo SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18918|user-agent=GoPlayer
-#EXTINF:-1,BR | Record MG HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18917|user-agent=GoPlayer
-#EXTINF:-1,BR | Record News FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18916|user-agent=GoPlayer
-#EXTINF:-1,BR | Record News HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18915|user-agent=GoPlayer
-#EXTINF:-1,BR | Record News SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18914|user-agent=GoPlayer
-#EXTINF:-1,BR | Record RJ HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18913|user-agent=GoPlayer
-#EXTINF:-1,BR | Record RS HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18912|user-agent=GoPlayer
-#EXTINF:-1,BR | Record SP FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18911|user-agent=GoPlayer
-#EXTINF:-1,BR | Record SP HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18910|user-agent=GoPlayer
-#EXTINF:-1,BR | Record SP SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18909|user-agent=GoPlayer
-#EXTINF:-1,BR | Record TV Vitoria SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18908|user-agent=GoPlayer
-#EXTINF:-1,BR | Rede Familia SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18907|user-agent=GoPlayer
-#EXTINF:-1,BR | Rede Gospel SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18906|user-agent=GoPlayer
-#EXTINF:-1,BR | Rede Vida HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18905|user-agent=GoPlayer
-#EXTINF:-1,BR | Rede Vida SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18904|user-agent=GoPlayer
-#EXTINF:-1,BR | RedeTV! HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18903|user-agent=GoPlayer
-#EXTINF:-1,BR | RedeTV! SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18902|user-agent=GoPlayer
-#EXTINF:-1,BR | Rit TV SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18901|user-agent=GoPlayer
-#EXTINF:-1,BR | SBT Goias HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18900|user-agent=GoPlayer
-#EXTINF:-1,BR | SBT Nordeste HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18899|user-agent=GoPlayer
-#EXTINF:-1,BR | SBT RJ HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18898|user-agent=GoPlayer
-#EXTINF:-1,BR | SBT SP FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18897|user-agent=GoPlayer
-#EXTINF:-1,BR | SBT SP HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18896|user-agent=GoPlayer
-#EXTINF:-1,BR | SBT SP SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18895|user-agent=GoPlayer
-#EXTINF:-1,BR | SBT TV Aratu Bahia HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18894|user-agent=GoPlayer
-#EXTINF:-1,BR | SBT TV Jornal Pernambuco SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18893|user-agent=GoPlayer
-#EXTINF:-1,BR | Shoptime SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18892|user-agent=GoPlayer
-#EXTINF:-1,BR | Space FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18891|user-agent=GoPlayer
-#EXTINF:-1,BR | Space HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18890|user-agent=GoPlayer
-#EXTINF:-1,BR | Space SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18889|user-agent=GoPlayer
-#EXTINF:-1,BR | SporTV 2 FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18888|user-agent=GoPlayer
-#EXTINF:-1,BR | SporTV 2 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18887|user-agent=GoPlayer
-#EXTINF:-1,BR | SporTV 2 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18886|user-agent=GoPlayer
-#EXTINF:-1,BR | SporTV 3 FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18885|user-agent=GoPlayer
-#EXTINF:-1,BR | SporTV 3 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18884|user-agent=GoPlayer
-#EXTINF:-1,BR | SporTV 3 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18883|user-agent=GoPlayer
-#EXTINF:-1,BR | SporTV FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18882|user-agent=GoPlayer
-#EXTINF:-1,BR | SporTV HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18881|user-agent=GoPlayer
-#EXTINF:-1,BR | SporTV SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18880|user-agent=GoPlayer
-#EXTINF:-1,BR | Studio Universal FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18879|user-agent=GoPlayer
-#EXTINF:-1,BR | Studio Universal HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18878|user-agent=GoPlayer
-#EXTINF:-1,BR | Studio Universal SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18877|user-agent=GoPlayer
-#EXTINF:-1,BR | SyFy FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18876|user-agent=GoPlayer
-#EXTINF:-1,BR | SyFy HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18875|user-agent=GoPlayer
-#EXTINF:-1,BR | SyFy SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18874|user-agent=GoPlayer
-#EXTINF:-1,BR | TBS SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18873|user-agent=GoPlayer
-#EXTINF:-1,BR | TCM SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18872|user-agent=GoPlayer
-#EXTINF:-1,BR | Telecine Action FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18871|user-agent=GoPlayer
-#EXTINF:-1,BR | Telecine Action HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18870|user-agent=GoPlayer
-#EXTINF:-1,BR | Telecine Action SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18869|user-agent=GoPlayer
-#EXTINF:-1,BR | Telecine Cult FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18868|user-agent=GoPlayer
-#EXTINF:-1,BR | Telecine Cult HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18867|user-agent=GoPlayer
-#EXTINF:-1,BR | Telecine Cult SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18866|user-agent=GoPlayer
-#EXTINF:-1,BR | Telecine Fun FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18865|user-agent=GoPlayer
-#EXTINF:-1,BR | Telecine Fun HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18864|user-agent=GoPlayer
-#EXTINF:-1,BR | Telecine Fun SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18863|user-agent=GoPlayer
-#EXTINF:-1,BR | Telecine Pipoca FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18862|user-agent=GoPlayer
-#EXTINF:-1,BR | Telecine Pipoca HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18861|user-agent=GoPlayer
-#EXTINF:-1,BR | Telecine Pipoca SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18860|user-agent=GoPlayer
-#EXTINF:-1,BR | Telecine Premium FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18859|user-agent=GoPlayer
-#EXTINF:-1,BR | Telecine Premium HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18858|user-agent=GoPlayer
-#EXTINF:-1,BR | Telecine Premium SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18857|user-agent=GoPlayer
-#EXTINF:-1,BR | Telecine Touch FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18856|user-agent=GoPlayer
-#EXTINF:-1,BR | Telecine Touch HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18855|user-agent=GoPlayer
-#EXTINF:-1,BR | Telecine Touch SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18854|user-agent=GoPlayer
-#EXTINF:-1,BR | TNT FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18853|user-agent=GoPlayer
-#EXTINF:-1,BR | TNT HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18852|user-agent=GoPlayer
-#EXTINF:-1,BR | TNT SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18851|user-agent=GoPlayer
-#EXTINF:-1,BR | TNT Séries FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18850|user-agent=GoPlayer
-#EXTINF:-1,BR | TNT Séries HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18849|user-agent=GoPlayer
-#EXTINF:-1,BR | TNT Séries SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18848|user-agent=GoPlayer
-#EXTINF:-1,BR | Tooncast FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18847|user-agent=GoPlayer
-#EXTINF:-1,BR | Tooncast HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18846|user-agent=GoPlayer
-#EXTINF:-1,BR | Tooncast SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18845|user-agent=GoPlayer
-#EXTINF:-1,BR | Top TV SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18844|user-agent=GoPlayer
-#EXTINF:-1,BR | Travel Box Brasil HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18843|user-agent=GoPlayer
-#EXTINF:-1,BR | Travel Box Brasil SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18842|user-agent=GoPlayer
-#EXTINF:-1,BR | TruTV HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18841|user-agent=GoPlayer
-#EXTINF:-1,BR | TV Aparecida SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18840|user-agent=GoPlayer
-#EXTINF:-1,BR | TV Gazeta HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18839|user-agent=GoPlayer
-#EXTINF:-1,BR | TV Playkids
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18838|user-agent=GoPlayer
-#EXTINF:-1,BR | TV Ra Tim Bum FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18837|user-agent=GoPlayer
-#EXTINF:-1,BR | TV Ra Tim Bum HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18836|user-agent=GoPlayer
-#EXTINF:-1,BR | TV Ra Tim Bum SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18835|user-agent=GoPlayer
-#EXTINF:-1,BR | TV Século 21
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18834|user-agent=GoPlayer
-#EXTINF:-1,BR | TVCine Action HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18833|user-agent=GoPlayer
-#EXTINF:-1,BR | TVCine Edition HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18832|user-agent=GoPlayer
-#EXTINF:-1,BR | TVCine Emotion HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18831|user-agent=GoPlayer
-#EXTINF:-1,BR | TVCine Top HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18830|user-agent=GoPlayer
-#EXTINF:-1,BR | Universal Channel FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18829|user-agent=GoPlayer
-#EXTINF:-1,BR | Universal Channel HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18828|user-agent=GoPlayer
-#EXTINF:-1,BR | Universal Channel SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18827|user-agent=GoPlayer
-#EXTINF:-1,BR | VH1 HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18826|user-agent=GoPlayer
-#EXTINF:-1,BR | VH1 SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18825|user-agent=GoPlayer
-#EXTINF:-1,BR | Viva FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18824|user-agent=GoPlayer
-#EXTINF:-1,BR | Viva HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18823|user-agent=GoPlayer
-#EXTINF:-1,BR | Viva SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18822|user-agent=GoPlayer
-#EXTINF:-1,BR | Warner Channel FHD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18821|user-agent=GoPlayer
-#EXTINF:-1,BR | Warner Channel HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18820|user-agent=GoPlayer
-#EXTINF:-1,BR | Warner Channel SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18819|user-agent=GoPlayer
-#EXTINF:-1,BR | Woohoo HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18818|user-agent=GoPlayer
-#EXTINF:-1,BR | Woohoo SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18817|user-agent=GoPlayer
-#EXTINF:-1,BR | Zoomoo HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18816|user-agent=GoPlayer
-#EXTINF:-1,BR | Zoomoo SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18815|user-agent=GoPlayer
-#EXTINF:-1,BR | SBT Brasilia HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18814|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo RPC TV Foz do Iguacu HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18813|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo RPC TV Ponta Grossa HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18812|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo RPC TV Ponta Grossa SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18811|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Clube Teresina HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18810|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Clube Teresina SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18809|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Integracao Juiz de Fora SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18808|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo TV Rio Sul SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18807|user-agent=GoPlayer
-#EXTINF:-1,BR | SBT BSB HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18806|user-agent=GoPlayer
-#EXTINF:-1,BR | Record Goias SD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18805|user-agent=GoPlayer
-#EXTINF:-1,BR | Record Parana HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18804|user-agent=GoPlayer
-#EXTINF:-1,BR | Record Belem HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18803|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo Rede Amazonica Macapa HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18802|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo NSC Chapeco HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18801|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo RBS Santa Maria HD
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18800|user-agent=GoPlayer
-#EXTINF:-1,BR | Animal Planet 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18799|user-agent=GoPlayer
-#EXTINF:-1,BR | Band 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18798|user-agent=GoPlayer
-#EXTINF:-1,BR | Cartoon Network 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18797|user-agent=GoPlayer
-#EXTINF:-1,BR | Combate 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18796|user-agent=GoPlayer
-#EXTINF:-1,BR | Discovery Channel 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18795|user-agent=GoPlayer
-#EXTINF:-1,BR | Fox 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18794|user-agent=GoPlayer
-#EXTINF:-1,BR | Fox Sports 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18793|user-agent=GoPlayer
-#EXTINF:-1,BR | Gazeta 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18792|user-agent=GoPlayer
-#EXTINF:-1,BR | Globo 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18791|user-agent=GoPlayer
-#EXTINF:-1,BR | HBO 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18790|user-agent=GoPlayer
-#EXTINF:-1,BR | Megapix 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18789|user-agent=GoPlayer
-#EXTINF:-1,BR | Multishow 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18788|user-agent=GoPlayer
-#EXTINF:-1,BR | National Geographics 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18787|user-agent=GoPlayer
-#EXTINF:-1,BR | Premiere Clubes 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18786|user-agent=GoPlayer
-#EXTINF:-1,BR | Record 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18785|user-agent=GoPlayer
-#EXTINF:-1,BR | Rede TV! 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18784|user-agent=GoPlayer
-#EXTINF:-1,BR | SBT 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18783|user-agent=GoPlayer
-#EXTINF:-1,BR | Space 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18782|user-agent=GoPlayer
-#EXTINF:-1,BR | SporTV 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18781|user-agent=GoPlayer
-#EXTINF:-1,BR | Telecine Pipoca 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18780|user-agent=GoPlayer
-#EXTINF:-1,BR | Telecine Premium 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18779|user-agent=GoPlayer
-#EXTINF:-1,BR | TNT 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18778|user-agent=GoPlayer
-#EXTINF:-1,BR | TNT Series 4K
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18777|user-agent=GoPlayer
+#EXTINF:-1,Cinebox
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/116995.m3u8
+#EXTINF:-1,♛Generalistas♛
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/116994.m3u8
+#EXTINF:-1,RTP ❶
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/2.m3u8
+#EXTINF:-1,RTP ① ᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/3.m3u8
+#EXTINF:-1,RTP ① ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/4.m3u8
+#EXTINF:-1,RTP ②
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/5.m3u8
+#EXTINF:-1,RTP ② ᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/6.m3u8
+#EXTINF:-1,SIC 
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/7.m3u8
+#EXTINF:-1,SIC ᴴᴰ     
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/8.m3u8
+#EXTINF:-1,SIC ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/9.m3u8
+#EXTINF:-1,TVI 
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/10.m3u8
+#EXTINF:-1,TVI ᴴᴰ 
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/11.m3u8
+#EXTINF:-1,TVI FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/120062.m3u8
+#EXTINF:-1,PORTO CANAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/20.m3u8
+#EXTINF:-1,PORTO CANAL ᴴᴰ 
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/21.m3u8
+#EXTINF:-1,♛Informação♛
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/116996.m3u8
+#EXTINF:-1,SIC NOTICIAS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/27.m3u8
+#EXTINF:-1,SIC NOTICIAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/28.m3u8
+#EXTINF:-1,TVI 24
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/29.m3u8
+#EXTINF:-1,TVI 24 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/30.m3u8
+#EXTINF:-1,TVI 24 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/31.m3u8
+#EXTINF:-1,CMTV HD 
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/32.m3u8
+#EXTINF:-1,CMTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/33.m3u8
+#EXTINF:-1,RTP 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/34.m3u8
+#EXTINF:-1,RTP AFRICA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/22.m3u8
+#EXTINF:-1,RTP ACORES
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/23.m3u8
+#EXTINF:-1,RTP MEMÓRIA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/24.m3u8
+#EXTINF:-1,RTP MEMÓRIAᴬ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/120063.m3u8
+#EXTINF:-1,RTP MEMÓRIAᴮ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/120064.m3u8
+#EXTINF:-1,RTP INTERNACIONAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/25.m3u8
+#EXTINF:-1,RTP MADEIRA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/26.m3u8
+#EXTINF:-1,AR TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/35.m3u8
+#EXTINF:-1,♛Entretenimento♛
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/116997.m3u8
+#EXTINF:-1,OPTO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/131071.m3u8
+#EXTINF:-1,SIC MULHER
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/14.m3u8
+#EXTINF:-1,SIC MULHER HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/15.m3u8
+#EXTINF:-1,SIC CARAS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/16.m3u8
+#EXTINF:-1,SIC RADICAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/17.m3u8
+#EXTINF:-1,SIC RADICAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/18.m3u8
+#EXTINF:-1,TVI FICÇÃO SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127113.m3u8
+#EXTINF:-1,TVI FICÇÃO ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/12.m3u8
+#EXTINF:-1,TVI REALITY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/13.m3u8
+#EXTINF:-1,TVI REALITY MOSAICO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/124015.m3u8
+#EXTINF:-1,TVI REALITY CAMARA 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/124016.m3u8
+#EXTINF:-1,TVI REALITY CAMARA 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/124017.m3u8
+#EXTINF:-1,TVI REALITY CAMARA 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/124018.m3u8
+#EXTINF:-1,TVI REALITY CAMARA 4
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/124019.m3u8
+#EXTINF:-1,CANAL Q
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/19.m3u8
+#EXTINF:-1, TV RECORD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/173.m3u8
+#EXTINF:-1, CANÇÃO NOVA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/174.m3u8
+#EXTINF:-1, GLOBO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/175.m3u8
+#EXTINF:-1,GLOBO PORTUGAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/176.m3u8
+#EXTINF:-1, GLOBO NOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/177.m3u8
+#EXTINF:-1, ZAP VIVA HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/180.m3u8
+#EXTINF:-1, BLAZE TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/162.m3u8
+#EXTINF:-1,BLAZE TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/163.m3u8
+#EXTINF:-1, CBS REALITY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/164.m3u8
+#EXTINF:-1, ID INVESTIGATION DISCOVERY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/143.m3u8
+#EXTINF:-1, CRIME   INVESTIGATION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/147.m3u8
+#EXTINF:-1,E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/165.m3u8
+#EXTINF:-1,CACA E PESCA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/148.m3u8
+#EXTINF:-1, CAÇAVISION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/149.m3u8
+#EXTINF:-1, DOG TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/172.m3u8
+#EXTINF:-1,♛Desporto♛
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/116998.m3u8
+#EXTINF:-1,CANAL 11
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/36.m3u8
+#EXTINF:-1,CANAL 11 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/37.m3u8
+#EXTINF:-1,CANAL 11 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/38.m3u8
+#EXTINF:-1,SPORT TV +
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/39.m3u8
+#EXTINF:-1,SPORT TV + HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/40.m3u8
+#EXTINF:-1,Sport tv 1 SD extra
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/41.m3u8
+#EXTINF:-1,SPORT TV 1 SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/42.m3u8
+#EXTINF:-1,SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/43.m3u8
+#EXTINF:-1,SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/44.m3u8
+#EXTINF:-1,Sport TV 1 HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127345.m3u8
+#EXTINF:-1,SPORT TV 1 FHD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127346.m3u8
+#EXTINF:-1,SPORT TV 1  ⁴ᵏ ʰ²⁶⁵
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/128836.m3u8
+#EXTINF:-1,SPORT TV  1 [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127297.m3u8
+#EXTINF:-1,SPORT TV 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/45.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/46.m3u8
+#EXTINF:-1,SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/47.m3u8
+#EXTINF:-1,SPORT TV 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/48.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/49.m3u8
+#EXTINF:-1,SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/50.m3u8
+#EXTINF:-1,SPORT TV 4
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/51.m3u8
+#EXTINF:-1,SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/52.m3u8
+#EXTINF:-1,SPORT TV 5
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/53.m3u8
+#EXTINF:-1,SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/54.m3u8
+#EXTINF:-1,SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/55.m3u8
+#EXTINF:-1, ELEVEN SPORTS 1 SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/56.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/57.m3u8
+#EXTINF:-1, ELEVEN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/58.m3u8
+#EXTINF:-1, ELEVEN SPORTS 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/59.m3u8
+#EXTINF:-1, ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/60.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/61.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/63.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/64.m3u8
+#EXTINF:-1, ELEVEN SPORTS 4 SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/65.m3u8
+#EXTINF:-1, ELEVEN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/66.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/67.m3u8
+#EXTINF:-1, ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/69.m3u8
+#EXTINF:-1, ELEVEN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/70.m3u8
+#EXTINF:-1,ELEVEN SPORTS 6 SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/71.m3u8
+#EXTINF:-1, ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/72.m3u8
+#EXTINF:-1,ELEVEN SPORTS 6 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/73.m3u8
+#EXTINF:-1, BTV  ⁴ᵏ ʰ²⁶⁵
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/74.m3u8
+#EXTINF:-1,BTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/75.m3u8
+#EXTINF:-1, BTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/76.m3u8
+#EXTINF:-1,BTV HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127368.m3u8
+#EXTINF:-1,BTV FHD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127369.m3u8
+#EXTINF:-1, SPORTING TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/77.m3u8
+#EXTINF:-1, SPORTING TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/78.m3u8
+#EXTINF:-1, A BOLA TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/79.m3u8
+#EXTINF:-1,PFC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/80.m3u8
+#EXTINF:-1, NBA TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/81.m3u8
+#EXTINF:-1, SPORT TV NBA HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/82.m3u8
+#EXTINF:-1, WWE NETWORK
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/83.m3u8
+#EXTINF:-1, Red Bull TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/84.m3u8
+#EXTINF:-1,WRC + FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/117130.m3u8
+#EXTINF:-1, EUROSPORT 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/85.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/86.m3u8
+#EXTINF:-1, EUROSPORT 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/87.m3u8
+#EXTINF:-1, KOMBAT SPORT
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/88.m3u8
+#EXTINF:-1,FIGHT NETWORK FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/89.m3u8
+#EXTINF:-1, FUEL TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/90.m3u8
+#EXTINF:-1, MOTORVISION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/91.m3u8
+#EXTINF:-1, REAL MADRID
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/92.m3u8
+#EXTINF:-1,♛Filmes/Séries♛
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/117000.m3u8
+#EXTINF:-1, TV Cine TOP
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/93.m3u8
+#EXTINF:-1, TV Cine TOP HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/94.m3u8
+#EXTINF:-1, TV Cine TOP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/95.m3u8
+#EXTINF:-1,Tv Cine EDITION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/96.m3u8
+#EXTINF:-1,Tv Cine EDITION HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/97.m3u8
+#EXTINF:-1,Tv Cine EDITION FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/98.m3u8
+#EXTINF:-1, Tv Cine EMOTION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/99.m3u8
+#EXTINF:-1, Tv Cine EMOTION HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/100.m3u8
+#EXTINF:-1,Tv Cine EMOTION FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/101.m3u8
+#EXTINF:-1,Tv Cine ACTION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/102.m3u8
+#EXTINF:-1, Tv Cine ACTION HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/103.m3u8
+#EXTINF:-1, Tv Cine ACTION FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/104.m3u8
+#EXTINF:-1, NOS STUDIO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/108.m3u8
+#EXTINF:-1,EUROCHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/117131.m3u8
+#EXTINF:-1, AMC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/113.m3u8
+#EXTINF:-1, AMC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/114.m3u8
+#EXTINF:-1, AMC HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/115.m3u8
+#EXTINF:-1, AXN
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/128.m3u8
+#EXTINF:-1, AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/129.m3u8
+#EXTINF:-1, AXN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/130.m3u8
+#EXTINF:-1, AXN WHITE
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/131.m3u8
+#EXTINF:-1, AXN WHITE HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/132.m3u8
+#EXTINF:-1,AXN WHITE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/133.m3u8
+#EXTINF:-1,AXN MOVIES
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/134.m3u8
+#EXTINF:-1,AXN MOVIES HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/135.m3u8
+#EXTINF:-1, AXN MOVIES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/136.m3u8
+#EXTINF:-1, CINEMUNDO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/111.m3u8
+#EXTINF:-1, CINEMUNDO HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/112.m3u8
+#EXTINF:-1,FOX MOVIES
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/116.m3u8
+#EXTINF:-1, FOX MOVIES HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/117.m3u8
+#EXTINF:-1,FOX
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/118.m3u8
+#EXTINF:-1, FOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/120.m3u8
+#EXTINF:-1, FOX FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/119.m3u8
+#EXTINF:-1, FOX CRIME
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/121.m3u8
+#EXTINF:-1,FOX CRIME HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/122.m3u8
+#EXTINF:-1,FOX CRIME FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/123.m3u8
+#EXTINF:-1,FOX LIFE
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/124.m3u8
+#EXTINF:-1,FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/125.m3u8
+#EXTINF:-1, FOX COMEDY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/126.m3u8
+#EXTINF:-1,FOX COMEDY HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127.m3u8
+#EXTINF:-1, HOLLYWOOD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/109.m3u8
+#EXTINF:-1, HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/110.m3u8
+#EXTINF:-1, SYFY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/137.m3u8
+#EXTINF:-1, SYFY HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/138.m3u8
+#EXTINF:-1,♛Infantil♛
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/116999.m3u8
+#EXTINF:-1,DISNEY CHANNEL FAMILY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/126416.m3u8
+#EXTINF:-1, DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/151.m3u8
+#EXTINF:-1,DISNEY JÚNIOR
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/152.m3u8
+#EXTINF:-1, CANAL PANDA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/153.m3u8
+#EXTINF:-1, BIGGS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/154.m3u8
+#EXTINF:-1,JIM JAM
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/155.m3u8
+#EXTINF:-1, BABY TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/156.m3u8
+#EXTINF:-1, CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/157.m3u8
+#EXTINF:-1,NICKELODEON
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/158.m3u8
+#EXTINF:-1,NICK JR.
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/159.m3u8
+#EXTINF:-1, SIC K
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/160.m3u8
+#EXTINF:-1,♛Documentários♛
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/117001.m3u8
+#EXTINF:-1, DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/141.m3u8
+#EXTINF:-1, DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/142.m3u8
+#EXTINF:-1, National Geographic WILD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/139.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/140.m3u8
+#EXTINF:-1, HISTORIA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/144.m3u8
+#EXTINF:-1, ODISSEIA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/145.m3u8
+#EXTINF:-1, ODISSEIA HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/146.m3u8
+#EXTINF:-1,♛LifeStyle♛
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/117002.m3u8
+#EXTINF:-1, TLC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/168.m3u8
+#EXTINF:-1, TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/150.m3u8
+#EXTINF:-1, 24 KITCHEN
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/171.m3u8
+#EXTINF:-1,Casa E Cozinha
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/120061.m3u8
+#EXTINF:-1, MY CUISINE
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/167.m3u8
+#EXTINF:-1, LUXE TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/161.m3u8
+#EXTINF:-1,KURIAKOS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/166.m3u8
+#EXTINF:-1, FASHION TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/169.m3u8
+#EXTINF:-1,♛Música♛
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/117003.m3u8
+#EXTINF:-1, MTV PORTUGAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/189.m3u8
+#EXTINF:-1,iCONCERTs
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/124315.m3u8
+#EXTINF:-1, VH1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/190.m3u8
+#EXTINF:-1, MCM POP
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/188.m3u8
+#EXTINF:-1, AFRO MUSIC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/191.m3u8
+#EXTINF:-1, TRACE TOCA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/192.m3u8
+#EXTINF:-1, TRACE URBAN
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/193.m3u8
+#EXTINF:-1, MEZZO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/194.m3u8
+#EXTINF:-1,♛Internacionais♛
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/117004.m3u8
+#EXTINF:-1, EURONEWS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/170.m3u8
+#EXTINF:-1, TCV CABO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/178.m3u8
+#EXTINF:-1, TPA INTERNACIONAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/179.m3u8
+#EXTINF:-1, TV5 MONDE
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/181.m3u8
+#EXTINF:-1, TVE 24h
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/182.m3u8
+#EXTINF:-1, TVE Internacional
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/183.m3u8
+#EXTINF:-1, Sky News
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/184.m3u8
+#EXTINF:-1, CNN
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/185.m3u8
+#EXTINF:-1,M6
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/186.m3u8
+#EXTINF:-1,BLOOMBERG
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/187.m3u8
+#EXTINF:-1,♛LOW(Internet Fraca)♛
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127375.m3u8
+#EXTINF:-1,RTP 1 [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127284.m3u8
+#EXTINF:-1,SIC [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127285.m3u8
+#EXTINF:-1,TVI [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127286.m3u8
+#EXTINF:-1,CMTV [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127287.m3u8
+#EXTINF:-1,TVI 24 [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127288.m3u8
+#EXTINF:-1,SIC Noticias [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127289.m3u8
+#EXTINF:-1,TVI Ficção [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127292.m3u8
+#EXTINF:-1,SIC Caras [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127293.m3u8
+#EXTINF:-1,SIC Mulher [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127294.m3u8
+#EXTINF:-1,SIC Radical [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127295.m3u8
+#EXTINF:-1,Globo [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127296.m3u8
+#EXTINF:-1,Canal 11 [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127290.m3u8
+#EXTINF:-1,Sport TV 2 [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127298.m3u8
+#EXTINF:-1,Sport TV 3 [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127299.m3u8
+#EXTINF:-1,Sport TV 4 [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127300.m3u8
+#EXTINF:-1,Sport TV 5 [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127301.m3u8
+#EXTINF:-1,Eleven Sports 1 [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127303.m3u8
+#EXTINF:-1,Eleven Sports 2 [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127304.m3u8
+#EXTINF:-1,Eleven Sports 3 [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127305.m3u8
+#EXTINF:-1,Benfica TV [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127302.m3u8
+#EXTINF:-1,A Bola TV [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127291.m3u8
+#EXTINF:-1,Eurosport 1 [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127306.m3u8
+#EXTINF:-1,TV Cine TOP [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127307.m3u8
+#EXTINF:-1,TV Cine Edition [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127308.m3u8
+#EXTINF:-1,TV Cine Emotion [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127309.m3u8
+#EXTINF:-1,TV Cine Action [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127310.m3u8
+#EXTINF:-1,Nos Studios [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127311.m3u8
+#EXTINF:-1,Hollywood [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127312.m3u8
+#EXTINF:-1,Cinemundo [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127313.m3u8
+#EXTINF:-1,SYFY [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127314.m3u8
+#EXTINF:-1,AMC [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127315.m3u8
+#EXTINF:-1,AXN [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127316.m3u8
+#EXTINF:-1,AXN Movies [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127317.m3u8
+#EXTINF:-1,AXN White [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127318.m3u8
+#EXTINF:-1,FOX [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127319.m3u8
+#EXTINF:-1,FOX Comedy [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127320.m3u8
+#EXTINF:-1,FOX Crime [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127321.m3u8
+#EXTINF:-1,FOX Life [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127322.m3u8
+#EXTINF:-1,FOX Movies [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127323.m3u8
+#EXTINF:-1,Canal Panda [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127324.m3u8
+#EXTINF:-1,Disney [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127325.m3u8
+#EXTINF:-1,SIC Kids [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127326.m3u8
+#EXTINF:-1,Odisseia [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127327.m3u8
+#EXTINF:-1,Nat Geo [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127328.m3u8
+#EXTINF:-1,Blaze [low]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127329.m3u8
+#EXTINF:-1,♛HEVC/H265♛
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127376.m3u8
+#EXTINF:-1,RTP 1 HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127351.m3u8
+#EXTINF:-1,RTP 1 FHD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127352.m3u8
+#EXTINF:-1,SIC HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127349.m3u8
+#EXTINF:-1,SIC FHD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127350.m3u8
+#EXTINF:-1,TVI HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127330.m3u8
+#EXTINF:-1,TVI FHD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127331.m3u8
+#EXTINF:-1,SIC NOTICIAS HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127348.m3u8
+#EXTINF:-1,CMTV HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127365.m3u8
+#EXTINF:-1,CMTV FHD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127366.m3u8
+#EXTINF:-1,GLOBO HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127355.m3u8
+#EXTINF:-1,SPORT TV   HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127347.m3u8
+#EXTINF:-1,SPORT TV 2 HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127343.m3u8
+#EXTINF:-1,SPORT TV 2 FHD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127344.m3u8
+#EXTINF:-1,SPORT TV 3 HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127342.m3u8
+#EXTINF:-1,SPORT TV 4 HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127341.m3u8
+#EXTINF:-1,SPORT TV 5 HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127340.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127363.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 FHD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127364.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127361.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 FHD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127362.m3u8
+#EXTINF:-1,A BOLA HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127374.m3u8
+#EXTINF:-1,TVCINE TOP HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127332.m3u8
+#EXTINF:-1,TVCINE TOP FHD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127333.m3u8
+#EXTINF:-1,TVCINE EDITION HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127336.m3u8
+#EXTINF:-1,TVCINE EDITION FHD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127337.m3u8
+#EXTINF:-1,TVCINE EMOTON HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127334.m3u8
+#EXTINF:-1,TVCINE EMOTON FHD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127335.m3u8
+#EXTINF:-1,TVCINE ACTION HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127338.m3u8
+#EXTINF:-1,TVCINE ACTION FHD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127339.m3u8
+#EXTINF:-1,NOS STUDIOS HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127353.m3u8
+#EXTINF:-1,FOX HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127357.m3u8
+#EXTINF:-1,FOX FHD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127358.m3u8
+#EXTINF:-1,FOX MOVIES HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127356.m3u8
+#EXTINF:-1,FOX CRIME HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127359.m3u8
+#EXTINF:-1,FOX COMEDY HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127360.m3u8
+#EXTINF:-1,HOLLYWOOD HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127354.m3u8
+#EXTINF:-1,CINEMUNDO HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127367.m3u8
+#EXTINF:-1,AXN HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127372.m3u8
+#EXTINF:-1,AXN FHD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127373.m3u8
+#EXTINF:-1,AXN WHITE HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127370.m3u8
+#EXTINF:-1,AXN MOVIES HD [hevc]
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http ://melhordomundo.in:8080/live/horacio/horacio/127371.m3u8
