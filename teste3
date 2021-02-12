@@ -1,117 +1,82 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg",[B][COLOR lime]=====PLUTO TV=====[/B][/COLOR]
-#EXTM3U
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title="Canais Pluto Tv",Pluto Tv
 
-https://tinyurl.com/y6gcyo9x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" group-title="Canais Pluto Tv",A vida moderna de Rocko
 
-https://tinyurl.com/yxsr5hmy
+<channels>
+<channel>
+<name>[COLOR yellow][I][B][COLOR lime]»»[/COLOR]  Brasil tv 1[/I][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/a329OII.jpg</thumbnail>
+<externallink>https://gitlab.com/flechanegra/flash-brasil/-/raw/master/brasil__iptv_1.txt</externallink>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR yellow][I][B][COLOR lime]»»[/COLOR] Brasil tv 2[/I][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/a329OII.jpg</thumbnail>
+<externallink>https://gitlab.com/flechanegra/flash-brasil/-/raw/master/brasil__iptv_2.txt</externallink>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+<info></info>
+</channel>
+</channels>
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png" group-title="Canais Pluto Tv",As  Pistas de Blue
 
-https://tinyurl.com/y3ohlo29
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR yellow][I][B][COLOR lime]»»[/COLOR]  BRASIL  tv 3[/I][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/a329OII.jpg</thumbnail>
+<externallink>https://gitlab.com/flechanegra/flash-brasil/-/raw/master/brasil__iptv_3.txt</externallink>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="Canais Pluto Tv",FailArmy
 
-https://tinyurl.com/y64cr3yf
+<channels>
+<channel>
+<name>[COLOR yellow][I][B][COLOR lime]»»[/COLOR]  BRASIL  tv 4[/I][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/a329OII.jpg</thumbnail>
+<externallink>https://gitlab.com/flechanegra/flash-brasil/-/raw/master/Brasil_5.txt</externallink>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR yellow][I][B][COLOR lime]»»[/COLOR]  BRASIL CREDITOS AU PLUTO tv 5[/I][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/Nfiw9lf.jpg</thumbnail>
+<externallink>https://gitlab.com/flechanegra/flash-brasil/-/raw/master/PLUTO-TV.txt</externallink>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="Canais Pluto Tv",MTV Are you the One?
-
-https://tinyurl.com/y2o42z2g
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="Canais Pluto Tv",MTV Pluto TV
-
-https://tinyurl.com/y69vgsax
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Canais Pluto Tv",Naruto
-
-https://tinyurl.com/y69vgsax
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="Canais Pluto Tv",Nick Clássico
-
-https://tinyurl.com/y2dudvkn
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="Canais Pluto Tv",Nick Jr. Club
-
-https://tinyurl.com/y5qf9mrs
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png" group-title="Canais Pluto Tv",Os Três Patetas
-
-https://tinyurl.com/y6oe79hn
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f515d080e738d000739e19c/colorLogoPNG.png" group-title="Canais Pluto Tv",People are Awesome
-
-https://tinyurl.com/y4fcfwuo
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Canais Pluto Tv",Pluto TV Anime
-
-https://tinyurl.com/y32qyb3m
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="Canais Pluto Tv",Pluto TV Cine Comédia
-
-https://tinyurl.com/y3edpltr
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Canais Pluto Tv",Pluto TV Cine Drama
-
-https://tinyurl.com/y3uqtn9c
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="Canais Pluto Tv",Pluto TV Cine Família
-
-https://tinyurl.com/y3vu5xbk
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Canais Pluto Tv",Pluto TV Cine Sucessos
-
-https://tinyurl.com/y2xxlfn7
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Canais Pluto Tv",Pluto TV Cine Terror
-
-https://tinyurl.com/y5t9qklm
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png" group-title="Canais Pluto Tv",Pluto TV Fashionbox
-
-https://tinyurl.com/y2gzol9a
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="Canais Pluto Tv",Pluto TV Filmes Ação
-
-https://tinyurl.com/y62ppozx
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="Canais Pluto Tv",Pluto TV Investigação
-
-https://tinyurl.com/y6t97vzw
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="Canais Pluto Tv",Pluto TV Junior
-
-https://tinyurl.com/yxr7tnmo
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="Canais Pluto Tv",Pluto TV Kids
-
-https://tinyurl.com/y4rbcn2l
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="Canais Pluto Tv",Pluto TV Natureza
-
-https://tinyurl.com/y5ft8vcx
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="Canais Pluto Tv",Pluto TV Retrô
-
-https://tinyurl.com/y6sn7klr
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="Canais Pluto Tv",Pluto TV Séries
-
-https://tinyurl.com/yyo5wap3
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png" group-title="Canais Pluto Tv",Pluto TV Star Trek
-
-https://tinyurl.com/y5jeslcy
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="Canais Pluto Tv",The Pet Collective
-
-https://tinyurl.com/y2vrgtwr
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="Canais Pluto Tv",Turma da Mônica
-
-https://tinyurl.com/yxhk8f53
+<channels>
+<channel>
+<name>[COLOR yellow][I][B][COLOR lime]»»[/COLOR]  BRASIL  web 1[/I][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/a329OII.jpg</thumbnail>
+<externallink>https://gitlab.com/flechanegra/flash-brasil/-/raw/master/brasil__iptv_web.txt</externallink>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR yellow][I][B][COLOR lime]»»[/COLOR]  BRASIL  web 2[/I][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/a329OII.jpg</thumbnail>
+<externallink>https://iptv-org.github.io/iptv/countries/br.m3u</externallink>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
