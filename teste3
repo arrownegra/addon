@@ -1,38 +1,44 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<? xml version = "1.0" encoding = "UTF-8" standalone = "yes"?>
+ 
+<channels>
+<channel>
+<name>[COLOR white][I][B][COLOR black]»[/COLOR] PORTUGAL [/I][/B][/COLOR]</name>
+<thumbnail>https://imgur.com/BvvRR7q.png</thumbnail>
+<externallink> https://gitlab.com/InC0gnit/inc0gnit/-/blob/master/PORTUGAL_1.txt</externallink>
+<fanart>https://imgur.com/U8HE0mn.png</fanart>
+<info>[COLOR green][I][B]   by IncoGnit[/I][/B][/COLOR]</info>
+</channel>
+</channels>
+ 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR white][I][B][COLOR black]»[/COLOR]  PORTUGAL 2 [/I][/B][/COLOR]</name>
+<thumbnail>https://imgur.com/BvvRR7q.png</thumbnail>
+<externallink>https://gitlab.com/InC0gnit/inc0gnit/-/blob/master/PORTUGAL_2.txt</externallink>
+<fanart>https://imgur.com/U8HE0mn.png</fanart>
+<info>[COLOR green][I][B]   by IncoGnit[/I][/B][/COLOR]</info>
+</channel>
+</channels>
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR white][I][B][COLOR black]»[/COLOR]  BRASIL [/I][/B][/COLOR]</name>
+<thumbnail>https://imgur.com/bk0W85G.png</thumbnail>
+<externallink>https://gitlab.com/InC0gnit/inc0gnit/-/blob/master/BRASIL_1.txt</externallink>
+<fanart>https://imgur.com/U8HE0mn.png</fanart>
+<info>[COLOR green][I][B]by IncoGnit[/I][/B][/COLOR]</info>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR yellow][B]SPORT TV 1  [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
-<link>https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8</link>
-<thumbnail>https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png</thumbnail>
-<fanart>https://lh3.googleusercontent.com/proxy/lcZIY7IpV24VqoQb19XqCqqadqFulPlTxJgOI4u1Lt3CbQWX1WOVKUH5UKYAUvL5gcFH3MyBdgsYc3ykk866Txtys5sw9sWPe-bK0ZkKYzYyfqeiTyNujRz-Mv8nq7mGMF8</fanart>
-<info></item>
-
-
-<item>
-<title>[COLOR yellow][B] SPORT TV 2 [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
-<link>https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8</link>
-<thumbnail>https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png</thumbnail>
-<fanart>https://lh3.googleusercontent.com/proxy/lcZIY7IpV24VqoQb19XqCqqadqFulPlTxJgOI4u1Lt3CbQWX1WOVKUH5UKYAUvL5gcFH3MyBdgsYc3ykk866Txtys5sw9sWPe-bK0ZkKYzYyfqeiTyNujRz-Mv8nq7mGMF8</fanart>
-<info></item>
-
-<item>
-<title>[COLOR yellow][B] SPORT TV 3  [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
-<link>https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgyukle.com/2019/01/03/1oXOM.png</thumbnail>
-<fanart>https://lh3.googleusercontent.com/proxy/lcZIY7IpV24VqoQb19XqCqqadqFulPlTxJgOI4u1Lt3CbQWX1WOVKUH5UKYAUvL5gcFH3MyBdgsYc3ykk866Txtys5sw9sWPe-bK0ZkKYzYyfqeiTyNujRz-Mv8nq7mGMF8</fanart>
-<info></item>
-
-<item>
-<title>[COLOR yellow][B] SPORT TV 4 [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
-<link>https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgyukle.com/2019/01/03/1ojVy.png</thumbnail>
-<fanart>https://lh3.googleusercontent.com/proxy/lcZIY7IpV24VqoQb19XqCqqadqFulPlTxJgOI4u1Lt3CbQWX1WOVKUH5UKYAUvL5gcFH3MyBdgsYc3ykk866Txtys5sw9sWPe-bK0ZkKYzYyfqeiTyNujRz-Mv8nq7mGMF8</fanart>
-<info></item>
-
-<item>
-<title>[COLOR yellow][B] SPORT TV 5 [/COLOR][/B][COLOR lime][B][/COLOR][/B]</title>
-<link>https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8</link>
-<thumbnail>https://www.cm-montalegre.pt/cmmontalegre/uploads/news/image/1139/a44283fbc71492775867.jpg</thumbnail>
-<fanart>https://lh3.googleusercontent.com/proxy/lcZIY7IpV24VqoQb19XqCqqadqFulPlTxJgOI4u1Lt3CbQWX1WOVKUH5UKYAUvL5gcFH3MyBdgsYc3ykk866Txtys5sw9sWPe-bK0ZkKYzYyfqeiTyNujRz-Mv8nq7mGMF8</fanart>
-<info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR white][I][B][COLOR black]»[/COLOR]  BRASIL 1 [/I][/B][/COLOR]</name>
+<thumbnail>https://imgur.com/bk0W85G.png</thumbnail>
+<externallink>https://gitlab.com/InC0gnit/inc0gnit/-/blob/master/BRASIL_2.txt</externallink>
+<fanart>https://imgur.com/U8HE0mn.png</fanart>
+<info>[COLOR green][I][B]by IncoGnit[/I][/B][/COLOR]</info>
+</channel>
+</channels>
