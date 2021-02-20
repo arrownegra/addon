@@ -1,1 +1,820 @@
-1f8b08005d25116002ffd5d75b6f9b301400e0f74afd0f1691fad4420ce6924c6883405234c019906c5a1455ac7128534810219d2af5c797903e6c83c2f3f193b18c7c3ef9763cb07f449eb4b8be1a5415c79f8eef302a9f93bb74a3735c5ddbc719d3b9d779f48a82688ef0a57577480e3af75496f9712c08299f66c9a9e01f0f9960fddccebefd71f8df79c2ddaeccf56a425d1aa05d9ab1b55e95390da2c5cc70cf757d25541d84bac7fa12c37fc1dc0ece05d5c35b7678fe99a2baedfa2adf9d92745f0d7fa9f0cfe9861df82dc922762c59217cae437f1fbf609b7515cd975f2f0fdb1d7b7c8a1ff62c29e2bf03b83996058bb3f225677a145af4bbef52c3b2839b38cb3f9d8a9d7ee656c3614de655cc2b84c78a3ad6860251550d4ba2ac6222aba2daf8d6b0a2c8ffa86a8f192d1146f7163009694a0c6452d740d11218456a52be52cf342254af34601ab1a9a9198e3f833735b889992e6c171e64d884d88b80d6330370fbcba34e0f308cd685118161d426663e9d0043284dc4c483b6e9e596db3ea2d5ba02777cc9e4834b059e44fa5802f11c167b38c8a7213012ee2201b30c3b2c22b8d546465d1c6016adc322c19b1ab58b03cca2745808308bdc619181595ab200df84f7e0272d3980edda4bdbbf4c4d08301120629f09e07583fb4c00cfe9619f89803349a33e930ccfa4f5991478a6961cc1a3d58b74e9840ef581615a9284c0365ce41956e058e02e25a9255198187e05c2c01e3d127903226e8a674f1a0000+dfa47aa6bb410800HQ7XQ3LMEB3GK4TTNFXW4PJCGEXDAIRAMVXGG33ENFXGOPJCOV2GMLJYEI76G4YLNMU7FWQ2PJRHVEIDHN5WGIXK3IJOU4T2WJFCECRCFKMQEITZAIREUCWZPIJOVWL2DJ2W2YTOMFUWYPTIOR2HAORPF5QXALTJNVQWOZLOONRHEYLTNFWC433SM4XWS3LBM5SXGLZSGAYTQLZQHEXTGMBPNZSXO5DIOVWWE3TFO5ZTELTKOBTTYL3UNB2W2YTOMFUWYPQKHRTGC3TBOJ2D42DUORYDULZPMFYC42LNMFTWK3TTMJZGC43JNQXG64THF5UW2YLHMVZS6MRQGE3S6MJRF4YDML3GMFXGC4TUFZYG4ZZ4F5TGC3TBOJ2D4CR4MV4HIZLSNZQWY3DJNZVT42DUORYHGORPF5YGC43UMVRGS3ROMNXW2L3SMF3S6Q2OMJRHU2LQNA6C6ZLYORSXE3TBNRWGS3TLHYFDY2LOMZXT4W2DJ5GE6URAONUWY5TFOJOVWQS5INHU4RSJKJASAQKRKVESAT2TEBGECTWDQ5AU2RKOKRHVGICEJ4QEISKBFUWU6ICRKVCSARSPJEQECUSSKVGUCRCPFUWU6ICRKVCSAVCBEBHUMRROEAXW4ICMIVGUEUSBJZCE6ICRKVCSAVSPIPBYUICQJ5CEKICGIFNEKURAKNCVKICQIVCESRCPEBHVKICBKZEVGQKSEBCEKICMJFHEWUZAJ5DEMUZAJZHSAR2SKVIE6ICEJ4QFMSKEIEXFWL2CLVNS6Q2PJRHVEXJ4F5UW4ZTPHYFDYL3DNBQW43TFNQ7AUPDDNBQW43TFNRZT4CR4MNUGC3TOMVWD4CR4NZQW2ZJ6LNBU6TCPKIQGE3DVMVOVWQS5KZEUIQJALMXUEXK3F5BU6TCPKJOVWQ2PJRHVEIDQNFXGWXK3IJOUIRJALMXUEXK3F5BU6TCPKJOVWQ2PJRHVEIDQNFXGWXK3IJOUGUSJLMXUEXK3F5BU6TCPKJOVWQ2PJRHVEIDPOJQW4Z3FLVNUEXKBLMXUEXK3F5BU6TCPKJOVWQ2PJRHVEIDCNR2WKXK3IJOU5Q4HIFNS6QS5LMXUGT2MJ5JF2PBPNZQW2ZJ6BI6HI2DVNVRG4YLJNQ7GQ5DUOA5C6L3BOAXGS3LBM5SW443COJQXG2LMFZXXEZZPNFWWCZ3FOMXTEMBRHAXTAMJPGA2S65DIOVWWELLWNFSGCLLEMUWWG4TJMFXGGYJOOBXGOPBPORUHK3LCNZQWS3B6BI6GK6DUMVZG4YLMNRUW42Z6NB2HI4DTHIXS64DBON2GKYTJNYXGG33NF5ZGC5ZPGVDTO4ZVI5VUWPBPMV4HIZLSNZQWY3DJNZVT4CR4MZQW4YLSOQ7GQ5DUOA5C6L3BOAXGS3LBM5SW443COJQXG2LMFZXXEZZPNFWWCZ3FOMXTEMBRHAXTAMJPGA2S6Y3BOBQS22LOMZQW45DJNQXGU4DHHQXWMYLOMFZHIPQKHQXWG2DBNZXGK3B6BI6C6Y3IMFXG4ZLMHYFDYY3IMFXG4ZLMHYFDY3TBNVST4W2DJ5GE6URAM5XWYZC5LNBF2VCWEBAU6ICWJFLE6WZPIJOVWL2DJ5GE6US5HQXW4YLNMU7AUPDUNB2W2YTOMFUWYPTIOR2HAORPF5QXALTJNVQWOZLOONRHEYLTNFWC433SM4XWS3LBM5SXGLZSGAYTQLZQGYXTCNZPNZSXO5DIOVWWEYLPOZUXM3ZOOBXGOPBPORUHK3LCNZQWS3B6BI6GK6DUMVZG4YLMNRUW42Z6NB2HI4DTHIXS64DBON2GKYTJNYXGG33NF5ZGC5ZPIRCXMVDJGBEHMPBPMV4HIZLSNZQWY3DJNZVT4CR4MZQW4YLSOQ7GQ5DUOA5C6L3BOAXGS3LBM5SW443COJQXG2LMFZXXEZZPNFWWCZ3FOMXTEMBRG4XTCMJPGA3C6ZTBNZQXE5BOOBXGOPBPMZQW4YLSOQ7AUPBPMNUGC3TOMVWD4CR4MNUGC3TOMVWD4CR4NZQW2ZJ6LNBU6TCPKIQGO33MMROVWQS5IZEUYTKFKNNS6QS5LMXUGT2MJ5JF2PBPNZQW2ZJ6BI6HI2DVNVRG4YLJNQ7GQ5DUOA5C6L3BOAXGS3LBM5SW443COJQXG2LMFZXXEZZPNFWWCZ3FOMXTEMBRHAXTANRPGE2C63TFO52GQ3LCMZUWY3LFNJ2W42DPFZYG4ZZ4F52GQ5LNMJXGC2LMHYFDYZLYORSXE3TBNRWGS3TLHZUHI5DQOM5C6L3QMFZXIZLCNFXC4Y3PNUXXEYLXF4ZEWVCHMRDHE6J4F5SXQ5DFOJXGC3DMNFXGWPQKHRTGC3TBOJ2D42DUORYDULZPMFYC42LNMFTWK3TTMJZGC43JNQXG64THF5UW2YLHMVZS6MRQGE3S6MJRF4YDML3GMFXGC4TUFZYG4ZZ4F5TGC3TBOJ2D4CR4F5RWQYLONZSWYPQKHRRWQYLONZSWYPQKHRXGC3LFHZNUGT2MJ5JCAZ3PNRSF2W2CLVJUKUSJIVJVWL2CLVNS6Q2PJRHVEXJ4F5XGC3LFHYFDY5DIOVWWE3TBNFWD42DUORYDULZPMFYC42LNMFTWK3TTMJZGC43JNQXG64THF5UW2YLHMVZS6MRQGE4C6MBWF4YTIL3OMV3XI2DVNVRHG43FOJUWK43KOVXGQ3ZOOBXGOPBPORUHK3LCNZQWS3B6BI6GK6DUMVZG4YLMNRUW42Z6NB2HI4DTHIXS64DBON2GKYTJNYXGG33NF5ZGC5ZPO5HEEU2OG5NEQPBPMV4HIZLSNZQWY3DJNZVT4CR4MZQW4YLSOQ7GQ5DUOA5C6L3BOAXGS3LBM5SW443COJQXG2LMFZXXEZZPNFWWCZ3FOMXTEMBRG4XTCMJPGA3C6ZTBNZQXE5BOOBXGOPBPMZQW4YLSOQ7AUPBPMNUGC3TOMVWD4CR4MNUGC3TOMVWD4CR4NZQW2ZJ6LNBU6TCPKIQGO33MMROVWQS5IFHESTKFKNNS6QS5LMXUGT2MJ5JF2PBPNZQW2ZJ6BI6HI2DVNVRG4YLJNQ7GQ5DUOA5C6L3BOAXGS3LBM5SW443COJQXG2LMFZXXEZZPNFWWCZ3FOMXTEMBRHAXTAMRPGE2S65DIOVWWEYLONFWWK43ON53G6LTKOBTTYL3UNB2W2YTOMFUWYPQKHRSXQ5DFOJXGC3DMNFXGWPTIOR2HA4Z2F4XXAYLTORSWE2LOFZRW63JPOJQXOL3YGRRTSWTKOFLTYL3FPB2GK4TOMFWGY2LONM7AUPDGMFXGC4TUHZUHI5DQHIXS6YLQFZUW2YLHMVXHGYTSMFZWS3BON5ZGOL3JNVQWOZLTF4ZDAMJXF4YTCLZQGYXWMYLOMFZHILTQNZTTYL3GMFXGC4TUHYFDYL3DNBQW43TFNQ7AUPDDNBQW43TFNQ7AUPDOMFWWKPS3INHUYT2SEBTW63DELVNUEXKEIVJUKTSIJ5JVWL2CLVNS6Q2PJRHVEXJ4F5XGC3LFHYFDY5DIOVWWE3TBNFWD42DUORYDULZPMFYC42LNMFTWK3TTMJZGC43JNQXG64THF5UW2YLHMVZS6MRQGE4C6MBSF4YTKL3UNB2W2YTEMVZWK3TIN5ZW433WN4XGU4DHHQXXI2DVNVRG4YLJNQ7AUPDFPB2GK4TOMFWGY2LONM7GQ5DUOBZTULZPOBQXG5DFMJUW4LTDN5WS64TBO4XTG4BVMJDUWYTGHQXWK6DUMVZG4YLMNRUW42Z6BI6GMYLOMFZHIPTIOR2HAORPF5QXALTJNVQWOZLOONRHEYLTNFWC433SM4XWS3LBM5SXGLZSGAYTOLZRGEXTANRPMZQW4YLSOQXHA3THHQXWMYLOMFZHIPQKHQXWG2DBNZXGK3B6BI6GG2DBNZXGK3B6BI6G4YLNMU7FWQ2PJRHVEIDHN5WGIXK3IJOVGVCBJZCCAVKQLMXUEXK3F5BU6TCPKJOTYL3OMFWWKPQKHR2GQ5LNMJXGC2LMHZUHI5DQHIXS6YLQFZUW2YLHMVXHGYTSMFZWS3BON5ZGOL3JNVQWOZLTF4ZDAMJYF4YDELZRGUXXI2DVNVZXIYLOMRXG65TPFZVHAZZ4F52GQ5LNMJXGC2LMHYFDYZLYORSXE3TBNRWGS3TLHZUHI5DQOM5C6L3QMFZXIZLCNFXC4Y3PNUXXEYLXF5HGO4BSIJHDOOB4F5SXQ5DFOJXGC3DMNFXGWPQKHRTGC3TBOJ2D42DUORYDULZPMFYC42LNMFTWK3TTMJZGC43JNQXG64THF5UW2YLHMVZS6MRQGE3S6MJRF4YDML3GMFXGC4TUFZYG4ZZ4F5TGC3TBOJ2D4CR4F5RWQYLONZSWYPQKHRRWQYLONZSWYPQKHRXGC3LFHZNUGT2MJ5JCAZ3PNRSF2W2CLVKE6S2VKNAVIU2VLMXUEXK3F5BU6TCPKJOTYL3OMFWWKPQKHR2GQ5LNMJXGC2LMHZUHI5DQHIXS6YLQFZUW2YLHMVXHGYTSMFZWS3BON5ZGOL3JNVQWOZLTF4ZDAMJYF4YDELZRHEXXI33LOVZXI43VFZVHAZZ4F52GQ5LNMJXGC2LMHYFDYZLYORSXE3TBNRWGS3TLHZUHI5DQOM5C6L3QMFZXIZLCNFXC4Y3PNUXXEYLXF5ZUYRJWNZRFM5J4F5SXQ5DFOJXGC3DMNFXGWPQKHRTGC3TBOJ2D42DUORYDULZPMFYC42LNMFTWK3TTMJZGC43JNQXG64THF5UW2YLHMVZS6MRQGE3S6MJRF4YDML3GMFXGC4TUFZYG4ZZ4F5TGC3TBOJ2D4CR4F5RWQYLONZSWYPQKHRRWQYLONZSWYPQKHRXGC3LFHZNUGT2MJ5JCAZ3PNRSF2W2CLVHE6VSFJRAVGWZPIJOVWL2DJ5GE6US5HQXW4YLNMU7AUPDUNB2W2YTOMFUWYPTIOR2HAORPF5ZTELTHNRRGS3LHFZRW63JPG5RGUNKSKZSHE3RYHB3UY53OKA4XES3ZPFJXI5BWNNIT2LZQPAYDUNZRHF4DMMRQF43DSMDYGAXWSLTTGMXGO3DCNFWWOLTDN5WS65RRF5AVKVCIL5STQNBQGQZGKZRXHBRWENBXGA4GCZLFMJSGMMLDGY4GGNTDMJSDML3JNZ2GK4TOMFWF64DIN52G64ZPMJZS6MRQGE3C6YJPGAXWEWBUGFNEYVCWPFLVAYLKO5GE62LTHFIS63TPOZSWYYLTGMXGU4DHHQXXI2DVNVRG4YLJNQ7AUPDFPB2GK4TOMFWGY2LONM7GQ5DUOBZTULZPOBQXG5DFMJUW4LTDN5WS64TBO4XW2OKZKIYVA3KHHQXWK6DUMVZG4YLMNRUW42Z6BI6GMYLOMFZHIPTIOR2HAORPF5QXALTJNVQWOZLOONRHEYLTNFWC433SM4XWS3LBM5SXGLZSGAYTOLZRGEXTANRPMZQW4YLSOQXHA3THHQXWMYLOMFZHIPQKHQXWG2DBNZXGK3B6BI6GG2DBNZXGK3B6BI6G4YLNMU7FWQ2PJRHVEIDHN5WGIXK3IJOVMSKEIEQEGVKMKRNS6QS5LMXUGT2MJ5JF2W2DJ5GE6URAONUWY5TFOJOVWQS5FAQGE6JAJVHVETSJJZDSAU2UIFJCAKK3F5BF2WZPINHUYT2SLU6C63TBNVST4CR4ORUHK3LCNZQWS3B6NB2HI4B2F4XWC4BONFWWCZ3FNZZWE4TBONUWYLTPOJTS62LNMFTWK4ZPGIYDCOBPGA3S6MBSF52GQ5LNMJ3GSZDBMN2WY5BOOBXGOPBPORUHK3LCNZQWS3B6BI6GK6DUMVZG4YLMNRUW42Z6NB2HI4DTHIXS64DBON2GKYTJNYXGG33NF5ZGC5ZPMM2TCZRVJNXEMPBPMV4HIZLSNZQWY3DJNZVT4CR4MZQW4YLSOQ7GQ5DUOA5C6L3BOAXGS3LBM5SW443COJQXG2LMFZXXEZZPNFWWCZ3FOMXTEMBRG4XTCMJPGA3C6ZTBNZQXE5BOOBXGOPBPMZQW4YLSOQ7AUPBPMNUGC3TOMVWD4IBA+AVL15ADA413443FCAZ1nL2ltYWdlcy8yMDE4LzAxLzA1L2NhcGEtaW5mYW50aWwuanBnPC9mYW5hcnQ+CjwvY2hhbm5lbD4KPGNoYW5uZWw+CjxuYW1lPltDT0xPUiBnb2xkXVtCXVRWIEFPIFZJVk9bL0JdWy9DT0xPUl08L25hbWU+Cjx0aHVtYm5haWw+aHR0cDovL2FwLmltYWdlbnNicmFzaWwub3JnL2ltYWdlcy8yMDE4LzA0LzEwL3RodW1idHZub3ZvLmpwZzwvdGh1bWJuYWlsPgo8ZXh0ZXJuYWxsaW5rPmh0dHBzOi8vcGFzdGViaW4uY29tL3Jhdy9ERXZUaTBIdjwvZXh0ZXJuYWxsaW5rPgo8ZmFuYXJ0Pmh0dHBzOi8vMi5icC5ibG9nc3BvdC5jb20vLUoxZGFCYUlzYThNL1dYWGNwSXRRWVhJL0FBQUFBQUFBQUswLzAzT09XcE9JVTBZU1BCSGRTZlg3OXZMekYxUGplNHM5d0NMY0JHQXMvczE2MDAvaHFkZWZhdWx0LmpwZzwvZmFuYXJ0Pgo8L2NoYW5uZWw+CjxjaGFubmVsPgo8bmFtZT5bQ09MT1IgZ29sZF1bQl1GSUxNRVNbL0JdWy9DT0xPUl08L25hbWU+Cjx0aHVtYm5haWw+aHR0cDovL2FwLmltYWdlbnNicmFzaWwub3JnL2ltYWdlcy8yMDE4LzAyLzE1L3RodW1iZmlsbWVzbm92by5qcGc8L3RodW1ibmFpbD4KPGV4dGVybmFsbGluaz5odHRwczovL3Bhc3RlYmluLmNvbS9yYXcvMktUR2RGcnk8L2V4dGVybmFsbGluaz4KPGZhbmFydD5odHRwOi8vYXAuaW1hZ2Vuc2JyYXNpbC5vcmcvaW1hZ2VzLzIwMTcvMTEvMDYvZmFuYXJ0Lm1kLnBuZzwvZmFuYXJ0Pgo8L2NoYW5uZWw+CjxjaGFubmVsPgo8bmFtZT5bQ09MT1IgZ29sZF1bQl1TRVJJRVNbL0JdWy9DT0xPUl08L25hbWU+Cjx0aHVtYm5haWw+aHR0cDovL2FwLmltYWdlbnNicmFzaWwub3JnL2ltYWdlcy8yMDE4LzAyLzE1L3RodW1ic2VyaWVub3ZvLmpwZzwvdGh1bWJuYWlsPgo8ZXh0ZXJuYWxsaW5rPmh0dHBzOi8vcGFzdGViaW4uY29tL3Jhdy93TkJTTjdaSDwvZXh0ZXJuYWxsaW5rPgo8ZmFuYXJ0Pmh0dHA6Ly9hcC5pbWFnZW5zYnJhc2lsLm9yZy9pbWFnZXMvMjAxNy8xMS8wNi9mYW5hcnQubWQucG5nPC9mYW5hcnQ+CjwvY2hhbm5lbD4KPGNoYW5uZWw+CjxuYW1lPltDT0xPUiBnb2xkXVtCXUFOSU1FU1svQl1bL0NPTE9SXTwvbmFtZT4KPHRodW1ibmFpbD5odHRwOi8vYXAuaW1hZ2Vuc2JyYXNpbC5vcmcvaW1hZ2VzLzIwMTgvMDIvMTUvdGh1bWJhbmltZXNub3ZvLmpwZzwvdGh1bWJuYWlsPgo8ZXh0ZXJuYWxsaW5rPmh0dHBzOi8vcGF$DECODER$
+#EXTM3U
+#EXTINF: -1 tvg-id = "" tvg-name = "| PT | RTP 1" tvg-logo = "https://i.imgur.com/DZfGQwI.jpg", [B] [COR limão] = ==== BLACKARROW18 ===== [/ B] [/ COR]
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="As Panteras - Incesto 7" tvg-logo="http://i.imgur.com/pyjJfsM.jpg" group-title="", As Panteras - Incesto 7
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/fe900c9da9b70b45716793b2ec6d496c00bec5df75/22000/22160/22160_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Angel Lima fazendo dupla penetração" tvg-logo="http://i.imgur.com/FmoUyWO.jpg" group-title="Filmes Adultos", Angel Lima fazendo dupla penetração
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/34a4ffea6a3b6e7eb540ef2b9c87d1837e979cc4f4/22000/22208/22208_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Ninfeta brasileira fodendo com vizinho" tvg-logo="http://i.imgur.com/K7gUgXr.jpg" group-title="", Ninfeta brasileira fodendo com vizinho
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/09c220507e5eacd02a880a5c0d86d2f054502a0687/21000/21377/21377_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Putinha sentando forte no pau grande do namorado" tvg-logo="http://i.imgur.com/yGOBTZr.jpg" group-title="Filmes Adultos", Putinha sentando forte no pau grande do namorado
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/8b6be2c1709099cf93b91e7f678c2405e83cc07459/21000/21437/21437_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Novinha amadora gostosa dando a xoxota" tvg-logo="http://i.imgur.com/MmD4Z7Z.jpg" group-title="", Novinha amadora gostosa dando a xoxota
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/ab4875ffc054d310b3c9212cad744105caede94cbf/21000/21604/21604_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Amigas no hotel trepando" tvg-logo="http://i.imgur.com/QArkW7D.jpg" group-title="Filmes Adultos", Amigas no hotel trepando
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/31dd38c89a8141393b55e646ddef3ff0e0fb32374f/21000/21852/21852_240p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Morenaça rabuda fodendo no cassete grosso" tvg-logo="http://i.imgur.com/GOsRBYA.jpg" group-title="", Morenaça rabuda fodendo no cassete grosso
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/e71af7fb85907d1dcdeb67294606aa968e82f2b211/19000/19307/19307_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Chupando a boceta grande" tvg-logo="http://i.imgur.com/jLk6XN3.jpg" group-title="Filmes Adultos", Chupando a boceta grande
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/39e59697fb545c20e6579a1ef9a3ea0bcdba216fdf/19000/19133/19133_360p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Pâmela Pantera fodendo toda lambuzada de óleo" tvg-logo="http://i.imgur.com/hN4OBff.jpg" group-title="", Pâmela Pantera fodendo toda lambuzada de óleo
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/5b732cbd90fb4ae00e4b00687f76e8e20698260669/19000/19288/19288_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Giovana Bombom fodendo cheia de tesão" tvg-logo="http://i.imgur.com/OD686na.jpg" group-title="Filmes Adultos", Giovana Bombom fodendo cheia de tesão
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9ad35805e2670ae8523b6ceabb5d826db39d0d2dd4/20000/20347/20347_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Manu Fox fodendo na cozinha" tvg-logo="http://i.imgur.com/FXk7xSA.jpg" group-title="", Manu Fox fodendo na cozinha
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/01a5b4326587179de1c1c4d9424a54e33314993860/21000/21622/21622_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="rabudas levando pica grande do gringo tarado" tvg-logo="http://i.imgur.com/6wraK2Q.jpg" group-title="", rabudas levando pica grande do gringo tarado
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/videort577222.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="gostosas fazendo boquete" tvg-logo="http://i.imgur.com/08z3utx.jpg" group-title="Filmes Adultos", gostosas fazendo boquete
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/video24060297.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Empregada gostosona fodendo com o filho tarado do patrão" tvg-logo="http://i.imgur.com/V1Whmiv.jpg" group-title="", Empregada gostosona fodendo com o filho tarado do patrão
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/videoph568db638ce681.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Loira rabuda, Mirella Mansur, metendo com o negão pauzudo" tvg-logo="http://i.imgur.com/kVfR050.jpg" group-title="Filmes Adultos", Loira rabuda, Mirella Mansur, metendo com o negão pauzudo
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/video24761409.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Brasileira novinha de bunda grande trepando com negro safado" tvg-logo="http://i.imgur.com/5bty0Se.jpg" group-title="", Brasileira novinha de bunda grande trepando com negro safado
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/videoxh2730127.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Putinha peituda dando pra dois mulatos de cacete grande" tvg-logo="http://i.imgur.com/wh0FFDZ.jpg" group-title="Filmes Adultos", Putinha peituda dando pra dois mulatos de cacete grande
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/video23235823.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Comendo a mãe e a filha" tvg-logo="http://i.imgur.com/IIU3rps.jpg" group-title="", Comendo a mãe e a filha
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/cb4ae6395bb82e8b711b220c31151cf925cfcce3f8/21000/21718/21718_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Dois paus no mesmo cu" tvg-logo="http://i.imgur.com/CcUOykN.jpg" group-title="Filmes Adultos", Dois paus no mesmo cu
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/1337a738b4fd5a50686c3eeb5e0b5bed2f86053e9f/21000/21717/21717_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Sexo quente com uma morena safada" tvg-logo="http://i.imgur.com/LYdoldz.jpg" group-title="", Sexo quente com uma morena safada
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9c06408da3a8c4aa8eb0f1c76a0c65d305147cda8d/21000/21715/21715_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="fodendo na banheira" tvg-logo="http://i.imgur.com/pDoLiOi.jpg" group-title="Filmes Adultos", fodendo na banheira
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/df3ec0bc3c9cdf0da0338717be8a6bf017119c485b/21000/21339/21339_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Loirinha safada no motel" tvg-logo="http://i.imgur.com/jqxd67C.jpg" group-title="", Loirinha safada no motel
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/0b35c5f955c72ff8c23131e6217bf679832c9629c2/2000/2116/2116_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Loirinha safada no motel" tvg-logo="http://i.imgur.com/jqxd67C.jpg" group-title="Filmes Adultos", Loirinha safada no motel
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/0b35c5f955c72ff8c23131e6217bf679832c9629c2/2000/2116/2116_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Loirinha brasileira no seu primeiro porno" tvg-logo="http://i.imgur.com/z6r7x8N.jpg" group-title="", Loirinha brasileira no seu primeiro porno
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/99d02092b408964ec2938497e8548b8fc8f63bbec9/2000/2131/2131_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Pegou na praia e levou para o motel" tvg-logo="http://i.imgur.com/F5ICepd.jpg" group-title="Filmes Adultos", Pegou na praia e levou para o motel
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/939dfd767a7cb07739a77f9f80e20491e763ccfa76/2000/2208/2208_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Marido aquecendo para o negrão comer" tvg-logo="http://i.imgur.com/A5Pnx5h.jpg" group-title="", Marido aquecendo para o negrão comer
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/154de9282302a6b26fa97650b90a3d5386dc7219ac/2000/2121/2121_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Loira Charmosa" tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="Filmes Adultos", Loira Charmosa
+http://media.pornocarioca.com/videos/mp4/6865/6865.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Ingênua Mas Adora Foder" tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="", Ingênua Mas Adora Foder
+http://media.pornocarioca.com/videos/mp4/7085/7085.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Escola da Safadeza" tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="Filmes Adultos", Escola da Safadeza
+http://media.pornocarioca.com/videos/mp4/7206/7206.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Do Cuzinho Pra Boca" tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="", Do Cuzinho Pra Boca
+http://media.pornocarioca.com/videos/mp4/6689/6689.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Só Rabuda Deliciosa" tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="Filmes Adultos", Só Rabuda Deliciosa
+http://media.pornocarioca.com/videos/mp4/6609/6609.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Ousadia em Locais Pouco Discretos" tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="", Ousadia em Locais Pouco Discretos
+http://media.pornocarioca.com/videos/mp4/6515/6515.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Primeira Vez no Pornô" tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="Filmes Adultos", Primeira Vez no Pornô
+http://media.pornocarioca.com/videos/mp4/6404/6404.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Viviane Araújo a Stripper" tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="", Viviane Araújo a Stripper
+http://media.pornocarioca.com/videos/mp4/6316/6316.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Quinta do Conde" tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="Filmes Adultos", Quinta do Conde
+http://media.pornocarioca.com/videos/mp4/6222/6222.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Loira Gostosa Transando Com Gringos" tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="", Loira Gostosa Transando Com Gringos
+http://media.pornocarioca.com/videos/mp4/6137/6137.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Desejos Sexuais" tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="Filmes Adultos", Desejos Sexuais
+http://media.pornocarioca.com/videos/mp4/6009/6009.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="A Carioca Monique" tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="", A Carioca Monique
+http://media.pornocarioca.com/videos/mp4/5963/5963.mp4?LISTABYPEDROJUNIORTUTORIAIS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Babestation 24" tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="LHMTv +18", Babestation 24
+http://sdn-global-live-http-cache.3qsdn.com/2346/_definst_///mp4:Ct6zG7Nrj3v2JxD/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jasmin HD" tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="", Jasmin HD
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Miami TV espana" tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="LHMTv +18", Miami TV espana
+http://23.111.128.190/miamitv/smil:miamitvspain/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Miami TV Latina" tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="", Miami TV Latina
+http://server.miamitvchannel.com/canal18/smil:canal18/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Visit-X" tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="", Visit-X
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="LHMTv +18", 
+http://media.pornocarioca.com/videos/mp4/12634/12634.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/12178/12178.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="LHMTv +18", 
+http://media.pornocarioca.com/videos/mp4/12052/12052.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/11947/11947.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="LHMTv +18", 
+http://media.pornocarioca.com/videos/mp4/11817/11817.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/11687/11687.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/11438/11438.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/11125/11125.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/10843/10843.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/10672/10672.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/10450/10450.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/10206/10206.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/9979/9979.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/9772/9772.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/9585/9585.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/9310/9310.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/9103/9103.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/8842/8842.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/8602/8602.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/8256/8256.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/8057/8057.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/7947/7947.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/7857/7857.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/7756/7756.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/7628/7628.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/7498/7498.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/7349/7349.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/7206/7206.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/7085/7085.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/6865/6865.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/6609/6609.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/6515/6515.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/6404/6404.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/6316/6316.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/6222/6222.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/6137/6137.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/6009/6009.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/5963/5963.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/13403/13403.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/12081/12081.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/12079/12079.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/7909/7909.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/8092/8092.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/13412/13412.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/8010/8010.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/7994/7994.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/6865/6865.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/13405/13405.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/8022/8022.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/12934/12934.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/8011/8011.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/13402/13402.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/7912/7912.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/9772/9772.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/8023/8023.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/12057/12057.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/12071/12071.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/8008/8008.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/13402/13402.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/12086/12086.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/13401/13401.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/8021/8021.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/13409/13409.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/8019/8019.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/13407/13407.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/7992/7992.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/13396/13396.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/7974/7974.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/8095/8095.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornocarioca.com/videos/mp4/12088/12088.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://media.pornocarioca.com/videos/mp4/13378/13378.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/5/6/e/d/556edfc7a2f1a.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/3/b/d/583bd6df828bb.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/3/b/d/583bda544d090.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/3/d/4/583d4b7d91e09.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/3/e/7/583e7da03ba63.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/3/e/8/583e80f6d5bf7.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/5/6/e/d/556edfc7a2f1a.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/2/1/c/5821c955282a1.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/2/3/4/58234143f3d07.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/2/3/4/58234ac6f3474.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/2/3/4/58234d6c580ba.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/2/3/5/582354de6e8d3.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/2/1/f/5821f33fc1a6b.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/2/1/f/5821fc6f0b049.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/2/2/0/58220f166ed8a.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/2/2/1/582217c726121.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/2/1/6/582169dc2796e.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/0/4/b/5804b072e0a27.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/0/4/b/5804b795b749d.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/0/4/d/5804de38ea164.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/0/4/e/5804ee54df9e7.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/0/4/e/5804e64e76529.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/8/0/4/f/5804f7ca2feb0.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/3/b/0/573b07413c790.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/3/b/1/573b1217a8597.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/3/c/b/573cb0599e02b.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/3/c/b/573cbd1d3054d.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/a/9/8/57a98daa5b286.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/a/f/4/57af489b6d9ca.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/1/d/57b1d3592de73.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/1/d/57b1d7597f2d4.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/1/e/57b1e10c49944.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/1/d/57b1df9d07a5c.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/1/d/57b1ddd96aeb2.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/6/57b96cbfaa5cb.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/5/57b95055b36fd.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/5/57b95362e0630.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/6/57b96f2bd7634.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/7/57b97227b398f.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/7/57b97b01065be.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/7/57b979099a804.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/8/57b980a6eb5ca.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/8/57b986ac02de6.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/8/57b98ff4c67be.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/9/57b9925eb7712.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/9/57b998911ca5a.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/a/57b9a056d0394.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/a/57b9a89f486df.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/b/57b9b03ff3aff.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/b/57b9b8dc3bb2e.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/b/57b9be2776371.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/c/57b9c24502e74.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/a/8/f/57a8f539d72b6.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/a/9/0/57a900d5d3914.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/a/57b9a5e96420f.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/c/57b9c4e101329.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/c/57b9caf439173.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/c/57b9cefedf691.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/d/57b9d2a585673.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/3/c/d/573cd49448813.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/3/d/1/573d105f54635.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/3/d/3/573d37216ae0f.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/d/57b9d7fac5933.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/e/57b9e41b577d4.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/e/57b9e7c45dd80.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/f/57b9f9d1c66b2.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/9/e/57b9ec23cc8ce.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/a/1/57ba10e6d6ee3.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/a/0/57ba0edaf07c4.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/a/1/57ba184161c62.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/a/1/57ba1bca51455.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/a/2/57ba23e382d0b.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://cdn.videos.pornopizza.it/media/videos/5/7/b/a/2/57ba28512bdd9.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://streaming.videopornoitaliano.com:81/videos/5/8/f/8/7/58f87823505f0.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://streaming.videopornoitaliano.com:81/videos/5/8/b/d/6/58bd64851e20f.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="Filmes XXX", 
+http://streaming.pornoitaliano.com:81/videos/5/9/f/0/d/59f0d4332d593.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="", 
+http://media.pornogiusto.com/videos/5/8/b/e/a/8/9747_58bea800b0fa2.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 1" tvg-logo="http://goo.gl/opwwNi" group-title="Filmes XXX", XXX-Babes 1
+http://anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 10" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 10
+http://anysex.com/get_file/1/07d3eb53f530b5b9dce8585df1882e95/203000/203802/203802.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 11" tvg-logo="http://goo.gl/opwwNi" group-title="Filmes XXX", XXX-Babes 11
+http://anysex.com/get_file/1/0f750593e9c13a97d1372da7ba5ff03d/182000/182756/182756.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 12" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 12
+http://anysex.com/get_file/1/ff756e8a922190e541ffb28fc1d0899c/182000/182758/182758.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 14" tvg-logo="http://goo.gl/opwwNi" group-title="Filmes XXX", XXX-Babes 14
+http://anysex.com/get_file/1/8796f0bd1e8e71882aa295e9191b9296/191000/191215/191215.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 15" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 15
+http://anysex.com/get_file/1/5173e1412a034da36e71f85ed0ad1846/203000/203201/203201.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 16" tvg-logo="http://goo.gl/opwwNi" group-title="Filmes XXX", XXX-Babes 16
+http://anysex.com/get_file/1/05aea56460ffe6544e25c74d5e8d603f/203000/203203/203203.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 17" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 17
+http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 18" tvg-logo="http://goo.gl/opwwNi" group-title="Filmes XXX", XXX-Babes 18
+http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 19" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 19
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 2" tvg-logo="http://goo.gl/opwwNi" group-title="Filmes XXX", XXX-Babes 2
+http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 20" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 20
+http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 3" tvg-logo="http://goo.gl/opwwNi" group-title="Filmes XXX", XXX-Babes 3
+http://anysex.com/get_file/1/7f1ab8fb692cdd03eceaa260c957393b/200000/200149/200149.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 4" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 4
+http://anysex.com/get_file/1/99441daeb374ea78124532d200b98c9d/204000/204522/204522.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 5" tvg-logo="http://goo.gl/opwwNi" group-title="Filmes XXX", XXX-Babes 5
+http://anysex.com/get_file/1/96383cc05aedc07402e7b2dea40e505c/186000/186265/186265.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 6" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 6
+http://anysex.com/get_file/1/0dd12485608c09bc44a29b52b2f027cc/184000/184508/184508.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 7" tvg-logo="http://goo.gl/opwwNi" group-title="Filmes XXX", XXX-Babes 7
+http://anysex.com/get_file/1/1d759b669f1a44309556024be91f9923/193000/193615/193615.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 8" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 8
+http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/193000/193742/193742.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 9" tvg-logo="http://goo.gl/opwwNi" group-title="Filmes XXX", XXX-Babes 9
+http://anysex.com/get_file/1/e14c8e773b9a3ed22ce42000db76a91a/203000/203211/203211.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS" tvg-logo="http://is.gd/ZENh9U" group-title="", BRAZZERS
+http://static.brazzers.com/scenes/3345/180sec.flv
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS" tvg-logo="http://is.gd/ZENh9U" group-title="Filmes XXX", BRAZZERS
+http://static.brazzers.com/scenes/3345/180sec.flv
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS" tvg-logo="http://is.gd/ZENh9U" group-title="Filmes XXX", BRAZZERS
+http://static.brazzers.com/scenes/3345/180sec.flv
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS" tvg-logo="http://is.gd/ZENh9U" group-title="Filmes XXX", BRAZZERS
+http://static.brazzers.com/scenes/3345/180sec.flv
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS" tvg-logo="http://is.gd/ZENh9U" group-title="", BRAZZERS
+http://static.brazzers.com/scenes/3345/180sec.flv
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS" tvg-logo="http://is.gd/ZENh9U" group-title="Filmes XXX", BRAZZERS
+http://static.brazzers.com/scenes/3345/180sec.flv
+#EXTINF:-1 tvg-id="" tvg-name="Porneq 01" tvg-logo="http://porneq.com/media/porn7/thumbs/743/Zuzana-Zeleznovova-fucked-deep-in-both-holes-Zuzana-Zeleznovova-fucked-deep-in-both-holes-360p-TAvSjELCd16.jpg" group-title="", Porneq 01
+http://porneq.com/media/porn7/videos/743/Zuzana-Zeleznovova-fucked-deep-in-both-holes-Zuzana-Zeleznovova-fucked-deep-in-both-holes-360p-TAvSjELCd16.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Porneq 02" tvg-logo="http://porneq.com/media/porn7/thumbs/891/MyDadsHotGirlfriend-Kimmy-Fabel-04-02-16-rq-360p-aa2eTBQqyLB.jpg" group-title="Filmes XXX", Porneq 02
+http://porneq.com/media/porn7/videos/891/MyDadsHotGirlfriend-Kimmy-Fabel-04-02-16-rq-360p-aa2eTBQqyLB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Porneq 03" tvg-logo="http://porneq.com/media/porn7/thumbs/1876/Nika-Noire-loves-teasing-Madison-Scotts-moist-pussy-PIR-TE-Nika-Noire-loves-teasing-Madison-Scotts-moist-pussy-360p-FfBh6youF6y.jpg" group-title="", Porneq 03
+http://porneq.com/media/porn7/videos/1876/Nika-Noire-loves-teasing-Madison-Scotts-moist-pussy-PIR-TE-Nika-Noire-loves-teasing-Madison-Scotts-moist-pussy-360p-FfBh6youF6y.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Porneq 04" tvg-logo="http://porneq.com/media/porn4/thumbs/445/Turbo-Sluts-Scene-01-08-30-2015-Mylove-360p-FM9TyF3A1zs.jpg" group-title="Filmes XXX", Porneq 04
+http://porneq.com/media/porn4/videos/445/Turbo-Sluts-Scene-01-08-30-2015-Mylove-360p-FM9TyF3A1zs.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Porneq 05" tvg-logo="http://porneq.com/media/porn5/thumbs/465/Amanda-Black-20-10-2015-Mylove-360p-2Df89PnA8q2.jpg" group-title="", Porneq 05
+http://porneq.com/media/porn5/videos/465/Amanda-Black-20-10-2015-Mylove-360p-2Df89PnA8q2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Porneq 06" tvg-logo="http://porneq.com/media/porn2/thumbs/904/Blonde-Hottie-Fucking-with-Asslicking-Front-Hidden-Webcam-Cumshot-on-Ass-360p-MuRBZyuxvaa.jpg" group-title="Filmes XXX", Porneq 06
+http://porneq.com/media/porn2/videos/904/Blonde-Hottie-Fucking-with-Asslicking-Front-Hidden-Webcam-Cumshot-on-Ass-360p-MuRBZyuxvaa.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Porneq 07" tvg-logo="http://porneq.com/media/porn7/thumbs/98/MonstersOfCock-Riley-Reid-Riley-Reid-loves-Black-Dick-06-08-13-360p-UWm6iieGjsM.jpg" group-title="", Porneq 07
+http://porneq.com/media/porn7/videos/98/MonstersOfCock-Riley-Reid-Riley-Reid-loves-Black-Dick-06-08-13-360p-UWm6iieGjsM.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Porneq 09" tvg-logo="http://porneq.com/media/porn7/thumbs/1929/Dirty-Western-2-Smokin-Guns-1995-Full-Movie-360p-7vnRLFOTPE2.jpg" group-title="Filmes XXX", Porneq 09
+http://porneq.com/media/porn7/videos/1929/Dirty-Western-2-Smokin-Guns-1995-Full-Movie-360p-7vnRLFOTPE2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Porneq 10" tvg-logo="http://porneq.com/media/porn/thumbs/16/completed-PASSION-POTION-360p-fqqpa2wLfll.jpg" group-title="", Porneq 10
+http://porneq.com/media/porn/videos/16/completed-PASSION-POTION-360p-fqqpa2wLfll.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 1" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  1
+http://www.pornonacionais.com/wp-content/uploads/2016/12/1015.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 2" tvg-logo="https://goo.gl/YK3wxm" group-title="",  2
+http://www.pornonacionais.com/wp-content/uploads/2016/12/852.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 3" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  3
+http://www.pornonacionais.com/wp-content/uploads/2016/12/819.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 4" tvg-logo="https://goo.gl/YK3wxm" group-title="",  4
+http://www.pornonacionais.com/wp-content/uploads/2016/12/806.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 5" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  5
+http://www.pornonacionais.com/wp-content/uploads/2017/01/0916abe621f8640f39d5bc591f9145bc.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 6" tvg-logo="https://goo.gl/YK3wxm" group-title="",  6
+http://www.pornonacionais.com/wp-content/uploads/2016/12/607.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 7" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  7
+http://www.pornonacionais.com/wp-content/uploads/2016/12/910.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 8" tvg-logo="https://goo.gl/YK3wxm" group-title="",  8
+http://www.pornonacionais.com/wp-content/uploads/2017/02/b7b21a15a69e3de543a66182fcecf6da.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 9" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  9
+http://www.pornonacionais.com/wp-content/uploads/2016/01/btl-funkcarro-1.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 10" tvg-logo="https://goo.gl/YK3wxm" group-title="",  10
+http://www.pornonacionais.com/wp-content/uploads/2017/02/afc03b24e36e200dc7ac378e8ee4ad0b.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 11" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  11
+http://www.pornonacionais.com/wp-content/uploads/2016/12/d8ed22fa132bdc8a3a42adca50c13f90-1.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 12" tvg-logo="https://goo.gl/YK3wxm" group-title="",  12
+http://www.pornonacionais.com/wp-content/uploads/2016/12/712.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 13" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  13
+http://www.pornonacionais.com/wp-content/uploads/2016/10/bfe51671dd07a58f466a69b601407af6.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 14" tvg-logo="https://goo.gl/YK3wxm" group-title="",  14
+http://www.pornonacionais.com/wp-content/uploads/2016/12/507.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 15" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  15
+http://www.pornonacionais.com/wp-content/uploads/2016/12/126.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 16" tvg-logo="https://goo.gl/YK3wxm" group-title="",  16
+http://www.pornonacionais.com/wp-content/uploads/2016/12/4c275f778304cc0942899f32c66cb5ba.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 17" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  17
+http://www.pornonacionais.com/wp-content/uploads/2016/12/612d32c544f67b540b9c50f1f1414275.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 18" tvg-logo="https://goo.gl/YK3wxm" group-title="",  18
+http://www.pornonacionais.com/wp-content/uploads/2016/12/2eb818875022ccc81c14317af0c956c9-1.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 19" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  19
+http://www.pornonacionais.com/wp-content/uploads/2017/01/ffb2cf7ce157fd56c2f705e91039a36c-1.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 20" tvg-logo="https://goo.gl/YK3wxm" group-title="",  20
+http://www.pornonacionais.com/wp-content/uploads/2016/12/824.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 21" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  21
+http://www.pornonacionais.com/wp-content/uploads/2016/10/b0d26bd495439df83242e8b676696a54.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 1" tvg-logo="https://goo.gl/YK3wxm" group-title="",  1
+http://www.pornonacionais.com/wp-content/uploads/2016/12/1015.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 2" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  2
+http://www.pornonacionais.com/wp-content/uploads/2016/12/852.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 3" tvg-logo="https://goo.gl/YK3wxm" group-title="",  3
+http://www.pornonacionais.com/wp-content/uploads/2016/12/819.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 4" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  4
+http://www.pornonacionais.com/wp-content/uploads/2016/12/806.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 5" tvg-logo="https://goo.gl/YK3wxm" group-title="",  5
+http://www.pornonacionais.com/wp-content/uploads/2017/01/0916abe621f8640f39d5bc591f9145bc.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 6" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  6
+http://www.pornonacionais.com/wp-content/uploads/2016/12/607.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 7" tvg-logo="https://goo.gl/YK3wxm" group-title="",  7
+http://www.pornonacionais.com/wp-content/uploads/2016/12/910.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 8" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  8
+http://www.pornonacionais.com/wp-content/uploads/2017/02/b7b21a15a69e3de543a66182fcecf6da.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 9" tvg-logo="https://goo.gl/YK3wxm" group-title="",  9
+http://www.pornonacionais.com/wp-content/uploads/2016/01/btl-funkcarro-1.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 10" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  10
+http://www.pornonacionais.com/wp-content/uploads/2017/02/afc03b24e36e200dc7ac378e8ee4ad0b.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 11" tvg-logo="https://goo.gl/YK3wxm" group-title="",  11
+http://www.pornonacionais.com/wp-content/uploads/2016/12/d8ed22fa132bdc8a3a42adca50c13f90-1.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 12" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  12
+http://www.pornonacionais.com/wp-content/uploads/2016/12/712.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 13" tvg-logo="https://goo.gl/YK3wxm" group-title="",  13
+http://www.pornonacionais.com/wp-content/uploads/2016/10/bfe51671dd07a58f466a69b601407af6.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 14" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  14
+http://www.pornonacionais.com/wp-content/uploads/2016/12/507.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 15" tvg-logo="https://goo.gl/YK3wxm" group-title="",  15
+http://www.pornonacionais.com/wp-content/uploads/2016/12/126.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 16" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  16
+http://www.pornonacionais.com/wp-content/uploads/2016/12/4c275f778304cc0942899f32c66cb5ba.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 17" tvg-logo="https://goo.gl/YK3wxm" group-title="",  17
+http://www.pornonacionais.com/wp-content/uploads/2016/12/612d32c544f67b540b9c50f1f1414275.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 18" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  18
+http://www.pornonacionais.com/wp-content/uploads/2016/12/2eb818875022ccc81c14317af0c956c9-1.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 19" tvg-logo="https://goo.gl/YK3wxm" group-title="",  19
+http://www.pornonacionais.com/wp-content/uploads/2017/01/ffb2cf7ce157fd56c2f705e91039a36c-1.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 20" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  20
+http://www.pornonacionais.com/wp-content/uploads/2016/12/824.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 21" tvg-logo="https://goo.gl/YK3wxm" group-title="",  21
+http://www.pornonacionais.com/wp-content/uploads/2016/10/b0d26bd495439df83242e8b676696a54.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 1" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  1
+http://www.pornonacionais.com/wp-content/uploads/2016/12/1015.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 2" tvg-logo="https://goo.gl/YK3wxm" group-title="",  2
+http://www.pornonacionais.com/wp-content/uploads/2016/12/852.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 3" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  3
+http://www.pornonacionais.com/wp-content/uploads/2016/12/819.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 4" tvg-logo="https://goo.gl/YK3wxm" group-title="",  4
+http://www.pornonacionais.com/wp-content/uploads/2016/12/806.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 5" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  5
+http://www.pornonacionais.com/wp-content/uploads/2017/01/0916abe621f8640f39d5bc591f9145bc.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 6" tvg-logo="https://goo.gl/YK3wxm" group-title="",  6
+http://www.pornonacionais.com/wp-content/uploads/2016/12/607.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 7" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  7
+http://www.pornonacionais.com/wp-content/uploads/2016/12/910.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 8" tvg-logo="https://goo.gl/YK3wxm" group-title="",  8
+http://www.pornonacionais.com/wp-content/uploads/2017/02/b7b21a15a69e3de543a66182fcecf6da.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 9" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  9
+http://www.pornonacionais.com/wp-content/uploads/2016/01/btl-funkcarro-1.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 10" tvg-logo="https://goo.gl/YK3wxm" group-title="",  10
+http://www.pornonacionais.com/wp-content/uploads/2017/02/afc03b24e36e200dc7ac378e8ee4ad0b.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 11" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  11
+http://www.pornonacionais.com/wp-content/uploads/2016/12/d8ed22fa132bdc8a3a42adca50c13f90-1.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 12" tvg-logo="https://goo.gl/YK3wxm" group-title="",  12
+http://www.pornonacionais.com/wp-content/uploads/2016/12/712.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 13" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  13
+http://www.pornonacionais.com/wp-content/uploads/2016/10/bfe51671dd07a58f466a69b601407af6.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 14" tvg-logo="https://goo.gl/YK3wxm" group-title="",  14
+http://www.pornonacionais.com/wp-content/uploads/2016/12/507.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 15" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  15
+http://www.pornonacionais.com/wp-content/uploads/2016/12/126.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 16" tvg-logo="https://goo.gl/YK3wxm" group-title="",  16
+http://www.pornonacionais.com/wp-content/uploads/2016/12/4c275f778304cc0942899f32c66cb5ba.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 17" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  17
+http://www.pornonacionais.com/wp-content/uploads/2016/12/612d32c544f67b540b9c50f1f1414275.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 18" tvg-logo="https://goo.gl/YK3wxm" group-title="",  18
+http://www.pornonacionais.com/wp-content/uploads/2016/12/2eb818875022ccc81c14317af0c956c9-1.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 19" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  19
+http://www.pornonacionais.com/wp-content/uploads/2017/01/ffb2cf7ce157fd56c2f705e91039a36c-1.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 20" tvg-logo="https://goo.gl/YK3wxm" group-title="",  20
+http://www.pornonacionais.com/wp-content/uploads/2016/12/824.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 21" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  21
+http://www.pornonacionais.com/wp-content/uploads/2016/10/b0d26bd495439df83242e8b676696a54.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 1" tvg-logo="https://goo.gl/YK3wxm" group-title="",  1
+http://www.pornonacionais.com/wp-content/uploads/2016/12/1015.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 2" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  2
+http://www.pornonacionais.com/wp-content/uploads/2016/12/852.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 3" tvg-logo="https://goo.gl/YK3wxm" group-title="",  3
+http://www.pornonacionais.com/wp-content/uploads/2016/12/819.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 4" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  4
+http://www.pornonacionais.com/wp-content/uploads/2016/12/806.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 5" tvg-logo="https://goo.gl/YK3wxm" group-title="",  5
+http://www.pornonacionais.com/wp-content/uploads/2017/01/0916abe621f8640f39d5bc591f9145bc.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 6" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  6
+http://www.pornonacionais.com/wp-content/uploads/2016/12/607.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 7" tvg-logo="https://goo.gl/YK3wxm" group-title="",  7
+http://www.pornonacionais.com/wp-content/uploads/2016/12/910.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 8" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  8
+http://www.pornonacionais.com/wp-content/uploads/2017/02/b7b21a15a69e3de543a66182fcecf6da.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 9" tvg-logo="https://goo.gl/YK3wxm" group-title="",  9
+http://www.pornonacionais.com/wp-content/uploads/2016/01/btl-funkcarro-1.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 10" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  10
+http://www.pornonacionais.com/wp-content/uploads/2017/02/afc03b24e36e200dc7ac378e8ee4ad0b.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 11" tvg-logo="https://goo.gl/YK3wxm" group-title="",  11
+http://www.pornonacionais.com/wp-content/uploads/2016/12/d8ed22fa132bdc8a3a42adca50c13f90-1.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 12" tvg-logo="https://goo.gl/YK3wxm" group-title="Filmes XXX",  12
+http://www.pornonacionais.com/wp-content/uploads/2016/12/712.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 13" tvg-logo="https://goo.gl/YK3wxm" group-title="",  13
+http://www.pornonacionais.com/wp-content/uploads/2016/10/bfe51671dd07a58f466a69b601407af6.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 14" tvg-logo="https://goo.gl/YK3wxm" group-title="",  14
+http://www.pornonacionais.com/wp-content/uploads/2016/12/507.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 15" tvg-logo="https://goo.gl/YK3wxm" group-title="",  15
+http://www.pornonacionais.com/wp-content/uploads/2016/12/126.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 16" tvg-logo="https://goo.gl/YK3wxm" group-title="",  16
+http://www.pornonacionais.com/wp-content/uploads/2016/12/4c275f778304cc0942899f32c66cb5ba.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 17" tvg-logo="https://goo.gl/YK3wxm" group-title="",  17
+http://www.pornonacionais.com/wp-content/uploads/2016/12/612d32c544f67b540b9c50f1f1414275.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 18" tvg-logo="https://goo.gl/YK3wxm" group-title="",  18
+http://www.pornonacionais.com/wp-content/uploads/2016/12/2eb818875022ccc81c14317af0c956c9-1.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 19" tvg-logo="https://goo.gl/YK3wxm" group-title="",  19
+http://www.pornonacionais.com/wp-content/uploads/2017/01/ffb2cf7ce157fd56c2f705e91039a36c-1.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 20" tvg-logo="https://goo.gl/YK3wxm" group-title="FILMES PORNO",  20
+http://www.pornonacionais.com/wp-content/uploads/2016/12/824.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 21" tvg-logo="https://goo.gl/YK3wxm" group-title="",  21
+http://www.pornonacionais.com/wp-content/uploads/2016/10/b0d26bd495439df83242e8b676696a54.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candy TV " tvg-logo="https://goo.gl/CJVrTy" group-title="", Candy TV 
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JASMIN TV " tvg-logo="https://goo.gl/b2ZEuF" group-title="", JASMIN TV 
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VISIT-X TV [COLOR orange](ON)[/COLOR]" tvg-logo="https://goo.gl/ZELUfu" group-title="FILMES PORNO", VISIT-X TV [COLOR orange](ON)[/COLOR]
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 1" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 1
+http://anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 10" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 10
+http://anysex.com/get_file/1/07d3eb53f530b5b9dce8585df1882e95/203000/203802/203802.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 11" tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO", XXX-Babes 11
+http://anysex.com/get_file/1/0f750593e9c13a97d1372da7ba5ff03d/182000/182756/182756.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 12" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 12
+http://anysex.com/get_file/1/ff756e8a922190e541ffb28fc1d0899c/182000/182758/182758.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 14" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 14
+http://anysex.com/get_file/1/8796f0bd1e8e71882aa295e9191b9296/191000/191215/191215.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 15" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 15
+http://anysex.com/get_file/1/5173e1412a034da36e71f85ed0ad1846/203000/203201/203201.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 16" tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO", XXX-Babes 16
+http://anysex.com/get_file/1/05aea56460ffe6544e25c74d5e8d603f/203000/203203/203203.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 17" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 17
+http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 18" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 18
+http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 19" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 19
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 2" tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO", XXX-Babes 2
+http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 20" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 20
+http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 3" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 3
+http://anysex.com/get_file/1/7f1ab8fb692cdd03eceaa260c957393b/200000/200149/200149.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 4" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 4
+http://anysex.com/get_file/1/99441daeb374ea78124532d200b98c9d/204000/204522/204522.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 5" tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO", XXX-Babes 5
+http://anysex.com/get_file/1/96383cc05aedc07402e7b2dea40e505c/186000/186265/186265.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 6" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 6
+http://anysex.com/get_file/1/0dd12485608c09bc44a29b52b2f027cc/184000/184508/184508.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 7" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 7
+http://anysex.com/get_file/1/1d759b669f1a44309556024be91f9923/193000/193615/193615.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 8" tvg-logo="http://goo.gl/opwwNi" group-title="", XXX-Babes 8
+http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/193000/193742/193742.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 9" tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO", XXX-Babes 9
+http://anysex.com/get_file/1/e14c8e773b9a3ed22ce42000db76a91a/203000/203211/203211.mp4/
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS" tvg-logo="http://is.gd/ZENh9U" group-title="", BRAZZERS
+http://static.brazzers.com/scenes/3345/180sec.flv
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS" tvg-logo="http://is.gd/ZENh9U" group-title="FILMES PORNO", BRAZZERS
+http://static.brazzers.com/scenes/3345/180sec.flv
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS" tvg-logo="http://is.gd/ZENh9U" group-title="", BRAZZERS
+http://static.brazzers.com/scenes/3345/180sec.flv
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS" tvg-logo="http://is.gd/ZENh9U" group-title="", BRAZZERS
+http://static.brazzers.com/scenes/3345/180sec.flv
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS" tvg-logo="http://is.gd/ZENh9U" group-title="", BRAZZERS
+http://static.brazzers.com/scenes/3345/180sec.flv
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - BIG WET TITS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - BIG WET TITS
+http://znz.life:25461/movie/sousa/sousa/106818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - BANGBROS POV ANAL" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - BANGBROS POV ANAL
+http://znz.life:25461/movie/sousa/sousa/106819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - ANAL MODELS 6" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - ANAL MODELS 6
+http://znz.life:25461/movie/sousa/sousa/106820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - THE BOOTY MOVIE" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - THE BOOTY MOVIE
+http://znz.life:25461/movie/sousa/sousa/106821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - TUSHY RAW 6" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - TUSHY RAW 6
+http://znz.life:25461/movie/sousa/sousa/106822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - CUM DRAINING ASIANS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - CUM DRAINING ASIANS
+http://znz.life:25461/movie/sousa/sousa/106823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - ARABES EXPOSED" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - ARABES EXPOSED
+http://znz.life:25461/movie/sousa/sousa/106824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - HAIRY GIRLS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - HAIRY GIRLS
+http://znz.life:25461/movie/sousa/sousa/106826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - MAID FOR ANAL" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - MAID FOR ANAL
+http://znz.life:25461/movie/sousa/sousa/106827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - POV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - POV
+http://znz.life:25461/movie/sousa/sousa/106828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - SEX ISLAND" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - SEX ISLAND
+http://znz.life:25461/movie/sousa/sousa/106829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - RUSSIAN SEX INSTITUTE" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - RUSSIAN SEX INSTITUTE
+http://znz.life:25461/movie/sousa/sousa/106830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - DUELOS ANAIS DUPLOS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTOS - DUELOS ANAIS DUPLOS
+http://znz.life:25461/movie/sousa/sousa/106831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - FAMILY PIES 6" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - FAMILY PIES 6
+http://znz.life:25461/movie/sousa/sousa/106825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - ANGELS GANGBANG" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - ANGELS GANGBANG
+http://znz.life:25461/movie/sousa/sousa/106832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - ANAL MILFS ONLY" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - ANAL MILFS ONLY
+http://znz.life:25461/movie/sousa/sousa/106833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - ASIAN LOVE" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - ASIAN LOVE
+http://znz.life:25461/movie/sousa/sousa/106834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - SLUTTY ANAL MILFS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - SLUTTY ANAL MILFS
+http://znz.life:25461/movie/sousa/sousa/106835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - TEENS KITTENS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - TEENS KITTENS
+http://znz.life:25461/movie/sousa/sousa/106836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - BABYSITTER AUDITIONS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - BABYSITTER AUDITIONS
+http://znz.life:25461/movie/sousa/sousa/106837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - BAD BABYSITTERS 4" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - BAD BABYSITTERS 4
+http://znz.life:25461/movie/sousa/sousa/106838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - BUSTIE PETITES" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - BUSTIE PETITES
+http://znz.life:25461/movie/sousa/sousa/106839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - ANAL MATURE" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - ANAL MATURE
+http://znz.life:25461/movie/sousa/sousa/106840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - SHE LIKE WHITE" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - SHE LIKE WHITE
+http://znz.life:25461/movie/sousa/sousa/106841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - CONSEQUENCES" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - CONSEQUENCES
+http://znz.life:25461/movie/sousa/sousa/106842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - CUM DRAINING ASIANS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - CUM DRAINING ASIANS
+http://znz.life:25461/movie/sousa/sousa/106843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - YOUNG AND CURIOUS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - YOUNG AND CURIOUS
+http://znz.life:25461/movie/sousa/sousa/106844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - IN THE ROOM I LIKE TO WATCH" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - IN THE ROOM I LIKE TO WATCH
+http://znz.life:25461/movie/sousa/sousa/106845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - FAMILY PIES" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - FAMILY PIES
+http://znz.life:25461/movie/sousa/sousa/106846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - MY FRIEND HOT MOM" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - MY FRIEND HOT MOM
+http://znz.life:25461/movie/sousa/sousa/106847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - ADORO AS TETAS DA MINHA IRMÃ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - ADORO AS TETAS DA MINHA IRMÃ
+http://znz.life:25461/movie/sousa/sousa/106848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - Orgasmo" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - Orgasmo
+http://znz.life:25461/movie/sousa/sousa/106849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - PERVERSÕES EM FAMILIA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - PERVERSÕES EM FAMILIA
+http://znz.life:25461/movie/sousa/sousa/106850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - DRIVE" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - DRIVE
+http://znz.life:25461/movie/sousa/sousa/106851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - SLAYSIANS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - SLAYSIANS
+http://znz.life:25461/movie/sousa/sousa/106852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - O MEU ENTEADO É TERRÍVEL" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - O MEU ENTEADO É TERRÍVEL
+http://znz.life:25461/movie/sousa/sousa/106853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - Swingers" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - Swingers
+http://znz.life:25461/movie/sousa/sousa/106854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - MIÚDAS QUE SE VÊM" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - MIÚDAS QUE SE VÊM
+http://znz.life:25461/movie/sousa/sousa/106855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - UP MY ASIAN ASS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - UP MY ASIAN ASS
+http://znz.life:25461/movie/sousa/sousa/106856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - ROCCO CASTINGS 29" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - ROCCO CASTINGS 29
+http://znz.life:25461/movie/sousa/sousa/106857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS - BRIDGETTE B" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",ADULTS - BRIDGETTE B
+http://znz.life:25461/movie/sousa/sousa/106858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX - THAI GIRLS PARTE 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",XXX - THAI GIRLS PARTE 2
+http://znz.life:25461/movie/sousa/sousa/110965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX - THAI GIRLS PARTE 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",XXX - THAI GIRLS PARTE 1
+http://znz.life:25461/movie/sousa/sousa/110966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX - ANAL CHECKUP" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",XXX - ANAL CHECKUP
+http://znz.life:25461/movie/sousa/sousa/110967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX - CUS FOFINHOS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",XXX - CUS FOFINHOS
+http://znz.life:25461/movie/sousa/sousa/110968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX - ALEMANHA NO SEU MELHOR" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",XXX - ALEMANHA NO SEU MELHOR
+http://znz.life:25461/movie/sousa/sousa/110969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX - NOVINHAS EXPERIMENTAM ANAL" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",XXX - NOVINHAS EXPERIMENTAM ANAL
+http://znz.life:25461/movie/sousa/sousa/110970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX - CONSENTIDA PARTE 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",XXX - CONSENTIDA PARTE 2
+http://znz.life:25461/movie/sousa/sousa/110971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX- CONSENTIDA PARTE 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",XXX- CONSENTIDA PARTE 1
+http://znz.life:25461/movie/sousa/sousa/110972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX- ADRIANA CHECHIK PARTE 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",XXX- ADRIANA CHECHIK PARTE 2
+http://znz.life:25461/movie/sousa/sousa/110973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX - ADRIANA CHECHIK PARTE 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",XXX - ADRIANA CHECHIK PARTE 1
+http://znz.life:25461/movie/sousa/sousa/110974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX - CUS MALDOSOS PARTE 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",XXX - CUS MALDOSOS PARTE 1
+http://znz.life:25461/movie/sousa/sousa/111456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX - CUS MALDOSOS PARTE 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",XXX - CUS MALDOSOS PARTE 2
+http://znz.life:25461/movie/sousa/sousa/111457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX - UMA NOITE EM PARIS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",XXX - UMA NOITE EM PARIS
+http://znz.life:25461/movie/sousa/sousa/111458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX - ABRE BEM ESSE BUJON" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",XXX - ABRE BEM ESSE BUJON
+http://znz.life:25461/movie/sousa/sousa/111459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX - DUPLAS PENETRAÇÕES" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",XXX - DUPLAS PENETRAÇÕES
+http://znz.life:25461/movie/sousa/sousa/111460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX - LIMPA-ME A PISTOLA PARTE 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",XXX - LIMPA-ME A PISTOLA PARTE 1
+http://znz.life:25461/movie/sousa/sousa/111461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX - LIMPA-ME A PISTOLA PARTE 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",XXX - LIMPA-ME A PISTOLA PARTE 2
+http://znz.life:25461/movie/sousa/sousa/111462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX - VICIADAS EM ANAL PARTE 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61j0Xw69reL._SX466_.jpg" group-title="XXX - ADULTS",XXX - VICIADAS EM ANAL PARTE 1
+http://znz.life:25461/movie/sousa/sousa/111463.mp4
