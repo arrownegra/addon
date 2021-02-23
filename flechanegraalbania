@@ -1,368 +1,1199 @@
 #EXTM3U
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="--------------@by_flecha_negra--------LISTA GRATIS-----------" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" group-title="-------@by_flecha_negra--------",--------------@by_flecha_negra--------LISTA GRATIS-----------LiSTA GRÁTIS SE FICAR OFFLINE ESPERAR ATÉ FICAR ON UM ABRAÇO
-
-#EXTINF:-1 xui-id="15" tvg-id="" tvg-name="*--- ALBANIA ---*" tvg-logo="" group-title="Shqiptare",*--- ALBANIA ---*
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRuleHxMmgAyN6c-pvMLpum_2U/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="16" tvg-id="" tvg-name="RTK 1 HD" tvg-logo="" group-title="Shqiptare",RTK 1 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulbckBaEAMiepnIwAc7Njr_A/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="RTK 1 (Backup)" tvg-logo="" group-title="Shqiptare",RTK 1 (Backup)
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulc-kXOQCO5ZFdfYp07eiN3A/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="18" tvg-id="" tvg-name="RTK Serial" tvg-logo="" group-title="Shqiptare",RTK Serial
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulSuB4FrNZsrC4lXxWEw6WmE/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="19" tvg-id="KTV" tvg-name="KTV" tvg-logo="http://192.99.35.135:8080/images/53235732e8b92eb56c0fbec8d84d70d9.png" group-title="Shqiptare",KTV
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRuleod5ov_zN8zxSU9slCpxHk/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="KTV (Backup)" tvg-logo="" group-title="Shqiptare",KTV (Backup)
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulWhUSmAbwFirdWqYoGUHuuc/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="21" tvg-id="RTV21" tvg-name="RTV 21" tvg-logo="" group-title="Shqiptare",RTV 21
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRuldcsOsxAViZQvadAQ5hrX0I/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="22" tvg-id="" tvg-name="RTV21 (Backup)" tvg-logo="" group-title="Shqiptare",RTV21 (Backup)
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulVGM8bNK8sjutzE0sShiFBE/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="23" tvg-id="KLANKO" tvg-name="Klan Kosova" tvg-logo="" group-title="Shqiptare",Klan Kosova
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulRed1gnjCHbbZeoLBZstISo/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="24" tvg-id="" tvg-name="Klan Kosova (Backup)" tvg-logo="" group-title="Shqiptare",Klan Kosova (Backup)
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulfu9MuK7Itv-L9EYBulQbm0/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="25" tvg-id="" tvg-name="RTK 2" tvg-logo="" group-title="Shqiptare",RTK 2
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulfHqHFjMLvH2ZVfwvmIfOeA/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="26" tvg-id="" tvg-name="RTK 2 (Backup)" tvg-logo="" group-title="Shqiptare",RTK 2 (Backup)
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulRHvQKkq8Xs1LIauOe76Yac/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="27" tvg-id="" tvg-name="RTK 3" tvg-logo="" group-title="Shqiptare",RTK 3
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulb87MGqZn5eiUQN466REGio/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="28" tvg-id="" tvg-name="RTK 3 (Backup)" tvg-logo="" group-title="Shqiptare",RTK 3 (Backup)
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulRetYP49K2EDCtpjAsj94aU/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="29" tvg-id="" tvg-name="RTK 4" tvg-logo="" group-title="Shqiptare",RTK 4
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRule4JOfz_1JgDOpDwx9QOFww/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="30" tvg-id="" tvg-name="RTK 4 (Backup)" tvg-logo="" group-title="Shqiptare",RTK 4 (Backup)
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulRIqiO_rwuxmNmIBxjadzTA/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="31" tvg-id="TVDUKA" tvg-name="TV Dukagjini HD" tvg-logo="" group-title="Shqiptare",TV Dukagjini HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulSx-rbF7nAG4FOGCE6BH2K8/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="32" tvg-id="" tvg-name="TV Dukagjini (Backup)" tvg-logo="" group-title="Shqiptare",TV Dukagjini (Backup)
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulVHQeV1oLMq_LVodOSW2_fU/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="33" tvg-id="" tvg-name="Top Channel" tvg-logo="" group-title="Shqiptare",Top Channel
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulWsg0IXsgBapASe-q_qURns/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="34" tvg-id="" tvg-name="TOP CHANNEL  (Backup)" tvg-logo="" group-title="Shqiptare",TOP CHANNEL  (Backup)
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulTxTETwIN2NfDQ4o7JkyrGY/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="35" tvg-id="" tvg-name="Klan" tvg-logo="" group-title="Shqiptare",Klan
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulUnFUnwl2Py60FSZxRdy_x8/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="36" tvg-id="" tvg-name="Klan (Backup)" tvg-logo="" group-title="Shqiptare",Klan (Backup)
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulZvC_hemPDLzRVgnNIGGV_E/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="37" tvg-id="" tvg-name="Klan Plus" tvg-logo="" group-title="Shqiptare",Klan Plus
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulWxy7BSZTXop9H8ayYA8-cY/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="38" tvg-id="" tvg-name="Klan Plus (Backup)" tvg-logo="" group-title="Shqiptare",Klan Plus (Backup)
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulVAZXhAUPC3zxXoL4Bu503w/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="39" tvg-id="" tvg-name="Alsat M" tvg-logo="" group-title="Shqiptare",Alsat M
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulfBJqunLqWcCi4Hjc5OEcug/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="40" tvg-id="" tvg-name="Alsat M  (Backup)" tvg-logo="" group-title="Shqiptare",Alsat M  (Backup)
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRuleZol-dcANdwxIrQ0dvpW20/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="41" tvg-id="" tvg-name="T7" tvg-logo="" group-title="Shqiptare",T7
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulbmeA90cZi1L8Alnt89FsWc/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="42" tvg-id="" tvg-name="T7 (Backup)" tvg-logo="" group-title="Shqiptare",T7 (Backup)
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRuleAopxcGAyLg4OpEu8OW8N8/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="43" tvg-id="" tvg-name="VIP Rrokum" tvg-logo="" group-title="Shqiptare",VIP Rrokum
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulVL9F6H5SjGNq1jM-Txoc7k/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="44" tvg-id="" tvg-name="First TV" tvg-logo="" group-title="Shqiptare",First TV
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulVKiA8OXDBkRzQGR_5harp0/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="45" tvg-id="" tvg-name="Vizion Plus" tvg-logo="" group-title="Shqiptare",Vizion Plus
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulfHc2ZeUBytja-4ccsO9GcA/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="46" tvg-id="" tvg-name="Vizion Plus (Backup)" tvg-logo="" group-title="Shqiptare",Vizion Plus (Backup)
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulfRwSFxQ7sy6DyqMAqfnVq4/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="47" tvg-id="" tvg-name="Top News" tvg-logo="" group-title="Shqiptare",Top News
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulRtpgkxo_ftqJ9-2T5pqUgY/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="48" tvg-id="" tvg-name="3 Plus" tvg-logo="" group-title="Shqiptare",3 Plus
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulXE85ATf1MwqscMrhdFCs10/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="49" tvg-id="" tvg-name="DUGAGJINI TV HD" tvg-logo="" group-title="Shqiptare",DUGAGJINI TV HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulUDKPuLvehcHjpXcKAkXvdg/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="50" tvg-id="" tvg-name="ARTA NEWS HD" tvg-logo="" group-title="Shqiptare",ARTA NEWS HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulTk7AZxDAyQMJv1Pclw1oqg/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="51" tvg-id="" tvg-name="Koha TV HD" tvg-logo="" group-title="Shqiptare",Koha TV HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRults|user-agent=GoPlayerfBDtxJhopA0MkE-JqusY/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="52" tvg-id="" tvg-name="ORA News HD" tvg-logo="" group-title="Shqiptare",ORA News HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRuleRaoH5MBCLKtifHRCs6_04/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="53" tvg-id="" tvg-name="Top News (Backup)" tvg-logo="" group-title="Shqiptare",Top News (Backup)
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulbjGigX3F4arxMLOPawI1ps/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="54" tvg-id="ANEWANZ" tvg-name="ABC News" tvg-logo="http://192.99.35.135:8080/images/a062e1733e8e8d64a5f2c82b9540119f.png" group-title="Shqiptare",ABC News
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulXvLzW1H23DX9tuAwbdI05Y/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="55" tvg-id="" tvg-name="News 24" tvg-logo="" group-title="Shqiptare",News 24
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulVCXHWZ7HqO7_IVodOKLI2o/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="56" tvg-id="" tvg-name="ALB UK" tvg-logo="" group-title="Shqiptare",ALB UK
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulehoVqedBkDAwi6rb1giBos/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="57" tvg-id="" tvg-name="Rts|user-agent=GoPlayerH 24" tvg-logo="" group-title="Shqiptare",Rts|user-agent=GoPlayerH 24
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulUI3JFaFzaowrmHxk5jR5iM/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="58" tvg-id="" tvg-name="Peace TV Shqip HD" tvg-logo="" group-title="Shqiptare",Peace TV Shqip HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulYXU1FtiP--YiBeSX53SeAw/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="59" tvg-id="" tvg-name="Peace TV (Backup)" tvg-logo="" group-title="Shqiptare",Peace TV (Backup)
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRuleeiWG-DmpAYXbAOkX-3TQY/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="Besa TV" tvg-logo="" group-title="Shqiptare",Besa TV
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulfX40NlVOrE2Fx9-jo5QAd0/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="61" tvg-id="" tvg-name="Besa TV (Backup)" tvg-logo="" group-title="Shqiptare",Besa TV (Backup)
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulTnQPl6Hrd7buQwdVTdreWY/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="62" tvg-id="" tvg-name="Mitrovica" tvg-logo="" group-title="Shqiptare",Mitrovica
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRuldFj5zaEhjMJQajrNyPjCOw/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="63" tvg-id="" tvg-name="TV Mitrovica (Backup)" tvg-logo="" group-title="Shqiptare",TV Mitrovica (Backup)
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulbdrt-XgBmxPcAnT7XGeSNg/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="64" tvg-id="" tvg-name="ERA TV" tvg-logo="" group-title="Shqiptare",ERA TV
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulTT5Gfy5vvZvmxRx7r-NXBs/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="65" tvg-id="" tvg-name="Peace TV (English)" tvg-logo="" group-title="Shqiptare",Peace TV (English)
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulQAxtOyeVw_BGZXk_lLyLbU/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="66" tvg-id="" tvg-name="Quran TV" tvg-logo="" group-title="Shqiptare",Quran TV
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulQW8dztn3UHLkfI_QNlx-_8/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="67" tvg-id="" tvg-name="RTV Islam" tvg-logo="" group-title="Shqiptare",RTV Islam
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulRUVG6cwDtagrVdaC5cWOFM/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="68" tvg-id="" tvg-name="Mekka Live" tvg-logo="" group-title="Shqiptare",Mekka Live
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulRdjMcNIWqLlc4b-3Oo9iv4/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="69" tvg-id="" tvg-name="-----Dokumentar-----" tvg-logo="" group-title="Shqiptare",-----Dokumentar-----
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulafMLemgrrC4UQHtO2MDTmQ/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="70" tvg-id="" tvg-name="Explorer Shkence" tvg-logo="" group-title="Shqiptare",Explorer Shkence
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulfOtclr64kY3k9zbr0nddnY/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="71" tvg-id="" tvg-name="Explorer Natyra" tvg-logo="" group-title="Shqiptare",Explorer Natyra
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulZqGd3tIKFhGmmORG0Xadgs/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="72" tvg-id="" tvg-name="Explorer Histori" tvg-logo="" group-title="Shqiptare",Explorer Histori
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulXj0INkkRPp-rJxi1BdCwzA/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="Tring Histori" tvg-logo="" group-title="Shqiptare",Tring Histori
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulQBgNap7BVIqhkXfmpZ1xM0/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="74" tvg-id="" tvg-name="Tring Planet" tvg-logo="" group-title="Shqiptare",Tring Planet
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulTVbTc37KmS0-_gWxHkrgss/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="75" tvg-id="" tvg-name="Tring World" tvg-logo="" group-title="Shqiptare",Tring World
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulVo6-eKodslAQz1DCzkf934/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="76" tvg-id="NGWANZ" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Shqiptare",Nat Geo Wild
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulfSDepNnd3JWmp85ecPyLQY/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="77" tvg-id="APLANZ" tvg-name="Animal Planet HD" tvg-logo="http://192.99.35.135:8080/images/a607fc2b2b47894ba7df1ad48707b814.png" group-title="Shqiptare",Animal Planet HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulULj1hpkIRKbdj5WHFklYMc/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="78" tvg-id="" tvg-name="Discovery" tvg-logo="" group-title="Shqiptare",Discovery
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulRNjdt97NIbTfJZphCDdq1c/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="79" tvg-id="" tvg-name="-----Femije-----" tvg-logo="" group-title="Shqiptare",-----Femije-----
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulYk8ShnfFwCjI4apCrlo14Y/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="80" tvg-id="" tvg-name="Bang Bang" tvg-logo="" group-title="Shqiptare",Bang Bang
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRule95tltATK6e07VfoomvSFo/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="81" tvg-id="" tvg-name="Tring Tring" tvg-logo="" group-title="Shqiptare",Tring Tring
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulT9F_hmNgjGoTDSAd1DHDOo/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="82" tvg-id="DUCKEU" tvg-name="Duck TV" tvg-logo="http://192.99.35.135:8080/images/2885fbf301d9ea66e52698e4185a8186.png" group-title="Shqiptare",Duck TV
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulbllbPmG2D8CFoFwM3vcWjI/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="83" tvg-id="" tvg-name="Cufo TV" tvg-logo="" group-title="Shqiptare",Cufo TV
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulYZNIO-jd_iZQW_px2vc5rY/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="84" tvg-id="" tvg-name="AL: Tip Tv" tvg-logo="" group-title="Shqiptare",AL: Tip Tv
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulSpbXM5SZcaBaBhov_10DGk/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="85" tvg-id="" tvg-name="AL: Junior TV" tvg-logo="" group-title="Shqiptare",AL: Junior TV
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulSDqIv9EPGt1Xm1XjsH_Gsc/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="86" tvg-id="" tvg-name="Baby tv AL" tvg-logo="" group-title="Shqiptare",Baby tv AL
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulVmSg8m1PgxBQSdDxUhCsqs/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="87" tvg-id="" tvg-name="RTV 21 Junior" tvg-logo="" group-title="Shqiptare",RTV 21 Junior
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulQG3Yw5JYr7GqBVuSsJLJv4/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="88" tvg-id="" tvg-name="ALB Kids" tvg-logo="" group-title="Shqiptare",ALB Kids
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulUctgfGdNhnYQFITWexLf08/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="89" tvg-id="" tvg-name="-----Muzik-----" tvg-logo="" group-title="Shqiptare",-----Muzik-----
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulVCO6SseNYTqUWSJNs6VHBc/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="90" tvg-id="MTVMANZ" tvg-name="MTV HIts|user-agent=GoPlayer" tvg-logo="" group-title="Shqiptare",MTV HIts|user-agent=GoPlayer
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulS9LNewooixCPA1j-ejkmWM/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="91" tvg-id="" tvg-name="RTV 21 Plus HD" tvg-logo="" group-title="Shqiptare",RTV 21 Plus HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulUP7wtZnQqRxphkDts|user-agent=GoPlayerykCN4/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="92" tvg-id="" tvg-name="RTV 21 Popullore" tvg-logo="" group-title="Shqiptare",RTV 21 Popullore
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulQqCNYOSWSJz2ZJjJ-_ywDg/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="93" tvg-id="" tvg-name="Folk Plus" tvg-logo="" group-title="Shqiptare",Folk Plus
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulTU0GSOTlZjx-HuS9EbEIKc/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="94" tvg-id="" tvg-name="RTV Fontana" tvg-logo="" group-title="Shqiptare",RTV Fontana
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulRkn-HdL0DWefDwfSK3ss-c/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="95" tvg-id="" tvg-name="Top Estrada" tvg-logo="" group-title="Shqiptare",Top Estrada
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulQLmxWs4gW76ebMW6YsI7vw/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="96" tvg-id="" tvg-name="TV Shenja" tvg-logo="" group-title="Shqiptare",TV Shenja
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulV1lAjeVUaQ3ETP-PJ9sp6Q/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="97" tvg-id="" tvg-name="VIP Dasma TV" tvg-logo="" group-title="Shqiptare",VIP Dasma TV
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulYyfyQy-yzvt3QineLnLf7U/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="98" tvg-id="" tvg-name="Star Plus TV Albania" tvg-logo="" group-title="Shqiptare",Star Plus TV Albania
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulbayLdoozJL_mJr_pJPAk0c/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="99" tvg-id="" tvg-name="TV Shari" tvg-logo="" group-title="Shqiptare",TV Shari
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulShY_Urn3O9ZC63FPPFoTOE/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="100" tvg-id="" tvg-name="TV Elrodi" tvg-logo="" group-title="Shqiptare",TV Elrodi
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulUjWrUY8GwWKGVN7NwZN_6o/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="101" tvg-id="" tvg-name="Rts|user-agent=GoPlayerH Shqip" tvg-logo="" group-title="Shqiptare",Rts|user-agent=GoPlayerH Shqip
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulYh5Yq3MJ6jdvYinJWFOcY4/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="102" tvg-id="" tvg-name="Rts|user-agent=GoPlayerH 2 HD" tvg-logo="" group-title="Shqiptare",Rts|user-agent=GoPlayerH 2 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulbsauYts|user-agent=GoPlayerEKKCpFRBitPBEso/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="103" tvg-id="" tvg-name="Rts|user-agent=GoPlayerH 24" tvg-logo="" group-title="Shqiptare",Rts|user-agent=GoPlayerH 24
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulXu9pMjez8vqXrJuDZ0g0F8/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="104" tvg-id="" tvg-name="RTV Zeri HD" tvg-logo="" group-title="Shqiptare",RTV Zeri HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulZCaPwgZ8eE7o-bSuYc_RVg/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="105" tvg-id="" tvg-name="RTV 21 MIX" tvg-logo="" group-title="Shqiptare",RTV 21 MIX
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulbL-1ajH3_QN6kHjzF2LxNE/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="106" tvg-id="" tvg-name="Rts|user-agent=GoPlayerH Muzike" tvg-logo="" group-title="Shqiptare",Rts|user-agent=GoPlayerH Muzike
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulTvPLBshaz5Xpg19-A7qRWE/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="107" tvg-id="" tvg-name="Living HD" tvg-logo="" group-title="Shqiptare",Living HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulTE-en2TPK-QOq8k_Lsu9cw/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="108" tvg-id="" tvg-name="Tring Smile" tvg-logo="" group-title="Shqiptare",Tring Smile
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulTrLYTDm3HPxJsrlEv75Xm0/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="109" tvg-id="" tvg-name="A1 Report" tvg-logo="" group-title="Shqiptare",A1 Report
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulRkTCMbg0tGO4p3052S1Rns/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="110" tvg-id="" tvg-name="Fax News" tvg-logo="" group-title="Shqiptare",Fax News
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulQIrzSRCNUBArNAh8kSvR8Q/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="111" tvg-id="" tvg-name="-----Filma-----" tvg-logo="" group-title="Shqiptare",-----Filma-----
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulf8hBbJomjqfBBtQ5q1MSPE/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="112" tvg-id="" tvg-name="Film Nje HD" tvg-logo="" group-title="Shqiptare",Film Nje HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulXKB6kCPkIclxMraiVbjalQ/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="113" tvg-id="" tvg-name="Film NJE (Backup)" tvg-logo="" group-title="Shqiptare",Film NJE (Backup)
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulU44WjoBVB3KklmgP1VdwLE/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="114" tvg-id="" tvg-name="Film Dy HD" tvg-logo="" group-title="Shqiptare",Film Dy HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulf9Nxdyi3-7s7ydEQMbSkiM/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="115" tvg-id="FAM7NL" tvg-name="Family HD" tvg-logo="" group-title="Shqiptare",Family HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulSo-uIXcusut2BZEr4DIs-8/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="116" tvg-id="" tvg-name="Film Hits|user-agent=GoPlayer" tvg-logo="" group-title="Shqiptare",Film Hits|user-agent=GoPlayer
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulc7sHyI5FWkrooNwxhlVMBM/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="117" tvg-id="" tvg-name="Film Aksion" tvg-logo="" group-title="Shqiptare",Film Aksion
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulZUJOB_CCikm0ae1e1ofB00/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="118" tvg-id="" tvg-name="Film Komedi" tvg-logo="" group-title="Shqiptare",Film Komedi
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRuleLzkZC3EGy2pS18A_IP7Cw/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="119" tvg-id="" tvg-name="Film Thriller" tvg-logo="" group-title="Shqiptare",Film Thriller
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRuleMu8j7FNssuVGqFUeuoOKc/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="120" tvg-id="" tvg-name="Film Autor" tvg-logo="" group-title="Shqiptare",Film Autor
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRuldjVG7btqZhM5G8ngcH5UGc/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="121" tvg-id="" tvg-name="Film Drame" tvg-logo="" group-title="Shqiptare",Film Drame
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulceNMYI_fc42RjhmuSHPXS4/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="122" tvg-id="" tvg-name="Tring Jolly HD" tvg-logo="" group-title="Shqiptare",Tring Jolly HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulfcS8cAGu7cHUD9E1zair1M/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="123" tvg-id="" tvg-name="Jolly HD" tvg-logo="" group-title="Shqiptare",Jolly HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulTBpKtzQJIbfH77kSCp0fV0/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="124" tvg-id="" tvg-name="Tring Super" tvg-logo="" group-title="Shqiptare",Tring Super
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRults|user-agent=GoPlayeruQBSDBeWIoLPom8RKYOM/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="125" tvg-id="" tvg-name="Tring Shqip" tvg-logo="" group-title="Shqiptare",Tring Shqip
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulc1o8UUr5LdT6k9oKTwX288/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="126" tvg-id="" tvg-name="Tring Action" tvg-logo="" group-title="Shqiptare",Tring Action
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulaxXMa3vifPV669qFo6APQw/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="127" tvg-id="" tvg-name="Tring Komedi" tvg-logo="" group-title="Shqiptare",Tring Komedi
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulQMXISjhJ37huTyBCK64wlQ/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="128" tvg-id="" tvg-name="Tring Fantasy" tvg-logo="" group-title="Shqiptare",Tring Fantasy
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulSwOF_FT-5otcE43a2FQ5UQ/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="129" tvg-id="" tvg-name="Tring Life" tvg-logo="" group-title="Shqiptare",Tring Life
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulX7jdgO5jlBLIcjOrNI5jBI/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="130" tvg-id="" tvg-name="Tring Shqip" tvg-logo="" group-title="Shqiptare",Tring Shqip
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulc3KjnV10kpWXRdQ48aFYRY/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="131" tvg-id="" tvg-name="Alb Humor" tvg-logo="" group-title="Shqiptare",Alb Humor
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRule-kp8BOZnbHNa1dLfmClKc/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="132" tvg-id="" tvg-name="Rts|user-agent=GoPlayerH Film" tvg-logo="" group-title="Shqiptare",Rts|user-agent=GoPlayerH Film
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulVj-Ll9XjW3hEcYpyW-lJM8/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="133" tvg-id="" tvg-name="Film Gold 2" tvg-logo="" group-title="Shqiptare",Film Gold 2
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulQ9-ntnpgD3DFebNkgA6reM/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="134" tvg-id="" tvg-name="Film Gold 3" tvg-logo="" group-title="Shqiptare",Film Gold 3
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulUe50rU11fk2-TNPv0U0r-8/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="135" tvg-id="" tvg-name="Digi Gold 1 HD" tvg-logo="" group-title="Shqiptare",Digi Gold 1 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulaA3ssRvcemHi_3DjOm6Btw/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="136" tvg-id="" tvg-name="Digi Gold 2 HD" tvg-logo="" group-title="Shqiptare",Digi Gold 2 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulSVpxgNO6thZokNoOgi4YdA/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="137" tvg-id="" tvg-name="Digi XGold 2 HD" tvg-logo="" group-title="Shqiptare",Digi XGold 2 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulU-mCZk_pASo1MgP0cmlh1w/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="138" tvg-id="" tvg-name="DIGI Gold 3" tvg-logo="" group-title="Shqiptare",DIGI Gold 3
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulXiic7dC_JMjqrhzuFk_MMs/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="139" tvg-id="" tvg-name="DIGI Gold 4" tvg-logo="" group-title="Shqiptare",DIGI Gold 4
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulQmkdmRwFwkvWRN6_F2LSzk/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="140" tvg-id="" tvg-name="Euro Film 1 HD" tvg-logo="" group-title="Shqiptare",Euro Film 1 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulQJsqIhesCncOcGuq5hdtdE/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="141" tvg-id="" tvg-name="Euro Film 2 HD" tvg-logo="" group-title="Shqiptare",Euro Film 2 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulXV3a1u004dRAbfSD-24MFA/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="142" tvg-id="" tvg-name="Portocalli" tvg-logo="" group-title="Shqiptare",Portocalli
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulQpbszFy9XH1zRWQGR8eiZI/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="143" tvg-id="" tvg-name="X Family HD" tvg-logo="" group-title="Shqiptare",X Family HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulQVJjYTfDHOWcCkWGJfsMK4/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="144" tvg-id="24KITNL" tvg-name="24 Kitchen" tvg-logo="http://192.99.35.135:8080/images/7f386c1820b0c75d0107bb36f0077cbc.png" group-title="Shqiptare",24 Kitchen
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulXtto5EmqTJBdpvnWdDArDc/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="145" tvg-id="" tvg-name="RTV Aldi" tvg-logo="" group-title="Shqiptare",RTV Aldi
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulVNzX1H9PXB9BXPzIypAuf4/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="146" tvg-id="" tvg-name="Sky Aksions" tvg-logo="" group-title="Shqiptare",Sky Aksions
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRule5pxB5oslbBE9v_rZ6BI1w/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="147" tvg-id="" tvg-name="Sky Blue TV" tvg-logo="" group-title="Shqiptare",Sky Blue TV
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulSBC1JTp7RahOJRNuzbhnZU/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="148" tvg-id="HISTY" tvg-name="Sky Histori" tvg-logo="http://192.99.35.135:8080/images/de0d274647b06890679c49358eb87d51.png" group-title="Shqiptare",Sky Histori
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulbUATLTyT2kdOLy9Z1h_zrU/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="149" tvg-id="" tvg-name="Sky Komedi" tvg-logo="" group-title="Shqiptare",Sky Komedi
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulfeo50hbWsulE2xa__26Nxg/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="150" tvg-id="" tvg-name="Sky Max" tvg-logo="" group-title="Shqiptare",Sky Max
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulfL4d0wXvNpPYkApjCRCqow/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="151" tvg-id="" tvg-name="Sky Novela" tvg-logo="" group-title="Shqiptare",Sky Novela
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulTHEv_RbhjjDt0kJ38d4up8/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="152" tvg-id="" tvg-name="Sky Shkence" tvg-logo="" group-title="Shqiptare",Sky Shkence
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulbHalyHtBMf5NkrU6J_DM3s/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="153" tvg-id="" tvg-name="Kino Action" tvg-logo="" group-title="Shqiptare",Kino Action
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulciJKe3IjHU3_ats|user-agent=GoPlayeripyGuVA/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="154" tvg-id="" tvg-name="AL: Kino Premiere 1 HD" tvg-logo="" group-title="Shqiptare",AL: Kino Premiere 1 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulaay1bw1ozJ9ds0BCm6kPQw/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="155" tvg-id="" tvg-name="AL: Kino Premiere 2 HD" tvg-logo="" group-title="Shqiptare",AL: Kino Premiere 2 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulb0SPaOHwUQmsNOvmGzhUdA/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="156" tvg-id="" tvg-name="AL: Kino Premiere 3 HD" tvg-logo="" group-title="Shqiptare",AL: Kino Premiere 3 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulTg1DFYSCsyxFUfdiN8IH00/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="157" tvg-id="" tvg-name="AL: ART Doku 1 HD" tvg-logo="" group-title="Shqiptare",AL: ART Doku 1 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulYh-AmIME1Bn51OMLKimJfc/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="158" tvg-id="" tvg-name="AL: ART Doku 2 HD" tvg-logo="" group-title="Shqiptare",AL: ART Doku 2 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulS0QkB-MewaAXyNZhjv5CxU/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="159" tvg-id="" tvg-name="AL: ART Kino 1 HD" tvg-logo="" group-title="Shqiptare",AL: ART Kino 1 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulZIBmRg4LNdq6ZiiMdHmQrc/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="160" tvg-id="" tvg-name="AL: ART Kino 2 HD" tvg-logo="" group-title="Shqiptare",AL: ART Kino 2 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulSlLAHSni-BvnIeNIN3jOhk/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="161" tvg-id="" tvg-name="AL: ART Kino 3 HD" tvg-logo="" group-title="Shqiptare",AL: ART Kino 3 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulcwLfOMV2aRoUMqGE8RcQqc/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="162" tvg-id="" tvg-name="X Premium 1 HD" tvg-logo="" group-title="Shqiptare",X Premium 1 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulRe9UKb5X8qNocTLEawtUsY/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="163" tvg-id="" tvg-name="X Premium 2 HD" tvg-logo="" group-title="Shqiptare",X Premium 2 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulcMb5ukxl5zw2RBb8O5Ip7M/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="164" tvg-id="" tvg-name="X Premium 3 HD" tvg-logo="" group-title="Shqiptare",X Premium 3 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulVC-zTgKzTEThJcGKhQC6AU/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="166" tvg-id="" tvg-name="X SHKENC" tvg-logo="" group-title="Shqiptare",X SHKENC
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulehjlcFB6Cl04tpeWnlJ7LI/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="167" tvg-id="" tvg-name="X NATYRE" tvg-logo="" group-title="Shqiptare",X NATYRE
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulZT29KSnBqcd9-e9LuDVlCU/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="168" tvg-id="" tvg-name="X HUMOR" tvg-logo="" group-title="Shqiptare",X HUMOR
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulX-NqNAuEkuI5Jd4jTXzFeE/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="169" tvg-id="" tvg-name="X DARK HD" tvg-logo="" group-title="Shqiptare",X DARK HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulfedbq0TGK5mwjc24lklOhI/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="170" tvg-id="" tvg-name="X ACTION" tvg-logo="" group-title="Shqiptare",X ACTION
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulePzK1-s-LIiBRTLnwr9_y0/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="171" tvg-id="" tvg-name="X DRAME" tvg-logo="" group-title="Shqiptare",X DRAME
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRule9jHa-qBaxlN2fqmyIzHvw/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="172" tvg-id="" tvg-name="X TRILER" tvg-logo="" group-title="Shqiptare",X TRILER
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulfDQfXomve66bToNjxzZVxk/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="173" tvg-id="" tvg-name="X COMEDI" tvg-logo="" group-title="Shqiptare",X COMEDI
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulXyLw7ElbhjSYfp81nuAmKM/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="174" tvg-id="" tvg-name="Alb Thriller" tvg-logo="" group-title="Shqiptare",Alb Thriller
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulRCr7ghF7nYaDB32DpATgfA/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="175" tvg-id="FXSAMCH" tvg-name="Fox" tvg-logo="http://192.99.35.135:8080/images/2ed8989324fd1a97a8be64e964367f91.png" group-title="Shqiptare",Fox
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulQuw8c-jbnLbx7NFKQdtVxs/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="176" tvg-id="TVHTANZ" tvg-name="Fox Crime" tvg-logo="" group-title="Shqiptare",Fox Crime
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulZeA08FB__VRWvBf-3mu-Rw/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="177" tvg-id="FXLARGE" tvg-name="Fox Life" tvg-logo="http://192.99.35.135:8080/images/9f730b628bf80c935b7dc91ffa793e86.png" group-title="Shqiptare",Fox Life
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulbneEf6ddwst695f0Jh_018/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="178" tvg-id="FXMCHHD" tvg-name="Fox Movies" tvg-logo="http://192.99.35.135:8080/images/010fb7f9b34d0f779205ec4d3e029e96.png" group-title="Shqiptare",Fox Movies
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRuleCF-kKH3e0a_JPToZmOi8A/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="179" tvg-id="HBOCHIL" tvg-name="HBO FHD" tvg-logo="http://192.99.35.135:8080/images/372094c89672ed6d1cc8febb7e9fdb58.png" group-title="Shqiptare",HBO FHD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulZIb6YwkFVA6FrJ4PktYkmg/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="180" tvg-id="" tvg-name="HBO 3 FHD" tvg-logo="" group-title="Shqiptare",HBO 3 FHD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulRS3rJv3TupdVC6jc6jlMFI/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="181" tvg-id="GHB2DLY" tvg-name="HBO 2 FHD" tvg-logo="" group-title="Shqiptare",HBO 2 FHD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulb2klpIWMFArwKadWxjw1eg/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="182" tvg-id="SP1GERH" tvg-name="-----Sport-----" tvg-logo="http://192.99.35.135:8080/images/23eef96f78a3b430a008309834c5b60d.png" group-title="Shqiptare",-----Sport-----
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulfdJc7y5yrG9Kl3vzEm1mQU/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="183" tvg-id="" tvg-name="Super Sport 1" tvg-logo="" group-title="Shqiptare",Super Sport 1
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulVsv7_VeGozqK8ubwWoJKJM/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="184" tvg-id="" tvg-name="Super Sport 2" tvg-logo="" group-title="Shqiptare",Super Sport 2
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulVAzWx-sWmiQzccW9QRN9as/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="185" tvg-id="" tvg-name="Super Sport 3" tvg-logo="" group-title="Shqiptare",Super Sport 3
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulSA_FManQd05Kyob339h_1I/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="186" tvg-id="" tvg-name="Super Sport 4" tvg-logo="" group-title="Shqiptare",Super Sport 4
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulTPcZrdbDjZsrGbmRR3IhxQ/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="187" tvg-id="" tvg-name="Super Sport 5 HD" tvg-logo="" group-title="Shqiptare",Super Sport 5 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulYnJI7YabkwGHj-T9gLRy64/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="188" tvg-id="" tvg-name="KUJTESA SPORT 1 HD" tvg-logo="" group-title="Shqiptare",KUJTESA SPORT 1 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulUFCGkY5gCoB4TFWatUdMto/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="189" tvg-id="" tvg-name="KUJTESA SPORT 2 HD" tvg-logo="" group-title="Shqiptare",KUJTESA SPORT 2 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulRTuhIzxf5aQy9QdYr1QfVM/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="190" tvg-id="" tvg-name="KUJTESA SPORT 3 HD" tvg-logo="" group-title="Shqiptare",KUJTESA SPORT 3 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRuldwR-jj5uEmTiFvmuaHzlxM/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="191" tvg-id="" tvg-name="KUJTESA SPORT 4 HD" tvg-logo="" group-title="Shqiptare",KUJTESA SPORT 4 HD
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulZ60NtGfo7KUparDsu7gxvY/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="192" tvg-id="" tvg-name="Rts|user-agent=GoPlayerH Sport" tvg-logo="" group-title="Shqiptare",Rts|user-agent=GoPlayerH Sport
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulbBQfLlyTztMEWENXYE1pck/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="193" tvg-id="" tvg-name="Tring Sport 1" tvg-logo="" group-title="Shqiptare",Tring Sport 1
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulX29tD69qhipHueE5l4RSpQ/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="194" tvg-id="" tvg-name="Tring Sport 2" tvg-logo="" group-title="Shqiptare",Tring Sport 2
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRula11aIAT7AIRQXWqN8IbfeI/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="195" tvg-id="" tvg-name="Tring Sport 3" tvg-logo="" group-title="Shqiptare",Tring Sport 3
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulXoaEKvGKe32OZWRp1hfbtg/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="196" tvg-id="" tvg-name="Tring Sport 4" tvg-logo="" group-title="Shqiptare",Tring Sport 4
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulbNMDrnqEre2QWVyU5F3X9I/ts|user-agent=GoPlayer
-#EXTINF:-1 xui-id="197" tvg-id="" tvg-name="AL: TRING SPORT NEWS" tvg-logo="" group-title="Shqiptare",AL: TRING SPORT NEWS
-http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulSR-u9Fm1HuTON4E1Phdeww/ts|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="RTK AL" tvg-name="RTK 1 SAT" tvg-logo="" group-title="Shqip Gjenerale",RTK 1 SAT
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTK 2" tvg-logo="" group-title="Shqip Gjenerale",RTK 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/203.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTK 3 HD" tvg-logo="" group-title="Shqip Gjenerale",RTK 3 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/204.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTK 4" tvg-logo="" group-title="Shqip Gjenerale",RTK 4
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/205.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atvmainfranken.de" tvg-name="Top channel" tvg-logo="" group-title="Shqip Gjenerale",Top channel
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/126.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 SAT" tvg-logo="" group-title="Shqip Gjenerale",RTV 21 SAT
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1238.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="RTV 21 M HD" tvg-logo="" group-title="Shqip Gjenerale",RTV 21 M HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/894.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Popullore" tvg-logo="" group-title="Shqip Muzik & Humor",RTV 21 Popullore
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/206.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Plus" tvg-logo="" group-title="Shqip Gjenerale",RTV 21 Plus
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/207.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="RTV 21 Maqedonis" tvg-logo="" group-title="Shqip Gjenerale",RTV 21 Maqedonis
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/16.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 MIX HD" tvg-logo="" group-title="Shqip Gjenerale",RTV 21 MIX HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/17.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="TV Koha" tvg-logo="" group-title="Shqip Gjenerale",TV Koha
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/237.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="16" tvg-name="Vizion +" tvg-logo="" group-title="Shqip Gjenerale",Vizion +
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/9.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Klan TV" tvg-logo="" group-title="Shqip Gjenerale",Klan TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/238.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ABC News" tvg-name="ABC news" tvg-logo="" group-title="Shqip NEWS",ABC news
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/26.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="KTV" tvg-logo="" group-title="Shqip Gjenerale",KTV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1998.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="T7 news" tvg-logo="" group-title="Shqip Gjenerale",T7 news
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/3107.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Dugagjini HD" tvg-logo="" group-title="Shqip Gjenerale",Dugagjini HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/3374.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="" group-title="Shqip Gjenerale",Star Plus
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1225.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Jolly TV" tvg-logo="" group-title="Shqip Gjenerale",Jolly TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1254.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="T HD" tvg-logo="" group-title="Shqip Filma",T HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/239.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Alsat M HD" tvg-logo="http://titaniptv.com/epg/logo/Alsat%20M.png" group-title="Shqip Gjenerale",Alsat M HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/139.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="news 24 HD" tvg-logo="" group-title="Shqip NEWS",news 24 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/764.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Klan Plus" tvg-logo="" group-title="Shqip Gjenerale",Klan Plus
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/300.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="16" tvg-name="TV Ari" tvg-logo="" group-title="Shqip Gjenerale",TV Ari
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/11.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Elrodi Muzik" tvg-logo="" group-title="Shqip Muzik & Humor",Elrodi Muzik
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/15.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="News 24 AL" tvg-name="news 24" tvg-logo="" group-title="Shqip NEWS",news 24
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/18.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Klan Kosova" tvg-logo="" group-title="Shqip Gjenerale",Klan Kosova
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/19.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Folk +" tvg-logo="" group-title="Shqip Muzik & Humor",Folk +
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/21.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Film Nje HD" tvg-logo="" group-title="Shqip Filma",Film Nje HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/22.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Start Kososva" tvg-logo="" group-title="Shqip Muzik & Humor",Start Kososva
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/25.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Film Stinet" tvg-logo="http://3d-cobra.dyndns.tv/picon/dga/stinet.png" group-title="Shqip Filma",Film Stinet
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/27.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Tring Action" tvg-logo="" group-title="Shqip Filma",Tring Action
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/137.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Film Dy HD" tvg-logo="" group-title="Shqip Filma",Film Dy HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/174.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="3" tvg-name="WebStar Muzik HD" tvg-logo="" group-title="Shqip Muzik & Humor",WebStar Muzik HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/177.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Tring 3+" tvg-logo="" group-title="Shqip Gjenerale",Tring 3+
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/178.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Tring Summertime" tvg-logo="" group-title="Shqip Filma",Tring Summertime
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/179.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Tring Planet" tvg-logo="http://morpac.de/var/resizes/Tring-TV/planet.png?m=1466243682" group-title="Shqip Gjenerale",Tring Planet
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/180.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Tring smile" tvg-logo="" group-title="Shqip Filma",Tring smile
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/181.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Tring Super HD" tvg-logo="" group-title="Shqip Filma",Tring Super HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/182.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atvmainfranken.de" tvg-name="Tring World" tvg-logo="" group-title="Shqip Gjenerale",Tring World
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/184.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV Opoja" tvg-logo="" group-title="Shqip Muzik & Humor",TV Opoja
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/185.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Dugagjini TV" tvg-logo="" group-title="Shqip Gjenerale",Dugagjini TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/186.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Dasma TV" tvg-logo="" group-title="Shqip Muzik & Humor",Dasma TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/187.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Pace TV" tvg-logo="" group-title="Islam",Pace TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/201.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Family HD" tvg-logo="" group-title="Shqip Filma",Family HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/210.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Shenja TV" tvg-logo="" group-title="Shqip Gjenerale",Shenja TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/211.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV Sharri" tvg-logo="" group-title="Shqip Muzik & Humor",TV Sharri
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/212.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTV Zeri Denmark HD" tvg-logo="" group-title="Shqip Muzik & Humor",RTV Zeri Denmark HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/216.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="GLOBI" tvg-logo="" group-title="Shqip Gjenerale",GLOBI
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/218.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="era TV" tvg-logo="" group-title="Shqip Gjenerale",era TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/220.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="EXP Natyra" tvg-logo="" group-title="Shqip Gjenerale",EXP Natyra
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/221.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atvmainfranken.de" tvg-name="EXP History" tvg-logo="" group-title="Shqip Gjenerale",EXP History
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/222.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atvmainfranken.de" tvg-name="EXP Shkence" tvg-logo="" group-title="Shqip Gjenerale",EXP Shkence
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/223.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Film Komedi" tvg-logo="" group-title="Shqip Filma",Film Komedi
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/224.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Film Aksion" tvg-logo="" group-title="Shqip Filma",Film Aksion
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/225.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Film Hits" tvg-logo="" group-title="Shqip Filma",Film Hits
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/226.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 1 HD" tvg-logo="" group-title="Shqip Filma",Kino Premiere 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/227.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 2 HD" tvg-logo="" group-title="Shqip Filma",Kino Premiere 2 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/228.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 3 HD" tvg-logo="" group-title="Shqip Filma",Kino Premiere 3 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/229.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Film Drame" tvg-name="Film Drame" tvg-logo="" group-title="Shqip Filma",Film Drame
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/240.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Film Autor" tvg-logo="" group-title="Shqip Filma",Film Autor
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/241.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name=" SPIN TV HD" tvg-logo="" group-title="Shqip Gjenerale", SPIN TV HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/243.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Tring Shqip" tvg-logo="" group-title="Shqip Filma",Tring Shqip
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/245.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Tring History" tvg-logo="" group-title="Shqip Gjenerale",Tring History
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/247.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="BBF musik" tvg-logo="" group-title="Shqip Muzik & Humor",BBF musik
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/249.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV Dielli" tvg-logo="" group-title="Shqip Gjenerale",TV Dielli
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/250.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Tetova TV" tvg-logo="" group-title="Shqip Muzik & Humor",Tetova TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/297.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV Mitrovica" tvg-logo="" group-title="Shqip Gjenerale",TV Mitrovica
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/298.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="MTV Kosova" tvg-logo="" group-title="Shqip Muzik & Humor",MTV Kosova
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/299.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="" group-title="Shqip Filma",MAX
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/7031.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Islam Channel 1 HD" tvg-logo="" group-title="Islam",Islam Channel 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1288.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="first Channel HD" tvg-logo="" group-title="Shqip Gjenerale",first Channel HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1962.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Alb Thriller HD" tvg-logo="" group-title="Shqip Filma",Alb Thriller HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/11229.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Alb Comedy HD" tvg-logo="" group-title="Shqip Filma",Alb Comedy HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/11230.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Alb Horror HD" tvg-logo="" group-title="Shqip Filma",Alb Horror HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/11231.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Tring Sport 1 HD" tvg-logo="" group-title="Shqip SPORT ",Tring Sport 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/30.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 3 HD" tvg-logo="" group-title="Shqip Filma",Art Kino 3 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4368.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 2 HD" tvg-logo="" group-title="Shqip Filma",Art Kino 2 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4367.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 1 HD" tvg-logo="" group-title="Shqip Filma",Art Kino 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4366.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="X Natyra HD" tvg-logo="" group-title="Shqip Gjenerale",X Natyra HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4289.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="X Histori HD" tvg-logo="" group-title="Shqip Gjenerale",X Histori HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4287.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Super Sonic" tvg-logo="" group-title="Shqip Muzik & Humor",Super Sonic
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/303.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Film Thriller" tvg-name="Film Thriller" tvg-logo="" group-title="Shqip Filma",Film Thriller
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/478.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Tring Life" tvg-logo="" group-title="Shqip Gjenerale",Tring Life
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/480.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="BESA TV" tvg-logo="" group-title="Shqip Gjenerale",BESA TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/485.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Premium Channel" tvg-logo="" group-title="Shqip Gjenerale",Premium Channel
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/487.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Dark ilahi 2 HD" tvg-logo="" group-title="Islam",Dark ilahi 2 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/507.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Mekka Live" tvg-logo="" group-title="Islam",Mekka Live
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/585.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Madina Live" tvg-logo="" group-title="Islam",Madina Live
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/586.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTV Islam" tvg-logo="" group-title="Islam",RTV Islam
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/244.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Islam channel HD" tvg-logo="" group-title="Islam",Islam channel HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1280.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="8ova islam HD" tvg-logo="" group-title="Islam",8ova islam HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1281.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ziko TV" tvg-logo="" group-title="Shqip Muzik & Humor",Ziko TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1323.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Igman Tv Islam" tvg-logo="" group-title="Islam",Igman Tv Islam
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1745.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EuroFilm" tvg-logo="" group-title="Shqip Filma",EuroFilm
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1954.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="K Sport 1" tvg-logo="" group-title="Shqip SPORT ",K Sport 1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1491.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="K Sport 2" tvg-logo="" group-title="Shqip SPORT ",K Sport 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1492.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="K Sport 3" tvg-logo="" group-title="Shqip SPORT ",K Sport 3
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1493.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="K Sport 4" tvg-logo="" group-title="Shqip SPORT ",K Sport 4
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1494.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Tring Sport News HD" tvg-logo="" group-title="Shqip SPORT ",Tring Sport News HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/29.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atvmainfranken.de" tvg-name="Tring Sport 2 HD" tvg-logo="" group-title="Shqip SPORT ",Tring Sport 2 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/31.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="Tring Sport 3 HD" tvg-logo="" group-title="Shqip SPORT ",Tring Sport 3 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/32.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Tring Sport 4 HD" tvg-logo="" group-title="Shqip SPORT ",Tring Sport 4 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/33.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atvmainfranken.de" tvg-name="Super Sport 1 news HD" tvg-logo="" group-title="Shqip SPORT ",Super Sport 1 news HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/34.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="super Sport 5 HD" tvg-logo="" group-title="Shqip SPORT ",super Sport 5 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/37.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Super Sport 6 HD" tvg-logo="" group-title="Shqip SPORT ",Super Sport 6 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/230.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="** ExYou **" tvg-logo="" group-title="Ex-Yu TV",** ExYou **
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/69.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: FACE TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: FACE TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/127.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="B92 ex-Yu" tvg-name="Ex-Yu: B 92" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: B 92
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/128.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Hayat TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Hayat TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/130.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EX-Yu: Hayat Folk" tvg-logo="" group-title="Ex-Yu TV",EX-Yu: Hayat Folk
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/131.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="Ex-Yu: Hayat HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Hayat HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/133.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: NOVI PAZAR" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: NOVI PAZAR
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/134.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: RTS 1" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: RTS 1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/135.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="Ex-Yu: BHT 1" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: BHT 1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/136.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HRT 1 ex-Yu" tvg-name="Ex-Yu: HRT 1" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: HRT 1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/163.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HRT 2 ex-Yu" tvg-name="Ex-Yu: HRT 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: HRT 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/164.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HRT 3 ex-Yu" tvg-name="Ex-Yu: HRT 3" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: HRT 3
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/165.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HRT 4 ex-Yu" tvg-name="Ex-Yu: HRT 4" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: HRT 4
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/166.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="Ex-Yu: RTS 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: RTS 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/167.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="Ex-Yu: RTRS" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: RTRS
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/168.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="Ex-Yu: BN SAT" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: BN SAT
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/169.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="Ex-Yu: Al Jaseera TV HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Al Jaseera TV HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/170.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: federalna TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: federalna TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/171.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: RTL" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: RTL
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/172.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="RTL 2" tvg-name="Ex-Yu: RTL 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: RTL 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/173.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="BG: Ballkanika TV" tvg-logo="" group-title="Ex-Yu TV",BG: Ballkanika TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/253.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink BH ex-Yu" tvg-name="Ex-Yu: Pink BH" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink BH
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/132.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink Reality ex-Yu" tvg-name="Ex-Yu: Pink Reality" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Reality
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/254.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink Pedia ex-Yu" tvg-name="Ex-Yu: Pink Pedia" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Pedia
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/255.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink M ex-Yu" tvg-name="Ex-Yu: Pink M" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink M
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/256.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink Horror ex-Yu" tvg-name="Ex-Yu: Pink Horror" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Horror
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/257.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Pink Film" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Film
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/259.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="Ex-Yu: Pink Extra" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Extra
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/260.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Pink Premium" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Premium
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/261.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Pink Action" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Action
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/262.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink Soap ex-Yu" tvg-name="Ex-Yu: Pink Soap" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Soap
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/263.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink 3 INFO ex-Yu" tvg-name="Ex-Yu: Pink 3" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink 3
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/264.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink 2 ex-Yu" tvg-name="Ex-Yu: Pink 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/265.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink 1 ex-Yu" tvg-name="Ex-Yu: Pink 1" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink 1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/266.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink Comedy ex-Yu" tvg-name="Ex-Yu: PINK Comedy" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: PINK Comedy
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1146.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink Western ex-Yu" tvg-name="Ex-Yu: Pink Western" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Western
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1160.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: RTCG 1" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: RTCG 1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1152.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="Ex-Yu: RTS 1 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: RTS 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1410.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NOVA TV ex-Yu" tvg-name="Ex-Yu: NOVA BH" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: NOVA BH
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4390.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="OBN ex-Yu" tvg-name="Ex-Yu: OBN" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: OBN
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/267.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: CineStar premiere 1" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: CineStar premiere 1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/268.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: CineStar premiere 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: CineStar premiere 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/269.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="BN Music BG" tvg-name="Ex-Yu: BN Musica" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: BN Musica
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/429.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Grand TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Grand TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/430.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: TV Sarajevo" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: TV Sarajevo
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/431.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Grand TV 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Grand TV 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/432.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: SANDZAK TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: SANDZAK TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/433.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Jugoton" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Jugoton
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/435.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Pink World Cinema" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink World Cinema
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/436.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: TV 1000" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: TV 1000
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/437.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Prva Plus" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Prva Plus
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/438.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Prva TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Prva TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1100.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: RTCG SAT" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: RTCG SAT
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1103.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: KCN 1" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: KCN 1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1104.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: KCN 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: KCN 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1105.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: KCN 3" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: KCN 3
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1106.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: A tv" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: A tv
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1107.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink Zabava ex-Yu" tvg-name="Ex-Yu: Pink Zabava" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Zabava
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1108.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="Ex-Yu: Happy TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Happy TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1132.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Cinestar Action" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Cinestar Action
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1135.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: CINESTAR TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: CINESTAR TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1136.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: CINEMAX 2 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: CINEMAX 2 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1137.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: CINEMAX 1 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: CINEMAX 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1138.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: FOX HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: FOX HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1139.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: FOX LIFE" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: FOX LIFE
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1140.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: FOX CRIME" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: FOX CRIME
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1141.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: HBO 2 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: HBO 2 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1143.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: HBO 3 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: HBO 3 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1144.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: GLAS DRINE" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: GLAS DRINE
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1145.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: UPER GORNJA AUSTRIJA " tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: UPER GORNJA AUSTRIJA 
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1147.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: BANOVINA TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: BANOVINA TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1148.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: ANIMAL PLANET" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: ANIMAL PLANET
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1150.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Klasik TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Klasik TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1151.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: RTCG 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: RTCG 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1153.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: National Geographic" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: National Geographic
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1154.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Nat Geo WILD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Nat Geo WILD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1155.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Lov I Ribolov" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Lov I Ribolov
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1159.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: History 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: History 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1161.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: N1 Srb" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: N1 Srb
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1162.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: 24 Kitchen" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: 24 Kitchen
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1253.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: TLC" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: TLC
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1273.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: N1 BiH" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: N1 BiH
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1325.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Pink Sci-Fi & Fantasy" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Sci-Fi & Fantasy
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1327.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: EPIC DRAMA" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: EPIC DRAMA
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1331.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: RTS Svet" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: RTS Svet
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1332.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink Plus ex-Yu" tvg-name="Ex-Yu: Pink Plus" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Plus
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1333.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: FILMBOX" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: FILMBOX
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1334.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Parovi 1 Uzivo" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Parovi 1 Uzivo
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1406.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Prva 1 SRB" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Prva 1 SRB
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1407.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Prva Max" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Prva Max
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1408.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Prva World" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Prva World
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1409.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: DM Sat" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: DM Sat
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1522.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Slovenia TV 1 HD" tvg-logo="" group-title="Ex-Yu TV",EX-YU: Slovenia TV 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1685.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Slovenia 2" tvg-logo="" group-title="Ex-Yu TV",EX-YU: Slovenia 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/2001.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: OTV VALENTINO" tvg-logo="" group-title="Ex-Yu TV",EX-YU: OTV VALENTINO
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/2002.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: DUGA TV" tvg-logo="" group-title="Ex-Yu TV",EX-YU: DUGA TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/2006.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Parovi 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Parovi 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/2054.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sehara TV HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Sehara TV HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/3135.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Studio B" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Studio B
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/3832.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NOVA TV" tvg-name="Ex-Yu: Nova TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Nova TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4389.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU:Max Select 2 HD" tvg-logo="" group-title="Ex-Yu TV",EX-YU:Max Select 2 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/3803.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU:Max Select 3 HD" tvg-logo="" group-title="Ex-Yu TV",EX-YU:Max Select 3 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/3804.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU:Max Select 10 HD" tvg-logo="" group-title="Ex-Yu TV",EX-YU:Max Select 10 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/7916.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="Ex-Yu: ARENA SPORT 1 SR" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: ARENA SPORT 1 SR
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/424.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: ARENA SPORT 2 SR" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: ARENA SPORT 2 SR
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/425.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Ex-Yu: ARENA SPORT 3 SR" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: ARENA SPORT 3 SR
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/426.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Arena Sport 4" tvg-name="Ex-Yu: ARENA SPORT 4 SR" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: ARENA SPORT 4 SR
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/427.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Arena Sport 1 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Arena Sport 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/48.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Arena Sport 2 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Arena Sport 2 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/49.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Arena Sport 3 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Arena Sport 3 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/50.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Arena Sport 4 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Arena Sport 4 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/51.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: ARENA SPORT 6 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: ARENA SPORT 6 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1298.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 1" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Sport Klub 1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1274.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Sport Klub 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1293.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 3" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Sport Klub 3
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1294.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu:Sport Klub 4" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu:Sport Klub 4
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1295.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 5 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Sport Klub 5 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1296.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 6 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Sport Klub 6 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1297.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="arte.de" tvg-name="ARTE HD" tvg-logo="" group-title="Deutschland TV",ARTE HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/835.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ZDF HD." tvg-logo="" group-title="Exchanch alle",ZDF HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4087.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF" tvg-logo="" group-title="Deutschland TV",ZDF
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1955.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="br.de" tvg-name="BR Fernsehen" tvg-logo="" group-title="Deutschland TV",BR Fernsehen
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/629.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="br.de" tvg-name="BR Alpha" tvg-logo="" group-title="Deutschland TV",BR Alpha
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/631.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="hr.de" tvg-name="HR Fernsehen" tvg-logo="" group-title="Deutschland TV",HR Fernsehen
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/628.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR Fernsehen" tvg-logo="" group-title="Deutschland TV",NDR Fernsehen
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/625.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Kabel 1 HD." tvg-logo="" group-title="Exchanch alle",Kabel 1 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4093.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Kabel 1 Doku." tvg-logo="" group-title="Exchanch alle",Kabel 1 Doku.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4094.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Planet HD." tvg-logo="" group-title="Exchanch alle",Planet HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4095.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SAT 1 HD." tvg-logo="" group-title="Exchanch alle",SAT 1 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4089.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SUPER RTL HD." tvg-logo="" group-title="Exchanch alle",SUPER RTL HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4090.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTL Nitro HD." tvg-logo="" group-title="Exchanch alle",RTL Nitro HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4091.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Vox HD." tvg-logo="" group-title="Exchanch alle",Vox HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4058.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Pro 7 HD." tvg-logo="" group-title="Exchanch alle",Pro 7 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4086.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD." tvg-logo="" group-title="Exchanch alle",TLC HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4084.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTL HD." tvg-logo="" group-title="Exchanch alle",RTL HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4082.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="D MAXX HD." tvg-logo="" group-title="Exchanch alle",D MAXX HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4081.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Pro 7 MAXX HD." tvg-logo="" group-title="Exchanch alle",Pro 7 MAXX HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4080.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ORF 2 DE" tvg-name="ORF 2" tvg-logo="" group-title="Deutschland TV",ORF 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/200.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ORF eins DE" tvg-name="ORF 1 HD" tvg-logo="" group-title="Deutschland TV",ORF 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/199.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SRF 1 HD CH" tvg-name="CH: SRF 1 HD" tvg-logo="" group-title="Schweiz",CH: SRF 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/338.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SRF zwei HD CH" tvg-name="CH: SRF 2 HD" tvg-logo="" group-title="Schweiz",CH: SRF 2 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/337.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="Deutsche Welle" tvg-logo="" group-title="Deutschland TV",Deutsche Welle
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/639.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Baden TV" tvg-logo="" group-title="Deutschland TV",Baden TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/643.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Noa 4 Hamburg" tvg-logo="" group-title="Deutschland TV",Noa 4 Hamburg
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/632.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Chaula TV" tvg-logo="" group-title="Deutschland TV",Chaula TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/563.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="MTV" tvg-logo="" group-title="Deutschland TV",MTV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/559.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TNT Film HD." tvg-logo="" group-title="Exchanch alle",TNT Film HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4045.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TNT Comedy HD." tvg-logo="" group-title="Exchanch alle",TNT Comedy HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4046.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Kinowelt HD." tvg-logo="" group-title="Exchanch alle",Kinowelt HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4047.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Hits HD." tvg-logo="" group-title="Exchanch alle",Sky Hits HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4048.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="13th Street HD." tvg-logo="" group-title="Exchanch alle",13th Street HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4049.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL HD." tvg-logo="" group-title="Exchanch alle",UNIVERSAL HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4050.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="History HD." tvg-logo="" group-title="Exchanch alle",History HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4052.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Heimatkanal." tvg-logo="" group-title="Exchanch alle",Heimatkanal.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4053.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo Wild HD." tvg-logo="" group-title="Exchanch alle",Natgeo Wild HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4056.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTL PASSION HD." tvg-logo="" group-title="Exchanch alle",RTL PASSION HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4059.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="KABEL 1 CLASSICS HD." tvg-logo="" group-title="Exchanch alle",KABEL 1 CLASSICS HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4060.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY Channel HD." tvg-logo="" group-title="Exchanch alle",DISNEY Channel HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4067.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Spiegel Geschichte HD." tvg-logo="" group-title="Exchanch alle",Spiegel Geschichte HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4071.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD." tvg-logo="" group-title="Exchanch alle",Fox HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4075.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD." tvg-logo="" group-title="Exchanch alle",Discovery HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4076.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD." tvg-logo="" group-title="Exchanch alle",Disney Junior HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4083.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo HD." tvg-logo="" group-title="Exchanch alle",NatGeo HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4088.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD." tvg-logo="" group-title="Exchanch alle",Eurosport 1 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4107.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sport1  HD." tvg-logo="" group-title="Exchanch alle",Sport1  HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4108.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky 1 HD." tvg-logo="" group-title="Exchanch alle",Sky 1 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4042.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Action HD." tvg-logo="" group-title="Exchanch alle",Sky Action HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4043.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic HD." tvg-logo="" group-title="Exchanch alle",Sky Atlantic HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4044.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SKY Krimi." tvg-logo="" group-title="Exchanch alle",SKY Krimi.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4072.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SKY Cinema HD." tvg-logo="" group-title="Exchanch alle",SKY Cinema HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4073.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SKY Cinema +24 HD." tvg-logo="" group-title="Exchanch alle",SKY Cinema +24 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4074.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA FAMILY HD." tvg-logo="" group-title="Exchanch alle",SKY CINEMA FAMILY HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4092.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SKY COMEDY HD." tvg-logo="" group-title="Exchanch alle",SKY COMEDY HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4111.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="Sky Cinema Classics" tvg-logo="" group-title="SKY TV",Sky Cinema Classics
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1131.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="MAX Premiere 1 HD" tvg-logo="" group-title="SKY TV",MAX Premiere 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/8054.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="MAX Premiere 2 HD" tvg-logo="" group-title="SKY TV",MAX Premiere 2 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/8055.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="MAX Premiere 3 HD" tvg-logo="" group-title="SKY TV",MAX Premiere 3 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/8056.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 1 HD." tvg-logo="" group-title="Exchanch alle",Sky Bundesliga 1 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1642.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 2 HD." tvg-logo="" group-title="Exchanch alle",Sky Bundesliga 2 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/661.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 3 HD." tvg-logo="" group-title="Exchanch alle",Sky Bundesliga 3 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/662.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 4 HD." tvg-logo="" group-title="Exchanch alle",Sky Bundesliga 4 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/663.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 5 HD." tvg-logo="" group-title="Exchanch alle",Sky Bundesliga 5 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/664.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 6 HD." tvg-logo="" group-title="Exchanch alle",Sky Bundesliga 6 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/665.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 7 HD." tvg-logo="" group-title="Exchanch alle",Sky Bundesliga 7 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/666.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 8 HD." tvg-logo="" group-title="Exchanch alle",Sky Bundesliga 8 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/667.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 9 HD." tvg-logo="" group-title="Exchanch alle",Sky Bundesliga 9 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/668.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 10 HD." tvg-logo="" group-title="Exchanch alle",Sky Bundesliga 10 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/669.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 HD." tvg-logo="" group-title="Exchanch alle",Sky Sport 1 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1656.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 3 HD." tvg-logo="" group-title="Exchanch alle",Sky Sport 3 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/670.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 4 HD." tvg-logo="" group-title="Exchanch alle",Sky Sport 4 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/671.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 5 HD." tvg-logo="" group-title="Exchanch alle",Sky Sport 5 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/672.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 6 HD." tvg-logo="" group-title="Exchanch alle",Sky Sport 6 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/673.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 7 HD." tvg-logo="" group-title="Exchanch alle",Sky Sport 7 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/674.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 8 HD." tvg-logo="" group-title="Exchanch alle",Sky Sport 8 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/675.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 9 HD." tvg-logo="" group-title="Exchanch alle",Sky Sport 9 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/677.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 10 HD." tvg-logo="" group-title="Exchanch alle",Sky Sport 10 HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/679.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="RTK AL" tvg-name="RTK 1 SAT" tvg-logo="" group-title="Shqip Gjenerale",RTK 1 SAT
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTK 2" tvg-logo="" group-title="Shqip Gjenerale",RTK 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/203.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTK 3 HD" tvg-logo="" group-title="Shqip Gjenerale",RTK 3 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/204.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTK 4" tvg-logo="" group-title="Shqip Gjenerale",RTK 4
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/205.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atvmainfranken.de" tvg-name="Top channel" tvg-logo="" group-title="Shqip Gjenerale",Top channel
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/126.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 SAT" tvg-logo="" group-title="Shqip Gjenerale",RTV 21 SAT
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1238.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="RTV 21 M HD" tvg-logo="" group-title="Shqip Gjenerale",RTV 21 M HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/894.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Popullore" tvg-logo="" group-title="Shqip Muzik & Humor",RTV 21 Popullore
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/206.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Plus" tvg-logo="" group-title="Shqip Gjenerale",RTV 21 Plus
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/207.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="RTV 21 Maqedonis" tvg-logo="" group-title="Shqip Gjenerale",RTV 21 Maqedonis
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/16.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 MIX HD" tvg-logo="" group-title="Shqip Gjenerale",RTV 21 MIX HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/17.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="TV Koha" tvg-logo="" group-title="Shqip Gjenerale",TV Koha
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/237.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="16" tvg-name="Vizion +" tvg-logo="" group-title="Shqip Gjenerale",Vizion +
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/9.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Klan TV" tvg-logo="" group-title="Shqip Gjenerale",Klan TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/238.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ABC News" tvg-name="ABC news" tvg-logo="" group-title="Shqip NEWS",ABC news
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/26.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="KTV" tvg-logo="" group-title="Shqip Gjenerale",KTV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1998.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="T7 news" tvg-logo="" group-title="Shqip Gjenerale",T7 news
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/3107.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Dugagjini HD" tvg-logo="" group-title="Shqip Gjenerale",Dugagjini HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/3374.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="" group-title="Shqip Gjenerale",Star Plus
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1225.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Jolly TV" tvg-logo="" group-title="Shqip Gjenerale",Jolly TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1254.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="T HD" tvg-logo="" group-title="Shqip Filma",T HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/239.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Alsat M HD" tvg-logo="http://titaniptv.com/epg/logo/Alsat%20M.png" group-title="Shqip Gjenerale",Alsat M HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/139.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="news 24 HD" tvg-logo="" group-title="Shqip NEWS",news 24 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/764.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Klan Plus" tvg-logo="" group-title="Shqip Gjenerale",Klan Plus
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/300.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="16" tvg-name="TV Ari" tvg-logo="" group-title="Shqip Gjenerale",TV Ari
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/11.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Elrodi Muzik" tvg-logo="" group-title="Shqip Muzik & Humor",Elrodi Muzik
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/15.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="News 24 AL" tvg-name="news 24" tvg-logo="" group-title="Shqip NEWS",news 24
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/18.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Klan Kosova" tvg-logo="" group-title="Shqip Gjenerale",Klan Kosova
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/19.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Folk +" tvg-logo="" group-title="Shqip Muzik & Humor",Folk +
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/21.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Film Nje HD" tvg-logo="" group-title="Shqip Filma",Film Nje HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/22.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Start Kososva" tvg-logo="" group-title="Shqip Muzik & Humor",Start Kososva
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/25.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Film Stinet" tvg-logo="http://3d-cobra.dyndns.tv/picon/dga/stinet.png" group-title="Shqip Filma",Film Stinet
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/27.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Tring Action" tvg-logo="" group-title="Shqip Filma",Tring Action
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/137.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Film Dy HD" tvg-logo="" group-title="Shqip Filma",Film Dy HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/174.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="3" tvg-name="WebStar Muzik HD" tvg-logo="" group-title="Shqip Muzik & Humor",WebStar Muzik HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/177.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Tring 3+" tvg-logo="" group-title="Shqip Gjenerale",Tring 3+
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/178.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Tring Summertime" tvg-logo="" group-title="Shqip Filma",Tring Summertime
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/179.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Tring Planet" tvg-logo="http://morpac.de/var/resizes/Tring-TV/planet.png?m=1466243682" group-title="Shqip Gjenerale",Tring Planet
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/180.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Tring smile" tvg-logo="" group-title="Shqip Filma",Tring smile
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/181.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Tring Super HD" tvg-logo="" group-title="Shqip Filma",Tring Super HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/182.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atvmainfranken.de" tvg-name="Tring World" tvg-logo="" group-title="Shqip Gjenerale",Tring World
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/184.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV Opoja" tvg-logo="" group-title="Shqip Muzik & Humor",TV Opoja
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/185.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Dugagjini TV" tvg-logo="" group-title="Shqip Gjenerale",Dugagjini TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/186.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Dasma TV" tvg-logo="" group-title="Shqip Muzik & Humor",Dasma TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/187.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Pace TV" tvg-logo="" group-title="Islam",Pace TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/201.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Family HD" tvg-logo="" group-title="Shqip Filma",Family HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/210.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Shenja TV" tvg-logo="" group-title="Shqip Gjenerale",Shenja TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/211.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV Sharri" tvg-logo="" group-title="Shqip Muzik & Humor",TV Sharri
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/212.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTV Zeri Denmark HD" tvg-logo="" group-title="Shqip Muzik & Humor",RTV Zeri Denmark HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/216.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="GLOBI" tvg-logo="" group-title="Shqip Gjenerale",GLOBI
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/218.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="era TV" tvg-logo="" group-title="Shqip Gjenerale",era TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/220.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="EXP Natyra" tvg-logo="" group-title="Shqip Gjenerale",EXP Natyra
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/221.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atvmainfranken.de" tvg-name="EXP History" tvg-logo="" group-title="Shqip Gjenerale",EXP History
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/222.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atvmainfranken.de" tvg-name="EXP Shkence" tvg-logo="" group-title="Shqip Gjenerale",EXP Shkence
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/223.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Film Komedi" tvg-logo="" group-title="Shqip Filma",Film Komedi
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/224.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Film Aksion" tvg-logo="" group-title="Shqip Filma",Film Aksion
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/225.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Film Hits" tvg-logo="" group-title="Shqip Filma",Film Hits
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/226.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 1 HD" tvg-logo="" group-title="Shqip Filma",Kino Premiere 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/227.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 2 HD" tvg-logo="" group-title="Shqip Filma",Kino Premiere 2 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/228.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 3 HD" tvg-logo="" group-title="Shqip Filma",Kino Premiere 3 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/229.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Film Drame" tvg-name="Film Drame" tvg-logo="" group-title="Shqip Filma",Film Drame
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/240.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Film Autor" tvg-logo="" group-title="Shqip Filma",Film Autor
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/241.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name=" SPIN TV HD" tvg-logo="" group-title="Shqip Gjenerale", SPIN TV HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/243.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Tring Shqip" tvg-logo="" group-title="Shqip Filma",Tring Shqip
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/245.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Tring History" tvg-logo="" group-title="Shqip Gjenerale",Tring History
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/247.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="BBF musik" tvg-logo="" group-title="Shqip Muzik & Humor",BBF musik
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/249.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV Dielli" tvg-logo="" group-title="Shqip Gjenerale",TV Dielli
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/250.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Tetova TV" tvg-logo="" group-title="Shqip Muzik & Humor",Tetova TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/297.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV Mitrovica" tvg-logo="" group-title="Shqip Gjenerale",TV Mitrovica
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/298.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="MTV Kosova" tvg-logo="" group-title="Shqip Muzik & Humor",MTV Kosova
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/299.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="" group-title="Shqip Filma",MAX
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/7031.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Islam Channel 1 HD" tvg-logo="" group-title="Islam",Islam Channel 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1288.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="first Channel HD" tvg-logo="" group-title="Shqip Gjenerale",first Channel HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1962.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Alb Thriller HD" tvg-logo="" group-title="Shqip Filma",Alb Thriller HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/11229.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Alb Comedy HD" tvg-logo="" group-title="Shqip Filma",Alb Comedy HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/11230.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Alb Horror HD" tvg-logo="" group-title="Shqip Filma",Alb Horror HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/11231.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Tring Sport 1 HD" tvg-logo="" group-title="Shqip SPORT ",Tring Sport 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/30.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 3 HD" tvg-logo="" group-title="Shqip Filma",Art Kino 3 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4368.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 2 HD" tvg-logo="" group-title="Shqip Filma",Art Kino 2 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4367.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 1 HD" tvg-logo="" group-title="Shqip Filma",Art Kino 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4366.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="X Natyra HD" tvg-logo="" group-title="Shqip Gjenerale",X Natyra HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4289.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="X Histori HD" tvg-logo="" group-title="Shqip Gjenerale",X Histori HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4287.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Super Sonic" tvg-logo="" group-title="Shqip Muzik & Humor",Super Sonic
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/303.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Film Thriller" tvg-name="Film Thriller" tvg-logo="" group-title="Shqip Filma",Film Thriller
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/478.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Tring Life" tvg-logo="" group-title="Shqip Gjenerale",Tring Life
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/480.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="BESA TV" tvg-logo="" group-title="Shqip Gjenerale",BESA TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/485.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Premium Channel" tvg-logo="" group-title="Shqip Gjenerale",Premium Channel
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/487.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Dark ilahi 2 HD" tvg-logo="" group-title="Islam",Dark ilahi 2 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/507.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Mekka Live" tvg-logo="" group-title="Islam",Mekka Live
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/585.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Madina Live" tvg-logo="" group-title="Islam",Madina Live
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/586.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RTV Islam" tvg-logo="" group-title="Islam",RTV Islam
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/244.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Islam channel HD" tvg-logo="" group-title="Islam",Islam channel HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1280.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="8ova islam HD" tvg-logo="" group-title="Islam",8ova islam HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1281.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ziko TV" tvg-logo="" group-title="Shqip Muzik & Humor",Ziko TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1323.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Igman Tv Islam" tvg-logo="" group-title="Islam",Igman Tv Islam
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1745.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EuroFilm" tvg-logo="" group-title="Shqip Filma",EuroFilm
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1954.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="K Sport 1" tvg-logo="" group-title="Shqip SPORT ",K Sport 1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1491.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="K Sport 2" tvg-logo="" group-title="Shqip SPORT ",K Sport 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1492.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="K Sport 3" tvg-logo="" group-title="Shqip SPORT ",K Sport 3
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1493.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="K Sport 4" tvg-logo="" group-title="Shqip SPORT ",K Sport 4
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1494.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Tring Sport News HD" tvg-logo="" group-title="Shqip SPORT ",Tring Sport News HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/29.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atvmainfranken.de" tvg-name="Tring Sport 2 HD" tvg-logo="" group-title="Shqip SPORT ",Tring Sport 2 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/31.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="Tring Sport 3 HD" tvg-logo="" group-title="Shqip SPORT ",Tring Sport 3 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/32.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Tring Sport 4 HD" tvg-logo="" group-title="Shqip SPORT ",Tring Sport 4 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/33.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atvmainfranken.de" tvg-name="Super Sport 1 news HD" tvg-logo="" group-title="Shqip SPORT ",Super Sport 1 news HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/34.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="super Sport 5 HD" tvg-logo="" group-title="Shqip SPORT ",super Sport 5 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/37.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Super Sport 6 HD" tvg-logo="" group-title="Shqip SPORT ",Super Sport 6 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/230.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="** ExYou **" tvg-logo="" group-title="Ex-Yu TV",** ExYou **
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/69.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: FACE TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: FACE TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/127.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="B92 ex-Yu" tvg-name="Ex-Yu: B 92" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: B 92
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/128.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Hayat TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Hayat TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/130.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EX-Yu: Hayat Folk" tvg-logo="" group-title="Ex-Yu TV",EX-Yu: Hayat Folk
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/131.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="Ex-Yu: Hayat HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Hayat HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/133.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: NOVI PAZAR" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: NOVI PAZAR
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/134.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: RTS 1" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: RTS 1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/135.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="Ex-Yu: BHT 1" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: BHT 1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/136.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HRT 1 ex-Yu" tvg-name="Ex-Yu: HRT 1" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: HRT 1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/163.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HRT 2 ex-Yu" tvg-name="Ex-Yu: HRT 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: HRT 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/164.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HRT 3 ex-Yu" tvg-name="Ex-Yu: HRT 3" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: HRT 3
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/165.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HRT 4 ex-Yu" tvg-name="Ex-Yu: HRT 4" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: HRT 4
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/166.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="Ex-Yu: RTS 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: RTS 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/167.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="Ex-Yu: RTRS" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: RTRS
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/168.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="Ex-Yu: BN SAT" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: BN SAT
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/169.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="Ex-Yu: Al Jaseera TV HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Al Jaseera TV HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/170.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: federalna TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: federalna TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/171.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: RTL" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: RTL
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/172.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="RTL 2" tvg-name="Ex-Yu: RTL 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: RTL 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/173.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="BG: Ballkanika TV" tvg-logo="" group-title="Ex-Yu TV",BG: Ballkanika TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/253.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink BH ex-Yu" tvg-name="Ex-Yu: Pink BH" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink BH
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/132.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink Reality ex-Yu" tvg-name="Ex-Yu: Pink Reality" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Reality
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/254.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink Pedia ex-Yu" tvg-name="Ex-Yu: Pink Pedia" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Pedia
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/255.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink M ex-Yu" tvg-name="Ex-Yu: Pink M" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink M
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/256.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink Horror ex-Yu" tvg-name="Ex-Yu: Pink Horror" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Horror
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/257.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Pink Film" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Film
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/259.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="Ex-Yu: Pink Extra" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Extra
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/260.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Pink Premium" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Premium
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/261.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Pink Action" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Action
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/262.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink Soap ex-Yu" tvg-name="Ex-Yu: Pink Soap" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Soap
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/263.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink 3 INFO ex-Yu" tvg-name="Ex-Yu: Pink 3" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink 3
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/264.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink 2 ex-Yu" tvg-name="Ex-Yu: Pink 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/265.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink 1 ex-Yu" tvg-name="Ex-Yu: Pink 1" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink 1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/266.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink Comedy ex-Yu" tvg-name="Ex-Yu: PINK Comedy" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: PINK Comedy
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1146.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink Western ex-Yu" tvg-name="Ex-Yu: Pink Western" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Western
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1160.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: RTCG 1" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: RTCG 1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1152.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="Ex-Yu: RTS 1 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: RTS 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1410.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NOVA TV ex-Yu" tvg-name="Ex-Yu: NOVA BH" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: NOVA BH
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4390.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="OBN ex-Yu" tvg-name="Ex-Yu: OBN" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: OBN
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/267.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: CineStar premiere 1" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: CineStar premiere 1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/268.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: CineStar premiere 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: CineStar premiere 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/269.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="BN Music BG" tvg-name="Ex-Yu: BN Musica" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: BN Musica
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/429.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Grand TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Grand TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/430.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: TV Sarajevo" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: TV Sarajevo
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/431.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Grand TV 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Grand TV 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/432.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: SANDZAK TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: SANDZAK TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/433.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Jugoton" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Jugoton
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/435.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Pink World Cinema" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink World Cinema
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/436.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: TV 1000" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: TV 1000
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/437.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Prva Plus" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Prva Plus
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/438.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Prva TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Prva TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1100.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: RTCG SAT" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: RTCG SAT
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1103.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: KCN 1" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: KCN 1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1104.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: KCN 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: KCN 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1105.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: KCN 3" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: KCN 3
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1106.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: A tv" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: A tv
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1107.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink Zabava ex-Yu" tvg-name="Ex-Yu: Pink Zabava" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Zabava
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1108.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="Ex-Yu: Happy TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Happy TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1132.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Cinestar Action" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Cinestar Action
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1135.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: CINESTAR TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: CINESTAR TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1136.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: CINEMAX 2 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: CINEMAX 2 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1137.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: CINEMAX 1 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: CINEMAX 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1138.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: FOX HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: FOX HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1139.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: FOX LIFE" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: FOX LIFE
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1140.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: FOX CRIME" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: FOX CRIME
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1141.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: HBO 2 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: HBO 2 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1143.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: HBO 3 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: HBO 3 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1144.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: GLAS DRINE" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: GLAS DRINE
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1145.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: UPER GORNJA AUSTRIJA " tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: UPER GORNJA AUSTRIJA 
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1147.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: BANOVINA TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: BANOVINA TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1148.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: ANIMAL PLANET" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: ANIMAL PLANET
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1150.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Klasik TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Klasik TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1151.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: RTCG 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: RTCG 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1153.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: National Geographic" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: National Geographic
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1154.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Nat Geo WILD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Nat Geo WILD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1155.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Lov I Ribolov" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Lov I Ribolov
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1159.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: History 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: History 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1161.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: N1 Srb" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: N1 Srb
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1162.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: 24 Kitchen" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: 24 Kitchen
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1253.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: TLC" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: TLC
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1273.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: N1 BiH" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: N1 BiH
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1325.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Pink Sci-Fi & Fantasy" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Sci-Fi & Fantasy
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1327.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: EPIC DRAMA" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: EPIC DRAMA
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1331.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: RTS Svet" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: RTS Svet
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1332.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Pink Plus ex-Yu" tvg-name="Ex-Yu: Pink Plus" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Pink Plus
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1333.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: FILMBOX" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: FILMBOX
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1334.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Parovi 1 Uzivo" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Parovi 1 Uzivo
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1406.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Prva 1 SRB" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Prva 1 SRB
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1407.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Prva Max" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Prva Max
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1408.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Prva World" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Prva World
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1409.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: DM Sat" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: DM Sat
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1522.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Slovenia TV 1 HD" tvg-logo="" group-title="Ex-Yu TV",EX-YU: Slovenia TV 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1685.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Slovenia 2" tvg-logo="" group-title="Ex-Yu TV",EX-YU: Slovenia 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/2001.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: OTV VALENTINO" tvg-logo="" group-title="Ex-Yu TV",EX-YU: OTV VALENTINO
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/2002.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: DUGA TV" tvg-logo="" group-title="Ex-Yu TV",EX-YU: DUGA TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/2006.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Parovi 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Parovi 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/2054.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sehara TV HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Sehara TV HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/3135.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Studio B" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Studio B
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/3832.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NOVA TV" tvg-name="Ex-Yu: Nova TV" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Nova TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/4389.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU:Max Select 2 HD" tvg-logo="" group-title="Ex-Yu TV",EX-YU:Max Select 2 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/3803.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU:Max Select 3 HD" tvg-logo="" group-title="Ex-Yu TV",EX-YU:Max Select 3 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/3804.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU:Max Select 10 HD" tvg-logo="" group-title="Ex-Yu TV",EX-YU:Max Select 10 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/7916.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="Ex-Yu: ARENA SPORT 1 SR" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: ARENA SPORT 1 SR
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/424.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: ARENA SPORT 2 SR" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: ARENA SPORT 2 SR
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/425.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="atv.de" tvg-name="Ex-Yu: ARENA SPORT 3 SR" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: ARENA SPORT 3 SR
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/426.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Arena Sport 4" tvg-name="Ex-Yu: ARENA SPORT 4 SR" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: ARENA SPORT 4 SR
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/427.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Arena Sport 1 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Arena Sport 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/48.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Arena Sport 2 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Arena Sport 2 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/49.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Arena Sport 3 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Arena Sport 3 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/50.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Arena Sport 4 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Arena Sport 4 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/51.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: ARENA SPORT 6 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: ARENA SPORT 6 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1298.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 1" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Sport Klub 1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1274.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 2" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Sport Klub 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1293.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 3" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Sport Klub 3
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1294.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu:Sport Klub 4" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu:Sport Klub 4
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1295.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 5 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Sport Klub 5 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1296.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 6 HD" tvg-logo="" group-title="Ex-Yu TV",Ex-Yu: Sport Klub 6 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1297.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="=== Tivusat-Mediaset ===" tvg-logo="" group-title="Italien TV",=== Tivusat-Mediaset ===
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/7939.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="Rai 1 IT" tvg-logo="" group-title="Italien TV",Rai 1 IT
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/7919.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Rai 2 IT" tvg-name="Rai 2 IT" tvg-logo="" group-title="Italien TV",Rai 2 IT
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/7920.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="Rai 3  IT" tvg-logo="" group-title="Italien TV",Rai 3  IT
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/7921.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Rai 4 IT" tvg-name="Rai 4 IT" tvg-logo="" group-title="Italien TV",Rai 4 IT
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/7922.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Rai 5 IT" tvg-name="Rai 5 IT" tvg-logo="" group-title="Italien TV",Rai 5 IT
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/7923.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Rai Movie IT" tvg-name="Rai Movie HD IT" tvg-logo="" group-title="Italien TV",Rai Movie HD IT
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/7925.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Rai Premium IT" tvg-name="Rai Premium IT" tvg-logo="" group-title="Italien TV",Rai Premium IT
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/7927.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Rai YoYo IT" tvg-name="Rai Yoyo  IT" tvg-logo="" group-title="Italien TV",Rai Yoyo  IT
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/7930.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RSI La 1  IT" tvg-logo="" group-title="Italien TV",RSI La 1  IT
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/7935.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Italia 2 IT" tvg-name="Italia 2  IT" tvg-logo="" group-title="Italien TV",Italia 2  IT
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/7933.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Italia 1 IT" tvg-name="Italia 1 HD IT" tvg-logo="" group-title="Italien TV",Italia 1 HD IT
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/7932.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1  -IT" tvg-logo="" group-title="Italien TV",SKY PRIMAFILA 1  -IT
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/8043.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="** Turk **" tvg-logo="" group-title="Turk TV",** Turk **
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/71.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TRT 1 TR" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="Turk TV",TR: TRT 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/142.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TRT Haber TR" tvg-name="TR: TRT Haber" tvg-logo="" group-title="Turk TV",TR: TRT Haber
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/143.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TRT Turk TR" tvg-name="TR: TRT Turk" tvg-logo="" group-title="Turk TV",TR: TRT Turk
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/608.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TRT Cocuk TR" tvg-name="TR: TRT Cocuk" tvg-logo="" group-title="Turk TV",TR: TRT Cocuk
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/609.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TRT Spor TR" tvg-name="TR: TRT Muzik" tvg-logo="" group-title="Turk TV",TR: TRT Muzik
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/610.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ATV TR" tvg-name="TR: ATV" tvg-logo="" group-title="Turk TV",TR: ATV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/2063.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ATV Avrupa TR" tvg-name="TR: A2 TV HD" tvg-logo="" group-title="Turk TV",TR: A2 TV HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/2036.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="TR: STAR TV" tvg-logo="" group-title="Turk TV",TR: STAR TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/59.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ATV Avrupa TR" tvg-name="TR: ATV HD" tvg-logo="" group-title="Turk TV",TR: ATV HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/145.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Kanal D TR" tvg-name="TR: Kanal D HD" tvg-logo="" group-title="Turk TV",TR: Kanal D HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/148.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TR: Euro D" tvg-logo="" group-title="Turk TV",TR: Euro D
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1023.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Show TR" tvg-name="TR: SHOW TV HD" tvg-logo="" group-title="Turk TV",TR: SHOW TV HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/149.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Show TR" tvg-name="TR: SHOWMAX" tvg-logo="" group-title="Turk TV",TR: SHOWMAX
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/60.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NTV TR" tvg-name="TR: NTV" tvg-logo="" group-title="Turk TV",TR: NTV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/151.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HABERTURK TR" tvg-name="TR: Haber Turk" tvg-logo="" group-title="Turk TV",TR: Haber Turk
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/154.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 24" tvg-logo="" group-title="Turk TV",TR: Kanal 24
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/155.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ucan Kus HD" tvg-logo="" group-title="Turk TV",TR: Ucan Kus HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/156.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TV8 TR" tvg-name="TR: TV 8 HD" tvg-logo="" group-title="Turk TV",TR: TV 8 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/161.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TGRT Haber TR" tvg-name="TR: TGRT Haber" tvg-logo="" group-title="Turk TV",TR: TGRT Haber
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/604.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT AVAZ HD" tvg-logo="" group-title="Turk TV",TR: TRT AVAZ HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/607.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiviBu Sport 3 HD" tvg-logo="" group-title="Turk TV",TR: TiviBu Sport 3 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1447.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX HD" tvg-logo="" group-title="Turk TV",TR: FOX HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/6646.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="CNN TURK TR" tvg-name="TR: CNN" tvg-logo="" group-title="Turk TV",TR: CNN
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/2061.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT BELGESEL" tvg-logo="" group-title="Turk TV",TR: TGRT BELGESEL
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/2030.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TRT World HD TR" tvg-name="TR: TRT WORLD HD" tvg-logo="" group-title="Turk TV",TR: TRT WORLD HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/2032.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NTV TR" tvg-name="TR: NTV HD" tvg-logo="" group-title="Turk TV",TR: NTV HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1983.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TLC TR" tvg-name="TR: TLC TV" tvg-logo="" group-title="Turk TV",TR: TLC TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/2024.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TR: AZAD TV" tvg-logo="" group-title="Turk TV",TR: AZAD TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/2026.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TV 8,5 TR" tvg-name="TR: TV100" tvg-logo="" group-title="Turk TV",TR: TV100
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/2028.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Kanal 7 TR" tvg-name="TR: Kanal 7 HD" tvg-logo="" group-title="Turk TV",TR: Kanal 7 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/152.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TR: KON TV" tvg-logo="" group-title="Turk TV",TR: KON TV
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/2035.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="A Spor TR" tvg-name="TR: a sport HD" tvg-logo="" group-title="Turk TV",TR: a sport HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/6704.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TR: Lig TV 1 HD" tvg-logo="" group-title="Turk TV",TR: Lig TV 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1122.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORT 2 HD" tvg-logo="" group-title="Turk TV",TR: BEIN SPORT 2 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/966.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeIN Sport 3" tvg-logo="" group-title="Turk TV",TR: BeIN Sport 3
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1443.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiviBu Sport 1 HD" tvg-logo="" group-title="Turk TV",TR: TiviBu Sport 1 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1445.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiviBu Sport 2 HD" tvg-logo="" group-title="Turk TV",TR: TiviBu Sport 2 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1446.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 2" tvg-logo="" group-title="France TV",FR: France 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/327.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 3" tvg-logo="" group-title="France TV",FR: France 3
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/328.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 4" tvg-logo="" group-title="France TV",FR: France 4
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/329.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 5" tvg-logo="" group-title="France TV",FR: France 5
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/330.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM" tvg-logo="" group-title="France TV",FR: BFM
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/333.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FR: W9" tvg-logo="" group-title="France TV",FR: W9
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/334.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Geants HD" tvg-logo="" group-title="France TV",FR: OCS Geants HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/335.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SERIES" tvg-logo="" group-title="France TV",FR: CANAL+ SERIES
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/336.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6" tvg-logo="" group-title="France TV",FR: M6
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/444.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1" tvg-logo="" group-title="France TV",FR: TF1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/445.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FR: SyFy HD" tvg-logo="" group-title="France TV",FR: SyFy HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/447.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS City HD" tvg-logo="" group-title="France TV",FR: OCS City HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/448.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Max" tvg-logo="" group-title="France TV",FR: OCS Max
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/451.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Cinema" tvg-logo="" group-title="France TV",FR: Canal+ Cinema
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1507.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cherie25 HD" tvg-logo="" group-title="France TV",FR: Cherie25 HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1508.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery Science" tvg-logo="" group-title="France TV",FR: Discovery Science
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1509.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ FAMILY HD" tvg-logo="" group-title="France TV",FR: CANAL+ FAMILY HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1511.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ CINEMA HD" tvg-logo="" group-title="France TV",FR: CANAL+ CINEMA HD
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1512.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Vizion+ HD." tvg-logo="" group-title="",Vizion+ HD.
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1235.m3u8|user-agent=GoPlayer
