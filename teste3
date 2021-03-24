@@ -8,42 +8,42 @@
 <thumbnail>https://image.tmdb.org/t/p/w342/3HNxFV83aT8bpoo1zR6LQaLHuu.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 <info>Sinopse: Ragnar Lothbrok, um jovem que se considera descendente de Odin, é um guerreiro, fazendeiro e chefe de família. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico. Mas para conseguir conquistá-las ele precisa convencer Earl Haraldson, o líder de seu povo, a permitir que ele e seus guerreiros viagem em direção à Inglaterra.</info>
-<subchannel>
+<season>
 <name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Vikings[/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/uZ6uqYduM77H37yQUNHxycZiGDp.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
-<subitems>
-<subitem>
+<>
+<episodes>
 <title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]T1 Todos os Episodios Vikings[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38a22178ef98266dd55ff4846c8d445e2d095598&amp</link>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
-</subitem>
-</subitems>
-</subchannel>
-<subchannel>
+</season>
+</episodes>
+</>
+<season>
 <name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]2ª TEMPORADA Vikings[/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/7yQS39aLDldCDnIlQS9PLst7YUE.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
-<subitems>
-<subitem>
+<>
+<episodes>
 <title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]T2 TODOS OS ESPISÓDIOS Vikings[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:87acb3a6f0069dc3156fb1b4d9a9e6dafe7dc931&amp</link>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
-</subitem>
-</subitems>
-</subchannel>
-<subchannel>
+</episodes>
+</season>
+</>
+<season>
 <name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]3ª TEMPORADA Vikings[/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/4Uxn08aBsbVZKkbysdbgLQVbYi3.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
-<subitems>
-<subitem>
+<>
+<episodes>
 <title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]T3 TODOS OS ESPISÓDIOS Vikings[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri='magnet:?xt=urn:btih:4fef8327dae340e5120e142850a264b5d8f22a2b&amp</link>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
-</subitem>
-</subitems>
-</subchannel>
+</season>
+</episodes>
+</>
 <subchannel>
 <name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]4ª TEMPORADA Vikings[/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/sLmjiFF1TZXJriguudQid9ZcSLN.jpg</thumbnail>
