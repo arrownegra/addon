@@ -4,12 +4,12 @@
 
 <channels>
 <channel>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]Vikings[/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]Vikings[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/3HNxFV83aT8bpoo1zR6LQaLHuu.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 <info>Sinopse: Ragnar Lothbrok, um jovem que se considera descendente de Odin, é um guerreiro, fazendeiro e chefe de família. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico. Mas para conseguir conquistá-las ele precisa convencer Earl Haraldson, o líder de seu povo, a permitir que ele e seus guerreiros viagem em direção à Inglaterra.</info>
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Vikings[/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Vikings[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/uZ6uqYduM77H37yQUNHxycZiGDp.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -21,7 +21,7 @@
 </channel1>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]2ª TEMPORADA Vikings[/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]2ª TEMPORADA Vikings[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/7yQS39aLDldCDnIlQS9PLst7YUE.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -33,7 +33,7 @@
 </channel1>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]3ª TEMPORADA Vikings[/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]3ª TEMPORADA Vikings[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/4Uxn08aBsbVZKkbysdbgLQVbYi3.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -45,7 +45,7 @@
 </channel1>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]4ª TEMPORADA Vikings[/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]4ª TEMPORADA Vikings[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/sLmjiFF1TZXJriguudQid9ZcSLN.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -57,7 +57,7 @@
 </channel1>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]5ª TEMPORADA Vikings[/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]5ª TEMPORADA Vikings[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/mbZuxFINh5cMETd1AFALgdq7Ijo.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -177,7 +177,7 @@
 </channel1>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]6ª TEMPORADA Vikings[/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]6ª TEMPORADA Vikings[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/3HNxFV83aT8bpoo1zR6LQaLHuu.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -190,44 +190,44 @@
 </channel>
 
 <channel>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] Resgate em Malibu[/B]</name> 
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] Resgate em Malibu[/B]</title> 
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2019/06/capa-Resgate-em-Malibu-A-Serie-1-temporada-200x300.jpg</thumbnail> 
-<fanart>https://i.imgur.com/d35Qb5d.jpgg</fanart> 
-<info>Depois de completarem o treinamento de Resgate Júnior, a Equipe dos Linguados volta à praia para uma série de resgates incríveis e muita diversão.</info>
+<fanart>https://i.imgur.com/d35Qb5d.jpg</fanart> 
+<info>Depois de completarem o treititlento de Resgate Júnior, a Equipe dos Linguados volta à praia para uma série de resgates incríveis e muita diversão.</info>
 
 <channel1> 
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Resgate em Malibu[/B]</name> 
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Resgate em Malibu[/B]</title> 
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2019/06/capa-Resgate-em-Malibu-A-Serie-1-temporada-200x300.jpg</thumbnail> 
-<fanart>https://i.imgur.com/d35Qb5d.jpgg</fanart> 
+<fanart>https://i.imgur.com/d35Qb5d.jpg</fanart> 
  
 <channel2> 
 <title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]T1 EP1 TODOS OS ESPISÓDIOS  Resgate em Malibu[/B]</title> 
 <video>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0489be8d437ed4d7dbc3ef8d3ad99187096b233&amp</video> 
-<fanart>https://i.imgur.com/d35Qb5d.jpgg</fanart> 
+<fanart>https://i.imgur.com/d35Qb5d.jpg</fanart> 
 </channel2>
 </channel1>
 </channel>
 
 <channel>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]  Lone Star [/B]</name> 
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]  Lone Star [/B]</title> 
 <thumbnail>https://1.bp.blogspot.com/-1n8X03u3bL4/YBn3LlpvwdI/AAAAAAAAhVI/Il1QBaExkTceMFl4ltyxEQEOn1Ch_3JtACNcBGAsYHQ/s350/9-1-1%2B-%2BLone%2BStar%2Bs01.jpg</thumbnail> 
-<fanart>https://i.imgur.com/d35Qb5d.jpgg</fanart> 
+<fanart>https://i.imgur.com/d35Qb5d.jpg</fanart> 
 <info>Owen Strand (Rob Lowe) é um bombeiro de Nova York que, junto com o filho, se muda para a cidade de Austin, no Texas. Lá, enquanto trabalha tentando salvar a vida das pessoas, precisa resolver os próprios problemas pessoais.</info> 
 
 <channel1> 
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA  Lone Star [/B]</name> 
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA  Lone Star [/B]</title> 
 <thumbnail>https://1.bp.blogspot.com/-1n8X03u3bL4/YBn3LlpvwdI/AAAAAAAAhVI/Il1QBaExkTceMFl4ltyxEQEOn1Ch_3JtACNcBGAsYHQ/s350/9-1-1%2B-%2BLone%2BStar%2Bs01.jpg</thumbnail> 
-<fanart>https://i.imgur.com/d35Qb5d.jpgg</fanart> 
+<fanart>https://i.imgur.com/d35Qb5d.jpg</fanart> 
 
 <channel2> 
 <title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]T1 TODOS OS ESPISÓDIOS  Lone Star [/B]</title> 
 <video>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b75ea90c52754526f10aaa1a782dce7d39479814&amp</video> 
-<fanart>https://i.imgur.com/d35Qb5d.jpgg</fanart>
+<fanart>https://i.imgur.com/d35Qb5d.jpg</fanart>
 </channel2>
 </channel1>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]2ª Temporada Lone Star[/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]2ª Temporada Lone Star[/B]</title>
 <thumbnail>https://1.bp.blogspot.com/-6PgyCb8DWAI/YBnztC76M8I/AAAAAAAAhU8/xlSW3C_gDm4YiYgmKUqjXGuAhOQja-LuACNcBGAsYHQ/s350/9-1-1%2B-%2BLone%2BStar%2Bs02.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -341,7 +341,7 @@
 </channel1>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]3ª Temporada Lone Star[/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]3ª Temporada Lone Star[/B]</title>
 <thumbnail>https://1.bp.blogspot.com/-6PgyCb8DWAI/YBnztC76M8I/AAAAAAAAhU8/xlSW3C_gDm4YiYgmKUqjXGuAhOQja-LuACNcBGAsYHQ/s350/9-1-1%2B-%2BLone%2BStar%2Bs02.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -455,7 +455,7 @@
 </channel1>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]4ª Temporada Lone Star[/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]4ª Temporada Lone Star[/B]</title>
 <thumbnail>https://1.bp.blogspot.com/-6PgyCb8DWAI/YBnztC76M8I/AAAAAAAAhU8/xlSW3C_gDm4YiYgmKUqjXGuAhOQja-LuACNcBGAsYHQ/s350/9-1-1%2B-%2BLone%2BStar%2Bs02.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -480,13 +480,13 @@
 </channel>
 
 <channel>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]Cobra Kai[/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]Cobra Kai[/B]</title>
 <thumbnail>https://abutretorrents.com/imagens/cobra-kai-1-e-2-temporada-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
-<info>Sinopse: Esta sequência de Karate Kid pega 30 anos depois dos eventos do All Valley Karate Tournament de 1984 e encontra Johnny Lawrence em busca de redenção reabrindo o infame dojo de karate Cobra Kai . Isso reacende sua antiga rivalidade com o bem-sucedido Daniel LaRusso, que vem trabalhado para manter o equilíbrio em sua vida sem o seu mentor Miyagi.</info>
+<info>Sinopse: Esta sequência de Karate Kid pega 30 anos depois dos eventos do All Valley Karate Tourtitlent de 1984 e encontra Johnny Lawrence em busca de redenção reabrindo o infame dojo de karate Cobra Kai . Isso reacende sua antiga rivalidade com o bem-sucedido Daniel LaRusso, que vem trabalhado para manter o equilíbrio em sua vida sem o seu mentor Miyagi.</info>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Cobra Kai[/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Cobra Kai[/B]</title>
 <thumbnail>https://abutretorrents.com/imagens/cobra-kai-1-e-2-temporada-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -498,7 +498,7 @@
 </channel1>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]2ª Temporada Cobra Kai[/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]2ª Temporada Cobra Kai[/B]</title>
 <thumbnail>https://abutretorrents.com/imagens/cobra-kai-2-Temporada-completa-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -510,7 +510,7 @@
 </channel1>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]3ª Temporada Cobra Kai[/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]3ª Temporada Cobra Kai[/B]</title>
 <thumbnail>https://abutretorrents.com/imagens/cobra-kai-3-Temporada-completa-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -523,13 +523,13 @@
 </channel>
 
 <channel>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] Stranger [/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] Stranger [/B]</title>
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2020/10/capa-stranger-1-e-2-temporada-hd-series.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 <info>Um promotor frio se alia a uma policial fervorosa para capturar um assassino em série. Mas a corrupção que os rodeia é mais perigosa do que o assassino que não conhecem.</info>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Stranger[/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Stranger[/B]</title>
 <thumbnail>https://pm1.narvii.com/6788/ecb3ff56cdab4ba295ec598aec826f1a1d271398v2_hq.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -541,7 +541,7 @@
 </channel1>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]2ª Temporada Stranger[/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]2ª Temporada Stranger[/B]</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stranger_Poster.jpg/250px-Stranger_Poster.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -554,13 +554,13 @@
 </channel>
 
 <channel>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] Interrogation [/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] Interrogation [/B]</title>
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2020/07/capa-Interrogation-1%C2%AA-Temporada-hd-series-200x300.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 <info> A série é baseada em uma história real que durou mais de 30 anos, em que um jovem foi acusado e condenado por assassinar brutalmente sua mãe. Cada episódio é estruturado em torno de um interrogatório tirado diretamente dos arquivos de casos reais da polícia.</info>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Interrogation[/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Interrogation[/B]</title>
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2020/07/capa-Interrogation-1%C2%AA-Temporada-hd-series-200x300.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -573,13 +573,13 @@
 </channel>
 
 <channel>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] O Candidato  [/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] O Candidato  [/B]</title>
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2020/07/capa-el-candidato-1-temporada-hd.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 <info>Wayne Addison, um veterano oficial da CIA retorna à Cidade do México para derrubar o mais poderoso traficante de drogas do país: Rafael Bautista.</info>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA O Candidato [/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA O Candidato [/B]</title>
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2020/07/capa-el-candidato-1-temporada-hd.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -592,13 +592,13 @@
 </channel>
 
 <channel>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] O Candidato  [/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] O Candidato  [/B]</title>
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2020/02/capa-prescricao-fatal-1-temporada-hd.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 <info>Após a morte trágica de seu filho, um farmacêutico chega às últimas consequências para denunciar a corrupção que sustenta a indústria dos opioides nos EUA..</info>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA O Candidato [/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA O Candidato [/B]</title>
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2020/02/capa-prescricao-fatal-1-temporada-hd.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -611,13 +611,13 @@
 </channel>
 
 <channel>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] Carnival Row  [/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] Carnival Row  [/B]</title>
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2020/01/capa-Carnival-Row-1%C2%AA-Temporada-Completa-hd-series-200x300.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 <info>Um serial killer inicia uma onda de crimes a criaturas mágicas na vitoriana Burgue, iniciando uma conturbada investigação que transforma o detetive do caso no principal suspeito dos terríveis crimes.</info>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Carnival Row  [/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Carnival Row  [/B]</title>
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2020/01/capa-Carnival-Row-1%C2%AA-Temporada-Completa-hd-series-200x300.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -630,13 +630,13 @@
 </channel>
 
 <channel>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] Monstro do Pântano  [/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] Monstro do Pântano  [/B]</title>
 <thumbnail>https://i.pinimg.com/originals/a4/3b/18/a43b180093999d924d19a237de2c9adc.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 <info>Abby Arcane é uma pesquisadora da Coordenadoria de Controle de Doenças que precisa investigar um vírus originado de um pântano em Houma, Louisiana, com a ajuda do cientista Alec Holland. Quando Holland some misteriosamente, a cidade é então tomada por forças poderosas com o objetivo de explorar as peculiaridades do pântano, o que faz Arcane perceber que talvez seu colega e interesse romântico não tenha desaparecido – e sim se tornado um protetor monstruoso.</info>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Monstro do Pântano  [/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Monstro do Pântano  [/B]</title>
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2019/05/capa-Monstro-do-Pantano-1-temporada-200x300.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -703,13 +703,13 @@
 </channel>
 
 <channel>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] Shadow   [/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] Shadow   [/B]</title>
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2019/03/capa-Shadow%E2%80%931-Temporada-Completa-200x300.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 <info>Abalado por uma perda trágica, um ex-policial incapaz de sentir dor decide ir sozinho atrás dos bandidos que despistaram a polícia de Joanesburgo…</info>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Shadow [/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Shadow [/B]</title>
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2019/03/capa-Shadow%E2%80%931-Temporada-Completa-200x300.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -722,13 +722,13 @@
 </channel>
 
 <channel>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] Marvels Inumanos  [/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] Marvels Inumanos  [/B]</title>
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2017/11/capa-Marvels-Inumanos-1-temporada-hd.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 <info>Depois da Família Real de Inumanos ser despedaçada por um golpe militar, alguns conseguem escapar para o Havaí onde as surpreendentes interações com esse exuberante mundo e a humanidade em torno deles pode ajudar não apenas a salvar os Inumanos, mas também o mundo inteiro.</info>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Marvels Inumanos [/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Marvels Inumanos [/B]</title>
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2017/11/capa-Marvels-Inumanos-1-temporada.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -783,13 +783,13 @@
 </channel>
 
 <channel>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] Wisting   [/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] Wisting   [/B]</title>
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2019/06/capa-Wisting-1-temporada-hd-200x300.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 <info>O detetive de Larvik, William Wisting, é meticuloso e implacável na caçada aos criminosos mais notórios da Noruega, mas sua vida familiar sofre as consequências desta vida dedicada ao combate do crime. Duas mortes misteriosas interrompem o Natal de Wisting e as investigações começam a adquirir proporções inimagináveis com a suspeita de que um assassino em série norte-americano está agindo na Noruega. Quando o FBI finalmente se envolve no caso, as apostas aumentam e as tensões se acumulam, em um confronto com o mais mortal dos assassinos. A 1ª temporada de Wisting é a adaptação de dois romances policiais do escritor norueguês Jørn Lier Horst, “Cães de Caça” e “O Homem das Cavernas”. No elenco, Carrie-Anne Moss, a eterna Trinity de Matrix.</info>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Wisting  [/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Wisting  [/B]</title>
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2019/06/capa-Wisting-1-temporada-hd-200x300.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -802,13 +802,13 @@
 </channel>
 
 <channel>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] Wisting   [/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR] Wisting   [/B]</title>
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2018/05/capa-The-Rain-1%C2%AA-Temporada-hd.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 <info> Seis anos após um vírus brutal ter massacrado quase que toda a população da Escandinávia, dois irmãos dinamarqueses decidem sair da segurança de seu búnquer para verificar o que se passa do lado de fora de sua fortaleza. Em meio aos escombros, eles encontram um grupo de jovens sobreviventes e juntos irão até o fim para encontrar uma única esperança de uma vida melhor.</info>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Wisting  [/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]1ª TEMPORADA Wisting  [/B]</title>
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2018/05/capa-The-Rain-1%C2%AA-Temporada-hd.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
@@ -820,7 +820,7 @@
 </channel1>
 
 <channel1>
-<name>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]2ª Temporada Wisting[/B]</name>
+<title>[COLOR cyan][B][COLOR yellow]»»Blackarrow1clik[/COLOR]2ª Temporada Wisting[/B]</title>
 <thumbnail>http://megatorrentshd.net/wp-content/uploads/2019/05/capa-The-Rain-2%C2%AA-Temporada-Completa-hd-200x300.jpg</thumbnail>
 <fanart>https://i.imgur.com/we2sjKo.jpg</fanart>
 
