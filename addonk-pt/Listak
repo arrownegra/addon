@@ -2,369 +2,304 @@
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL=====[/B][/COLOR]
 #EXTM3U
 
-#EXTINF:-1,PT|HEVC| RTP 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81832
-#EXTINF:-1,PT|HEVC| RTP 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81831
-#EXTINF:-1,PT|HEVC| RTP 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81830
-#EXTINF:-1,PT|HEVC| SIC HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81829
-#EXTINF:-1,PT|HEVC| SIC MULHER HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81828
-#EXTINF:-1,PT|HEVC| SIC NOTICIAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81827
-#EXTINF:-1,PT|HEVC| SIC RADICAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81826
-#EXTINF:-1,PT|HEVC| SIC CARAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81825
-#EXTINF:-1,PT|HEVC| TVI FICCAO HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81824
-#EXTINF:-1,PT|HEVC| TVI HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81823
-#EXTINF:-1,PT|HEVC| TVI24 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81822
-#EXTINF:-1,PT|HEVC| GLOBO PORTUGAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81820
-#EXTINF:-1,PT|HEVC| ZAP VIVA HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81819
-#EXTINF:-1,PT|HEVC| E! ENTERTAINMENT HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81818
-#EXTINF:-1,PT|HEVC| AMC HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81816
-#EXTINF:-1,PT|HEVC| AXN HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81815
-#EXTINF:-1,PT|HEVC| AXN WHITE HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81814
-#EXTINF:-1,PT|HEVC| AXN MOVIES HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81813
-#EXTINF:-1,PT|HEVC| TV CINE TOP HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81812
-#EXTINF:-1,PT|HEVC| TV CINE EDITION HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81811
-#EXTINF:-1,PT|HEVC| TV CINE EMOTION HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81810
-#EXTINF:-1,PT|HEVC| TV CINE ACTION HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81809
-#EXTINF:-1,PT|HEVC| FOX HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81808
-#EXTINF:-1,PT|HEVC| FOX MOVIES HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81807
-#EXTINF:-1,PT|HEVC| FOX CRIME HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81806
-#EXTINF:-1,PT|HEVC| FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81805
-#EXTINF:-1,PT|HEVC| SYFY HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81804
-#EXTINF:-1,PT|HEVC| BLAZE TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81803
-#EXTINF:-1,PT|HEVC| NOS STUDIO HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81802
-#EXTINF:-1,PT|HEVC| HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81800
-#EXTINF:-1,PT|HEVC| CINEMUNDO HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81799
-#EXTINF:-1,PT|HEVC| NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81797
-#EXTINF:-1,PT|HEVC| NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81796
-#EXTINF:-1,PT|HEVC| ID INVESTIGATION DISCOVERY HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81795
-#EXTINF:-1,PT|HEVC| TRAVEL CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81794
-#EXTINF:-1,PT|HEVC| HISTORIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81793
-#EXTINF:-1,PT|HEVC| FINE LIVING NETWORK HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81792
-#EXTINF:-1,PT|HEVC| DOG TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81791
-#EXTINF:-1,PT|HEVC| ODISSEIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81790
-#EXTINF:-1,PT|HEVC| 24 KITCHEN HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81789
-#EXTINF:-1,PT|HEVC| CASA E COZINHA HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81788
-#EXTINF:-1,PT|HEVC| BTV 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81786
-#EXTINF:-1,PT|HEVC| A BOLA TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81785
-#EXTINF:-1,PT|HEVC| SPORTING TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81784
-#EXTINF:-1,PT|HEVC| EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81783
-#EXTINF:-1,PT|HEVC| SPORT TV + HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81782
-#EXTINF:-1,PT|HEVC| SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81781
-#EXTINF:-1,PT|HEVC| SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81780
-#EXTINF:-1,PT|HEVC| SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81779
-#EXTINF:-1,PT|HEVC| SPORT TV NBA HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81778
-#EXTINF:-1,PT|HEVC| ELEVEN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81777
-#EXTINF:-1,PT|HEVC| ELEVEN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81776
-#EXTINF:-1,PT|HEVC| ELEVEN SPORTS  3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81775
-#EXTINF:-1,PT|HEVC| ELEVEN SPORTS 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81774
-#EXTINF:-1,PT|HEVC| ELEVEN SPORTS 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81773
-#EXTINF:-1,PT|HEVC| ELEVEN SPORTS 6 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81772
-#EXTINF:-1,PT|HEVC| FIGHT NETWORK HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81771
-#EXTINF:-1,PT|HEVC| CANAL 11 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81770
-#EXTINF:-1,PT|HEVC| CMTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81769
-#EXTINF:-1,PT| CORONA VIRUS INFO
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81767
-#EXTINF:-1,PT| RTP 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81766
-#EXTINF:-1,PT| RTP 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81765
-#EXTINF:-1,PT| RTP 1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81764
-#EXTINF:-1,PT| RTP 2
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81763
-#EXTINF:-1,PT| RTP 3
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81762
-#EXTINF:-1,PT| RTP INTERNATIONAL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81761
-#EXTINF:-1,PT| RTP ACORES
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81760
-#EXTINF:-1,PT| RTP AFRICA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81759
-#EXTINF:-1,PT| RTP MADEIRA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81758
-#EXTINF:-1,PT| RTP MEMORIA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81757
-#EXTINF:-1,PT| SIC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81756
-#EXTINF:-1,PT| SIC MULHER
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81755
-#EXTINF:-1,PT| SIC NOTICIAS
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81754
-#EXTINF:-1,PT| SIC RADICAL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81753
-#EXTINF:-1,PT| SIC CARAS
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81752
-#EXTINF:-1,PT| SIC K
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81751
-#EXTINF:-1,PT| CANAL Q
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81750
-#EXTINF:-1,PT| PORTO CANAL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81749
-#EXTINF:-1,PT| TVE 24H
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81748
-#EXTINF:-1,PT| TVI
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81747
-#EXTINF:-1,PT| TVI 24
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81746
-#EXTINF:-1,PT| TVI FICCAO
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81745
-#EXTINF:-1,PT| MCS EXTREME
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81744
-#EXTINF:-1,PT| TVI REALITY
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81743
-#EXTINF:-1,PT| TV RECORD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81742
-#EXTINF:-1,PT| ZAP VIVA HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81741
-#EXTINF:-1,PT| KURIAKOS TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81740
-#EXTINF:-1,PT| TCV CABO
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81739
-#EXTINF:-1,PT| BABY TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81737
-#EXTINF:-1,PT| CANAL PANDA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81736
-#EXTINF:-1,PT| DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81735
-#EXTINF:-1,PT| DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81734
-#EXTINF:-1,PT| JIM JAM
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81732
-#EXTINF:-1,PT| BIGGS
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81731
-#EXTINF:-1,PT| NICKELODEON
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81730
-#EXTINF:-1,PT| NICK JR.
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81729
-#EXTINF:-1,PT| E! ENTERTAINMENT
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81727
-#EXTINF:-1,PT| AMC HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81725
-#EXTINF:-1,PT| AMC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81724
-#EXTINF:-1,PT| AXN HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81723
-#EXTINF:-1,PT| AXN WHITE HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81722
-#EXTINF:-1,PT| AXN MOVIES HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81721
-#EXTINF:-1,PT| TVCINE TOP HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81720
-#EXTINF:-1,PT| TVCINE EDITION HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81719
-#EXTINF:-1,PT| TVCINE EMOTION HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81718
-#EXTINF:-1,PT| TVCINE ACTION HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81717
-#EXTINF:-1,PT| TVCINE EDITION
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81716
-#EXTINF:-1,PT| FOX HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81714
-#EXTINF:-1,PT| FOX MOVIES
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81713
-#EXTINF:-1,PT| FOX COMEDY
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81712
-#EXTINF:-1,PT| FOX CRIME HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81711
-#EXTINF:-1,PT| FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81710
-#EXTINF:-1,PT| SYFY
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81709
-#EXTINF:-1,PT| NOS STUDIO HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81708
-#EXTINF:-1,PT| NOS STUDIOS HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81707
-#EXTINF:-1,PT| GLOBO HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81705
-#EXTINF:-1,PT| GLOBO PREMIUM
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81704
-#EXTINF:-1,PT| TV GALICIA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81703
-#EXTINF:-1,PT| CNN
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81702
-#EXTINF:-1,PT| SKY NEWS
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81701
-#EXTINF:-1,PT| CNBC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81700
-#EXTINF:-1,PT| EURONEWS
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81699
-#EXTINF:-1,PT| TV5 MONDE
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81698
-#EXTINF:-1,PT| BBC WORLD NEWS
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81697
-#EXTINF:-1,PT| CBS REALITY
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81696
-#EXTINF:-1,PT| BLOOMBERG
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81695
-#EXTINF:-1,PT| FTV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81694
-#EXTINF:-1,PT| CANACAO NOVA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81693
-#EXTINF:-1,PT| FOX NEWS
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81692
-#EXTINF:-1,PT| TRACE URBAN
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81690
-#EXTINF:-1,PT| TRACE TOCA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81689
-#EXTINF:-1,PT| VH1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81688
-#EXTINF:-1,PT| VH1 CLASSIC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81687
-#EXTINF:-1,PT| AFRO MUSIC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81686
-#EXTINF:-1,PT| MTV PORTUGAL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81685
-#EXTINF:-1,PT| MCM POP
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81684
-#EXTINF:-1,PT| MEZZO
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81683
-#EXTINF:-1,PT| HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81681
-#EXTINF:-1,PT| HOLLYWOOD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81680
-#EXTINF:-1,PT| CINEMUNDO
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81679
-#EXTINF:-1,PT| TV SERIES HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81678
-#EXTINF:-1,PT| TV SERIES
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81677
-#EXTINF:-1,PT| DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81675
-#EXTINF:-1,PT| DISCOVERY HD SHOWCASE
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81674
-#EXTINF:-1,PT| NAT GEO GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81673
-#EXTINF:-1,PT| NAT GEO WILD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81672
-#EXTINF:-1,PT| CRIME INVESTIGATION
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81671
-#EXTINF:-1,PT| TRAVEL CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81670
-#EXTINF:-1,PT| ODISSEIA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81669
-#EXTINF:-1,PT| 24 KITCHEN HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81668
-#EXTINF:-1,PT| HISTORIA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81667
-#EXTINF:-1,PT| TLC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81666
-#EXTINF:-1,PT| BTV 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81664
-#EXTINF:-1,PT| A BOLA TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81663
-#EXTINF:-1,PT| KOMBAT SPORT
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81662
-#EXTINF:-1,PT| SPORTING TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81661
-#EXTINF:-1,PT| FUEL TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81660
-#EXTINF:-1,PT| EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81659
-#EXTINF:-1,PT| EUROSPORT 1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81658
-#EXTINF:-1,PT| EUROSPORT 2
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81657
-#EXTINF:-1,PT| PFC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81656
-#EXTINF:-1,PT| CMTV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81655
-#EXTINF:-1,PT| TOROS TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81654
-#EXTINF:-1,PT| SPORT TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81653
-#EXTINF:-1,PT| SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81652
-#EXTINF:-1,PT| SPORT TV 1 HD NOS
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81651
-#EXTINF:-1,PT| SPORT TV 1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81650
-#EXTINF:-1,PT| SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81649
-#EXTINF:-1,PT| SPORT TV 2
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81648
-#EXTINF:-1,PT| SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81647
-#EXTINF:-1,PT| SPORT TV 3
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81646
-#EXTINF:-1,PT| SPORT TV 4
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81645
-#EXTINF:-1,PT| SPORT TV 5
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81644
-#EXTINF:-1,PT| NBA TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81643
-#EXTINF:-1,PT| ELEVEN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81642
-#EXTINF:-1,PT| ELEVEN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81641
-#EXTINF:-1,PT| ELEVEN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81640
-#EXTINF:-1,PT| ELEVEN SPORTS 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81639
-#EXTINF:-1,PT| ELEVEN SPORTS 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81638
-#EXTINF:-1,PT| ELEVEN SPORTS 6 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81637
-#EXTINF:-1,PT| MOTORVISION
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81636
-#EXTINF:-1,PT| REAL MADRID TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81635
-#EXTINF:-1,PT| CANAL 11
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81634
+#EXTM3U
+#EXTINF:-1,PT: RTP 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478951
+#EXTINF:-1,PT: RTP 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478952
+#EXTINF:-1,PT: RTP 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478953
+#EXTINF:-1,PT: RTP AÃ§ores
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478954
+#EXTINF:-1,PT: RTP ï¿½FRICA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478955
+#EXTINF:-1,PT: RTP MADEIRA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478956
+#EXTINF:-1,PT: RTP MEM
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478957
+#EXTINF:-1,PT: Sic
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478958
+#EXTINF:-1,PT: SIC Caras
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478959
+#EXTINF:-1,PT: SIC MULHER
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478960
+#EXTINF:-1,PT: SIC NOTICIAS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478961
+#EXTINF:-1,PT: SIC NOTICIAS HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478962
+#EXTINF:-1,PT: SIC RADICAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478963
+#EXTINF:-1,PT: SIC RADICAL HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478964
+#EXTINF:-1,PT: Sport TV  backup
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478965
+#EXTINF:-1,PT: SPORT TV  HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478966
+#EXTINF:-1,PT: Sport TV 1 backup
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478967
+#EXTINF:-1,PT: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478968
+#EXTINF:-1,PT: SPORT TV 1 HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478969
+#EXTINF:-1,PT: Sport TV 1 HD backup
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478970
+#EXTINF:-1,PT: Sport TV 2 backup
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478971
+#EXTINF:-1,PT: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478972
+#EXTINF:-1,PT: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478973
+#EXTINF:-1,PT: SPORT TV 2 HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478974
+#EXTINF:-1,PT: Sport TV 2 HD backup
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478975
+#EXTINF:-1,PT: Sport TV 3 backup
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478976
+#EXTINF:-1,PT: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478977
+#EXTINF:-1,PT: SPORT TV 3 HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478978
+#EXTINF:-1,PT: Sport TV 3 HD backup
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478979
+#EXTINF:-1,PT: SPORT TV 3HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478980
+#EXTINF:-1,PT: SPORT TV 4
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478981
+#EXTINF:-1,PT: Sport TV 4 backup
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478982
+#EXTINF:-1,PT: SPORT TV 4 HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478983
+#EXTINF:-1,PT: Sport TV 4 HD backup
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478984
+#EXTINF:-1,PT: SPORT TV 4HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478985
+#EXTINF:-1,PT: SPORT TV 5
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478986
+#EXTINF:-1,PT: Sport TV 5 backup
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478987
+#EXTINF:-1,PT: SPORT TV 5 HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478988
+#EXTINF:-1,PT: Sport TV 5 HD backup
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478989
+#EXTINF:-1,PT: SPORT TV 5HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478990
+#EXTINF:-1,PT: SPORT TV+
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478991
+#EXTINF:-1,PT: SPORT TV+  HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478992
+#EXTINF:-1,PT: SPORTING TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478993
+#EXTINF:-1,PT: Sporting TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478994
+#EXTINF:-1,PT: SUNDANCE SD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478995
+#EXTINF:-1,PT: SYFY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478996
+#EXTINF:-1,PT: SyFy HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478997
+#EXTINF:-1,PT: TLC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478998
+#EXTINF:-1,PT: TOUROS TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478999
+#EXTINF:-1,PT: TRAVEL CHANNEL HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479000
+#EXTINF:-1,PT: TV CINE 1  HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479001
+#EXTINF:-1,PT: TV CINE 2  HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479002
+#EXTINF:-1,PT: TV CINE 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479003
+#EXTINF:-1,PT: TV CINE 4
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479004
+#EXTINF:-1,PT: TV GALICIA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479005
+#EXTINF:-1,PT: TV GLOBO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479006
+#EXTINF:-1,PT: TV Globo Premium
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479007
+#EXTINF:-1,PT: TV RECORD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479008
+#EXTINF:-1,PT: TVC HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479009
+#EXTINF:-1,PT: TVCINE 1 HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479010
+#EXTINF:-1,PT: TVCINE 2 HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479011
+#EXTINF:-1,PT: TVCINE 3 HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479012
+#EXTINF:-1,PT: TVCINE 4 HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479013
+#EXTINF:-1,PT: TVCseries
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479014
+#EXTINF:-1,PT: TVI
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479015
+#EXTINF:-1,PT: TVI 24
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479016
+#EXTINF:-1,PT: TVI FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479017
+#EXTINF:-1,PT: TVI Fic
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479018
+#EXTINF:-1,PT: TVI REALITY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479019
+#EXTINF:-1,PT: TVI Reality (A Quinta)
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479020
+#EXTINF:-1,PT: VH1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479021
+#EXTINF:-1,PT: VH1 CLASSIC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479022
+#EXTINF:-1,PT:SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479023
+#EXTINF:-1,PT: 24 KITCHEN
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478874
+#EXTINF:-1,PT: A & E
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478875
+#EXTINF:-1,PT: A BOLA TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478876
+#EXTINF:-1,PT: Abola TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478877
+#EXTINF:-1,PT: Afro Music
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478878
+#EXTINF:-1,PT: AMC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478879
+#EXTINF:-1,PT: AMC HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478880
+#EXTINF:-1,PT: ARTV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478881
+#EXTINF:-1,PT: AXN
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478882
+#EXTINF:-1,PT: AXN BLACK HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478883
+#EXTINF:-1,PT: AXN HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478884
+#EXTINF:-1,PT: AXN WHITE
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478885
+#EXTINF:-1,PT: AXN WHITE HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478886
+#EXTINF:-1,PT: Baby First
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478887
+#EXTINF:-1,PT: BABY TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478888
+#EXTINF:-1,PT: BENFICA TV 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478889
+#EXTINF:-1,PT: Benfica TV 1 backup
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478890
+#EXTINF:-1,PT: BENFICA TV 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478891
+#EXTINF:-1,PT: BTV 1 HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478892
+#EXTINF:-1,PT: Cacavision
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478893
+#EXTINF:-1,PT: CAï¿½A & PESCA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478894
+#EXTINF:-1,PT: CANAL HIST
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478895
+#EXTINF:-1,PT: CANAL PANDA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478896
+#EXTINF:-1,PT: CANAL Q
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478897
+#EXTINF:-1,PT: CARTOON  NETWORK
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478898
+#EXTINF:-1,PT: CBS REALITY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478899
+#EXTINF:-1,PT: CINEMUNDO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478900
+#EXTINF:-1,PT: CLUBBING TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478901
+#EXTINF:-1,PT: CM TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478902
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478903
+#EXTINF:-1,PT: DISCOVERY HD 1080 SHOWCASE
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478904
+#EXTINF:-1,PT: Discovery HD Showcase
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478905
+#EXTINF:-1,PT: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478906
+#EXTINF:-1,PT: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478907
+#EXTINF:-1,PT: DOG TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478908
+#EXTINF:-1,PT: E! Entertainment
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478909
+#EXTINF:-1,PT: EUROSPORT
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478910
+#EXTINF:-1,PT: Eurosport 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478911
+#EXTINF:-1,PT: EUROSPORT 1 HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478912
+#EXTINF:-1,PT: EUROSPORT 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478913
+#EXTINF:-1,PT: Eurosport new
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478914
+#EXTINF:-1,PT: FASHION TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478915
+#EXTINF:-1,PT: Fine Living Network HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478916
+#EXTINF:-1,PT: Fox Comedy
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478917
+#EXTINF:-1,PT: FOX Comedy HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478918
+#EXTINF:-1,PT: FOX CRIME
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478919
+#EXTINF:-1,PT:  Fox Crime
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478920
+#EXTINF:-1,PT: FOX CRIME HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478921
+#EXTINF:-1,PT: FOX HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478922
+#EXTINF:-1,PT: FOX LIFE
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478923
+#EXTINF:-1,PT: FOX LIFE HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478924
+#EXTINF:-1,PT: FOX MOVIES
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478925
+#EXTINF:-1,PT: FOX Movies HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478926
+#EXTINF:-1,PT: FOX TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478927
+#EXTINF:-1,PT: FUEL TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478928
+#EXTINF:-1,PT: FUEL TV HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478929
+#EXTINF:-1,PT: GLOBO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478930
+#EXTINF:-1,PT:  Historia
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478931
+#EXTINF:-1,PT: HOLLYWOOD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478932
+#EXTINF:-1,PT: HOLLYWOOD HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478933
+#EXTINF:-1,PT: JIM JAM
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478934
+#EXTINF:-1,PT: MOTORS TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478935
+#EXTINF:-1,PT: MOTORVISION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478936
+#EXTINF:-1,PT: MOTORVISION TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478937
+#EXTINF:-1,PT: MOV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478938
+#EXTINF:-1,PT: MOV HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478939
+#EXTINF:-1,PT: Mtv Portuga
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478940
+#EXTINF:-1,PT: MTV PORTUGAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478941
+#EXTINF:-1,PT: Nat Geo Wild
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478942
+#EXTINF:-1,PT: Nat Geo Wild HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478943
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478944
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD 1080
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478945
+#EXTINF:-1,PT: NICKELODEON
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478946
+#EXTINF:-1,PT: ODISSEIA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478947
+#EXTINF:-1,PT: Panda Biggs
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478948
+#EXTINF:-1,PT: PFC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478949
+#EXTINF:-1,PT: PORTO CANAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478950
