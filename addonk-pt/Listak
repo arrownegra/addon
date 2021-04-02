@@ -3,303 +3,391 @@
 #EXTM3U
 
 #EXTM3U
-#EXTINF:-1,PT: RTP 1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478951
-#EXTINF:-1,PT: RTP 2
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478952
-#EXTINF:-1,PT: RTP 3
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478953
-#EXTINF:-1,PT: RTP AÃ§ores
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478954
-#EXTINF:-1,PT: RTP ï¿½FRICA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478955
-#EXTINF:-1,PT: RTP MADEIRA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478956
-#EXTINF:-1,PT: RTP MEM
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478957
-#EXTINF:-1,PT: Sic
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478958
-#EXTINF:-1,PT: SIC Caras
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478959
-#EXTINF:-1,PT: SIC MULHER
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478960
-#EXTINF:-1,PT: SIC NOTICIAS
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478961
-#EXTINF:-1,PT: SIC NOTICIAS HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478962
-#EXTINF:-1,PT: SIC RADICAL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478963
-#EXTINF:-1,PT: SIC RADICAL HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478964
-#EXTINF:-1,PT: Sport TV  backup
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478965
-#EXTINF:-1,PT: SPORT TV  HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478966
-#EXTINF:-1,PT: Sport TV 1 backup
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478967
-#EXTINF:-1,PT: SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478968
-#EXTINF:-1,PT: SPORT TV 1 HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478969
-#EXTINF:-1,PT: Sport TV 1 HD backup
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478970
-#EXTINF:-1,PT: Sport TV 2 backup
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478971
-#EXTINF:-1,PT: SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478972
-#EXTINF:-1,PT: SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478973
-#EXTINF:-1,PT: SPORT TV 2 HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478974
-#EXTINF:-1,PT: Sport TV 2 HD backup
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478975
-#EXTINF:-1,PT: Sport TV 3 backup
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478976
-#EXTINF:-1,PT: SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478977
-#EXTINF:-1,PT: SPORT TV 3 HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478978
-#EXTINF:-1,PT: Sport TV 3 HD backup
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478979
-#EXTINF:-1,PT: SPORT TV 3HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478980
-#EXTINF:-1,PT: SPORT TV 4
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478981
-#EXTINF:-1,PT: Sport TV 4 backup
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478982
-#EXTINF:-1,PT: SPORT TV 4 HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478983
-#EXTINF:-1,PT: Sport TV 4 HD backup
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478984
-#EXTINF:-1,PT: SPORT TV 4HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478985
-#EXTINF:-1,PT: SPORT TV 5
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478986
-#EXTINF:-1,PT: Sport TV 5 backup
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478987
-#EXTINF:-1,PT: SPORT TV 5 HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478988
-#EXTINF:-1,PT: Sport TV 5 HD backup
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478989
-#EXTINF:-1,PT: SPORT TV 5HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478990
-#EXTINF:-1,PT: SPORT TV+
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478991
-#EXTINF:-1,PT: SPORT TV+  HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478992
-#EXTINF:-1,PT: SPORTING TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478993
-#EXTINF:-1,PT: Sporting TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478994
-#EXTINF:-1,PT: SUNDANCE SD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478995
-#EXTINF:-1,PT: SYFY
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478996
-#EXTINF:-1,PT: SyFy HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478997
-#EXTINF:-1,PT: TLC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478998
-#EXTINF:-1,PT: TOUROS TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478999
-#EXTINF:-1,PT: TRAVEL CHANNEL HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479000
-#EXTINF:-1,PT: TV CINE 1  HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479001
-#EXTINF:-1,PT: TV CINE 2  HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479002
-#EXTINF:-1,PT: TV CINE 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479003
-#EXTINF:-1,PT: TV CINE 4
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479004
-#EXTINF:-1,PT: TV GALICIA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479005
-#EXTINF:-1,PT: TV GLOBO
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479006
-#EXTINF:-1,PT: TV Globo Premium
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479007
-#EXTINF:-1,PT: TV RECORD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479008
-#EXTINF:-1,PT: TVC HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479009
-#EXTINF:-1,PT: TVCINE 1 HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479010
-#EXTINF:-1,PT: TVCINE 2 HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479011
-#EXTINF:-1,PT: TVCINE 3 HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479012
-#EXTINF:-1,PT: TVCINE 4 HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479013
-#EXTINF:-1,PT: TVCseries
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479014
-#EXTINF:-1,PT: TVI
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479015
-#EXTINF:-1,PT: TVI 24
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479016
-#EXTINF:-1,PT: TVI FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479017
-#EXTINF:-1,PT: TVI Fic
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479018
-#EXTINF:-1,PT: TVI REALITY
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479019
-#EXTINF:-1,PT: TVI Reality (A Quinta)
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479020
-#EXTINF:-1,PT: VH1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479021
-#EXTINF:-1,PT: VH1 CLASSIC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479022
-#EXTINF:-1,PT:SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/479023
-#EXTINF:-1,PT: 24 KITCHEN
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478874
-#EXTINF:-1,PT: A & E
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478875
-#EXTINF:-1,PT: A BOLA TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478876
-#EXTINF:-1,PT: Abola TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478877
-#EXTINF:-1,PT: Afro Music
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478878
+#EXTINF:-1,PT: RTP 1 HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45596
+#EXTINF:-1,PT: RTP 2 HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45597
+#EXTINF:-1,PT: SIC HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45598
+#EXTINF:-1,PT: TVI HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45599
+#EXTINF:-1,PT: CANAL 11 HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45600
+#EXTINF:-1,PT: TPA Internacional
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27250
+#EXTINF:-1,PT: 24 Kitchen FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27251
+#EXTINF:-1,PT: A Bola TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27252
+#EXTINF:-1,PT: A Bola TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27253
 #EXTINF:-1,PT: AMC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478879
-#EXTINF:-1,PT: AMC HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478880
-#EXTINF:-1,PT: ARTV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478881
-#EXTINF:-1,PT: AXN
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478882
-#EXTINF:-1,PT: AXN BLACK HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478883
-#EXTINF:-1,PT: AXN HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478884
-#EXTINF:-1,PT: AXN WHITE
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478885
-#EXTINF:-1,PT: AXN WHITE HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478886
-#EXTINF:-1,PT: Baby First
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478887
-#EXTINF:-1,PT: BABY TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478888
-#EXTINF:-1,PT: BENFICA TV 1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478889
-#EXTINF:-1,PT: Benfica TV 1 backup
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478890
-#EXTINF:-1,PT: BENFICA TV 2
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478891
-#EXTINF:-1,PT: BTV 1 HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478892
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27255
+#EXTINF:-1,PT: AMC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27256
+#EXTINF:-1,PT: ARTV Parlamento
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27257
+#EXTINF:-1,PT: AXN Black
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27258
+#EXTINF:-1,PT: AXN Black FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27259
+#EXTINF:-1,PT: AXN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27260
+#EXTINF:-1,PT: AXN White
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27261
+#EXTINF:-1,PT: AXN White FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27262
+#EXTINF:-1,PT: Baby TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27263
+#EXTINF:-1,PT: BBC World News
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27264
+#EXTINF:-1,PT: Blaze
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27265
+#EXTINF:-1,PT: Blaze FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27266
+#EXTINF:-1,PT: Bloomberg
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27267
+#EXTINF:-1,PT: Boomerang
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27268
+#EXTINF:-1,PT: BTV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27269
+#EXTINF:-1,PT: BTV (Low)
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27270
+#EXTINF:-1,PT: BTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27271
+#EXTINF:-1,PT: BTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27272
 #EXTINF:-1,PT: Cacavision
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478893
-#EXTINF:-1,PT: CAï¿½A & PESCA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478894
-#EXTINF:-1,PT: CANAL HIST
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478895
-#EXTINF:-1,PT: CANAL PANDA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478896
-#EXTINF:-1,PT: CANAL Q
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478897
-#EXTINF:-1,PT: CARTOON  NETWORK
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478898
-#EXTINF:-1,PT: CBS REALITY
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478899
-#EXTINF:-1,PT: CINEMUNDO
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478900
-#EXTINF:-1,PT: CLUBBING TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478901
-#EXTINF:-1,PT: CM TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478902
-#EXTINF:-1,PT: DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478903
-#EXTINF:-1,PT: DISCOVERY HD 1080 SHOWCASE
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478904
-#EXTINF:-1,PT: Discovery HD Showcase
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478905
-#EXTINF:-1,PT: DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478906
-#EXTINF:-1,PT: DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478907
-#EXTINF:-1,PT: DOG TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478908
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27273
+#EXTINF:-1,PT: Canal 11
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27274
+#EXTINF:-1,PT: Canal 11 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27275
+#EXTINF:-1,PT: Canal Historia
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27276
+#EXTINF:-1,PT: Canal Panda
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27277
+#EXTINF:-1,PT: Canal Q
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27278
+#EXTINF:-1,PT: Caza e Pesca
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27280
+#EXTINF:-1,PT: CBS Reality
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27281
+#EXTINF:-1,PT: CineMundo
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27282
+#EXTINF:-1,PT: CineMundo FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27283
+#EXTINF:-1,PT: Clubbing TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27284
+#EXTINF:-1,PT: CMTV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27285
+#EXTINF:-1,PT: CMTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27286
+#EXTINF:-1,PT: CNBC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27287
+#EXTINF:-1,PT: CNN
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27288
+#EXTINF:-1,PT: Crime Investigation
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27289
+#EXTINF:-1,PT: Discovery Channel
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27290
+#EXTINF:-1,PT: Discovery Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27291
+#EXTINF:-1,PT: Disney Channel
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27292
+#EXTINF:-1,PT: Disney Junior
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27293
+#EXTINF:-1,PT: Dog TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27294
 #EXTINF:-1,PT: E! Entertainment
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478909
-#EXTINF:-1,PT: EUROSPORT
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478910
-#EXTINF:-1,PT: Eurosport 1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478911
-#EXTINF:-1,PT: EUROSPORT 1 HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478912
-#EXTINF:-1,PT: EUROSPORT 2
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478913
-#EXTINF:-1,PT: Eurosport new
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478914
-#EXTINF:-1,PT: FASHION TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478915
-#EXTINF:-1,PT: Fine Living Network HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478916
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27295
+#EXTINF:-1,PT: Euronews
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27313
+#EXTINF:-1,PT: Fashion TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27316
+#EXTINF:-1,PT: Fight Network FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27317
+#EXTINF:-1,PT: Fine Living Network FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27318
+#EXTINF:-1,PT: Food Network FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27319
+#EXTINF:-1,PT: Fox
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27320
 #EXTINF:-1,PT: Fox Comedy
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478917
-#EXTINF:-1,PT: FOX Comedy HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478918
-#EXTINF:-1,PT: FOX CRIME
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478919
-#EXTINF:-1,PT:  Fox Crime
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478920
-#EXTINF:-1,PT: FOX CRIME HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478921
-#EXTINF:-1,PT: FOX HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478922
-#EXTINF:-1,PT: FOX LIFE
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478923
-#EXTINF:-1,PT: FOX LIFE HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478924
-#EXTINF:-1,PT: FOX MOVIES
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478925
-#EXTINF:-1,PT: FOX Movies HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478926
-#EXTINF:-1,PT: FOX TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478927
-#EXTINF:-1,PT: FUEL TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478928
-#EXTINF:-1,PT: FUEL TV HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478929
-#EXTINF:-1,PT: GLOBO
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478930
-#EXTINF:-1,PT:  Historia
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478931
-#EXTINF:-1,PT: HOLLYWOOD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478932
-#EXTINF:-1,PT: HOLLYWOOD HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478933
-#EXTINF:-1,PT: JIM JAM
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478934
-#EXTINF:-1,PT: MOTORS TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478935
-#EXTINF:-1,PT: MOTORVISION
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478936
-#EXTINF:-1,PT: MOTORVISION TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478937
-#EXTINF:-1,PT: MOV HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478938
-#EXTINF:-1,PT: MOV HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478939
-#EXTINF:-1,PT: Mtv Portuga
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478940
-#EXTINF:-1,PT: MTV PORTUGAL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478941
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27321
+#EXTINF:-1,PT: Fox Comedy FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27322
+#EXTINF:-1,PT: Fox Crime
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27323
+#EXTINF:-1,PT: Fox Crime FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27324
+#EXTINF:-1,PT: Fox FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27325
+#EXTINF:-1,PT: Fox Life
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27326
+#EXTINF:-1,PT: Fox Life FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27327
+#EXTINF:-1,PT: Fox Movies
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27328
+#EXTINF:-1,PT: Fox Movies FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27329
+#EXTINF:-1,PT: Fox News
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27330
+#EXTINF:-1,PT: Fuel TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27331
+#EXTINF:-1,PT: Fuel TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27332
+#EXTINF:-1,PT: Hollywood
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27333
+#EXTINF:-1,PT: Hollywood FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27334
+#EXTINF:-1,PT: IConcerts FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27335
+#EXTINF:-1,PT: ID Investigation Discovery FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27336
+#EXTINF:-1,PT: Jim Jam
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27337
+#EXTINF:-1,PT: Kombat Sport
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27338
+#EXTINF:-1,PT: LocalVisao HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27339
+#EXTINF:-1,PT: Luxe.TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27340
+#EXTINF:-1,PT: MCM Pop
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27341
+#EXTINF:-1,PT: MCM Top
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27342
+#EXTINF:-1,PT: Mezzo
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27343
+#EXTINF:-1,PT: Motorvision
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27344
+#EXTINF:-1,PT: MTV Portugal
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27345
+#EXTINF:-1,PT: MTV Portugal FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27346
+#EXTINF:-1,PT: MVM TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27347
+#EXTINF:-1,PT: My Cuisinne
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27348
+#EXTINF:-1,PT: Nat Geo
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27349
+#EXTINF:-1,PT: Nat Geo FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27350
 #EXTINF:-1,PT: Nat Geo Wild
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478942
-#EXTINF:-1,PT: Nat Geo Wild HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478943
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478944
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD 1080
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478945
-#EXTINF:-1,PT: NICKELODEON
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478946
-#EXTINF:-1,PT: ODISSEIA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478947
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27351
+#EXTINF:-1,PT: Nat Geo Wild FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27352
+#EXTINF:-1,PT: NBA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27353
+#EXTINF:-1,PT: NBA FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27354
+#EXTINF:-1,PT: Nickelodeon
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27355
+#EXTINF:-1,PT: Nick JR.
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27356
+#EXTINF:-1,PT: NOS Studios
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27357
+#EXTINF:-1,PT: NOS Studios FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27358
+#EXTINF:-1,PT: Odisseia
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27359
+#EXTINF:-1,PT: Odisseia FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27360
 #EXTINF:-1,PT: Panda Biggs
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478948
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27361
 #EXTINF:-1,PT: PFC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478949
-#EXTINF:-1,PT: PORTO CANAL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://kielbasa.live:443/Adam1/Adam1/478950
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27362
+#EXTINF:-1,PT: Porto Canal
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27363
+#EXTINF:-1,PT: Porto Canal FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27364
+#EXTINF:-1,PT: RTP 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27365
+#EXTINF:-1,PT: RTP 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27366
+#EXTINF:-1,PT: RTP 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27367
+#EXTINF:-1,PT: RTP 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27368
+#EXTINF:-1,PT: RTP 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27369
+#EXTINF:-1,PT: RTP 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27370
+#EXTINF:-1,PT: RTP Acores
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27371
+#EXTINF:-1,PT: RTP Africa
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27372
+#EXTINF:-1,PT: RTP Madeira
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27373
+#EXTINF:-1,PT: RTP Memoria
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27374
+#EXTINF:-1,PT: Santuario Fatima
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27375
+#EXTINF:-1,PT: Saude FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27376
+#EXTINF:-1,PT: SIC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27377
+#EXTINF:-1,PT: SIC Caras
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27378
+#EXTINF:-1,PT: SIC Caras FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27379
+#EXTINF:-1,PT: SIC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27380
+#EXTINF:-1,PT: Sic Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27381
+#EXTINF:-1,PT: SIC Mulher
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27382
+#EXTINF:-1,PT: SIC Mulher FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27383
+#EXTINF:-1,PT: SIC Noticias
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27384
+#EXTINF:-1,PT: SIC Noticias FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27385
+#EXTINF:-1,PT: SIC Radical
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27386
+#EXTINF:-1,PT: SIC Radical FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27387
+#EXTINF:-1,PT: Sky News
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27388
+#EXTINF:-1,PT: Sporting TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27389
+#EXTINF:-1,PT: Sporting TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27390
+#EXTINF:-1,PT: Sport TV+
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27391
+#EXTINF:-1,PT: Sport TV+ FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27392
+#EXTINF:-1,PT: Sport TV 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27393
+#EXTINF:-1,PT: Sport TV 1 (Low)
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27394
+#EXTINF:-1,PT: Sport TV 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27395
+#EXTINF:-1,PT: Sport TV 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27396
+#EXTINF:-1,PT: Sport TV 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27397
+#EXTINF:-1,PT: Sport TV 2 (Low)
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27398
+#EXTINF:-1,PT: Sport TV 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27399
+#EXTINF:-1,PT: Sport TV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27400
+#EXTINF:-1,PT: Sport TV 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27401
+#EXTINF:-1,PT: Sport TV 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27402
+#EXTINF:-1,PT: Sport TV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27403
+#EXTINF:-1,PT: Sport TV 4
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27404
+#EXTINF:-1,PT: Sport TV 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27405
+#EXTINF:-1,PT: Sport TV 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27406
+#EXTINF:-1,PT: Sport TV 5
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27407
+#EXTINF:-1,PT: Sport TV 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27408
+#EXTINF:-1,PT: Sport TV 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27409
+#EXTINF:-1,PT: SyFy
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27410
+#EXTINF:-1,PT: SyFy FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27411
+#EXTINF:-1,PT: TCV Internacional
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27412
+#EXTINF:-1,PT: TLC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27413
+#EXTINF:-1,PT: Toros TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27414
+#EXTINF:-1,PT: TPA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27415
+#EXTINF:-1,PT: Trace & Urban
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27416
+#EXTINF:-1,PT: Trace & Urban FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27417
+#EXTINF:-1,PT: Trace Toca
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27418
+#EXTINF:-1,PT: Travel Channel
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27419
+#EXTINF:-1,PT: Travel Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27420
+#EXTINF:-1,PT: TVCine ACTION FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27422
+#EXTINF:-1,PT: TVCine EDITION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27423
+#EXTINF:-1,PT: TVCine EDITION FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27424
+#EXTINF:-1,PT: TVCine EMOTION FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27426
+#EXTINF:-1,PT: TVCine TOP
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27427
+#EXTINF:-1,PT: TVCine TOP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27428
+#EXTINF:-1,PT: TVC News
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27429
+#EXTINF:-1,PT: TV Globo
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27430
+#EXTINF:-1,PT: TV Globo FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27431
+#EXTINF:-1,PT: TV Globo NOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27432
+#EXTINF:-1,PT: TVI
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27433
+#EXTINF:-1,PT: TVI 24
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27434
+#EXTINF:-1,PT: TVI 24 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27435
+#EXTINF:-1,PT: TVI FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27436
+#EXTINF:-1,PT: TVI Ficcao
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27437
+#EXTINF:-1,PT: TVI Ficcao FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27438
+#EXTINF:-1,PT: TVI Reality
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27439
+#EXTINF:-1,PT: TVI Reality FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27440
+#EXTINF:-1,PT: TV Record FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27441
+#EXTINF:-1,PT: VH1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27442
+#EXTINF:-1,PT: VH1 Classic
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27443
+#EXTINF:-1,PT: ZAP Viva FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/27444
+#EXTINF:-1,PT: TVCINE EDITION HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45579
+#EXTINF:-1,PT: TVCINE TOP HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45580
+#EXTINF:-1,PT: TVCINE EMOTION HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45581
+#EXTINF:-1,PT: TVCINE ACTION HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45582
+#EXTINF:-1,PT: NOS STUDIOS HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45583
+#EXTINF:-1,PT: HOLLYWOOD HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45584
+#EXTINF:-1,PT: AMC HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45585
+#EXTINF:-1,PT: TV SERIES HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45586
+#EXTINF:-1,PT: FOX HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45587
+#EXTINF:-1,PT: FOX CRIME HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45588
+#EXTINF:-1,PT: FOX LIFE HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45589
+#EXTINF:-1,PT: AXN HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45590
+#EXTINF:-1,PT: AXN BLACK HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45591
+#EXTINF:-1,PT: AXN WHITE HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45592
+#EXTINF:-1,PT: NAT GEO HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45593
+#EXTINF:-1,PT: DISCOVERY HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45594
+#EXTINF:-1,PT: 24 KITCHEN HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sky-siptv.com:8000/jassica11/er1452000/45595
