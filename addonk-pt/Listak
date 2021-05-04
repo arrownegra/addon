@@ -132,9 +132,6 @@ plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://185.71.64.167:80/live/8686607865/1287859652/81770.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| CMTV HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| CMTV HD
 plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://185.71.64.167:80/live/8686607865/1287859652/81769.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="##### |PT| PORTUGAL #####" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://cdn.countryflags.com/thumbs/portugal/flag-wave-250.png" group-title="PORTUGAL",##### |PT| PORTUGAL #####
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://185.71.64.167:80/live/8686607865/1287859652/81768.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CORONA VIRUS INFO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://cdn.countryflags.com/thumbs/portugal/flag-wave-250.png" group-title="PORTUGAL",|PT| CORONA VIRUS INFO
 plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://185.71.64.167:80/live/8686607865/1287859652/81767.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1 HD" tvg-logo="" group-title="PORTUGAL",|PT| RTP 1 HD
 plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://185.71.64.167:80/live/8686607865/1287859652/81766.m3u8
@@ -404,472 +401,472 @@ plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://185.71.64.167:80/live/8686607865/1287859652/81634.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="##### |PT|LISTA 2 PORTUGAL #####" tvg-logo="https://cdn.countryflags.com/thumbs/portugal/flag-wave-250.png" group-title="PORTUGAL",##### |PT| PORTUGAL #####
-http://185.71.64.167:80/8686607865/1287859652/81768
+http://0000
 
 
-#EXTINF:-1,PT: plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1404
-#EXTINF:-1,PT: RTP 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1406
-#EXTINF:-1,PT: RTP 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1418
-#EXTINF:-1,PT: RTP ACORES FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2055
-#EXTINF:-1,PT: RTP AFRICA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1424
-#EXTINF:-1,PT: RTP INTERNACIONAL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278418
-#EXTINF:-1,PT: RTP MADEIRA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278558
-#EXTINF:-1,PT: RTP Memoria FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1425
-#EXTINF:-1,PT: S+ HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/198681
-#EXTINF:-1,PT: SIC CARAS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/5910
-#EXTINF:-1,PT: SIC FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1408
-#EXTINF:-1,PT: SIC K HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4021
-#EXTINF:-1,PT: SIC KIDS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1443
-#EXTINF:-1,PT: SIC Mulher FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1427
-#EXTINF:-1,PT: SIC NOTICIAS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1416
-#EXTINF:-1,PT: SIC RADICAL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1429
-#EXTINF:-1,PT: Sky News
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/6100
-#EXTINF:-1,PT: SPORT TV + FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1481
-#EXTINF:-1,PT SPORT TV + HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273473
-#EXTINF:-1,PT: SPORT TV 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1483
-#EXTINF:-1,PT SPORT TV 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37186
-#EXTINF:-1,PT: SPORT TV 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1486
-#EXTINF:-1,PT SPORT TV 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37187
-#EXTINF:-1,PT: SPORT TV 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1489
-#EXTINF:-1,PT SPORT TV 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37188
-#EXTINF:-1,PT: SPORT TV 4 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1492
-#EXTINF:-1,PT SPORT TV 4 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37189
-#EXTINF:-1,PT: SPORT TV 5 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1495
-#EXTINF:-1,PT SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273474
-#EXTINF:-1,PT: SPORT TV NBA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2051
-#EXTINF:-1,PT: Sporting HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1519
-#EXTINF:-1,PT: SYFY FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1475
-#EXTINF:-1,PT: TCV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264640
-#EXTINF:-1,PT: TIJI HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197616
-#EXTINF:-1,PT: TLC FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1479
-#EXTINF:-1,PT: TOROS TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1523
-#EXTINF:-1,PT: TPA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278687
-#EXTINF:-1,PT: TPA INTERNACIONAL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/187605
-#EXTINF:-1,PT: TRACE TOCA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278560
-#EXTINF:-1,PT: TRACE TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/268139
-#EXTINF:-1,PT: TRACE URBAN
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1537
-#EXTINF:-1,PT: Travel Channel FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1529
-#EXTINF:-1,PT Travel Channel FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274367
-#EXTINF:-1,PT: TV BNO
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197873
-#EXTINF:-1,PT: TV Cancao Nova
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/8007
-#EXTINF:-1,PT: TV Globo HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1432
-#EXTINF:-1,PT: TV GLOBO PREMIUM
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278652
-#EXTINF:-1,PT: TV Man
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/166324
-#EXTINF:-1,PT: TV PAI ETERNO
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197869
-#EXTINF:-1,PT: TV Record FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1431
-#EXTINF:-1,PT: TV5 MONDE EUROPE
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/146307
-#EXTINF:-1,PT: TVC News
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/151883
-#EXTINF:-1,PT: TVCine Action FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1452
-#EXTINF:-1,PT: TVCINE EDITIOMN HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278654
-#EXTINF:-1,PT: TVCine Edition FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/82254
-#EXTINF:-1,PT: TVCine Emotion FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1448
-#EXTINF:-1,PT: TVCine Top FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1446
-#EXTINF:-1,PT: TVCine+ HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278686
-#EXTINF:-1,PT: TVE 24H
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/28853
-#EXTINF:-1,PT: TVE Internacional
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/5943
-#EXTINF:-1,PT: TVI 24 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1414
-#EXTINF:-1,PT: TVI FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1410
-#EXTINF:-1,PT: TVI FICCAO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1421
-#EXTINF:-1,PT: tvi Fisclo
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/200802
-#EXTINF:-1,PT: TVI Reality FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1423
-#EXTINF:-1,PT: TVI REALITY MOSAICO
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162154
-#EXTINF:-1,PT: VH1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1533
-#EXTINF:-1,PT VH1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/275137
-#EXTINF:-1,PT: WWE NETWORK HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/198737
-#EXTINF:-1,PT: ZAP VIVA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2067
-#EXTINF:-1,PT: 1+1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/187601
-#EXTINF:-1,PT: 11 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1480
-#EXTINF:-1,PT: 24 Kitchen FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2025
-#EXTINF:-1,PT 24 Kitchen FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274341
-#EXTINF:-1,PT: A BOLA HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1420
-#EXTINF:-1,PT: AFRO MUSIC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/151775
-#EXTINF:-1,PT AFRO MUSIC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274810
-#EXTINF:-1,PT: ALMA LUSA HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264642
-#EXTINF:-1,PT: AMC FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1473
-#EXTINF:-1,PT: APANHADOS 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/201058
-#EXTINF:-1,PT: APANHADOS HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/201059
-#EXTINF:-1,PT: AR TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9629
-#EXTINF:-1,PT: AXN Black
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278653
-#EXTINF:-1,PT: AXN FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1469
-#EXTINF:-1,PT: AXN Movies FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1471
-#EXTINF:-1,PT: AXN White FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1467
-#EXTINF:-1,PT: AZORES TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/227045
-#EXTINF:-1,PT: BABY TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1441
-#EXTINF:-1,PT BABY TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274320
-#EXTINF:-1,PT: BBC ENTERTAINEMENT
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/5937
-#EXTINF:-1,PT: BBC World News FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/11972
-#EXTINF:-1,PT: Benfica TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1497
-#EXTINF:-1,PT: BIGGS HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1439
-#EXTINF:-1,PT: BLAZE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/3996
-#EXTINF:-1,PT A&E FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/275189
-#EXTINF:-1,PT: Bloomberg HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/5933
-#EXTINF:-1,PT: BOOMERANG
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/24529
-#EXTINF:-1,PT: BTV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/8042
-#EXTINF:-1,PT: CAMPO PEQUENO HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/28029
-#EXTINF:-1,PT: Canal 11 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278549
-#EXTINF:-1,PT: CANAL 180
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/146057
-#EXTINF:-1,PT: CANAL NOVA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9700
-#EXTINF:-1,PT: CANAL PANDA HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1438
-#EXTINF:-1,PT: Canal Porto
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/53940
-#EXTINF:-1,PT: CANAL Q FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1430
-#EXTINF:-1,PT: Canal Ricos
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197868
-#EXTINF:-1,PT: CANCAO NOVA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278551
-#EXTINF:-1,PT: Cartoon Network FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1440
-#EXTINF:-1,PT CARTOON NETWORK FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/50923
-#EXTINF:-1,PT: CASA E COZINHA HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/6097
-#EXTINF:-1,PT: CASA Y PESCA HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1524
-#EXTINF:-1,PT: CBC Reality
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278437
-#EXTINF:-1,PT: CBS REALITY FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1528
-#EXTINF:-1,PT: CGTN
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162161
-#EXTINF:-1,PT: CINEMA PORTUGAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/201048
-#EXTINF:-1,PT: CINEMUNDO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1477
-#EXTINF:-1,PT: Clubbing TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/11018
-#EXTINF:-1,PT: CM TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1412
-#EXTINF:-1,PT: CNBC FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/8038
-#EXTINF:-1,PT: CNN
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9703
-#EXTINF:-1,PT: COMBATE
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/198276
-#EXTINF:-1,PT: Crime+ Investigation HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/5928
-#EXTINF:-1,PT Crime+ Investigation HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273251
-#EXTINF:-1,PT: Discovery Channel FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278435
-#EXTINF:-1,PT: Discovery Showcase HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1527
-#EXTINF:-1,PT Discovery Channel FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273679
-#EXTINF:-1,PT: Discovery World Channel FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278553
-#EXTINF:-1,PT: Disney Channel FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1434
-#EXTINF:-1,PT Disney Channel FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274525
-#EXTINF:-1,PT: Disney JUNIOR FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1435
-#EXTINF:-1,PT Disney JUNIOR FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/50901
-#EXTINF:-1,PT: Disney+ HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/226084
-#EXTINF:-1,PT: DOG FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9699
-#EXTINF:-1,PT: DRAGON BALL SUPER HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/201054
-#EXTINF:-1,PT: DW
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/146060
-#EXTINF:-1,PT: E! FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1526
-#EXTINF:-1,PT E! HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/50950
-#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1499
-#EXTINF:-1,PT ELEVEN SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37196
-#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1503
-#EXTINF:-1,PT ELEVEN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37197
-#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1506
-#EXTINF:-1,PT ELEVEN SPORTS 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37198
-#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1509
-#EXTINF:-1,PT ELEVEN SPORTS 4 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37199
-#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1512
-#EXTINF:-1,PT ELEVEN SPORTS 5 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37200
-#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1515
-#EXTINF:-1,PT ELEVEN SPORTS 6 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37201
-#EXTINF:-1,PT: ESTUDOS EM CASA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278688
-#EXTINF:-1,PT: euronews HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4007
-#EXTINF:-1,PT: EUROSPORT 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1517
-#EXTINF:-1,PT EUROSPORT 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273583
-#EXTINF:-1,PT: EUROSPORT 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1518
-#EXTINF:-1,PT EUROSPORT 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273584
-#EXTINF:-1,PT: EUROSPORT FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2036
-#EXTINF:-1,PT: FASHION TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2656
-#EXTINF:-1,PT: FATIMA HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/53924
-#EXTINF:-1,PT: FIGHT BOX HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/151882
-#EXTINF:-1,PT FIGHT BOX HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273941
-#EXTINF:-1,PT: FIGHT Network HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9650
-#EXTINF:-1,PT: FOOD NETWORK FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2044
-#EXTINF:-1,PT: FOX Comedy FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1465
-#EXTINF:-1,PT: FOX Crime FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1463
-#EXTINF:-1,PT: FOX FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1461
-#EXTINF:-1,PT: FOX Life FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1459
-#EXTINF:-1,PT FOX Life FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273954
-#EXTINF:-1,PT: FOX Movies FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1457
-#EXTINF:-1,PT: FOX News HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278445
-#EXTINF:-1,PT: FOX SPORTS
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/40345
-#EXTINF:-1,PT: france 24
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/11019
-#EXTINF:-1,PT: FUEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1521
-#EXTINF:-1,PT: GALICIA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/8028
-#EXTINF:-1,PT: Gametoon HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/265257
-#EXTINF:-1,PT: GATO FEDORENTO HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/201046
-#EXTINF:-1,PT: GINX HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/15913
-#EXTINF:-1,PT: GLOBO BRAZIL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/173449
-#EXTINF:-1,PT: GLOBO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1433
-#EXTINF:-1,PT: GLOBO NOW
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278554
-#EXTINF:-1,PT: GLOBO PORTUGAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/5915
-#EXTINF:-1,PT: GLOBO PREMIUM
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278433
-#EXTINF:-1,PT: HBO HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/24515
-#EXTINF:-1,PT: HBO PORTUGAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/201073
-#EXTINF:-1,PT: HISTORIA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1525
-#EXTINF:-1,PT Historia
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274307
-#EXTINF:-1,PT: Hollywood FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1455
-#EXTINF:-1,PT: INSIDE FORMULA 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/201047
-#EXTINF:-1,PT: Investigation Discovery FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/5914
-#EXTINF:-1,PT Investigation Discovery FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273716
-#EXTINF:-1,PT: JimJam FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1442
-#EXTINF:-1,PT JimJam FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274405
-#EXTINF:-1,PT: KOMBAT SPORT FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1520
-#EXTINF:-1,PT: KURIAKOS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9697
-#EXTINF:-1,PT: KURIAKOS KIDS HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/10828
-#EXTINF:-1,PT: LOCALVISAO HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/10335
-#EXTINF:-1,PT: Lolly Kids HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/265254
-#EXTINF:-1,PT: MARVEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/53078
-#EXTINF:-1,PT: MAS CHIC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/11421
-#EXTINF:-1,PT: MCM POP FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/8027
-#EXTINF:-1,PT MCM Pop
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37240
-#EXTINF:-1,PT: MCM TOP
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/272483
-#EXTINF:-1,PT MCM TOP
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274302
-#EXTINF:-1,PT: MEO Destaques
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/265256
-#EXTINF:-1,PT: MEO Videoclube
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/265255
-#EXTINF:-1,PT: MEZZO HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/8022
-#EXTINF:-1,PT: MOTORVISION FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4012
-#EXTINF:-1,PT: MTV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278556
-#EXTINF:-1,PT: MTV PORTUGAL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1534
-#EXTINF:-1,PT: NAT GEO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1530
-#EXTINF:-1,PT NAT GEO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274083
-#EXTINF:-1,PT: NAT GEO Wild FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1531
-#EXTINF:-1,PT NAT GEO Wild FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274084
-#EXTINF:-1,PT: NBA TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278557
-#EXTINF:-1,PT: NETFLIX FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/24517
-#EXTINF:-1,PT: NETFLIX KIDS HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/201051
-#EXTINF:-1,PT: NHK World
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/81971
-#EXTINF:-1,PT: Nick Junior FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9693
-#EXTINF:-1,PT Nick Junior FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274454
-#EXTINF:-1,PT: nickelodeon HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1436
-#EXTINF:-1,PT nickelodeon FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274924
-#EXTINF:-1,PT: Nicklelodeon HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278392
-#EXTINF:-1,PT: NOS STUDIO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1454
-#EXTINF:-1,PT: NOW FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/11410
-#EXTINF:-1,PT: ODISSEIA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1532
-#EXTINF:-1,PT: OPTO SIC HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264644
-#EXTINF:-1,PT: OUTDOOR Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/28032
-#EXTINF:-1,PT: PANDA BIGGS
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278401
-#EXTINF:-1,PT: PORTO CANAL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1419
-#EXTINF:-1,PT: QYOU
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/146066
-#EXTINF:-1,PT: REAL MADRID TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9653
-#EXTINF:-1,PT: Record News
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/10988
-#EXTINF:-1,PT: Record TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/13295
-#EXTINF:-1,PT: RED BULL TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/13305
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: RTP 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1404.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/portal/picon/2020-05/8a5bcde9b3bd3182948bc4c10e4673a4.png" group-title="Portugal",PT: RTP 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: RTP 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP ACORES FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: RTP ACORES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP AFRICA FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: RTP AFRICA FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP INTERNACIONAL" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: RTP INTERNACIONAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MADEIRA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: RTP MADEIRA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Memoria FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: RTP Memoria FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: S+ HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: S+ HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/198681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC CARAS FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: SIC CARAS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/5910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: SIC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC K HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: SIC K HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC KIDS FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: SIC KIDS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Mulher FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: SIC Mulher FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: SIC NOTICIAS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: SIC RADICAL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sky News" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Sky News
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/6100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: SPORT TV + FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV + HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",PT SPORT TV + HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 1 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",PT SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",PT SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 3 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",PT SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 4 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",PT SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 5 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",PT SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: SPORT TV NBA FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sporting HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Sporting HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: SYFY FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TCV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TCV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TIJI HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TIJI HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TLC FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TLC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TOROS TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TPA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TPA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TPA INTERNACIONAL" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TPA INTERNACIONAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/187605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE TOCA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TRACE TOCA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TRACE TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/268139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE URBAN" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TRACE URBAN
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Travel Channel FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Travel Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT Travel Channel FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of LifeStyle",PT Travel Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV BNO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TV BNO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV Cancao Nova" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TV Cancao Nova
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/8007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV Globo HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TV Globo HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO PREMIUM" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TV GLOBO PREMIUM
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV Man" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TV Man
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/166324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV PAI ETERNO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TV PAI ETERNO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV Record FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TV Record FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1431.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV5 MONDE EUROPE" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TV5 MONDE EUROPE
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/146307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVC News" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TVC News
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/151883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Action FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TVCine Action FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EDITIOMN HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TVCINE EDITIOMN HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Edition FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TVCine Edition FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/82254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Emotion FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TVCine Emotion FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Top FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TVCine Top FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine+ HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TVCine+ HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVE 24H" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TVE 24H
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/28853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVE Internacional" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TVE Internacional
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/5943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TVI 24 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TVI FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FICCAO FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TVI FICCAO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: tvi Fisclo" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: tvi Fisclo
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/200802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TVI Reality FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY MOSAICO" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TVI REALITY MOSAICO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: VH1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: VH1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT VH1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Music",PT VH1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/275137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: WWE NETWORK HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: WWE NETWORK HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/198737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: ZAP VIVA FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: 1+1" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: 1+1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/187601.m3u8
+#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT: 11 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: 11 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1480.m3u8
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 Kitchen FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: 24 Kitchen FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT 24 Kitchen FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of LifeStyle",PT 24 Kitchen FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274341.m3u8
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A BOLA HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: A BOLA HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: AFRO MUSIC" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: AFRO MUSIC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/151775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT AFRO MUSIC" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Music",PT AFRO MUSIC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: ALMA LUSA HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: ALMA LUSA HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264642.m3u8
+#EXTINF:-1 tvg-id="amchd.pt" tvg-name="PT: AMC FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: AMC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: APANHADOS 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: APANHADOS 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/201058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: APANHADOS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: APANHADOS HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/201059.m3u8
+#EXTINF:-1 tvg-id="artv.pt" tvg-name="PT: AR TV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: AR TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN Black" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: AXN Black
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278653.m3u8
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: AXN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1469.m3u8
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="PT: AXN Movies FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: AXN Movies FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1471.m3u8
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN White FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: AXN White FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1467.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: AZORES TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: AZORES TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/227045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BABY TV FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: BABY TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT BABY TV FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",PT BABY TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274320.m3u8
+#EXTINF:-1 tvg-id="bbcntertainment.pt" tvg-name="PT: BBC ENTERTAINEMENT" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: BBC ENTERTAINEMENT
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/5937.m3u8
+#EXTINF:-1 tvg-id="bbcworldnews.pt" tvg-name="PT: BBC World News FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: BBC World News FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/11972.m3u8
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: Benfica TV FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Benfica TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BIGGS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: BIGGS HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1439.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BLAZE FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: BLAZE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/3996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT A&E FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of LifeStyle",PT A&E FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/275189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Bloomberg HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Bloomberg HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/5933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BOOMERANG" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: BOOMERANG
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/24529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: BTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/8042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CAMPO PEQUENO HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: CAMPO PEQUENO HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/28029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal 11 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Canal 11 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278549.m3u8
+#EXTINF:-1 tvg-id="canal180.pt" tvg-name="PT: CANAL 180" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: CANAL 180
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/146057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL NOVA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: CANAL NOVA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL PANDA HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: CANAL PANDA HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Porto" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Canal Porto
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/53940.m3u8
+#EXTINF:-1 tvg-id="canalq.pt" tvg-name="PT: CANAL Q FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: CANAL Q FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Ricos" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Canal Ricos
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANCAO NOVA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: CANCAO NOVA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278551.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="PT: Cartoon Network FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Cartoon Network FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1440.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="PT CARTOON NETWORK FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",PT CARTOON NETWORK FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/50923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CASA E COZINHA HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: CASA E COZINHA HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/6097.m3u8
+#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="PT: CASA Y PESCA HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: CASA Y PESCA HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CBC Reality" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: CBC Reality
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278437.m3u8
+#EXTINF:-1 tvg-id="cbsreality.pt" tvg-name="PT: CBS REALITY FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: CBS REALITY FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CGTN" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: CGTN
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA PORTUGAL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: CINEMA PORTUGAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/201048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: CINEMUNDO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Clubbing TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Clubbing TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/11018.m3u8
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT: CM TV FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: CM TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNBC FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: CNBC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/8038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNN" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: CNN
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: COMBATE" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: COMBATE
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/198276.m3u8
+#EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-name="PT: Crime+ Investigation HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Crime+ Investigation HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/5928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT Crime+ Investigation HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",PT Crime+ Investigation HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Discovery Channel FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Discovery Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278435.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT: Discovery Showcase HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Discovery Showcase HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT Discovery Channel FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",PT Discovery Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Discovery World Channel FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Discovery World Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278553.m3u8
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="PT: Disney Channel FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Disney Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT Disney Channel FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",PT Disney Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Disney JUNIOR FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Disney JUNIOR FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT Disney JUNIOR FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",PT Disney JUNIOR FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/50901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Disney+ HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Disney+ HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/226084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: DOG FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: DOG FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: DRAGON BALL SUPER HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: DRAGON BALL SUPER HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/201054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: DW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: DW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/146060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: E! FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: E! FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT E! HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of LifeStyle",PT E! HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/50950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: ELEVEN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 1 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",PT ELEVEN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: ELEVEN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",PT ELEVEN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: ELEVEN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 3 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",PT ELEVEN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: ELEVEN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 4 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",PT ELEVEN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: ELEVEN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 5 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",PT ELEVEN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: ELEVEN SPORTS 6 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 6 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",PT ELEVEN SPORTS 6 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: ESTUDOS EM CASA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: ESTUDOS EM CASA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: euronews HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: euronews HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT EUROSPORT 1 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",PT EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: EUROSPORT 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT EUROSPORT 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",PT EUROSPORT 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: EUROSPORT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FASHION TV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: FASHION TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2656.m3u8
+#EXTINF:-1 tvg-id="cancaonova.pt" tvg-name="PT: FATIMA HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: FATIMA HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/53924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FIGHT BOX HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: FIGHT BOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/151882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT FIGHT BOX HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",PT FIGHT BOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FIGHT Network HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: FIGHT Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOOD NETWORK FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: FOOD NETWORK FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2044.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Comedy FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: FOX Comedy FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Crime FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: FOX Crime FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: FOX FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Life FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: FOX Life FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT FOX Life FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of LifeStyle",PT FOX Life FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Movies FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: FOX Movies FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX News HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: FOX News HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX SPORTS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: FOX SPORTS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/40345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: france 24" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: france 24
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/11019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FUEL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: FUEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: GALICIA FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: GALICIA FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/8028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Gametoon HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Gametoon HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/265257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: GATO FEDORENTO HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: GATO FEDORENTO HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/201046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: GINX HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: GINX HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/15913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO BRAZIL" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: GLOBO BRAZIL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/173449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: GLOBO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO NOW" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: GLOBO NOW
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO PORTUGAL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: GLOBO PORTUGAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/5915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO PREMIUM" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: GLOBO PREMIUM
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: HBO HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: HBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/24515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: HBO PORTUGAL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: HBO PORTUGAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/201073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: HISTORIA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT Historia" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",PT Historia
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Hollywood FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Hollywood FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: INSIDE FORMULA 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: INSIDE FORMULA 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/201047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Investigation Discovery FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Investigation Discovery FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/5914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT Investigation Discovery FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",PT Investigation Discovery FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: JimJam FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: JimJam FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT JimJam FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",PT JimJam FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: KOMBAT SPORT FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: KOMBAT SPORT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: KURIAKOS FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: KURIAKOS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: KURIAKOS KIDS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: KURIAKOS KIDS HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/10828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: LOCALVISAO HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: LOCALVISAO HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/10335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Lolly Kids HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Lolly Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/265254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MARVEL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: MARVEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/53078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MAS CHIC" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: MAS CHIC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/11421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM POP FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: MCM POP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/8027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT MCM Pop" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Music",PT MCM Pop
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM TOP" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: MCM TOP
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/272483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT MCM TOP" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Music",PT MCM TOP
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MEO Destaques" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: MEO Destaques
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/265256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MEO Videoclube" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: MEO Videoclube
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/265255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MEZZO HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: MEZZO HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/8022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MOTORVISION FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: MOTORVISION FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: MTV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: MTV PORTUGAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: NAT GEO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT NAT GEO FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",PT NAT GEO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO Wild FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: NAT GEO Wild FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1531.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT NAT GEO Wild FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",PT NAT GEO Wild FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NBA TV FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: NBA TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NETFLIX FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: NETFLIX FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/24517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NETFLIX KIDS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: NETFLIX KIDS HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/201051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NHK World" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: NHK World
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/81971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Nick Junior FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Nick Junior FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT Nick Junior FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",PT Nick Junior FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: nickelodeon HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: nickelodeon HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT nickelodeon FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",PT nickelodeon FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Nicklelodeon HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Nicklelodeon HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIO FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: NOS STUDIO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOW FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: NOW FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/11410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: ODISSEIA FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: OPTO SIC HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: OPTO SIC HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: OUTDOOR Channel HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: OUTDOOR Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/28032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA BIGGS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: PANDA BIGGS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: PORTO CANAL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: QYOU" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: QYOU
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/146066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: REAL MADRID TV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: REAL MADRID TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Record News" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Record News
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/10988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Record TV FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Record TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/13295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RED BULL TV" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: RED BULL TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/13305.m3u8
