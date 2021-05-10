@@ -2,314 +2,217 @@
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL=====[/B][/COLOR]
 #EXTM3U
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="***** PT | Portugal *****" tvg-logo="" group-title="PORTUGAL IPTV",***** PT | Portugal *****
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48449.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | RTP 1" tvg-logo="" group-title="PORTUGAL IPTV",PT | RTP 1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48450.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | RTP 1 HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | RTP 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48451.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | RTP 1 FHD" tvg-logo="" group-title="PORTUGAL IPTV",PT | RTP 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48452.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | RTP 2" tvg-logo="" group-title="PORTUGAL IPTV",PT | RTP 2
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48453.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | RTP 2 HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | RTP 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48454.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | RTP 2 FHD" tvg-logo="" group-title="PORTUGAL IPTV",PT | RTP 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48455.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | RTP 3" tvg-logo="" group-title="PORTUGAL IPTV",PT | RTP 3
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48456.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | RTP 3 HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | RTP 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48457.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | RTP 3 FHD" tvg-logo="" group-title="PORTUGAL IPTV",PT | RTP 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48458.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | RTP ACORES" tvg-logo="" group-title="PORTUGAL IPTV",PT | RTP ACORES
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48459.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | RTP MADEIRA" tvg-logo="" group-title="PORTUGAL IPTV",PT | RTP MADEIRA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48460.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | RTP MEMORIA" tvg-logo="" group-title="PORTUGAL IPTV",PT | RTP MEMORIA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48461.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | RTP Africa" tvg-logo="" group-title="PORTUGAL IPTV",PT | RTP Africa
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48462.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | AMC" tvg-logo="" group-title="PORTUGAL IPTV",PT | AMC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48463.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | Nat Geo" tvg-logo="" group-title="PORTUGAL IPTV",PT | Nat Geo
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48464.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | AXN Black" tvg-logo="" group-title="PORTUGAL IPTV",PT | AXN Black
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48465.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | AXN White" tvg-logo="" group-title="PORTUGAL IPTV",PT | AXN White
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48466.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | Fox Comedy" tvg-logo="" group-title="PORTUGAL IPTV",PT | Fox Comedy
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48467.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | Fox Crime" tvg-logo="" group-title="PORTUGAL IPTV",PT | Fox Crime
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48468.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | Fox Life" tvg-logo="" group-title="PORTUGAL IPTV",PT | Fox Life
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48469.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | Fox Movies" tvg-logo="" group-title="PORTUGAL IPTV",PT | Fox Movies
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48470.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | Sic Noticias" tvg-logo="" group-title="PORTUGAL IPTV",PT | Sic Noticias
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48471.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | CMTV" tvg-logo="" group-title="PORTUGAL IPTV",PT | CMTV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48472.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | Sic Mulher" tvg-logo="" group-title="PORTUGAL IPTV",PT | Sic Mulher
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48473.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SIC Caras" tvg-logo="" group-title="PORTUGAL IPTV",PT | SIC Caras
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48474.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SIC Radical" tvg-logo="" group-title="PORTUGAL IPTV",PT | SIC Radical
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48475.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TVCINE TOP" tvg-logo="" group-title="PORTUGAL IPTV",PT | TVCINE TOP
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48476.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TVCINE EDITION" tvg-logo="" group-title="PORTUGAL IPTV",PT | TVCINE EDITION
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48477.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TVCINE 3 EMOTION" tvg-logo="" group-title="PORTUGAL IPTV",PT | TVCINE 3 EMOTION
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48478.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TVCINE ACTION" tvg-logo="" group-title="PORTUGAL IPTV",PT | TVCINE ACTION
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48479.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TV SERIES" tvg-logo="" group-title="PORTUGAL IPTV",PT | TV SERIES
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48480.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | HOLLYWOOD" tvg-logo="" group-title="PORTUGAL IPTV",PT | HOLLYWOOD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48481.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | ARTV" tvg-logo="" group-title="PORTUGAL IPTV",PT | ARTV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48482.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | BIGGS" tvg-logo="" group-title="PORTUGAL IPTV",PT | BIGGS
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48483.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SYFY" tvg-logo="" group-title="PORTUGAL IPTV",PT | SYFY
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48484.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | 11 HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | 11 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48485.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | 24 KITCHEN HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | 24 KITCHEN HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48486.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | A BOLA TV" tvg-logo="" group-title="PORTUGAL IPTV",PT | A BOLA TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48487.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | AFRO MUSIC" tvg-logo="" group-title="PORTUGAL IPTV",PT | AFRO MUSIC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48488.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | AMC HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | AMC HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48489.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | AXN BLACK HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | AXN BLACK HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48490.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | AXN HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | AXN HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48491.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | AXN WHITE HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | AXN WHITE HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48492.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | BABY TV" tvg-logo="" group-title="PORTUGAL IPTV",PT | BABY TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48493.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | BLAZE" tvg-logo="" group-title="PORTUGAL IPTV",PT | BLAZE
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48494.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | BTV" tvg-logo="" group-title="PORTUGAL IPTV",PT | BTV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48495.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | BTV HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | BTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48496.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | CA�A E PESCA" tvg-logo="" group-title="PORTUGAL IPTV",PT | CA�A E PESCA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48497.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | CA�AVISION" tvg-logo="" group-title="PORTUGAL IPTV",PT | CA�AVISION
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48498.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | CANAL HISTORIA" tvg-logo="" group-title="PORTUGAL IPTV",PT | CANAL HISTORIA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48499.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | CANAL PANDA" tvg-logo="" group-title="PORTUGAL IPTV",PT | CANAL PANDA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48500.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | CANAL Q" tvg-logo="" group-title="PORTUGAL IPTV",PT | CANAL Q
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48501.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | CARTOON NETWORK" tvg-logo="" group-title="PORTUGAL IPTV",PT | CARTOON NETWORK
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48502.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | CBS REALITY" tvg-logo="" group-title="PORTUGAL IPTV",PT | CBS REALITY
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48503.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | CINEMUNDO HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | CINEMUNDO HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48504.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | CMTV HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | CMTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48505.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | DISCOVERY" tvg-logo="" group-title="PORTUGAL IPTV",PT | DISCOVERY
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48506.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | DISNEY CHANNEL" tvg-logo="" group-title="PORTUGAL IPTV",PT | DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48507.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | DISNEY JUNIOR" tvg-logo="" group-title="PORTUGAL IPTV",PT | DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48508.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | E! ENTERTAINMENT" tvg-logo="" group-title="PORTUGAL IPTV",PT | E! ENTERTAINMENT
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48509.ts
-#EXTINF:-1 tvg-id="" tvg-name="***** PT | Sports *****" tvg-logo="" group-title="PORTUGAL IPTV",***** PT | Sports *****
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48579.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | Porto Canal" tvg-logo="" group-title="PORTUGAL IPTV",PT | Porto Canal
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48580.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | Sporting TV" tvg-logo="" group-title="PORTUGAL IPTV",PT | Sporting TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48581.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV + HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | SPORT TV + HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48582.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 1" tvg-logo="" group-title="PORTUGAL IPTV",PT | SPORT TV 1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48583.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 1 HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48584.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 2" tvg-logo="" group-title="PORTUGAL IPTV",PT | SPORT TV 2
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48585.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 2 HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48586.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 3" tvg-logo="" group-title="PORTUGAL IPTV",PT | SPORT TV 3
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48587.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 3 HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48588.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 4" tvg-logo="" group-title="PORTUGAL IPTV",PT | SPORT TV 4
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48589.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 4 HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | SPORT TV 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48590.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 5" tvg-logo="" group-title="PORTUGAL IPTV",PT | SPORT TV 5
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48591.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 5 HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48592.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV NBA  HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | SPORT TV NBA  HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48593.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | Eurosport 1" tvg-logo="" group-title="PORTUGAL IPTV",PT | Eurosport 1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48594.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | Eurosport 2" tvg-logo="" group-title="PORTUGAL IPTV",PT | Eurosport 2
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48595.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | Eleven Sports 3" tvg-logo="" group-title="PORTUGAL IPTV",PT | Eleven Sports 3
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48596.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | Eleven Sports 6" tvg-logo="" group-title="PORTUGAL IPTV",PT | Eleven Sports 6
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48597.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | Eleven Sports 5" tvg-logo="" group-title="PORTUGAL IPTV",PT | Eleven Sports 5
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48598.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | Eleven Sports 4" tvg-logo="" group-title="PORTUGAL IPTV",PT | Eleven Sports 4
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48599.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | Eleven Sports 2" tvg-logo="" group-title="PORTUGAL IPTV",PT | Eleven Sports 2
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48600.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | Eleven Sports 1" tvg-logo="" group-title="PORTUGAL IPTV",PT | Eleven Sports 1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48601.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN  2 HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | ELEVEN  2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48510.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN 3 HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | ELEVEN 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48511.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN 5 HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | ELEVEN 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48512.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN 6 HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | ELEVEN 6 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48513.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN 1 HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | ELEVEN 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48514.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN 4 HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | ELEVEN 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48515.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | EUROSPORT  1 HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | EUROSPORT  1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48516.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | FOOD NETWORK HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48517.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | FOX COMEDY HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | FOX COMEDY HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48518.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | FOX CRIME HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | FOX CRIME HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48519.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | FOX HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | FOX HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48520.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | FOX LIFE HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48521.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | FOX MOVIES HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | FOX MOVIES HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48522.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | FUEL TV" tvg-logo="" group-title="PORTUGAL IPTV",PT | FUEL TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48523.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | GLOBO PORTUGAL" tvg-logo="" group-title="PORTUGAL IPTV",PT | GLOBO PORTUGAL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48524.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | GLOBO PORTUGAL HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | GLOBO PORTUGAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48525.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | HOLLYWOOD HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48526.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | JIM JAM" tvg-logo="" group-title="PORTUGAL IPTV",PT | JIM JAM
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48527.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | KOMBAT SPORT" tvg-logo="" group-title="PORTUGAL IPTV",PT | KOMBAT SPORT
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48528.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | MCM POP" tvg-logo="" group-title="PORTUGAL IPTV",PT | MCM POP
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48529.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | MCM TOP" tvg-logo="" group-title="PORTUGAL IPTV",PT | MCM TOP
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48530.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | MEZZO-LIVE HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | MEZZO-LIVE HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48531.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | MOTORVISION HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | MOTORVISION HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48532.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | MTV PORTUGAL HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | MTV PORTUGAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48533.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | NAT GEO HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | NAT GEO HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48534.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | NAT GEO WILD" tvg-logo="" group-title="PORTUGAL IPTV",PT | NAT GEO WILD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48535.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | NAT GEO WILD HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48536.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | NICK JR." tvg-logo="" group-title="PORTUGAL IPTV",PT | NICK JR.
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48537.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | NICKELODEON" tvg-logo="" group-title="PORTUGAL IPTV",PT | NICKELODEON
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48538.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | NOS STUDIOS HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | NOS STUDIOS HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48539.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | ODISSEIA HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | ODISSEIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48540.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | PANDA BIGSS" tvg-logo="" group-title="PORTUGAL IPTV",PT | PANDA BIGSS
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48541.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | PFC" tvg-logo="" group-title="PORTUGAL IPTV",PT | PFC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48542.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | PORTO CANAL HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | PORTO CANAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48543.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SIC" tvg-logo="" group-title="PORTUGAL IPTV",PT | SIC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48544.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SIC CARAS HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | SIC CARAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48545.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SIC HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | SIC HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48546.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SIC Kids" tvg-logo="" group-title="PORTUGAL IPTV",PT | SIC Kids
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48547.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | Sic Kids HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | Sic Kids HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48548.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SIC MULHER HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | SIC MULHER HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48549.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SIC NOTICIAS HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | SIC NOTICIAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48550.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SIC RADICAL HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | SIC RADICAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48551.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORTING TV HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | SPORTING TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48552.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SYFY-HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | SYFY-HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48553.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TLC" tvg-logo="" group-title="PORTUGAL IPTV",PT | TLC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48554.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TOROS TV HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | TOROS TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48555.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TPA" tvg-logo="" group-title="PORTUGAL IPTV",PT | TPA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48556.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TRAVEL CHANNEL HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | TRAVEL CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48557.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TV RECORD HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | TV RECORD HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48558.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TV SERIES HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | TV SERIES HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48559.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TVCINE TOP HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | TVCINE TOP HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48560.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TVCINE EDITION HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | TVCINE EDITION HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48561.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TVCINE EMOTION HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | TVCINE EMOTION HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48562.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TVCINE ACTION HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | TVCINE ACTION HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48563.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TVI" tvg-logo="" group-title="PORTUGAL IPTV",PT | TVI
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48564.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TVI 24" tvg-logo="" group-title="PORTUGAL IPTV",PT | TVI 24
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48565.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TVI FICCAO" tvg-logo="" group-title="PORTUGAL IPTV",PT | TVI FICCAO
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48566.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TVI HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | TVI HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48567.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TVI REALITY" tvg-logo="" group-title="PORTUGAL IPTV",PT | TVI REALITY
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48568.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | VH1" tvg-logo="" group-title="PORTUGAL IPTV",PT | VH1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48569.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | DISCOVERY HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | DISCOVERY HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48570.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | ODISSEIA" tvg-logo="" group-title="PORTUGAL IPTV",PT | ODISSEIA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48571.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | AXN" tvg-logo="" group-title="PORTUGAL IPTV",PT | AXN
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48572.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | Cinemundo" tvg-logo="" group-title="PORTUGAL IPTV",PT | Cinemundo
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48573.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | MTV Portugal" tvg-logo="" group-title="PORTUGAL IPTV",PT | MTV Portugal
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48574.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | ZAP VIVA HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | ZAP VIVA HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48575.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | GLOBO NOW HD" tvg-logo="" group-title="PORTUGAL IPTV",PT | GLOBO NOW HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48576.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | MY CUISINE" tvg-logo="" group-title="PORTUGAL IPTV",PT | MY CUISINE
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48577.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | TV RECORD" tvg-logo="" group-title="PORTUGAL IPTV",PT | TV RECORD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://goiptv.co:8080/live/kennythetiger/1YFY8z6jwT/48578.ts
+#EXTM3U
+#EXTINF:-1,PT : RTP1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248410
+#EXTINF:-1,PT : RTP2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248411
+#EXTINF:-1,PT : RTP3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248412
+#EXTINF:-1,PT : SIC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248413
+#EXTINF:-1,PT : SIC Caras
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248414
+#EXTINF:-1,PT : SIC K
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248415
+#EXTINF:-1,PT : SIC Mulher
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248416
+#EXTINF:-1,PT : SIC Noticias
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248417
+#EXTINF:-1,PT : SIC Radical
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248418
+#EXTINF:-1,PT : SPORT TV +
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248419
+#EXTINF:-1,PT : SPORT TV 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248420
+#EXTINF:-1,PT : SPORT TV 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248421
+#EXTINF:-1,PT : SPORT TV 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248422
+#EXTINF:-1,PT : SPORT TV 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248423
+#EXTINF:-1,PT : SPORT TV 4
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248424
+#EXTINF:-1,PT : SPORT TV 5
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248425
+#EXTINF:-1,PT : Sporting TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248426
+#EXTINF:-1,PT : SyFy
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248427
+#EXTINF:-1,PT : TLC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248428
+#EXTINF:-1,PT : Toros TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248429
+#EXTINF:-1,PT : Trace Toca
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248430
+#EXTINF:-1,PT : Trace Urban
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248431
+#EXTINF:-1,PT : Travel Channel
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248432
+#EXTINF:-1,PT : TV Cine Action
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248433
+#EXTINF:-1,PT : TV Cine Edition
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248434
+#EXTINF:-1,PT : TV Cine Emotion
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248435
+#EXTINF:-1,PT : TV Cine Top
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248436
+#EXTINF:-1,PT : TV Galicia
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248437
+#EXTINF:-1,PT : TV Record
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248438
+#EXTINF:-1,PT : TVE 24H
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248439
+#EXTINF:-1,PT : TVE INTERNACIONAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248440
+#EXTINF:-1,PT : TVI
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248441
+#EXTINF:-1,PT : TVI Ficcao
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248442
+#EXTINF:-1,PT : TVI Reality
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248443
+#EXTINF:-1,PT : TVI24
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248444
+#EXTINF:-1,PT : VH1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248445
+#EXTINF:-1,PT : ZAP Viva
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248446
+#EXTINF:-1,PT : 24 Kitchen
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248338
+#EXTINF:-1,PT : A Bola TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248339
+#EXTINF:-1,PT : Afro Music
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248340
+#EXTINF:-1,PT : AMC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248341
+#EXTINF:-1,PT : ARTV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248342
+#EXTINF:-1,PT : AXN
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248343
+#EXTINF:-1,PT : AXN Movies
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248344
+#EXTINF:-1,PT : AXN White
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248345
+#EXTINF:-1,PT : Baby TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248346
+#EXTINF:-1,PT : BBC Entertainment
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248347
+#EXTINF:-1,PT : Biggs
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248348
+#EXTINF:-1,PT : Blaze
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248349
+#EXTINF:-1,PT : Bloomberg
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248350
+#EXTINF:-1,PT : BTV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248351
+#EXTINF:-1,PT : Caca e Pesca
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248352
+#EXTINF:-1,PT : Cacavision
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248353
+#EXTINF:-1,PT : Canal 11
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248354
+#EXTINF:-1,PT : Canal Historia
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248355
+#EXTINF:-1,PT : Canal NOS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248356
+#EXTINF:-1,PT : Canal Panda
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248357
+#EXTINF:-1,PT : Canal Q
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248358
+#EXTINF:-1,PT : Cancao Nova
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248359
+#EXTINF:-1,PT : Cartoon Network
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248360
+#EXTINF:-1,PT : Casa e Cozinha
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248361
+#EXTINF:-1,PT : Cinemundo
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248362
+#EXTINF:-1,PT : CMTV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248363
+#EXTINF:-1,PT : CNN
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248365
+#EXTINF:-1,PT : Crime+Investigation
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248366
+#EXTINF:-1,PT : Discovery Channel
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248367
+#EXTINF:-1,PT : Disney Channel
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248368
+#EXTINF:-1,PT : Disney Junior
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248369
+#EXTINF:-1,PT : E! Entertainment
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248370
+#EXTINF:-1,PT : Eleven Sport 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248371
+#EXTINF:-1,PT : Eleven Sport 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248372
+#EXTINF:-1,PT : Eleven Sport 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248373
+#EXTINF:-1,PT : Eleven Sport 4
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248374
+#EXTINF:-1,PT : Eleven Sport 5
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248375
+#EXTINF:-1,PT : Eleven Sport 6
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248376
+#EXTINF:-1,PT : FOX
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248380
+#EXTINF:-1,PT : Fox Comedy
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248381
+#EXTINF:-1,PT : FOX Crime
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248382
+#EXTINF:-1,PT : FOX Life
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248383
+#EXTINF:-1,PT : FOX Movies
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248384
+#EXTINF:-1,PT : FTV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248385
+#EXTINF:-1,PT : Fuel TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248386
+#EXTINF:-1,PT : Globo
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248387
+#EXTINF:-1,PT : Globo Now
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248388
+#EXTINF:-1,PT : Hollywood
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248389
+#EXTINF:-1,PT : Investigation Discovery
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248390
+#EXTINF:-1,PT : Jim Jam
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248391
+#EXTINF:-1,PT : Kuriakos TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248392
+#EXTINF:-1,PT : MCM POP
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248393
+#EXTINF:-1,PT : Mezzo
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248394
+#EXTINF:-1,PT : Motorvision
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248395
+#EXTINF:-1,PT : MTV Portugal
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248396
+#EXTINF:-1,PT : National Geographic
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248397
+#EXTINF:-1,PT : National Geographic Wild
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248398
+#EXTINF:-1,PT : NBA TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248399
+#EXTINF:-1,PT : Nick Jr
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248400
+#EXTINF:-1,PT : Nickelodeon
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248401
+#EXTINF:-1,PT : NOS Studios
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248402
+#EXTINF:-1,PT : Odisseia
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248403
+#EXTINF:-1,PT : PFC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248404
+#EXTINF:-1,PT : Porto Canal
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248405
+#EXTINF:-1,PT : RTP Acores
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248406
+#EXTINF:-1,PT : RTP Africa
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248407
+#EXTINF:-1,PT : RTP Madeira
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248408
+#EXTINF:-1,PT : RTP Memoria
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248409
 
 
 
