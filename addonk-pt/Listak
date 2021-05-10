@@ -4,7 +4,7 @@
 
 #EXTM3U
 #EXTINF:-1,PT : RTP1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248410
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248410User-Agent=DemeterOnPlayer/1.0 (LinuxAndroid 9.0) DemeterOnPlayer/1.0.2$$lsname=
 #EXTINF:-1,PT : RTP2
 plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://pulselive.uk:8080/t1/t1/248411
 #EXTINF:-1,PT : RTP3
