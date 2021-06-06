@@ -2,516 +2,414 @@
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL 1=====[/B][/COLOR]
 #EXTM3U
 
-#EXTINF:-1,RTP 1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59258
-#EXTINF:-1,RTP 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59259
-#EXTINF:-1,RTP 3
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59260
-#EXTINF:-1,RTP MEMORIA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59265
-#EXTINF:-1,RTP Africa
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59262
-#EXTINF:-1,RTP Acores
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59261
-#EXTINF:-1,RTP International
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59263
-#EXTINF:-1,TVI24 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59298
-#EXTINF:-1,TVI
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59294
-#EXTINF:-1,TVI HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59296
-#EXTINF:-1,SIC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59266
-#EXTINF:-1,Sic Caras
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59267
-#EXTINF:-1,Sic HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59268
-#EXTINF:-1,SIC KIDS
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59269
-#EXTINF:-1,CM TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59219
-#EXTINF:-1,Sport TV 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59274
-#EXTINF:-1,Sport TV 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59275
-#EXTINF:-1,Sport TV 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59276
-#EXTINF:-1,Sport TV 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59277
-#EXTINF:-1,Sport TV 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59278
-#EXTINF:-1,Sport TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59279
-#EXTINF:-1,Sporting TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59280
-#EXTINF:-1,Fightox FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59228
-#EXTINF:-1,Kombat Sport
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59242
-#EXTINF:-1,Motorvision
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59247
-#EXTINF:-1,TV Cine Top
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59286
-#EXTINF:-1,TV Cine Edition
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59287
-#EXTINF:-1,TV Cine Emotion
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59288
-#EXTINF:-1,TV Cine Action
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59289
-#EXTINF:-1,TV Globo
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59290
-#EXTINF:-1,TV Record
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59291
-#EXTINF:-1,TV Record HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59292
-#EXTINF:-1,TV Series
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59293
-#EXTINF:-1,SIC MULHER
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59270
-#EXTINF:-1,SIC Noticias
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59271
-#EXTINF:-1,Sic Radical
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59272
-#EXTINF:-1,Sic Radical HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59273
-#EXTINF:-1,24 Kitchen HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59202
-#EXTINF:-1,A  E
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59203
-#EXTINF:-1,A Bola TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59204
-#EXTINF:-1,Afro Music
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59205
-#EXTINF:-1,AMC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59206
-#EXTINF:-1,AXN Movies
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59207
-#EXTINF:-1,AXN FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59208
-#EXTINF:-1,AXN White
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59209
-#EXTINF:-1,Baby TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59210
-#EXTINF:-1,Benfica TV1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59211
-#EXTINF:-1,Cacavision HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59212
-#EXTINF:-1,Canal Panda
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59213
-#EXTINF:-1,Canal Q
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59214
-#EXTINF:-1,Cartoon Network
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59215
-#EXTINF:-1,Caza E Pesca
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59216
-#EXTINF:-1,CBS Reality
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59217
-#EXTINF:-1,Cinemundo
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59218
-#EXTINF:-1,Discovery Channel
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59220
-#EXTINF:-1,Discovery Showcase FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59221
-#EXTINF:-1,Disney Channel
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59222
-#EXTINF:-1,Disney Junior
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59223
-#EXTINF:-1,E Entertainment
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59224
-#EXTINF:-1,Canal 11
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59227
-#EXTINF:-1,Fine Living
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59229
-#EXTINF:-1,Food Network
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59230
-#EXTINF:-1,Fox Comedy
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59231
-#EXTINF:-1,Fox Crime FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59232
-#EXTINF:-1,Fox HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59233
-#EXTINF:-1,Fox Life FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59234
-#EXTINF:-1,Fox Movies
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59235
-#EXTINF:-1,Fuel TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59236
-#EXTINF:-1,Globo Portugal
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59237
-#EXTINF:-1,Globo Premium
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59238
-#EXTINF:-1,Historia
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59239
-#EXTINF:-1,Hollywood
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59240
-#EXTINF:-1,JIM JAM
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59241
-#EXTINF:-1,MCM Pop
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59243
-#EXTINF:-1,MCM TOP
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59244
-#EXTINF:-1,Canal 11 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59245
-#EXTINF:-1,Fight Network FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59246
-#EXTINF:-1,MTV Portugal
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59248
-#EXTINF:-1,My Cuisine
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59249
-#EXTINF:-1,Nat Geo Wild
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59250
-#EXTINF:-1,National Geographic FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59251
-#EXTINF:-1,Nickelodeon
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59252
-#EXTINF:-1,Odisseia
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59253
-#EXTINF:-1,PANDA BIGGS
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59254
-#EXTINF:-1,PFC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59255
-#EXTINF:-1,Porto Canal
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59256
-#EXTINF:-1,Record News
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59257
-#EXTINF:-1,Sundance FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59281
-#EXTINF:-1,SyFy
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59282
-#EXTINF:-1,Syfy FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59283
-#EXTINF:-1,TLC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59284
-#EXTINF:-1,Travel Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59285
-#EXTINF:-1,TVI FICIÂ¿Â½AO HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59295
-#EXTINF:-1,TVI REALITY HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59297
-#EXTINF:-1,VH1 SD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59299
-#EXTINF:-1,VH1 CLASSIC HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59300
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1" tvg-logo="" group-title="*PORTUGAL",PT: RTP 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55260.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 FHD" tvg-logo="" group-title="*PORTUGAL",PT: RTP 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55261.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2" tvg-logo="" group-title="*PORTUGAL",PT: RTP 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 FHD" tvg-logo="" group-title="*PORTUGAL",PT: RTP 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3" tvg-logo="" group-title="*PORTUGAL",PT: RTP 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 HD" tvg-logo="" group-title="*PORTUGAL",PT: RTP 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 FHD" tvg-logo="" group-title="*PORTUGAL",PT: RTP 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55266.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP " tvg-logo="" group-title="*PORTUGAL",PT: RTP 
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55267.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MADEIRA" tvg-logo="" group-title="*PORTUGAL",PT: RTP MADEIRA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MEMÃ“RIA" tvg-logo="" group-title="*PORTUGAL",PT: RTP MEMÃ“RIA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sic" tvg-logo="" group-title="*PORTUGAL",PT: Sic
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC HD" tvg-logo="" group-title="*PORTUGAL",PT: SIC HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Caras" tvg-logo="" group-title="*PORTUGAL",PT: SIC Caras
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC CARAS FHD" tvg-logo="" group-title="*PORTUGAL",PT: SIC CARAS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC K" tvg-logo="" group-title="*PORTUGAL",PT: SIC K
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Radical" tvg-logo="" group-title="*PORTUGAL",PT: SIC Radical
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL FHD" tvg-logo="" group-title="*PORTUGAL",PT: SIC RADICAL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER" tvg-logo="" group-title="*PORTUGAL",PT: SIC MULHER
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER FHD" tvg-logo="" group-title="*PORTUGAL",PT: SIC MULHER FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS" tvg-logo="" group-title="*PORTUGAL",PT: SIC NOTICIAS
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS FHD" tvg-logo="" group-title="*PORTUGAL",PT: SIC NOTICIAS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TLC" tvg-logo="" group-title="*PORTUGAL",PT: TLC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV" tvg-logo="" group-title="*PORTUGAL",PT: TOROS TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO HD" tvg-logo="" group-title="*PORTUGAL",PT: TV GLOBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV Globo Premium" tvg-logo="" group-title="*PORTUGAL",PT: TV Globo Premium
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI" tvg-logo="" group-title="*PORTUGAL",PT: TVI
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FHD" tvg-logo="" group-title="*PORTUGAL",PT: TVI FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24" tvg-logo="" group-title="*PORTUGAL",PT: TVI 24
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Fic" tvg-logo="" group-title="*PORTUGAL",PT: TVI Fic
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY" tvg-logo="" group-title="*PORTUGAL",PT: TVI REALITY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality (A Quinta)" tvg-logo="" group-title="*PORTUGAL",PT: TVI Reality (A Quinta)
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: VH1" tvg-logo="" group-title="*PORTUGAL",PT: VH1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Trace Urban HD" tvg-logo="" group-title="*PORTUGAL",PT: Trace Urban HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: VH1 CLASSIC" tvg-logo="" group-title="*PORTUGAL",PT: VH1 CLASSIC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV PORTUGAL" tvg-logo="" group-title="*PORTUGAL",PT: MTV PORTUGAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM POP" tvg-logo="" group-title="*PORTUGAL",PT: MCM POP
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: AFRO MUSIC" tvg-logo="" group-title="*PORTUGAL",PT: AFRO MUSIC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV" tvg-logo="" group-title="*PORTUGAL",PT: A BOLA TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: ARTV" tvg-logo="" group-title="*PORTUGAL",PT: ARTV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL Q" tvg-logo="" group-title="*PORTUGAL",PT: CANAL Q
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CM TV" tvg-logo="" group-title="*PORTUGAL",PT: CM TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV FHD" tvg-logo="" group-title="*PORTUGAL",PT: CMTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: E! Entertainment" tvg-logo="" group-title="*PORTUGAL",PT: E! Entertainment
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fine Living Network HD" tvg-logo="" group-title="*PORTUGAL",PT: Fine Living Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FUEL TV" tvg-logo="" group-title="*PORTUGAL",PT: FUEL TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CBS REALITY" tvg-logo="" group-title="*PORTUGAL",PT: CBS REALITY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY CAMARA 1" tvg-logo="" group-title="*PORTUGAL",PT: TVI REALITY CAMARA 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY CAMARA 2" tvg-logo="" group-title="*PORTUGAL",PT: TVI REALITY CAMARA 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY CAMARA 3" tvg-logo="" group-title="*PORTUGAL",PT: TVI REALITY CAMARA 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55308.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY CAMARA 4" tvg-logo="" group-title="*PORTUGAL",PT: TVI REALITY CAMARA 4
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BABY TV" tvg-logo="" group-title="*PORTUGAL",PT: BABY TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NICKELODEON" tvg-logo="" group-title="*PORTUGAL",PT: NICKELODEON
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CARTOON  NETWORK" tvg-logo="" group-title="*PORTUGAL",PT: CARTOON  NETWORK
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL PANDA" tvg-logo="" group-title="*PORTUGAL",PT: CANAL PANDA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Biggs" tvg-logo="" group-title="*PORTUGAL",PT: Biggs
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY JUNIOR" tvg-logo="" group-title="*PORTUGAL",PT: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY CHANNEL" tvg-logo="" group-title="*PORTUGAL",PT: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: JIM JAM" tvg-logo="" group-title="*PORTUGAL",PT: JIM JAM
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BLAZE TV" tvg-logo="" group-title="*PORTUGAL",PT: BLAZE TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BLAZE TV FHD" tvg-logo="" group-title="*PORTUGAL",PT: BLAZE TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Discovery Channel FHD" tvg-logo="" group-title="*PORTUGAL",PT: Discovery Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Discovery HD" tvg-logo="" group-title="*PORTUGAL",PT: Discovery HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:  Historia" tvg-logo="" group-title="*PORTUGAL",PT:  Historia
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CA" tvg-logo="" group-title="*PORTUGAL",PT: CA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Nat Geo WILD " tvg-logo="" group-title="*PORTUGAL",PT: Nat Geo WILD 
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="*PORTUGAL",PT: NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="*PORTUGAL",PT: NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CRIME INVISTIGATION" tvg-logo="" group-title="*PORTUGAL",PT: CRIME INVISTIGATION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Travel Channel FHD" tvg-logo="" group-title="*PORTUGAL",PT: Travel Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA" tvg-logo="" group-title="*PORTUGAL",PT: ODISSEIA
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FASHION TV" tvg-logo="" group-title="*PORTUGAL",PT: FASHION TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55330.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: 24 KITCHEN FHD" tvg-logo="" group-title="*PORTUGAL",PT: 24 KITCHEN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: A & E" tvg-logo="" group-title="*PORTUGAL",PT: A & E
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV RECORD FHD" tvg-logo="" group-title="*PORTUGAL",PT: TV RECORD FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Outdoor Channel FHD" tvg-logo="" group-title="*PORTUGAL",PT: Outdoor Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS Studios UHD/FHD" tvg-logo="" group-title="*PORTUGAL",PT: NOS Studios UHD/FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE TOP" tvg-logo="" group-title="*PORTUGAL",PT: TVCINE TOP
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE TOP FHD" tvg-logo="" group-title="*PORTUGAL",PT: TVCINE TOP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE  EDITION" tvg-logo="" group-title="*PORTUGAL",PT: TVCINE  EDITION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE  EDITION FHD" tvg-logo="" group-title="*PORTUGAL",PT: TVCINE  EDITION FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EMOTION" tvg-logo="" group-title="*PORTUGAL",PT: TVCINE EMOTION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EMOTION FHD" tvg-logo="" group-title="*PORTUGAL",PT: TVCINE EMOTION FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE ACTION" tvg-logo="" group-title="*PORTUGAL",PT: TVCINE ACTION
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE ACTION FHD" tvg-logo="" group-title="*PORTUGAL",PT: TVCINE ACTION FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV series" tvg-logo="" group-title="*PORTUGAL",PT: TV series
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV SERIES FHD" tvg-logo="" group-title="*PORTUGAL",PT: TV SERIES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX HD" tvg-logo="" group-title="*PORTUGAL",PT: FOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX MOVIES" tvg-logo="" group-title="*PORTUGAL",PT: FOX MOVIES
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX MOVIES HD" tvg-logo="" group-title="*PORTUGAL",PT: FOX MOVIES HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Comedy" tvg-logo="" group-title="*PORTUGAL",PT: Fox Comedy
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY FHD" tvg-logo="" group-title="*PORTUGAL",PT: FOX COMEDY FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME" tvg-logo="" group-title="*PORTUGAL",PT: FOX CRIME
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME FHD" tvg-logo="" group-title="*PORTUGAL",PT: FOX CRIME FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE HD" tvg-logo="" group-title="*PORTUGAL",PT: FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC HD" tvg-logo="" group-title="*PORTUGAL",PT: AMC HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN BLACK FHD" tvg-logo="" group-title="*PORTUGAL",PT: AXN BLACK FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN HD" tvg-logo="" group-title="*PORTUGAL",PT: AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE HD" tvg-logo="" group-title="*PORTUGAL",PT: AXN WHITE HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO" tvg-logo="" group-title="*PORTUGAL",PT: CINEMUNDO
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO HD" tvg-logo="" group-title="*PORTUGAL",PT: CINEMUNDO HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD" tvg-logo="" group-title="*PORTUGAL",PT: HOLLYWOOD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD FHD" tvg-logo="" group-title="*PORTUGAL",PT: HOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY" tvg-logo="" group-title="*PORTUGAL",PT: SYFY
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY FHD" tvg-logo="" group-title="*PORTUGAL",PT: SYFY FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4K" tvg-logo="" group-title="*PORTUGAL",PT: SPORT TV 4K
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11" tvg-logo="" group-title="*PORTUGAL",PT: CANAL 11
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 HD" tvg-logo="" group-title="*PORTUGAL",PT: CANAL 11 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 FHD" tvg-logo="" group-title="*PORTUGAL",PT: CANAL 11 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+" tvg-logo="" group-title="*PORTUGAL",PT: SPORT TV+
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+ HD" tvg-logo="" group-title="*PORTUGAL",PT: SPORT TV+ HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+  FHD" tvg-logo="" group-title="*PORTUGAL",PT: SPORT TV+  FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="*PORTUGAL",PT: SPORT TV 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="*PORTUGAL",PT: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="*PORTUGAL",PT: SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="*PORTUGAL",PT: SPORT TV 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="*PORTUGAL",PT: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="" group-title="*PORTUGAL",PT: SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="*PORTUGAL",PT: SPORT TV 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="*PORTUGAL",PT: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="" group-title="*PORTUGAL",PT: SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="*PORTUGAL",PT: SPORT TV 4
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="" group-title="*PORTUGAL",PT: SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="*PORTUGAL",PT: SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="*PORTUGAL",PT: SPORT TV 5
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="" group-title="*PORTUGAL",PT: SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="" group-title="*PORTUGAL",PT: SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="" group-title="*PORTUGAL",PT: SPORT TV NBA FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 1" tvg-logo="" group-title="*PORTUGAL",PT: Eleven Sport 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 1 HD" tvg-logo="" group-title="*PORTUGAL",PT: Eleven Sport 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1 FHD VIP" tvg-logo="" group-title="*PORTUGAL",PT: Eleven Sports 1 FHD VIP
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 2" tvg-logo="" group-title="*PORTUGAL",PT: Eleven Sport 2
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 2 HD" tvg-logo="" group-title="*PORTUGAL",PT: Eleven Sport 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2 FHD VIP" tvg-logo="" group-title="*PORTUGAL",PT: Eleven Sports 2 FHD VIP
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Elevent Sport 3" tvg-logo="" group-title="*PORTUGAL",PT: Elevent Sport 3
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 3 HD" tvg-logo="" group-title="*PORTUGAL",PT: Eleven Sport 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3 FHD VIP" tvg-logo="" group-title="*PORTUGAL",PT: Eleven Sports 3 FHD VIP
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 4 HD" tvg-logo="" group-title="*PORTUGAL",PT: Eleven Sport 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4 FHD" tvg-logo="" group-title="*PORTUGAL",PT: Eleven Sports 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 5 HD" tvg-logo="" group-title="*PORTUGAL",PT: Eleven Sport 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 5 FHD VIP" tvg-logo="" group-title="*PORTUGAL",PT: Eleven Sports 5 FHD VIP
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 6 HD" tvg-logo="" group-title="*PORTUGAL",PT: Eleven Sport 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 6 FHD VIP" tvg-logo="" group-title="*PORTUGAL",PT: Eleven Sports 6 FHD VIP
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV" tvg-logo="" group-title="*PORTUGAL",PT: SPORTING TV
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTINGTV FHD" tvg-logo="" group-title="*PORTUGAL",PT: SPORTINGTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV HD" tvg-logo="" group-title="*PORTUGAL",PT: BENFICA TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV UHD" tvg-logo="" group-title="*PORTUGAL",PT: BENFICA TV UHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV FHD" tvg-logo="" group-title="*PORTUGAL",PT: BENFICA TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV FHD (MEO)" tvg-logo="" group-title="*PORTUGAL",PT: BENFICA TV FHD (MEO)
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV FHD (NOS)" tvg-logo="" group-title="*PORTUGAL",PT: BENFICA TV FHD (NOS)
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV FHD (VOD)" tvg-logo="" group-title="*PORTUGAL",PT: BENFICA TV FHD (VOD)
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: MOTORSPORT TV FHD" tvg-logo="" group-title="*PORTUGAL",PT: MOTORSPORT TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: Motorvision FHD" tvg-logo="" group-title="*PORTUGAL",PT: Motorvision FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT  FHD" tvg-logo="" group-title="*PORTUGAL",PT: EUROSPORT  FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1" tvg-logo="" group-title="*PORTUGAL",PT: EUROSPORT 1
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2 HD" tvg-logo="" group-title="*PORTUGAL",PT: EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: KOMBAT SPORT" tvg-logo="" group-title="*PORTUGAL",PT: KOMBAT SPORT
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: FIGHT NETWORK FHD" tvg-logo="" group-title="*PORTUGAL",PT: FIGHT NETWORK FHD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: PFC" tvg-logo="" group-title="*PORTUGAL",PT: PFC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL" tvg-logo="" group-title="*PORTUGAL",PT: PORTO CANAL
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL HD" tvg-logo="" group-title="*PORTUGAL",PT: PORTO CANAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tv1.cs10.tv:80/live/leopoldo/leopoldo/55259.m3u8
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL 2=====[/B][/COLOR]
 #EXTM3U
 
 #EXTM3U
-#EXTINF:-1,[PT] RTP 1
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/139377
-#EXTINF:-1,[PT]: RTP 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/74399
-#EXTINF:-1,[PT] RTP 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53830
-#EXTINF:-1,[PT] RTP 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53831
-#EXTINF:-1,[PT] SIC 
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53832
-#EXTINF:-1,[PT] Sic HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/115054
-#EXTINF:-1,[PT] SIC FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/66280
-#EXTINF:-1,[PT] TVI 
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/101530
-#EXTINF:-1,[PT] TVI HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53833
-#EXTINF:-1,[PT] TVI FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/64496
-#EXTINF:-1,[PT] TVI FICCAO
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/139378
-#EXTINF:-1,[PT] TVI FICCAO HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/66281
-#EXTINF:-1,[PT] TVI FICÇAO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53838
-#EXTINF:-1,[PT] TV RECORD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53939
-#EXTINF:-1,[PT]: GLOBO Premium
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/70371
-#EXTINF:-1,[PT]: GLOBO Portugal HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/70370
-#EXTINF:-1,[PT]: TCV CABO VERDE
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/70376
-#EXTINF:-1,            =====Noticias=====
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/68907
-#EXTINF:-1,[PT] TVI24 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53836
-#EXTINF:-1,[PT] TVI 24 FHD.
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/67197
-#EXTINF:-1,[PT] SIC NOTÍCIAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53834
-#EXTINF:-1,[PT]  SIC NOTICIAS FHD.
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/67205
-#EXTINF:-1,[PT] CMTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53835
-#EXTINF:-1,[PT]  CMTV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/66198
-#EXTINF:-1,[PT]  CANçAO NOVA 
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/62427
-#EXTINF:-1,PT: TVI REALITY
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/99841
-#EXTINF:-1,PT: TVI REALITY FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/103601
-#EXTINF:-1,[PT] TVI REALITY HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53837
-#EXTINF:-1,[PT] RTP 3
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53839
-#EXTINF:-1,[PT] RTP AFRICA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53841
-#EXTINF:-1,[PT] RTP MEMORIA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53840
-#EXTINF:-1,[PT] RTP ACORES
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53843
-#EXTINF:-1,[PT] SIC MULHER
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53844
-#EXTINF:-1,[PT] SIC CARAS
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53845
-#EXTINF:-1,[PT] SIC RADICAL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53846
-#EXTINF:-1,[PT] CBS REALITY
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53847
-#EXTINF:-1,[PT] CANAL Q
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53848
-#EXTINF:-1,[PT] ARTV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53849
-#EXTINF:-1,     #### DESPORTO ####
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/68904
-#EXTINF:-1,[PT] BTV.... TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53850
-#EXTINF:-1,[PT]: BTV HD ALT
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/76840
-#EXTINF:-1,[PT]: BTV 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/76838
-#EXTINF:-1,[PT] SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53851
-#EXTINF:-1,[PT]: SPORTV 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/113150
-#EXTINF:-1,[PT] SPORT TV 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/67622
-#EXTINF:-1,[PT] SPORT TV 1 
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/102915
-#EXTINF:-1,[PT]: SPORT TV 2 
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/139375
-#EXTINF:-1,[PT] SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53852
-#EXTINF:-1,[PT]: SPORT TV 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/70375
-#EXTINF:-1,[PT] SPORT TV 3
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53854
-#EXTINF:-1,[PT]:SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/139376
-#EXTINF:-1,[PT] SPORT TV 3  FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53853
-#EXTINF:-1,[PT]: SPORT TV 4
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/145263
-#EXTINF:-1,[PT] SPORT TV 4 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53855
-#EXTINF:-1,[PT] SPORT TV 5 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53856
-#EXTINF:-1,[PT]: SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/115050
-#EXTINF:-1,[PT] SPORT TV +
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53857
-#EXTINF:-1,[PT] SPORTTV NBA HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53858
-#EXTINF:-1,[PT] ELEVEN SPORTS 1 SD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/123215
-#EXTINF:-1,[PT] ELEVEN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53859
-#EXTINF:-1,[PT]: ELEVEN SPORT 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/84054
-#EXTINF:-1,[PT] ELEVEN SPORTS 2 
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/123594
-#EXTINF:-1,[PT] ELEVEN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53860
-#EXTINF:-1,[PT] ELEVEN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53861
-#EXTINF:-1,[PT] ELEVEN SPORTS 3 SD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53862
-#EXTINF:-1,[PT] ELEVEN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53863
-#EXTINF:-1,[PT] ELEVEN SPORTS 4 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53865
-#EXTINF:-1,[PT] ELEVEN SPORTS 5 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53866
-#EXTINF:-1,[PT] ELEVEN SPORTS 6 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53867
-#EXTINF:-1,[PT]: REAL MADRID TV FHD POR
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/70377
-#EXTINF:-1,[PT] CANAL 11
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53868
-#EXTINF:-1,[PT] SPORTING TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53869
-#EXTINF:-1,[PT] PORTO CANAL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53870
-#EXTINF:-1,[PT] A BOLA TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53873
-#EXTINF:-1,[PT] KOMBAT SPORT FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53875
-#EXTINF:-1,[PT] MOTORVISION TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53876
-#EXTINF:-1,[PT] FUEL TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53877
-#EXTINF:-1,[PT] CAÇAVISION
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53878
-#EXTINF:-1,[PT] CAÇA E PESCA HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53879
-#EXTINF:-1,[PT] CAÇA E PESCA.
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53880
-#EXTINF:-1,=====Crianças=====
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/68905
-#EXTINF:-1,[PT] DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53881
-#EXTINF:-1,[PT] DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53882
-#EXTINF:-1,[PT] NICKELODEON
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53883
-#EXTINF:-1,[PT] NICKELODEON JUNIOR
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53884
-#EXTINF:-1,[PT] JIMJAM
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53885
-#EXTINF:-1,[PT] PANDA BIGS
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53886
-#EXTINF:-1,[PT] CANAL PANDA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53887
-#EXTINF:-1,[PT] SIC K
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53888
-#EXTINF:-1,[PT] CARTOON NETWORK
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53889
-#EXTINF:-1,[PT] BABY TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53890
-#EXTINF:-1,[PT]:  Lolly Kids
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/164100
-#EXTINF:-1,======== Entretenimento========
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/68909
-#EXTINF:-1,[PT] ZAP VIVA HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53936
-#EXTINF:-1,[PT] TLC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53891
-#EXTINF:-1,[PT] ENTERTAINMENT
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53892
-#EXTINF:-1, Discovery Turbo HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53959
-#EXTINF:-1,[PT]: Motors TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/70374
-#EXTINF:-1,[PT]: MOTOR SPORT HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/70373
-#EXTINF:-1,[PT] DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53893
-#EXTINF:-1,[PT]: Discovery Showcase HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/69873
-#EXTINF:-1,[PT] NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53894
-#EXTINF:-1,[PT] NAT GEO WILD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53896
-#EXTINF:-1,[PT] ODISSEIA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53897
-#EXTINF:-1,[PT] CANAL HISTORIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53898
-#EXTINF:-1,[PT] BLAZE TV
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53899
-#EXTINF:-1,[PT] CRIME INVESTIGATION
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53900
-#EXTINF:-1,[PT] ID INVESTIGATION DISCOVERY
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53901
-#EXTINF:-1,[PT] TRAVEL CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53902
-#EXTINF:-1,[PT] MY CUSINE
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53903
-#EXTINF:-1,[PT] 24 KITCHEN HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53904
-#EXTINF:-1,[PT] CASA E COZINHA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/67606
-#EXTINF:-1,PT: ESTUDOS EM CASA
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/174828
-#EXTINF:-1,=====Filmes=====
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/68906
-#EXTINF:-1,[PT] TVCINE top 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53905
-#EXTINF:-1,[PT]TVCine Top FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/84051
-#EXTINF:-1,[PT] TVCINE 2 EDITION  HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53906
-#EXTINF:-1,[PT] TVCINE 3   EMOTION HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53907
-#EXTINF:-1,[PT] TVCINE 4 ACTION HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53908
-#EXTINF:-1,[PT] : TVCine ACTION FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/84052
-#EXTINF:-1,[PT] FOX HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53909
-#EXTINF:-1,[PT]: FOX
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/115052
-#EXTINF:-1,[PT] FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53910
-#EXTINF:-1,[PT] FOX CRIME HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53911
-#EXTINF:-1,[PT] FOX MOVIES HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53912
-#EXTINF:-1,PT: FOX MOVIES
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/115206
-#EXTINF:-1,[PT] FOX COMEDY HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53913
-#EXTINF:-1,[PT] AXN HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53914
-#EXTINF:-1,[PT]: AXN FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/69868
-#EXTINF:-1,[PT] AXN BLACK HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53915
-#EXTINF:-1,[PT] AXN WHITE HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53916
-#EXTINF:-1,PT:  AXN Movies HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/171725
-#EXTINF:-1,[PT] AMC HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53917
-#EXTINF:-1,[PT] CINEMUNDO HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53918
-#EXTINF:-1,[PT] HOLLYWOOD FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53919
-#EXTINF:-1,[PT] HOLLYWOOD 
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/67206
-#EXTINF:-1,[PT] SYFY
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53920
-#EXTINF:-1,PT: SYFY
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/118899
-#EXTINF:-1,[PT]: MEO Videoclube
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/145075
-#EXTINF:-1,[PT] NETFLIX FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53922
-#EXTINF:-1,[PT] FTV.COM
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/69393
-#EXTINF:-1,========Musica========
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/68910
-#EXTINF:-1,[PT] MTV PORTUGAL
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53923
-#EXTINF:-1,[PT] VH1 MUSIC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53924
-#EXTINF:-1,[PT] MCM
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53925
-#EXTINF:-1,[PT]: MCM Pop
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/70372
-#EXTINF:-1,[PT] MEZZO
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53926
-#EXTINF:-1,[PT] AFRO MUSIC
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53927
-#EXTINF:-1,========== Documentários ==========
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/68912
-#EXTINF:-1,[PT] TRACE URBAN
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53929
-#EXTINF:-1,[PT] SKY NEWS
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53931
-#EXTINF:-1,[PT] BBC ENTERTAINEMENT
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53932
-#EXTINF:-1,[PT] BBC WORLD NEWS
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53933
-#EXTINF:-1,[PT] CNN
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/53934
-#EXTINF:-1,[PT]: A&E FHD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/69867
-#EXTINF:-1,[PT]: FASHION TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tugapt.top:8080/Tarana2038/mkcgj5Tn8ABq64nT/70365
+#EXTINF:-1,PT: RTP 1 HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185864
+#EXTINF:-1,PT: RTP 2 HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185865
+#EXTINF:-1,PT: RTP 3 HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185866
+#EXTINF:-1,PT: SIC HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185867
+#EXTINF:-1,PT: TVI HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185868
+#EXTINF:-1,PT: CMTV HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185869
+#EXTINF:-1,PT: SIC NOTICIAS HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185870
+#EXTINF:-1,PT: TVI 24 HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185871
+#EXTINF:-1,PT: GLOBO HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185872
+#EXTINF:-1,PT: SIC MULHER HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185873
+#EXTINF:-1,PT: SIC RADICAL HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185874
+#EXTINF:-1,PT: 24 KITCHEN HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185875
+#EXTINF:-1,PT: TV CINE TOP HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185876
+#EXTINF:-1,PT: TV CINE EDITION HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185877
+#EXTINF:-1,PT: TV CINE EMOTION HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185878
+#EXTINF:-1,PT: TV CINE ACTION HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185879
+#EXTINF:-1,PT: NOS STUDIOS HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185880
+#EXTINF:-1,PT: AMC HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185881
+#EXTINF:-1,PT: HOLLYWOOD HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185882
+#EXTINF:-1,PT: CINEMUNDO HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185883
+#EXTINF:-1,PT: SYFY HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185884
+#EXTINF:-1,PT: AXN HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185885
+#EXTINF:-1,PT: AXN WHITE HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185886
+#EXTINF:-1,PT: AXN MOVIES HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185887
+#EXTINF:-1,PT: FOX MOVIES HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185888
+#EXTINF:-1,PT: FOX HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185889
+#EXTINF:-1,PT: FOX LIFE HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185890
+#EXTINF:-1,PT: FOX CRIME HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185891
+#EXTINF:-1,PT: A BOLA TV HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185892
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185893
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185894
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185895
+#EXTINF:-1,PT: SPORT TV 1 HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185896
+#EXTINF:-1,PT: SPORT TV 2 HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185897
+#EXTINF:-1,PT: SPORT TV 3 HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185898
+#EXTINF:-1,PT: SPORT TV + HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185899
+#EXTINF:-1,PT: SPORT TV 4 HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185900
+#EXTINF:-1,PT: SPORT TV 5 HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185901
+#EXTINF:-1,PT: CANAL 11 HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185902
+#EXTINF:-1,PT: BENFICA TV HEVC
+plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/185903
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL 3=====[/B][/COLOR]
