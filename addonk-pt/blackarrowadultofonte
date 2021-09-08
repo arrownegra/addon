@@ -106,6 +106,14 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 </channel>
 </channels>
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+<plugin >
+<name>Porn Parody Movies</name>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/arrownegra/addon/main/addonk-pt/BWPARODY.xml.&mode=1&name=LE</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
 <channels>
 <channel>
 <name>[COLOR yellow][B][COLOR lime]>>>Flimes xxx Torrent[/COLOR]  [/B][/COLOR]</name>
