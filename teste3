@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<menus>
+  
+<menus_info>
+<title>[COLOR red]AGUIA[/COLOR] [COLOR gold]NEGRA[/COLOR]</title>
+<genre>ALL</genre>
+<description>Conteúdo de TV , Desporto , Filmes e Séries</description>
+<thumbnail>https://imgur.com/ZMZZ5q6</thumbnail>
+<fanart>https://imgur.com/XH3W1Ji</fanart>
+<credits>@ ArrowNegra</credits>
+</menus_info>
+
+<menu>
+<title>[COLOR red]• [/COLOR][COLOR white]TV[/COLOR]</title>
+<thumbnail>https://imgur.com/kEmZu6i</thumbnail>
+<fanart>https://imgur.com/XH3W1Ji</fanart>
+<link>nolink</link>
+<externallink></externallink>
+</menu>
+
+<menu>  
+<title>[COLOR red]• [/COLOR][COLOR white]DESPORTO[/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://imgur.com/SDKwzAA</thumbnail>
+<fanart>https://imgur.com/XH3W1Ji</fanart> 
+<externallink></externallink>
+</menu>
+
+<menu>
+<title>[COLOR red]• [/COLOR][COLOR white]FILMES[/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://imgur.com/coL8Np7</thumbnail>
+<fanart>https://imgur.com/XH3W1Ji</fanart>
+<externallink></externallink>
+</menu>
+
+<menu>
+<title>[COLOR red]• [/COLOR][COLOR white]SERIES[/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://imgur.com/UIfNjFv</thumbnail>
+<fanart>https://imgur.com/XH3W1Ji</fanart>
+<externallink></externallink>
+</menu>
+
+</menus>
