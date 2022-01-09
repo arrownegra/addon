@@ -4,7 +4,7 @@
 <regex> <name>makelist</name> 
 <listrepeat><![CDATA[ <title>[B][COLOR white][makelist.param2][/COLOR][/B]</title> 
 <link>$doregex[f4m]</link> ]]></listrepeat> <expres><![CDATA[(http.*?)\".*?(Lista\s\d+)]]></expres> 
-<page>http://bit.</page> 
+<page>https://raw.githubusercontent.com/arrownegra/addon/main/rede%20canais/teste%20canal.%20xml</page> 
 </regex> 
 <regex> 
 <name>f4m</name> 
