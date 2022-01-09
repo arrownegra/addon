@@ -1,0 +1,20 @@
+<menu>
+<title>[B][COLOR white]lPTV [COLOR red]MUNDIAL[/COLOR][/B]</title> 
+<link>$doregex[makelist]</link> 
+<regex> <name>makelist</name> 
+<listrepeat><![CDATA[ <title>[B][COLOR white][makelist.param2][/COLOR][/B]</title> 
+<link>$doregex[f4m]</link> ]]></listrepeat> <expres><![CDATA[(http.*?)\".*?(Lista\s\d+)]]></expres> 
+<page>http://bit.</page> 
+</regex> 
+<regex> 
+<name>f4m</name> 
+<listrepeat><![CDATA[ <title>[f4m.param1]</title> 
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Kodi[/COLOR][COLOR yellow]teste[/COLOR]&amp;url=[f4m.param2]</link> ]]></listrepeat> 
+<expres><![CDATA[EXTINF:.*?,(.*?)\n(http\S+)]]></expres> 
+<page>[makelist.param1]</page> 
+</regex> 
+<thumbnail>
+</thumbnail> 
+<fanart>
+</fanart> 
+</menu>
