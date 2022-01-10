@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
+<menus>
 <menu> 
 
 <title>[B][COLOR white]GRATISIPTV[/COLOR] [COLOR red]teste[/COLOR][/B]</title> 
@@ -24,3 +24,4 @@
 <thumbnail>https://</thumbnail> 
 <fanart>https://</fanart> 
 </menu>
+</menus
