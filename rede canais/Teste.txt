@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<menu> 
+
+<title>[B][COLOR white]GRATISIPTV[/COLOR] [COLOR red]teste[/COLOR][/B]</title> 
+<link>$doregex[makelist]</link> 
+<regex> 
+<name>makelist</name> 
+<listrepeat><![CDATA[ <title>[COLOR snow][makelist.param2][/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Kodi[/COLOR][COLOR yellow]Spain[/COLOR]&amp;url=$doregex[lists]</link> 
+<thumbnail>[makelist.param3]</thumbnail> ]]></listrepeat> <expres><![CDATA[#$pyFunction def GetLSProData(page_data,Cookie_Jar,m): import re return re.findall('(?s)<header class="entry-header cf">(?:.*?href=)"([^"]*)">([^<]*)(?:.*?src=")([^"]*)',page_data) ]]></expres> 
+<page>https://tinyurl.com/arow4m</page> 
+</regex> 
+<regex> 
+<name>lists</name> 
+<listrepeat><![CDATA[ <title>[COLOR snow][lists.param2][/COLOR]</title> 
+<link>NA</link> 
+<externallink>[lists.param1]</externallink> 
+<thumbnail>[makelist.param3]</thumbnail> ]]></listrepeat> 
+<expres><![CDATA[#$pyFunction def GetLSProData(page_data,Cookie_Jar,m):#cosmix import re s = page_data.split('<pre>', 1)[-1] return re.findall('(?s)<a href="(.*?m3u[^"]*)">Download\s([^<]*)',s) ]]></expres> 
+<page>[makelist.param1]</page> 
+<referer></referer> 
+</regex> 
+<thumbnail>https://</thumbnail> 
+<fanart>https://</fanart> 
+</menu>
