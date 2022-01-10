@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<menus>
+
+<menu>
+<title>[B][COLOR white]lPTV[/COLOR]  [COLOR red]SPAIN[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR white][makelist.param2][/COLOR][/B]</title>
+  <link>$doregex[f4m]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+  import json
+  items = json.loads(page_data).get('results')
+  list = []
+  for item in items:
+    enlace = item.get('enlace')
+    nombre = item.get('nombre')
+    list.append((enlace, nombre))
+  return list
+]]></expres>
+<page>https://tinyurl.com/arow4m</page>
+</regex>
+<regex>
+<name>f4m</name>
+<listrepeat><![CDATA[
+  <title>[f4m.param1]</title>
+  <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[B][COLOR white][f4m.param1][/COLOR][/B]&amp;url=[f4m.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:.*,(.*\(ES\).*|\[ES\].*|SPAIN.*|.*ESPANA.*|ESP.*|.*\WES|Es\W.*|Spain\W.*|ES\W.*|ESPA*A.*|Espa*a.*|SP\W.*?[^#]|\|.ES.\|.*|\|ESP\|.*|\|SP\|.*|\|ES\|.*)\n.*(http.*)]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<thumbnail>https://s18.postimg.cc/oxbtgudop/listas_IPTV-logo.png</thumbnail>
+<fanart>https://i.postimg.cc/Jnrbj7xC/Spain-flag-1.jpg</fanart>
+</menu>
+
+<menu>
+<title>[B][COLOR white]lPTV  [COLOR red]MUNDIAL[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR white][makelist.param2][/COLOR][/B]</title>
+  <link>$doregex[f4m]</link>
+]]></listrepeat>
+<expres><![CDATA[(http.*?)\".*?(Lista\s\d+)]]></expres>
+<page>http://bit.ly/listaskodispainiptv</page>
+</regex>
+<regex>
+<name>f4m</name>
+<listrepeat><![CDATA[
+<title>[f4m.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Kodi[/COLOR][COLOR yellow]Spain[/COLOR]&amp;url=[f4m.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[EXTINF:.*?,(.*?)\n(http\S+)]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<thumbnail>https://s18.postimg.cc/oxbtgudop/listas_IPTV-logo.png</thumbnail>
+<fanart>https://i.postimg.cc/Jnrbj7xC/Spain-flag-1.jpg</fanart>
+</menu>
+
+<menu>
+<title>[B][COLOR white]GRATISIPTV[/COLOR]  [COLOR red]SPAIN[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR white]LISTA [makelist.param2][/COLOR][/B]</title>
+  <link>$doregex[f4m]</link>
+  ]]></listrepeat>
+<expres><![CDATA[(https.*?-(\d).m3u)\n]]></expres>
+<page>$doregex[lastspain]</page>
+</regex>
+<regex>
+<name>f4m</name>
+<listrepeat><![CDATA[
+  <title>[f4m.param1]</title>
+  <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[B][COLOR white][f4m.param1][/COLOR][/B]&amp;url=[f4m.param2]</link>
+  ]]></listrepeat>
+<expres><![CDATA[EXTINF:.*?,(.*?)\n(http\S+)]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>lastspain</name>
+<expres><![CDATA[footer.cf\">\n.*?href=\"(http.*?)\"]]></expres>
+<page>https://www.gratisiptv.com/iptv-europe-m3u/espanol/</page>
+</regex>
+<thumbnail>https://s18.postimg.cc/oxbtgudop/listas_IPTV-logo.png</thumbnail>
+<fanart>https://i.postimg.cc/Jnrbj7xC/Spain-flag-1.jpg</fanart>
+</menu>
+
+<menu>
+<title>[B][COLOR white]TDTChannels[/COLOR][COLOR red] Televisión[/COLOR][/B]</title>
+<link>$doregex[groupname]</link>
+<regex>
+<name>groupname</name>
+<listrepeat><![CDATA[
+  <title>[groupname.param1]</title>
+  <link>$doregex[tvchannels]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  list = requests.get('https://www.tdtchannels.com/lists/tv.m3u').text
+  match = re.compile('group-title="([^"]+)"').findall(list)
+  seccion_list = []
+  for x in match:
+    if x not in seccion_list:
+      seccion_list.append(x)
+  return seccion_list
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>tvchannels</name>
+<listrepeat><![CDATA[
+  <title>[tvchannels.param3]</title>
+  <link>[tvchannels.param4]</link>
+  <thumbnail>[tvchannels.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re, requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  list = requests.get('https://www.tdtchannels.com/lists/tv.m3u').text
+  data = re.findall('EXTINF.*tvg-logo="([^"]+)".group-title="[groupname.param1]".tvg-name="([^"]+)",(.*)\n(.*)',list)
+  data.sort()
+  return data
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://i.postimg.cc/xd9nkC7D/46137909-1.jpg</thumbnail>
+<fanart>https://i.postimg.cc/Jnrbj7xC/Spain-flag-1.jpg</fanart>
+</menu>
+
+<menu>
+<title>[B][COLOR white]TDTChannels[/COLOR][COLOR red] Radio[/COLOR][/B]</title>
+<link>$doregex[groupname]</link>
+<regex>
+<name>groupname</name>
+<listrepeat><![CDATA[
+  <title>[groupname.param1]</title>
+  <link>$doregex[tvchannels]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  list = requests.get('https://www.tdtchannels.com/lists/radio.m3u').text
+  match = re.compile('group-title="([^"]+)"').findall(list)
+  seccion_list = []
+  for x in match:
+    if x not in seccion_list:
+      seccion_list.append(x)
+  return seccion_list
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>tvchannels</name>
+<listrepeat><![CDATA[
+  <title>[tvchannels.param3]</title>
+  <link>[tvchannels.param4]</link>
+  <thumbnail>[tvchannels.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re, requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  list = requests.get('https://www.tdtchannels.com/lists/radio.m3u').text
+  data = re.findall('EXTINF.*tvg-logo="([^"]+)".group-title="[groupname.param1]".tvg-name="([^"]+)",(.*)\n(.*)',list)
+  data.sort()
+  return data
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://i.postimg.cc/xd9nkC7D/46137909-1.jpg</thumbnail>
+<fanart>https://i.postimg.cc/Jnrbj7xC/Spain-flag-1.jpg</fanart>
+</menu>
+
+</menus>
