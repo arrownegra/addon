@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+ 
+<menus>
   
-<channels>
-<channel>
-
+<menus_info>
 
 <title>[B][COLOR white]GRATISIPTV[/COLOR] [COLOR red]teste[/COLOR][/B]</title> 
 <link>$doregex[makelist]</link> 
@@ -26,8 +26,6 @@
 </regex> 
 <thumbnail>https://imgur.com/kEmZu6i</thumbnail> 
 <fanart>https://imgur.com/XH3W1Ji</fanart>
-</channel>
-</channels>
   
-<channels>
-<channel>
+</menu>
+</menus>
