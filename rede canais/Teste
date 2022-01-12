@@ -15,6 +15,9 @@
 <page>https://tinyurl.com/arow4m</page> 
 </regex> 
 <regex> 
+</menu>
+</menus>
+
 <name>lists</name> 
 <listrepeat><![CDATA[ <title>[COLOR snow][lists.param2][/COLOR]</title> 
 <link>NA</link> 
