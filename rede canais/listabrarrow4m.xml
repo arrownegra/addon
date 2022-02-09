@@ -8,6 +8,118 @@
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 
+#EXTM3U
+
+############## Brasil: esportes  ############## ############## Brasil############## ############## 
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://imgur.com/n8O1sgs.png",Canal 11 - futebol | Portugal
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://imgur.com/sUK7lI0.png",C-Ghost | Brasil
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://imgur.com/DnXe9rF.png",Fashion Stream | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821632-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a1c0715-7e54-4c98-b40d-facafa1841d1&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://imgur.com/THcQpeQ.png",Fish TV | Brasil
+http://168.205.87.198:8555/live/123456/123456/62.m3u8
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/featuredImage.jpg",Fuel TV | Brasil
+https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://imgur.com/JfLHsbj.png",Investigação | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef20-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c6910880-42dc-4cb1-99bb-7227886a27ba&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/featuredImage.jpg",MasterChef | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/featuredImage.jpg",Minha Obsessão Favorita | Pluto TV Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61843f5e491af10007f7eefa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://imgur.com/ku0d45h.png",Miss Universo Brasil HD | Brasil
+https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/featuredImage.jpg",Mistérios | Pluto TV Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=357672e9-e58c-11eb-b36a-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://imgur.com/gDWDdVY.png",Motorvision | Brasil
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/featuredImage.jpg",MTV do Pluto | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3887c04b-bb4b-49b8-8511-47613f5cadbb&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/featuredImage.jpg",MTV: Are you the One? | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/featuredImage.jpg",MTV com o ex | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61a528267e1b8b0007357920/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/featuredImage.jpg?w=300",Nosey Escândalos | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=0651cfd7-3dba-4a55-99ce-263e1c29297a&clientModelNumber=na&deviceDNT=false&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceLat=-16.6391&deviceLon=-49.2622&deviceMake=Opera&deviceModel=web&deviceType=web&deviceVersion=73.0.3856.421&marketingRegion=BR&serverSideAds=true&sessionID=f913e75f-9703-11eb-8cd8-0242ac110002&sid=f913e75f-9703-11eb-8cd8-0242ac110002&userId=
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/featuredImage.jpg",O encantador de cães | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://i.imgur.com/QftguYR.png",Pluto Estilo de Vida | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f8841a4865da0007421177/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=0651cfd7-3dba-4a55-99ce-263e1c29297a&clientModelNumber=na&deviceDNT=false&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceLat=-16.6391&deviceLon=-49.2622&deviceMake=Opera&deviceModel=web&deviceType=web&deviceVersion=73.0.3856.421&marketingRegion=BR&serverSideAds=true&sessionID=f913e75f-9703-11eb-8cd8-0242ac110002&sid=f913e75f-9703-11eb-8cd8-0242ac110002&userId=
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://imgur.com/JnHVIgo.png",Tastemade - Pluto TV | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://imgur.com/JnHVIgo.png",Tastemade - Samsung | Brasil
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://imgur.com/YuTPeFV.png",Vida Real | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef21-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29b136d2-3f75-488b-9ace-35ab0ac5684e&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="http://168.205.87.198/logocanais/woohoo.png",Woohoo | Brasil
+http://origin-02.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Brasil: esportes - lifestyle - realities" tvg-logo="https://i.imgur.com/S7DCwx0.png",Yeeaah | Brasil
+https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1 group-title="Brasil: infanto-juvenis" tvg-logo="https://imgur.com/iu4Xbjd.png",A vida moderna de Rocko | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846020-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c2c3d24-7129-4534-95c8-5bbb6a0ce9f6&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: infanto-juvenis" tvg-logo="https://imgur.com/hPUry0Y.png",Anime Pluto TV | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cd3e6525-b694-489e-8ebf-063dda2defc0&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: infanto-juvenis" tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png",Anime Ação - Pluto TV | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cd3e6525-b694-489e-8ebf-063dda2defc0&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: infanto-juvenis" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png",Anime TV | Brasil
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 group-title="Brasil: infanto-juvenis" tvg-logo="http://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png",As Aventuras de Jackie Chan | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846020-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c2c3d24-7129-4534-95c8-5bbb6a0ce9f6&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: infanto-juvenis" tvg-logo="https://imgur.com/bHhxhRb.png",As Pistas de Blue | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97848730-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9f2c6ce-d387-42e3-a5c5-c919c5d33252&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: infanto-juvenis" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png",Babyfirst | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: infanto-juvenis" tvg-logo="https://i.imgur.com/sqUlcaY.png",Os Jetsons | Brasil
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
+#EXTINF:-1 group-title="Brasil: infanto-juvenis" tvg-logo="https://imgur.com/4a5RFCU.png",Junior | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=978179f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc2b3e9d-2c6a-4239-b56d-b64e1afa1902&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: infanto-juvenis" tvg-logo="https://imgur.com/g505N5r.png",Kids | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a101-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46e9fe4e-4908-4a98-8fa8-41e5460e3ce5&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: infanto-juvenis" tvg-logo="https://imgur.com/DAyMXAx.png",Loading TV | Brasil
+https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Brasil: infanto-juvenis" tvg-logo="https://imgur.com/046zDW4.png",Naruto | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97826450-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0ff24521-c218-4cf1-9a6e-e54f76667c9b&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: infanto-juvenis" tvg-logo="https://imgur.com/z2Fwd4q.png",Nick Clássico | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a102-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d4dc29-a5b3-4bb6-ba4c-83e2d0cbcfb7&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: infanto-juvenis" tvg-logo="https://imgur.com/j9CMGyU.png",Nick Jr. Club | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: infanto-juvenis" tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png",O Reino Infantil | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: infanto-juvenis" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png",Retrô Cartoon | Brasil
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1 group-title="Brasil: infanto-juvenis" tvg-logo="https://imgur.com/KR7jocA.png",Toon Google | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+#EXTINF:-1 group-title="Brasil: infanto-juvenis" tvg-logo="https://i1.wp.com/anmtv.com.br/wp-content/uploads/tokusato-pluto-tv.jpg",Tokusato | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f913e75f-9703-11eb-8cd8-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: infanto-juvenis" tvg-logo="https://imgur.com/kJHRcfo.png",Turma da Mônica | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846021-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dd3fbda-a8d5-4964-8b9e-6f6e95a3db5e&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Brasil: legislativos em português" tvg-logo="https://i.imgur.com/UaQXbL1.png",ARTV | Portugal
+https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
+#EXTINF:-1 group-title="Brasil: legislativos em português" tvg-logo="https://i.imgur.com/KOOSA3p.png",Câmara São Paulo | Brasil
+https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
+#EXTINF:-1 group-title="Brasil: notícias em português" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg - inglês e português | Brasil
+https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Brasil: notícias em português" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png",CBN RJ | Brasil
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1 group-title="Brasil: notícias em português" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png",CBN SP | Brasil
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1 group-title="Brasil: notícias em português" tvg-logo="https://i.imgur.com/5AK7gLc.png",CNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:-1 group-title="Brasil: notícias em português" tvg-logo="https://imgur.com/ivAljtT.png",CNN Portugal 1 - 480p
+https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8
+#EXTINF:-1 group-title="Brasil: notícias em português" tvg-logo="https://imgur.com/ivAljtT.png",CNN Portugal 2 - 240p
+https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-240p/chunks.m3u8
+#EXTINF:-1 group-title="Brasil: notícias em português" tvg-logo="https://i.imgur.com/kQ1EG3u.png",Euronews 1 | Portugal
+https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Brasil: notícias em português" tvg-logo="https://i.imgur.com/kQ1EG3u.png",Euronews 2 | Portugal
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Brasil: notícias em português" tvg-logo="https://imgur.com/DCY9fZm.png",Jovem Pan | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSi
+#EXTINF:-1 group-title="Brasil: notícias em português" tvg-logo="https://imgur.com/iC5UoAN.png",Record News - Pluto TV | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&
+ 
+
+############## Brasil f4mtester  ############## ############## Brasil f4mtester ############## ############## 
 
 #EXTM3U
 #EXTINF:-1 group-title="BIG BROTHER BRASIL 22" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://static.b2pteam.com/logos/reality/bbb.png",BBB 22 FHD ²
@@ -3368,7 +3480,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cdnrede.com:80/edite/202020/67721
 #EXTINF:-1 group-title="SERIES 24HS PREMIUM",24HS: LARGADOS E PELADOS SOZINHOS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cdnrede.com:80/edite/202020/222034
-
+ 
+ 
 #EXTINF:-1 channel-id="pluto-5f120e94a5714d00074576a1" tvg-id="5f120e94a5714d00074576a1" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Filmes",Pluto TV Cine Sucessos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-5f120f41b7d403000783a6d6" tvg-id="5f120f41b7d403000783a6d6" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="Filmes",Pluto TV Filmes Ação
