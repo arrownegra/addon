@@ -13,1063 +13,1063 @@
 
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT:) RTP 1 ᴴᴰ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/RTP_1_HD.png" group-title="PORTUGAL",PT:) RTP 1 ᴴᴰ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35066.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35066
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT:) RTP  1 ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/RTP_1.png" group-title="PORTUGAL",PT:) RTP  1 ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35067.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35067
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT:) RTP 2 ᴴᴰ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/RTP_2.png" group-title="PORTUGAL",PT:) RTP 2 ᴴᴰ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35068.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35068
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT:) RTP 2 ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/RTP_2.png" group-title="PORTUGAL",PT:) RTP 2 ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35069.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35069
 #EXTINF:-1 tvg-id="sic.pt" tvg-name="PT:) SIC ᴴᴰ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/SIC_HD.png" group-title="PORTUGAL",PT:) SIC ᴴᴰ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35070.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35070
 #EXTINF:-1 tvg-id="sic.pt" tvg-name="PT:) SIC ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/SIC.png" group-title="PORTUGAL",PT:) SIC ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35071.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35071
 #EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT:) TVI ᴴᴰ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/TVI_HD.png" group-title="PORTUGAL",PT:) TVI ᴴᴰ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35072.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35072
 #EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT:) TVI ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/TVI.png" group-title="PORTUGAL",PT:) TVI ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35073.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35073
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT:) SIC NOTICIAS ᴴᴰ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/SIC_Not.png" group-title="PORTUGAL",PT:) SIC NOTICIAS ᴴᴰ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35074.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35074
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT:) SIC NOTICIAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/SIC_Not.png" group-title="PORTUGAL",PT:) SIC NOTICIAS
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35075.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35075
 #EXTINF:-1 tvg-id="tvi24.pt" tvg-name="PT:) CNN PORTUGAL" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/CNN_Portugal.png" group-title="PORTUGAL",PT:) CNN PORTUGAL
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35076.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35076
 #EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT:) CMTV ᴴᴰ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/CM_TV.png" group-title="PORTUGAL",PT:) CMTV ᴴᴰ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35077.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35077
 #EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT:) CMTV" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/CM_TV.png" group-title="PORTUGAL",PT:) CMTV
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35078.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35078
 #EXTINF:-1 tvg-id="" tvg-name="PT:) RTP AFRICA" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/RTP_Ãfrica.png" group-title="PORTUGAL",PT:) RTP AFRICA
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35080.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35080
 #EXTINF:-1 tvg-id="rtp3.pt" tvg-name="PT:) RTP 3" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/RTP_3.png" group-title="PORTUGAL",PT:) RTP 3
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35079.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35079
 #EXTINF:-1 tvg-id="porto.pt" tvg-name="PT:) PORTO CANAL" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Porto_Canal.png" group-title="PORTUGAL",PT:) PORTO CANAL
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35081.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35081
 #EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT:) BOLA TV" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/A_Bola_TV.png" group-title="PORTUGAL",PT:) BOLA TV
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35082.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35082
 #EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT:) CANAL 11" tvg-logo="plugin://plugin.video.jetproxy/play/http://afevora.fpf.pt/Portals/11/Imagens/Images/11.png" group-title="PORTUGAL",PT:) CANAL 11
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35083.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35083
 #EXTINF:-1 tvg-id="rtpmadeira.pt" tvg-name="PT:)  RTP MADEIRA" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/RTP_Madeira.png" group-title="PORTUGAL",PT:)  RTP MADEIRA
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35084.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35084
 #EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="PT:) RTP AÇORES" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/RTP_A%c3%83%c2%a7ores.png" group-title="PORTUGAL",PT:) RTP AÇORES
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35085.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35085
 #EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="PT:)  RTP MEMORIA" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/RTP_Memria.png" group-title="PORTUGAL",PT:)  RTP MEMORIA
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35086.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35086
 #EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT:) TVI REALITy" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/TVI_REALITY.png" group-title="PORTUGAL",PT:) TVI REALITy
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35087.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35087
 #EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT:)  SIC RADICAL" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/SIC_Radical.png" group-title="PORTUGAL",PT:)  SIC RADICAL
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35093.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35093
 #EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT:)  SIC MULHER" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/SIC_Mulher.png" group-title="PORTUGAL",PT:)  SIC MULHER
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35094.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35094
 #EXTINF:-1 tvg-id="" tvg-name="PT:) FASHION TV" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Fashion_TV_Portugal.png" group-title="PORTUGAL",PT:) FASHION TV
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35095.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35095
 #EXTINF:-1 tvg-id="" tvg-name="PT:) SANTUARIO FATIMA" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/FATIMA_TV.PNG" group-title="PORTUGAL",PT:) SANTUARIO FATIMA
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35096.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35096
 #EXTINF:-1 tvg-id="cancaonova.pt" tvg-name="PT:) CANCAO NOVA" tvg-logo="plugin://plugin.video.jetproxy/play/https://www.google.pt/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwi6-f7xgvzlAhXn0eAKHTS0DrYQjRx6BAgBEAQ&url=plugin://plugin.video.jetproxy/play/https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FTV_Can%25C3%25A7%25C3%25A3o_Nova&psig=AOvVaw3l_WvrnjsUT6fuwd-AD7D_&ust=1574450380063927" group-title="PORTUGAL",PT:) CANCAO NOVA
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35097.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35097
 #EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT:) OPTO SIC" tvg-logo="plugin://plugin.video.jetproxy/play/https://www.google.com/imgres?imgurl=plugin://plugin.video.jetproxy/play/https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D118156546725126&imgrefurl=plugin://plugin.video.jetproxy/play/https%3A%2F%2Fm.facebook.com%2FOpto.SIC%2Fphotos%2Fa.112949940579120%2F118156546725126%2F%3Ftype%3D3%26comment_id%3D120038326536948&tbnid=uc6aCQo5kbi5RM&vet=12ahUKEwi--tfI0ar0AhUT8RoKHTBeAIIQMygCegUIARCuAQ..i&docid=zoogUMhuqcGOdM&w=1080&h=1080&itg=1&q=opto%20sic%20png&ved=2ahUKEwi--tfI0ar0AhUT8RoKHTBeAIIQMygCegUIARCuAQ" group-title="PORTUGAL",PT:) OPTO SIC
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/40221.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/40221
 #EXTINF:-1 tvg-id="siccaras.pt" tvg-name="PT:) SIC CARAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/SIC_Caras.png" group-title="PORTUGAL",PT:) SIC CARAS
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35098.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35098
 #EXTINF:-1 tvg-id="sick.pt" tvg-name="PT:)  SIC K" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/SIC_K.png" group-title="PORTUGAL",PT:)  SIC K
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35099.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35099
 #EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="PT:) TVI FIÇAO" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/TVI_FICÃ‡ÃƒO.png" group-title="PORTUGAL",PT:) TVI FIÇAO
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35100.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35100
 #EXTINF:-1 tvg-id="recordtvhd.pt" tvg-name="PT:)  TV RECORD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/TV_Record.png" group-title="PORTUGAL",PT:)  TV RECORD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35101.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35101
 #EXTINF:-1 tvg-id="globo.pt" tvg-name="PT:)  TV GLOBO" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/TV_Globo.png" group-title="PORTUGAL",PT:)  TV GLOBO
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35102.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35102
 #EXTINF:-1 tvg-id="globonow.pt" tvg-name="PT:) GLOBO NOW" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Globo_Premium.png" group-title="PORTUGAL",PT:) GLOBO NOW
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35103.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35103
 #EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT:)  NBA" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/NBA_TV.png" group-title="PORTUGAL",PT:)  NBA
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35104.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35104
 #EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT:)  PFC" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/PFC.png" group-title="PORTUGAL",PT:)  PFC
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35120.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35120
 #EXTINF:-1 tvg-id="motorvision.pt" tvg-name="PT:)  MOTORVISION" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/MOTORVISION.png" group-title="PORTUGAL",PT:)  MOTORVISION
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35121.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35121
 #EXTINF:-1 tvg-id="toros.pt" tvg-name="PT:) TOROS TV" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Toros_TV.png" group-title="PORTUGAL",PT:) TOROS TV
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35122.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35122
 #EXTINF:-1 tvg-id="" tvg-name="PT:) F1 GP" tvg-logo="plugin://plugin.video.jetproxy/play/https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTRfSAYqSJlOwAx361XvlhdcwkEBF2zOlXBAg2-eXokKqV8ziiQ" group-title="PORTUGAL",PT:) F1 GP
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35123.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35123
 #EXTINF:-1 tvg-id="" tvg-name="PT:) MOTO GP" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/MOTOGP.png" group-title="PORTUGAL",PT:) MOTO GP
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35124.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35124
 #EXTINF:-1 tvg-id="" tvg-name="PT:) FIGHT NETWORK" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Fight_Network.png" group-title="PORTUGAL",PT:) FIGHT NETWORK
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35125.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35125
 #EXTINF:-1 tvg-id="" tvg-name="PT: KOMBAT SPORT ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Kombat_Sport.png" group-title="PORTUGAL",PT: KOMBAT SPORT ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/38375.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/38375
 #EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT:) SPOT TV+" tvg-logo="plugin://plugin.video.jetproxy/play/https://www.google.com/imgres?imgurl=plugin://plugin.video.jetproxy/play/http%3A%2F%2Fworkmedia.fra1.digitaloceanspaces.com%2Fmp%2Fwp-content%2Fuploads%2F2016%2F07%2Fimage001.png&imgrefurl=plugin://plugin.video.jetproxy/play/https%3A%2F%2Fwww.meiosepublicidade.pt%2F2016%2F07%2Fnovo-canal-de-informacao-da-sport-tv-ja-tem-nome-e-vai-contar-com-redaccao-no-porto%2F&tbnid=mpY0kXHE0u8MLM&vet=12ahUKEwjdo9vEgOb0AhVH1-AKHY7fC1cQMygBegUIARCvAQ..i&docid=-WX8eHHsrR3Y7M&w=1410&h=265&itg=1&q=sport%20tv%2B%20png&ved=2ahUKEwjdo9vEgOb0AhVH1-AKHY7fC1cQMygBegUIARCvAQ" group-title="PORTUGAL",PT:) SPOT TV+
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/40344.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/40344
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT:) SPOT TV1 HD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/SportTV_1.png" group-title="PORTUGAL",PT:) SPOT TV1 HD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/40345.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/40345
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT:) SPOT TV1 SD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/SportTV_1.png" group-title="PORTUGAL",PT:) SPOT TV1 SD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/40346.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/40346
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT:) SPOT TV2 HD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/SportTV_2.png" group-title="PORTUGAL",PT:) SPOT TV2 HD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/40347.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/40347
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT:) SPOT TV2 SD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/SportTV_2.png" group-title="PORTUGAL",PT:) SPOT TV2 SD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/40348.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/40348
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT:) SPOT TV3 HD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/SportTV_3.png" group-title="PORTUGAL",PT:) SPOT TV3 HD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/40349.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/40349
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT:) SPOT TV3 SD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/SportTV_3.png" group-title="PORTUGAL",PT:) SPOT TV3 SD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/40350.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/40350
 #EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT:) SPOT TV4 HD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/SportTV_4.png" group-title="PORTUGAL",PT:) SPOT TV4 HD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/40351.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/40351
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT:) SPOT TV5 HD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/SportTV_5.png" group-title="PORTUGAL",PT:) SPOT TV5 HD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/40353.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/40353
 #EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT:) SPOT TV6 HD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Sport_TV_6.png" group-title="PORTUGAL",PT:) SPOT TV6 HD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/40355.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/40355
 #EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT:) SPOT LEVEN1 HD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Eleven_Sports_1.png" group-title="PORTUGAL",PT:) SPOT LEVEN1 HD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/40357.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/40357
 #EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT:) SPOT LEVEN2 HD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Eleven_Sports_2.png" group-title="PORTUGAL",PT:) SPOT LEVEN2 HD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/40358.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/40358
 #EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT:) SPOT LEVEN3 HD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Eleven_Sports_3.png" group-title="PORTUGAL",PT:) SPOT LEVEN3 HD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/40359.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/40359
 #EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT:) SPOT LEVEN4 HD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Eleven_Sports_4.png" group-title="PORTUGAL",PT:) SPOT LEVEN4 HD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/40360.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/40360
 #EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT:) SPOT LEVEN5 HD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Eleven_Sports_5.png" group-title="PORTUGAL",PT:) SPOT LEVEN5 HD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/40361.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/40361
 #EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT:) SPOT LEVEN6 HD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Eleven_Sports_6.png" group-title="PORTUGAL",PT:) SPOT LEVEN6 HD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/40362.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/40362
 #EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT:) VENFICA1 HD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/BTV_1_HD.png" group-title="PORTUGAL",PT:) VENFICA1 HD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/40363.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/40363
 #EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT:) VENFICA1 SD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/BTV_1.png" group-title="PORTUGAL",PT:) VENFICA1 SD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/40364.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/40364
 #EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT:)  SPORTING TV" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Sporting_TV.png" group-title="PORTUGAL",PT:)  SPORTING TV
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35126.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35126
 #EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT:)  EUROSPORT 1" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Eurosport_1.png" group-title="PORTUGAL",PT:)  EUROSPORT 1
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35127.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35127
 #EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="PT:)  EUROSPORT 2" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Eurosport_2.png" group-title="PORTUGAL",PT:)  EUROSPORT 2
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35128.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35128
 #EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="PT:)  CACA E PESCA" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Ca%c3%83%c2%a7a_e_Pesca.png" group-title="PORTUGAL",PT:)  CACA E PESCA
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35129.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35129
 #EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT:)  TVCINE TOP" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/TVCINE_TOP.png" group-title="PORTUGAL",PT:)  TVCINE TOP
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35130.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35130
 #EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT:) TVCINE TOP HD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/TVCINE_TOP.png" group-title="PORTUGAL",PT:) TVCINE TOP HD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35131.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35131
 #EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT:) TVCINE EDITION" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/TVCINE_EDITION.png" group-title="PORTUGAL",PT:) TVCINE EDITION
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35132.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35132
 #EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT:) TVCINE EDITION HD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/TVCINE_EDITION.png" group-title="PORTUGAL",PT:) TVCINE EDITION HD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35133.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35133
 #EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT:) TVCINE EMOTION" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/TVCINE_EMOTION.png" group-title="PORTUGAL",PT:) TVCINE EMOTION
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35134.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35134
 #EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT:) TVCINE EMOTION HD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/TVCINE_EMOTION.png" group-title="PORTUGAL",PT:) TVCINE EMOTION HD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35135.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35135
 #EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT:) TVCINE ACTION" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/TVCINE_ACTION.png" group-title="PORTUGAL",PT:) TVCINE ACTION
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35136.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35136
 #EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT:) TVCINE ACTION ᴴᴰ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/TVCINE_ACTION.png" group-title="PORTUGAL",PT:) TVCINE ACTION ᴴᴰ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35137.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35137
 #EXTINF:-1 tvg-id="nosstudioshd.pt" tvg-name="PT:)  NOS STUDIOS ᴴᴰ" tvg-logo="plugin://plugin.video.jetproxy/play/https://www.nos.pt/particulares/PublishingImages/Banners/NOSStudios/thumbNOSStudios.png" group-title="PORTUGAL",PT:)  NOS STUDIOS ᴴᴰ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35138.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35138
 #EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT:)  HOLLYWOOD ᶠᴴᴰ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Canal_Hollywood_Portugal_HD.png" group-title="PORTUGAL",PT:)  HOLLYWOOD ᶠᴴᴰ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35139.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35139
 #EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT:)  CINEMUNDO" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Cinemundo_HD.png" group-title="PORTUGAL",PT:)  CINEMUNDO
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35140.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35140
 #EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT:)  AXN WHITE ᴴᴰ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/AXN_White_HD.png" group-title="PORTUGAL",PT:)  AXN WHITE ᴴᴰ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35141.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35141
 #EXTINF:-1 tvg-id="axn.pt" tvg-name="PT:)  AXN HD" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/AXN_HD.png" group-title="PORTUGAL",PT:)  AXN HD
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35142.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35142
 #EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT:)  AXN BLACK ᴴᴰ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/AXN_Black_HD.png" group-title="PORTUGAL",PT:)  AXN BLACK ᴴᴰ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35143.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35143
 #EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT:)  FOX MOVIES" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/FOX_Movies.png" group-title="PORTUGAL",PT:)  FOX MOVIES
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35144.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35144
 #EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT:)  FOX LIFE ᴴᴰ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/FOXlife.png" group-title="PORTUGAL",PT:)  FOX LIFE ᴴᴰ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35145.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35145
 #EXTINF:-1 tvg-id="fox.pt" tvg-name="PT:)  FOX ᴴᴰ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/FOX_HD.png" group-title="PORTUGAL",PT:)  FOX ᴴᴰ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35146.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35146
 #EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT:)  FOX CRIME" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/FOX_Crime.png" group-title="PORTUGAL",PT:)  FOX CRIME
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35147.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35147
 #EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT:)  FOX COMEDY" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/FOX_COMEDY.png" group-title="PORTUGAL",PT:)  FOX COMEDY
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35148.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35148
 #EXTINF:-1 tvg-id="amchd.pt" tvg-name="PT:)  AMC ᴴᴰ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/AMC_(HD).png" group-title="PORTUGAL",PT:)  AMC ᴴᴰ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35149.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35149
 #EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT:)  SYFY ᴴᴰ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/SYFY_(East).png" group-title="PORTUGAL",PT:)  SYFY ᴴᴰ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35150.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35150
 #EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-name="PT:) CRIME + INVESTIGATION" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Crime_+_Investigation_Portugal.png" group-title="PORTUGAL",PT:) CRIME + INVESTIGATION
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35151.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35151
 #EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT:) INVESTIGATION DISCOVERY" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/6/66/ID_INVESTIGATION_DISCOVERY.png" group-title="PORTUGAL",PT:) INVESTIGATION DISCOVERY
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35152.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35152
 #EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT:) ODISSEIA" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Odisseia.png" group-title="PORTUGAL",PT:) ODISSEIA
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35153.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35153
 #EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="PT:) NAT GEO WILD ᴴᴰ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Nat_Geo_Wild_HD.png" group-title="PORTUGAL",PT:) NAT GEO WILD ᴴᴰ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35154.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35154
 #EXTINF:-1 tvg-id="discoverychannelhd.pt" tvg-name="PT:) DISCOVERY CHANNEL" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Discovery_Channel.png" group-title="PORTUGAL",PT:) DISCOVERY CHANNEL
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35155.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35155
 #EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="PT:) NATIONAL GEOGRAPHIC" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/National_Geographic_Channel_Portugal.png" group-title="PORTUGAL",PT:) NATIONAL GEOGRAPHIC
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35156.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35156
 #EXTINF:-1 tvg-id="" tvg-name="PT:) M6" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/M6_HD.png" group-title="PORTUGAL",PT:) M6
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35157.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35157
 #EXTINF:-1 tvg-id="tlc.pt" tvg-name="PT:) TLC" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/TLC_HD.png" group-title="PORTUGAL",PT:) TLC
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35158.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35158
 #EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT:) KITCHEN ᴴᴰ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/24Kitchen.png" group-title="PORTUGAL",PT:) KITCHEN ᴴᴰ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35159.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35159
 #EXTINF:-1 tvg-id="historia.pt" tvg-name="PT:) HISTORIA ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/History_HD.png" group-title="PORTUGAL",PT:) HISTORIA ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35160.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35160
 #EXTINF:-1 tvg-id="euronews.pt" tvg-name="PT:) EURONEWS ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/EuroNews.png" group-title="PORTUGAL",PT:) EURONEWS ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35161.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35161
 #EXTINF:-1 tvg-id="cbsreality.pt" tvg-name="PT:) CBS REALITY ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/CBS_Reality_Europe.png" group-title="PORTUGAL",PT:) CBS REALITY ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35162.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35162
 #EXTINF:-1 tvg-id="canalq.pt" tvg-name="PT:) CANAL Q ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Canal_Q.png" group-title="PORTUGAL",PT:) CANAL Q ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35163.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35163
 #EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="PT:)  E! ENTERTAINMENT ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/E!_Entertainment_HD.png" group-title="PORTUGAL",PT:)  E! ENTERTAINMENT ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35164.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35164
 #EXTINF:-1 tvg-id="cacavision.pt" tvg-name="PT:)  CAÇAVISION ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/https://portalnacional.com.pt/images/icons/tv/CACAV.png" group-title="PORTUGAL",PT:)  CAÇAVISION ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35165.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35165
 #EXTINF:-1 tvg-id="blazehd.pt" tvg-name="PT:) BLAZE TV ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/65/7b/06/657b06a379644d4e7800be10b7d5cab7.png" group-title="PORTUGAL",PT:) BLAZE TV ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35166.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35166
 #EXTINF:-1 tvg-id="biggs.pt" tvg-name="PT:) BIGGS ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Biggs.png" group-title="PORTUGAL",PT:) BIGGS ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35167.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35167
 #EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="PT:) NICKELODEON ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/NICKELODEON.png" group-title="PORTUGAL",PT:) NICKELODEON ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35168.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35168
 #EXTINF:-1 tvg-id="jimjam.pt" tvg-name="PT:) JIM JAM ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/JimJam.png" group-title="PORTUGAL",PT:) JIM JAM ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35169.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35169
 #EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="PT:) DISNEY JUNIOR ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Disney_Junior.png" group-title="PORTUGAL",PT:) DISNEY JUNIOR ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35170.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35170
 #EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="PT:) DISNEY CHANNEL ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Disney_Channel.png" group-title="PORTUGAL",PT:) DISNEY CHANNEL ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35171.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35171
 #EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="PT:) CARTOON NETWORK ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Cartoon_Network.png" group-title="PORTUGAL",PT:) CARTOON NETWORK ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35172.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35172
 #EXTINF:-1 tvg-id="panda.pt" tvg-name="PT:) CANAL PANDA ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Canal_Panda_Portugal.png" group-title="PORTUGAL",PT:) CANAL PANDA ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35173.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35173
 #EXTINF:-1 tvg-id="babytv.pt" tvg-name="PT:) BABY TV ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Baby_TV.png" group-title="PORTUGAL",PT:) BABY TV ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35174.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35174
 #EXTINF:-1 tvg-id="" tvg-name="PT:) NICK JUNIOR ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Nick_Jr._HD.png" group-title="PORTUGAL",PT:) NICK JUNIOR ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35175.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35175
 #EXTINF:-1 tvg-id="afromusicchannel.pt" tvg-name="PT:) AFRO MUSIC ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/Afro_Music.png" group-title="PORTUGAL",PT:) AFRO MUSIC ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35176.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35176
 #EXTINF:-1 tvg-id="vh1.pt" tvg-name="PT:) VH1 ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/VH1.png" group-title="PORTUGAL",PT:) VH1 ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35177.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35177
 #EXTINF:-1 tvg-id="vh1.pt" tvg-name="PT:) VH1 CLASSIC ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/VH1_CLASSIC.png" group-title="PORTUGAL",PT:) VH1 CLASSIC ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35178.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35178
 #EXTINF:-1 tvg-id="mtv.pt" tvg-name="PT:) MTV PORTUGAL ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/MTV_Portugal.png" group-title="PORTUGAL",PT:) MTV PORTUGAL ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35179.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35179
 #EXTINF:-1 tvg-id="" tvg-name="PT:) MCM POP ˢᵈ" tvg-logo="plugin://plugin.video.jetproxy/play/http://164.132.113.182:5000/Privado/EPG_PT/MCM_Pop.png" group-title="PORTUGAL",PT:) MCM POP ˢᵈ
-plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/live/ester/123/35180.m3u8
+plugin://plugin.video.jetproxy/play/http://admin.newstarttv.cf:8080/ester/123/35180
 
 
 #EXTM3U
 #EXTINF:-1 group-title="PROGRAMAS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png",24H TRAPALHOES
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/925583.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/925583
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/ae.png",A&E FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856079.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856079
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/ae.png",A&E HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856078.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856078
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/ae.png",A&E SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856077.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856077
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/amc.png",AMC SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856080.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856080
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/amc.png",AMC HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856081.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856081
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/amc.png",AMC FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856082.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856082
 #EXTINF:-1 group-title="CANAIS DOCUMENTÁRIO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png",ANIMAL PLANET SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856283.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856283
 #EXTINF:-1 group-title="CANAIS DOCUMENTÁRIO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png",ANIMAL PLANET HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856285.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856285
 #EXTINF:-1 group-title="CANAIS DOCUMENTÁRIO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png",ANIMAL PLANET FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856287.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856287
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/arte1.png",ARTE 1 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856090.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856090
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/axn.png",AXN SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856083.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856083
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/axn.png",AXN HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856085.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856085
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/axn.png",AXN FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856087.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856087
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/band.png",BAND SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856507.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856507
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/bandnews.png",BAND NEWS SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856483.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856483
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/bandnews.png",BAND NEWS HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856485.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856485
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/bandsports.png",BAND SPORTS SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856182.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856182
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/bandsports.png",BAND SPORTS HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856184.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856184
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/bis.png",BIS SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856640.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856640
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/bis.png",BIS HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856642.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856642
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/bis.png",BIS FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856644.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856644
 #EXTINF:-1 group-title="CANAIS INFANTIL" tvg-logo="plugin://plugin.video.jetproxy/play/http://logocanais.ddns.net/Logo/Boomerang1.png",BOOMERANG
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856580.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856580
 #EXTINF:-1 group-title="CANAIS INFANTIL" tvg-logo="plugin://plugin.video.jetproxy/play/http://logocanais.ddns.net/Logo/Boomerang1.png",BOOMERANG HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856582.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856582
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",CANAL BRASIL HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856652.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856652
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",CANAL SONY HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856654.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856654
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",CANAL SONY SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856653.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856653
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png",CANÇÃO NOVA SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856655.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856655
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png",CANÇÃO NOVA HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856656.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856656
 #EXTINF:-1 group-title="CANAIS INFANTIL" tvg-logo="plugin://plugin.video.jetproxy/play/https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png",CARTOON NETWORK SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856585.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856585
 #EXTINF:-1 group-title="CANAIS INFANTIL" tvg-logo="plugin://plugin.video.jetproxy/play/https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png",CARTOON NETWORK HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856587.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856587
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/cinemax.png",CINEMAX HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856094.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856094
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/cinemax.png",CINEMAX FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856096.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856096
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="plugin://plugin.video.jetproxy/play/https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png",CNN BRASIL SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856488.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856488
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="plugin://plugin.video.jetproxy/play/https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png",CNN BRASIL HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856490.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856490
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="plugin://plugin.video.jetproxy/play/https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png",CNN BRASIL FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856492.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856492
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/combate.png",COMBATE SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856187.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856187
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/combate.png",COMBATE HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856189.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856189
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/combate.png",COMBATE FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856191.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856191
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png",COMEDY CENTRAL SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856657.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856657
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png",COMEDY CENTRAL HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856659.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856659
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png",COMEDY CENTRAL FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856661.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856661
 #EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="plugin://plugin.video.jetproxy/play/https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png",DISCOVERY CHANNEL SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856038.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856038
 #EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="plugin://plugin.video.jetproxy/play/https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png",DISCOVERY CHANNEL HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856040.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856040
 #EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="plugin://plugin.video.jetproxy/play/https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png",DISCOVERY CHANNEL FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856042.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856042
 #EXTINF:-1 group-title="CANAIS INFANTIL" tvg-logo="plugin://plugin.video.jetproxy/play/https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png",DISCOVERY KIDS SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856590.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856590
 #EXTINF:-1 group-title="CANAIS INFANTIL" tvg-logo="plugin://plugin.video.jetproxy/play/https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png",DISCOVERY KIDS HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856592.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856592
 #EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/discoveryscience.png",DISCOVERY SCIENCE FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856047.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856047
 #EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/discoveryscience.png",DISCOVERY SCIENCE HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856045.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856045
 #EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="plugin://plugin.video.jetproxy/play/http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png",DISCOVERY TURBO SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856055.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856055
 #EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="plugin://plugin.video.jetproxy/play/http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png",DISCOVERY TURBO HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856057.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856057
 #EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="plugin://plugin.video.jetproxy/play/http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png",DISCOVERY TURBO FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856059.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856059
 #EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="plugin://plugin.video.jetproxy/play/http://logocanais.ddns.net/Logo/DiscoveryWorld1.png",DISCOVERY WORLD FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856064.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856064
 #EXTINF:-1 group-title="CANAIS INFANTIL" tvg-logo="plugin://plugin.video.jetproxy/play/https://w7.pngwing.com/pngs/211/947/png-transparent-disney-channel-the-walt-disney-company-logo-television-show-cannel-television-text-logo.png",DISNEY CHANNEL SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856595.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856595
 #EXTINF:-1 group-title="CANAIS INFANTIL" tvg-logo="plugin://plugin.video.jetproxy/play/https://w7.pngwing.com/pngs/211/947/png-transparent-disney-channel-the-walt-disney-company-logo-television-show-cannel-television-text-logo.png",DISNEY CHANNEL HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856597.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856597
 #EXTINF:-1 group-title="CANAIS INFANTIL" tvg-logo="plugin://plugin.video.jetproxy/play/https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s640/Logo%2BDisney_Junior.png",DISNEY JUNIOR SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856600.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856600
 #EXTINF:-1 group-title="CANAIS INFANTIL" tvg-logo="plugin://plugin.video.jetproxy/play/https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s640/Logo%2BDisney_Junior.png",DISNEY JUNIOR HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856602.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856602
 #EXTINF:-1 group-title="CANAIS INFANTIL" tvg-logo="plugin://plugin.video.jetproxy/play/https://www.logolynx.com/images/logolynx/s_a8/a8352d07ba7106c58d6485dcdc06c4df.png",DISNEY XD SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856605.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856605
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png",E! SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856663.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856663
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png",E! HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856665.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856665
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/23c114bed848b2e2e48b0c6176bfb394.png",PN 2 SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/925558.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/925558
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/23c114bed848b2e2e48b0c6176bfb394.png",PN 2 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/925560.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/925560
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/espn.png",PN 1 SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/925553.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/925553
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/espn.png",PN 1 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/925555.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/925555
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/espn.png",PN BRASIL SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/925563.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/925563
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/espn.png",PN BRASIL HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/925565.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/925565
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/espnextra.png",PN EXTRA HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/925569.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/925569
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/4d2187339c2c0f316b0849a8b027c40c.png",FISH TV HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856669.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856669
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",FOOD NETWORK FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856676.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856676
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",FOOD NETWORK HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856674.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856674
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",FOOD NETWORK SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856672.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856672
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/fox.png",FOX HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856100.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856100
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_life_logo.png",FOX LIFE HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856680.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856680
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_life_logo.png",FOX LIFE SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856678.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856678
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png",FUTURA HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856684.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856684
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/0049824.png",FX FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856117.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856117
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/0049824.png",FX HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856115.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856115
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/0049824.png",FX SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856113.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856113
 #EXTINF:-1 group-title="GLOBOS SAO PAULO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/rede_am.png",GLOBO AMAZÔNICA HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856358.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856358
 #EXTINF:-1 group-title="GLOBOS BAHIA" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO BAHIA HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856364.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856364
 #EXTINF:-1 group-title="GLOBOS BAHIA" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO BAHIA SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856362.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856362
 #EXTINF:-1 group-title="GLOBOS BRASILIA" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO BRASÍLIA HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856372.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856372
 #EXTINF:-1 group-title="GLOBOS BRASILIA" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO BRASÍLIA SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856370.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856370
 #EXTINF:-1 group-title="GLOBOS CUIABA" tvg-logo="plugin://plugin.video.jetproxy/play/https://www.tvmagazine.com.br/imagens/icones/150/tvcentroamerica.png",GLOBO CUiABÁ SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856375.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856375
 #EXTINF:-1 group-title="GLOBOS SAO PAULO" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO EPTV CAMPINAS HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856378.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856378
 #EXTINF:-1 group-title="GLOBOS SAO PAULO" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO EPTV CAMPINAS SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856376.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856376
 #EXTINF:-1 group-title="GLOBOS SAO PAULO" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO EPTV RIBEIRÃO PRETO SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856381.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856381
 #EXTINF:-1 group-title="GLOBOS SAO PAULO" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO EPTV SÃO CARLOS
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856383.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856383
 #EXTINF:-1 group-title="GLOBOS CEARA" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO FORTALEZA HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856385.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856385
 #EXTINF:-1 group-title="GLOBOS CEARA" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO FORTALEZA SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856384.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856384
 #EXTINF:-1 group-title="GLOBOS GOIAIS" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO GOIÂNIA - TV ANHANGUERA HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856386.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856386
 #EXTINF:-1 group-title="GLOBOS RIO GRANDE DO NORTE" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO INTER TV CABUGI HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856387.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856387
 #EXTINF:-1 group-title="GLOBOS MINAS GERAIS" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO MINAS HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856390.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856390
 #EXTINF:-1 group-title="GLOBOS MINAS GERAIS" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO MINAS SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856388.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856388
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/b0f72a7ad15faadb654950e47af467ee.png",GLOBO NEWS FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856397.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856397
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/b0f72a7ad15faadb654950e47af467ee.png",GLOBO NEWS HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856395.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856395
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/b0f72a7ad15faadb654950e47af467ee.png",GLOBO NEWS SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856393.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856393
 #EXTINF:-1 group-title="GLOBOS SANTA CATARINA" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO NSC JOINVILLE HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856407.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856407
 #EXTINF:-1 group-title="GLOBOS SANTA CATARINA" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO NSC TV HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856408.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856408
 #EXTINF:-1 group-title="GLOBOS RIO GRANDE DO SUL" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/58ee6d7920593d3b04d173d68717b778.png",GLOBO RBS TV 4K
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856413.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856413
 #EXTINF:-1 group-title="GLOBOS RIO GRANDE DO SUL" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO RBS TV FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856412.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856412
 #EXTINF:-1 group-title="GLOBOS RIO DE JANEIRO" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO RJ FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856421.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856421
 #EXTINF:-1 group-title="GLOBOS RIO DE JANEIRO" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO RJ HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856419.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856419
 #EXTINF:-1 group-title="GLOBOS RIO DE JANEIRO" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO RJ SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856417.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856417
 #EXTINF:-1 group-title="GLOBOS CURITIBA" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO RPC CURITIBA SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856423.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856423
 #EXTINF:-1 group-title="GLOBOS SAO PAULO" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO SP HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856428.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856428
 #EXTINF:-1 group-title="GLOBOS SAO PAULO" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO SP SDD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856426.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856426
 #EXTINF:-1 group-title="GLOBOS PARA" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO TV LIBERAL BELEM
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856456.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856456
 #EXTINF:-1 group-title="GLOBOS MATO GROSSO DO SUL" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO TV MORENA FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856436.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856436
 #EXTINF:-1 group-title="GLOBOS MATO GROSSO DO SUL" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO TV MORENA HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856433.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856433
 #EXTINF:-1 group-title="GLOBOS MATO GROSSO DO SUL" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO TV MORENA SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856431.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856431
 #EXTINF:-1 group-title="GLOBOS SAO PAULO" tvg-logo="plugin://plugin.video.jetproxy/play/https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png",GLOBO TV TEM BAURU HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856434.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856434
 #EXTINF:-1 group-title="GLOBOS SAO PAULO" tvg-logo="plugin://plugin.video.jetproxy/play/https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png",GLOBO TV TEM SJRP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856438.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856438
 #EXTINF:-1 group-title="GLOBOS SAO PAULO" tvg-logo="plugin://plugin.video.jetproxy/play/https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png",GLOBO TV TEM SOROCABA HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856439.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856439
 #EXTINF:-1 group-title="GLOBOS SAO PAULO" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",GLOBO TV TRIBUNA
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856440.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856440
 #EXTINF:-1 group-title="GLOBOS SAO PAULO" tvg-logo="plugin://plugin.video.jetproxy/play/https://www.tvmagazine.com.br/imagens/icones/150/tvvanguarda.png",GLOBO TV VANGUARDA SJC
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856441.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856441
 #EXTINF:-1 group-title="CANAIS INFANTIL" tvg-logo="plugin://plugin.video.jetproxy/play/https://logodownload.org/wp-content/uploads/2018/05/gloob-logo-1.png",GLOOB HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856611.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856611
 #EXTINF:-1 group-title="CANAIS INFANTIL" tvg-logo="plugin://plugin.video.jetproxy/play/https://logodownload.org/wp-content/uploads/2018/05/gloob-logo-1.png",GLOOB SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856609.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856609
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/a5e669e9a3073f1384994f3b02576748.png",GNT FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856689.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856689
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/a5e669e9a3073f1384994f3b02576748.png",GNT HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856687.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856687
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/a5e669e9a3073f1384994f3b02576748.png",GNT SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856685.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856685
 #EXTINF:-1 group-title="CANAIS DOCUMENTÁRIO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/h2.png",H2 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856300.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856300
 #EXTINF:-1 group-title="CANAIS DOCUMENTÁRIO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/h2.png",H2 SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856298.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856298
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png",HBO 2 FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856323.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856323
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png",HBO 2 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856321.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856321
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png",HBO 2 SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856319.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856319
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png",HBO FAMILY FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856329.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856329
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png",HBO FAMILY HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856327.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856327
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png",HBO FAMILY SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856325.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856325
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/hbo.png",HBO FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856317.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856317
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/hbo.png",HBO HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856315.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856315
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png",HBO MUNDI FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856334.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856334
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png",HBO MUNDI HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856332.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856332
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/HBOPOP.png",HBO POP HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856341.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856341
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/HBOPOP.png",HBO POP SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856339.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856339
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/hbo.png",HBO SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856313.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856313
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",HBO SIGNATURE FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856347.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856347
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",HBO SIGNATURE HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856345.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856345
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png",HBO XTREME FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856353.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856353
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png",HBO XTREME HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856351.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856351
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png",HBO XTREME SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856349.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856349
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/hboplus.png",HBO+ FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856357.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856357
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/hboplus.png",HBO+ HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856356.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856356
 #EXTINF:-1 group-title="CANAIS HBO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/hboplus.png",HBO+ SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856355.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856355
 #EXTINF:-1 group-title="CANAIS DOCUMENTÁRIO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/1200px-HGTV_US_Logo_2015.svg.png",HGTV HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856290.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856290
 #EXTINF:-1 group-title="CANAIS DOCUMENTÁRIO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/history.png",HISTORY HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856295.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856295
 #EXTINF:-1 group-title="CANAIS DOCUMENTÁRIO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/history.png",HISTORY SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856293.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856293
 #EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/id.png",ID - INVESTIGAÇÃO DISCOVERY HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856068.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856068
 #EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/id.png",ID - INVESTIGAÇÃO DISCOVERY SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856066.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856066
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png",LIFETIME HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856693.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856693
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png",LIFETIME SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856691.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856691
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/a/a0/%2Bglobosat_azul_2d.png",MAIS GLOBOSAT HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856698.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856698
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/a/a0/%2Bglobosat_azul_2d.png",MAIS GLOBOSAT SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856696.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856696
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png",MEGAPIX FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856123.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856123
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png",MEGAPIX HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856121.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856121
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png",MEGAPIX SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856119.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856119
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/9/9a/LOGO_MTV_BRASIL.png",MTV HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856703.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856703
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/9/9a/LOGO_MTV_BRASIL.png",MTV SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856701.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856701
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png",MULTISHOW HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856709.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856709
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png",MULTISHOW SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856706.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856706
 #EXTINF:-1 group-title="CANAIS DOCUMENTÁRIO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png",NATGEO WILD HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856310.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856310
 #EXTINF:-1 group-title="CANAIS DOCUMENTÁRIO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png",NATGEO WILD SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856308.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856308
 #EXTINF:-1 group-title="CANAIS DOCUMENTÁRIO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/natgeo.png",NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856305.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856305
 #EXTINF:-1 group-title="CANAIS DOCUMENTÁRIO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/natgeo.png",NATIONAL GEOGRAPHIC SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856303.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856303
 #EXTINF:-1 group-title="CANAIS INFANTIL" tvg-logo="plugin://plugin.video.jetproxy/play/https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png",NICK JR. HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856622.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856622
 #EXTINF:-1 group-title="CANAIS INFANTIL" tvg-logo="plugin://plugin.video.jetproxy/play/https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png",NICK JR. SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856620.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856620
 #EXTINF:-1 group-title="CANAIS INFANTIL" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png",NICKELODEON HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856627.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856627
 #EXTINF:-1 group-title="CANAIS INFANTIL" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png",NICKELODEON SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856625.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856625
 #EXTINF:-1 group-title="RELIGIÃO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png",NOVO TEMPO HD ²
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856827.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856827
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/63908e498ca1528f5f47fa918926ad04.jpg",OFF SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856714.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856714
 #EXTINF:-1 group-title="RELIGIÃO" tvg-logo="plugin://plugin.video.jetproxy/play/https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuNu57GZV92MZ605i7iyD-tGJl4u6RtPyfhw&usqp=CAU",PAI ETERNO SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856828.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856828
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/paramount.png",PARAMOUNT
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856125.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856125
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/paramount.png",PARAMOUNT HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856127.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856127
 #EXTINF:-1 group-title="CANAIS PREMIERE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/premiere.png",PREMIERE 2 SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856253.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856253
 #EXTINF:-1 group-title="CANAIS PREMIERE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/premiere.png",PREMIERE 2 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856255.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856255
 #EXTINF:-1 group-title="CANAIS PREMIERE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/premiere.png",PREMIERE 2 FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856257.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856257
 #EXTINF:-1 group-title="CANAIS PREMIERE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/premiere.png",PREMIERE 3 SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856259.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856259
 #EXTINF:-1 group-title="CANAIS PREMIERE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/premiere.png",PREMIERE 3 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856261.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856261
 #EXTINF:-1 group-title="CANAIS PREMIERE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/premiere.png",PREMIERE 3 FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856263.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856263
 #EXTINF:-1 group-title="CANAIS PREMIERE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/premiere.png",PREMIERE 4 SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856265.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856265
 #EXTINF:-1 group-title="CANAIS PREMIERE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/premiere.png",PREMIERE 4 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856267.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856267
 #EXTINF:-1 group-title="CANAIS PREMIERE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/premiere.png",PREMIERE 5 SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856270.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856270
 #EXTINF:-1 group-title="CANAIS PREMIERE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/premiere.png",PREMIERE 5 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856272.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856272
 #EXTINF:-1 group-title="CANAIS PREMIERE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/premiere.png",PREMIERE 6 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856276.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856276
 #EXTINF:-1 group-title="CANAIS PREMIERE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/premiere.png",PREMIERE 7 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856279.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856279
 #EXTINF:-1 group-title="CANAIS PREMIERE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/premiere.png",PREMIERE CLUBES SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856247.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856247
 #EXTINF:-1 group-title="CANAIS PREMIERE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/premiere.png",PREMIERE CLUBES HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856249.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856249
 #EXTINF:-1 group-title="CANAIS PREMIERE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/premiere.png",PREMIERE CLUBES FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856251.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856251
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="plugin://plugin.video.jetproxy/play/http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png",RECORD BELEM
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856533.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856533
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="plugin://plugin.video.jetproxy/play/http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png",RECORD BH HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856519.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856519
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="plugin://plugin.video.jetproxy/play/http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png",RECORD DF HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856521.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856521
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="plugin://plugin.video.jetproxy/play/http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png",RECORD MINAS SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856537.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856537
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png",RECORD NEWS SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856503.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856503
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="plugin://plugin.video.jetproxy/play/http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png",RECORD RS HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856522.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856522
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="plugin://plugin.video.jetproxy/play/http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png",RECORD RS SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856541.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856541
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="plugin://plugin.video.jetproxy/play/http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png",RECORD SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856515.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856515
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="plugin://plugin.video.jetproxy/play/http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png",RECORD SP HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856523.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856523
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png",REDE VIDA
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856524.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856524
 #EXTINF:-1 group-title="RELIGIÃO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png",REDE VIDA
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856829.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856829
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="plugin://plugin.video.jetproxy/play/http://imguol.com/blogs/31/files/2015/12/redetv1.png",REDETV!
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856525.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856525
 #EXTINF:-1 group-title="RELIGIÃO" tvg-logo="plugin://plugin.video.jetproxy/play/https://freepikpsd.com/wp-content/uploads/2019/10/estampa-evangelica-png-2-Transparent-Images.png",religioso 2
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/925550.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/925550
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="plugin://plugin.video.jetproxy/play/http://www.portaldemidia.ufms.br/wp-content/uploads/2016/04/LOGO_RIT1.png",RIT
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856526.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856526
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="plugin://plugin.video.jetproxy/play/https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",SBT HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856529.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856529
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/sbt.png",SBT RS HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856845.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856845
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="plugin://plugin.video.jetproxy/play/https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",SBT SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856527.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856527
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/space.png",SPACE FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856137.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856137
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/space.png",SPACE HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856135.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856135
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/space.png",SPACE SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856133.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856133
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/foxsports.png",SPORTS 1 SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/925572.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/925572
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/foxsports.png",SPORTS 1 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/925574.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/925574
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/foxsports.png",SPORTS 1 FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/925576.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/925576
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/foxsports2.png",SPORTS 2 SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/925578.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/925578
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/foxsports2.png",SPORTS 2 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/925580.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/925580
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/sportv.png",SPORTV SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856230.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856230
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/sportv.png",SPORTV HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856232.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856232
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/sportv.png",SPORTV FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856234.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856234
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/sportv2.png",SPORTV 2 SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856236.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856236
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/sportv2.png",SPORTV 2 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856238.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856238
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/sportv2.png",SPORTV 2 FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856240.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856240
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/sportv3.png",SPORTV 3 SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856242.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856242
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/https://skytvplanos.com.br/img/channels/lg-57-canal-studio-universal.png",STUDIO UNIVERSAL HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856140.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856140
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/syfy.png",SYFY HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856148.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856148
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/syfy.png",SYFY SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856146.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856146
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png",TELECINE ACTION SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/855992.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/855992
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png",TELECINE ACTION HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/855994.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/855994
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png",TELECINE ACTION FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/855996.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/855996
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png",TELECINE FUN SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856004.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856004
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png",TELECINE FUN HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856006.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856006
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png",TELECINE FUN FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856008.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856008
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png",TELECINE PREMIUM SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856016.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856016
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png",TELECINE PREMIUM HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856018.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856018
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png",TELECINE PREMIUM FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856020.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856020
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/tcm.png",TCM SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856154.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856154
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png",TELECINE CULT SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/855998.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/855998
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png",TELECINE CULT HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856000.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856000
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png",TELECINE CULT FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856002.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856002
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png",TELECINE PIPOCA SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856010.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856010
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png",TELECINE PIPOCA HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856012.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856012
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png",TELECINE PIPOCA FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856014.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856014
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png",TELECINE TOUCH SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856022.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856022
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png",TELECINE TOUCH HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856024.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856024
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png",TELECINE TOUCH FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856026.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856026
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/tnt.png",TNT FHD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856165.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856165
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/tnt.png",TNT HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856163.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856163
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/tntseries.png",TNT SÉRIES HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856169.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856169
 #EXTINF:-1 group-title="CANAIS INFANTIL" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png",TOONCAST SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856631.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856631
 #EXTINF:-1 group-title="RELIGIÃO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png",TV APARECIDA HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856832.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856832
 #EXTINF:-1 group-title="GLOBOS PARAIBA" tvg-logo="plugin://plugin.video.jetproxy/play/https://cdn.mitvstatic.com/channels/br_tv-cabo-branco_m.png",TV CABO BRANCO HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856807.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856807
 #EXTINF:-1 group-title="GLOBOS PARAIBA" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png",TV CABO BRANCO SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856808.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856808
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="plugin://plugin.video.jetproxy/play/https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png",TV CÂMARA
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856554.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856554
 #EXTINF:-1 group-title="RELIGIÃO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png",TV EVANGELIZAR
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856833.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856833
 #EXTINF:-1 group-title="CANAIS INFANTIL" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/a767a5d1c07ee94c45d2e34689e4ad79.png",TV RÁ-TIM-BUM SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856635.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856635
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg",UNIVERSAL TV HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856174.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856174
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg",UNIVERSAL TV SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856172.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856172
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png",VIVA HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856738.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856738
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png",VIVA SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856736.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856736
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/warner.png",WARNER CHANNEL HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856179.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856179
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/warner.png",WARNER CHANNEL SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856177.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856177
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png",WOOHOO HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856734.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856734
 #EXTINF:-1 group-title="CANAIS ENTRETENIMENTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png",WOOHOO SD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856732.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856732
 #EXTINF:-1 group-title="ADULTO" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/2cfaec21dea9935fac8177867adde7a7.png",XXX: PLAYBOY HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856558.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856558
 #EXTINF:-1 group-title="ADULTO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/sextreme.png",XXX: SEXTREME
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/863553.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/863553
 #EXTINF:-1 group-title="ADULTO" tvg-logo="plugin://plugin.video.jetproxy/play/http://netflix.akamaihd.org/logos_pub/ch/venus.png",XXX: VENUS
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/863558.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/863558
 #EXTINF:-1 group-title="CANAIS INFANTIL" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/e/e3/Zoomoo_logo.png",ZOOMOO
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/856639.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/856639
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://01.perfeita.in:80/images/1ff1de774005f8da13f42943881c655f.png",24hs 101 Dálmatas
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931296.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931296
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/83a5a282f092aa7baf6982b54227bb54.png",24hs 3 Palavrinhas
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931297.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931297
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/83a5a282f092aa7baf6982b54227bb54.png",24hs A Formiga Atômica
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931299.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931299
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs A GRANDE FAMILIA
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931300.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931300
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs A Mansão Foster Para Amigos Imaginários
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931301.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931301
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs A Pantera Cor de Rosa
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931302.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931302
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs A Patrulha Canina
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931303.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931303
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs A Vaca e o Frango
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931304.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931304
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Aladdin
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931305.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931305
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Animaniacs
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931306.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931306
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs As Aventuras de Tintin
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931307.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931307
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs As Meninas Super Poderosas
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931308.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931308
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs As Visões de Raven
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931310.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931310
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Avatar a Lenda de Aang
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931312.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931312
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Ben 10
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931315.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931315
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Ben 10 Omniverse
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931316.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931316
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Bob Esponja
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931318.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931318
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs BOB O TREM
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931320.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931320
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Bob Zoom
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931321.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931321
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Boku no Hero Academia
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931322.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931322
 #EXTINF:-1 group-title="PROGRAMAS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Brooklyn Nine-Nine
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931325.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931325
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Cadillacs e Dinossauros
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931326.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931326
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs CAILLOU
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931327.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931327
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Chapolin Colorado
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931333.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931333
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs CHAVES do 8
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931334.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931334
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Chaves em desenho animado
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931335.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931335
 #EXTINF:-1 group-title="PROGRAMAS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Como Eu Conheci Sua Mãe
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931336.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931336
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",O CÃO COVARDE
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931337.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931337
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Corrida Maluca
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931338.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931338
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs CUT THE HOPE
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931339.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931339
 #EXTINF:-1 group-title="PROGRAMAS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs De Volta para o Futuro
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931340.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931340
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Detetives do Prédio Azul
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931341.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931341
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs DIGIMON
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931342.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931342
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Dora a Aventureira
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931343.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931343
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Dragon Ball Super
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931344.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931344
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Drake & Josh
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931345.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931345
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",Dudu e Edu
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931346.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931346
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Duck Dodgers
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931347.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931347
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs EU A PATROA E AS CRIANÇAS
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931349.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931349
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Flash
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931350.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931350
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Flash Gordon
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931351.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931351
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs FLINTSTONES
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931352.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931352
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Homem Aranha
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931358.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931358
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Hércules
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931360.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931360
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Jackie Chan e Amigos
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931361.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931361
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs KENAN E KEL
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931362.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931362
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Little Angel
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931363.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931363
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Medabots
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931364.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931364
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Mega Man
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931365.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931365
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Mickey Mouse
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931367.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931367
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Miraculous Ladybug
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931368.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931368
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Mortal Kombat
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931369.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931369
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Mucha Lucha
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931371.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931371
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Naruto
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931373.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931373
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs O Laboratório de Dexter
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931376.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931376
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs O Mundo de Beakman
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931377.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931377
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs O Máskara
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931378.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931378
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs os Cavaleiros do Zodíaco
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931379.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931379
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Os Flintstones
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931380.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931380
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Os Padrinhos Mágicos
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931381.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931381
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Os Super Patos
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931383.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931383
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Os Vingadores
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931384.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931384
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Papa Léguas
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931385.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931385
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Patati e Patatá
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931386.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931386
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Peppa Pig
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931387.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931387
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Pernalonga e seus amigos
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931388.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931388
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Pica Pau
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931389.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931389
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Pocoyo
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931391.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931391
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Sailor Moon
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931395.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931395
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Samurai Warriors
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931396.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931396
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs SCOOBY DOO
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931397.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931397
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs South Park
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931398.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931398
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Steven Universo
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931399.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931399
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Super Choque
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931400.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931400
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Taz Mania
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931401.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931401
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Thundercats
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931402.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931402
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Timão e Pumba
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931403.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931403
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs TODO MUNDO ODEIA O CHRIS
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931404.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931404
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs TROLLS
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931406.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931406
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Três Espiãs Demais
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931407.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931407
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Turma da Pateta
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931409.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931409
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Uma família da pesada
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931410.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931410
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Ursinhos Carinhosos
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931411.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931411
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs X-men
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931412.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931412
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Zé Colméia
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931413.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931413
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24hs Um Maluco no Pedaço
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/931415.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/931415
 #EXTINF:-1 group-title="PROGRAMAS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png",24hs THE WALKING DEAD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/953393.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/953393
 #EXTINF:-1 group-title="PROGRAMAS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png",24hs Arqueiro Verde
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/953395.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/953395
 #EXTINF:-1 group-title="PROGRAMAS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png",24hs Fate
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/953396.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/953396
 #EXTINF:-1 group-title="PROGRAMAS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png",24hs Vikings
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/953397.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/953397
 #EXTINF:-1 group-title="PROGRAMAS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png",24hs Big Bang Theory
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/953398.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/953398
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png",TNT SPORTS 1 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956421.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956421
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png",TNT SPORTS 2 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956422.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956422
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png",TNT SPORTS 3 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956423.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956423
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png",TNT SPORTS 4 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956424.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956424
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png",TNT SPORTS 5 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956425.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956425
 #EXTINF:-1 group-title="COPA LIBERTADORES" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/1280px-Conmebol_Libertadores_logo.svg.png",CONMEBOL 1 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956448.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956448
 #EXTINF:-1 group-title="COPA LIBERTADORES" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/944fd8b268de23ee479fbdce6da25027.png",CONMEBOL 2 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956449.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956449
 #EXTINF:-1 group-title="COPA LIBERTADORES" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/944fd8b268de23ee479fbdce6da25027.png",CONMEBOL 3 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956450.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956450
 #EXTINF:-1 group-title="COPA LIBERTADORES" tvg-logo="plugin://plugin.video.jetproxy/play/http://vipeiptv.com:25461/images/944fd8b268de23ee479fbdce6da25027.png",CONMEBOL 4 HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956451.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956451
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.pinimg.com/originals/46/88/90/468890c2e5317f3b59792457b4330acd.png",24H AS AVENTURAS DE TOM & JERRY VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956471.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956471
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_de_Avatar_la_leyenda_de_Aang.png",24H AVATAR A LENDA DE KORA H265 VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956473.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956473
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/https://w7.pngwing.com/pngs/283/647/png-transparent-diaper-infant-looney-tunes-changing-tables-disposable-baby-looney-tunes-food-computer-wallpaper-looney.png",24H BABY LOONEY TUNES VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956474.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956474
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/https://seeklogo.com/images/B/ben-10-omniverse-logo-9459526B49-seeklogo.com.png",24H BEN 10 OMNIVERSE VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956478.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956478
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/https://2.bp.blogspot.com/-KPWQFOwORaQ/WIiCSCxIgXI/AAAAAAAAJeA/nmRNjSGzfgUO6v7DGRDPQmdDZD5Goc6eQCLcB/s1600/logo_bob_esponja.png",24H BOB ESPONJA T01 A 04 VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956480.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956480
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/https://3.bp.blogspot.com/-nkrpAaQPwxA/VG1XH2MUXtI/AAAAAAAAh7A/FqXNJGcIU6Y/s1600/capit%C3%A3o-caverna-em-png-queroimagem-cei%C3%A7a-crispim-02.png",24H CAPITÃO CAVERNA VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956487.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956487
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/https://www.nicepng.com/png/full/826-8263081_capito-planeta-logo-png.png",24H CAPITÃO PLANETA VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956488.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956488
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H CAVALO DE FOGO VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956490.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956490
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H CAVERNA DO DRAGÃO VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956491.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956491
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H CORAGEM O CÃO COVARDE VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956497.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956497
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H DIGIMON VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956502.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956502
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H DRAKE & JOSH VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956517.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956517
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H DUCK DODGERS VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956518.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956518
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H DUCK TALES CLÁSSICO VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956519.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956519
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H GALINHA PINTADINHA MINI VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956528.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956528
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H GATO FELIX VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956529.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956529
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H MUNDO BITA VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956537.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956537
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H NARUTO VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956538.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956538
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H O INCRÍVEL MUNDO DE GUMBALL VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956540.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956540
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H O SHOW DO GARFIELD VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956543.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956543
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956553.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956553
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H OS RONI VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956554.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956554
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H PATO DONALD VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956561.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956561
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H PICA- PAU VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956567.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956567
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H PINK E O CEREBRO VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956569.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956569
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H POPEYE VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956571.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956571
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H SUPER CHOQUE VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956580.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956580
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H SUPERAMIGOS VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956581.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956581
 #EXTINF:-1 group-title="DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.jetproxy/play/http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png",24H TRÊS ESPIÃS DEMAIS VIP
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956586.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956586
 #EXTINF:-1 group-title="CANAIS CINE SKY" tvg-logo="plugin://plugin.video.jetproxy/play/https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png",CINE SKY Ação
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956729.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956729
 #EXTINF:-1 group-title="CANAIS CINE SKY" tvg-logo="plugin://plugin.video.jetproxy/play/https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png",CINE SKY Comedia
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956730.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956730
 #EXTINF:-1 group-title="CANAIS CINE SKY" tvg-logo="plugin://plugin.video.jetproxy/play/https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png",CINE SKY Drama
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956731.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956731
 #EXTINF:-1 group-title="CANAIS CINE SKY" tvg-logo="plugin://plugin.video.jetproxy/play/https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png",CINE SKY Faroeste
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956732.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956732
 #EXTINF:-1 group-title="CANAIS CINE SKY" tvg-logo="plugin://plugin.video.jetproxy/play/https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png",CINE SKY Ficção
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956733.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956733
 #EXTINF:-1 group-title="CANAIS CINE SKY" tvg-logo="plugin://plugin.video.jetproxy/play/https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png",CINE SKY POLICIAL
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/956734.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/956734
 #EXTINF:-1 group-title="ADULTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png",24H TRANSEXUAL
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/961692.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/961692
 #EXTINF:-1 group-title="ADULTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png",24H SURUBA CASEIRA
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/961693.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/961693
 #EXTINF:-1 group-title="ADULTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png",24H RUIVAS
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/961694.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/961694
 #EXTINF:-1 group-title="ADULTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png",24H Sexo Na Praia
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/961695.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/961695
 #EXTINF:-1 group-title="ADULTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png",24H INTER RACIAL
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/961696.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/961696
 #EXTINF:-1 group-title="ADULTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png",24H GORDAS
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/961697.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/961697
 #EXTINF:-1 group-title="ADULTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png",24H Cine Adulto
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/961698.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/961698
 #EXTINF:-1 group-title="ADULTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png",24H A Casa das Brasileirinhas
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/961699.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/961699
 #EXTINF:-1 group-title="ADULTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png",24H Bisexual
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/961700.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/961700
 #EXTINF:-1 group-title="ADULTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png",24H Amador Gay
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/961701.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/961701
 #EXTINF:-1 group-title="ADULTO" tvg-logo="plugin://plugin.video.jetproxy/play/https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png",24H Amadoras
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/961702.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/961702
 #EXTINF:-1 group-title="GLOBOS SANTA CATARINA" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png",GLOBO NSC TV CHAPECO HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/961715.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/961715
 #EXTINF:-1 group-title="GLOBOS SANTA CATARINA" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png",GLOBO NSC TV CRICIUMA HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/961716.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/961716
 #EXTINF:-1 group-title="GLOBOS RONDONIA" tvg-logo="plugin://plugin.video.jetproxy/play/https://i.imgur.com/10LbyeN.png",GLOBO PORTO VELHO
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/961717.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/961717
 #EXTINF:-1 group-title="GLOBOS PARANA" tvg-logo="plugin://plugin.video.jetproxy/play/https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png",GLOBO RPC FOZ DO IGUACU HD
-plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/live/Ernane321/321Ernane/961722.m3u8
+plugin://plugin.video.jetproxy/play/http://vipeiptv.com:8080/Ernane321/321Ernane/961722
