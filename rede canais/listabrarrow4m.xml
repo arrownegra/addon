@@ -3371,444 +3371,443 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cdnrede.com:80/edite/202020/222034
  
 #EXTINF:-1,PT: RTP 1
-http://b5.vc:80/LobatoESM/BQXtc/74931.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74931.ts
 #EXTINF:-1,PT: RTP 1 FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74933.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74933.ts
 #EXTINF:-1,PT: RTP 1 FHD
-http://b5.vc:80/LobatoESM/BQXtc/74932.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74932.ts
 #EXTINF:-1,PT: RTP 2
-http://b5.vc:80/LobatoESM/BQXtc/74934.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74934.ts
 #EXTINF:-1,PT: RTP 2 FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74936.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74936.ts
 #EXTINF:-1,PT: RTP 2 FHD
-http://b5.vc:80/LobatoESM/BQXtc/74935.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74935.ts
 #EXTINF:-1,PT: RTP 3
-http://b5.vc:80/LobatoESM/BQXtc/74937.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74937.ts
 #EXTINF:-1,PT: RTP 3 FHD
-http://b5.vc:80/LobatoESM/BQXtc/74938.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74938.ts
 #EXTINF:-1,PT: RTP Acores
-http://b5.vc:80/LobatoESM/BQXtc/74939.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74939.ts
 #EXTINF:-1,PT: RTP Africa
-http://b5.vc:80/LobatoESM/BQXtc/74940.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74940.ts
 #EXTINF:-1,PT: RTP Madeira
-http://b5.vc:80/LobatoESM/BQXtc/74941.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74941.ts
 #EXTINF:-1,PT: RTP Memoria
-http://b5.vc:80/LobatoESM/BQXtc/74942.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74942.ts
 #EXTINF:-1,PT: Santuario Fatima
-http://b5.vc:80/LobatoESM/BQXtc/74943.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74943.ts
 #EXTINF:-1,PT: Saude FHD
-http://b5.vc:80/LobatoESM/BQXtc/74944.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74944.ts
 #EXTINF:-1,PT: SIC
-http://b5.vc:80/LobatoESM/BQXtc/74945.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74945.ts
 #EXTINF:-1,PT: SIC Caras
-http://b5.vc:80/LobatoESM/BQXtc/74946.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74946.ts
 #EXTINF:-1,PT: SIC FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74949.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74949.ts
 #EXTINF:-1,PT: SIC Caras FHD
-http://b5.vc:80/LobatoESM/BQXtc/74947.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74947.ts
 #EXTINF:-1,PT: SIC FHD
-http://b5.vc:80/LobatoESM/BQXtc/74948.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74948.ts
 #EXTINF:-1,PT: Sic Kids FHD
-http://b5.vc:80/LobatoESM/BQXtc/74950.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74950.ts
 #EXTINF:-1,PT: SIC Mulher
-http://b5.vc:80/LobatoESM/BQXtc/74951.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74951.ts
 #EXTINF:-1,PT: SIC Mulher FHD
-http://b5.vc:80/LobatoESM/BQXtc/74952.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74952.ts
 #EXTINF:-1,PT: SIC Noticias
-http://b5.vc:80/LobatoESM/BQXtc/74953.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74953.ts
 #EXTINF:-1,PT: SIC Noticias FHD
-http://b5.vc:80/LobatoESM/BQXtc/74954.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74954.ts
 #EXTINF:-1,PT: SIC Radical
-http://b5.vc:80/LobatoESM/BQXtc/74955.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74955.ts
 #EXTINF:-1,PT: SIC Radical FHD
-http://b5.vc:80/LobatoESM/BQXtc/74956.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74956.ts
 #EXTINF:-1,PT: Sky News
-http://b5.vc:80/LobatoESM/BQXtc/74957.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74957.ts
 #EXTINF:-1,PT: Sporting TV
-http://b5.vc:80/LobatoESM/BQXtc/74981.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74981.ts
 #EXTINF:-1,PT: Sporting TV FHD
-http://b5.vc:80/LobatoESM/BQXtc/74982.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74982.ts
 #EXTINF:-1,PT: Sport TV+
-http://b5.vc:80/LobatoESM/BQXtc/74979.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74979.ts
 #EXTINF:-1,PT: Sport TV+ FHD
-http://b5.vc:80/LobatoESM/BQXtc/74980.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74980.ts
 #EXTINF:-1,PT: Sport TV 1
-http://b5.vc:80/LobatoESM/BQXtc/74958.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74958.ts
 #EXTINF:-1,PT: Sport TV 1 FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74961.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74961.ts
 #EXTINF:-1,PT: Sport TV 1 FHD
-http://b5.vc:80/LobatoESM/BQXtc/74960.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74960.ts
 #EXTINF:-1,PT: Sport TV 1 HD
-http://b5.vc:80/LobatoESM/BQXtc/74962.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74962.ts
 #EXTINF:-1,PT: Sport TV 1 SD
-http://b5.vc:80/LobatoESM/BQXtc/74959.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74959.ts
 #EXTINF:-1,PT: Sport TV 2 FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74966.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74966.ts
 #EXTINF:-1,PT: Sport TV 2 FHD
-http://b5.vc:80/LobatoESM/BQXtc/74965.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74965.ts
 #EXTINF:-1,PT: Sport TV 2 HD
-http://b5.vc:80/LobatoESM/BQXtc/74967.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74967.ts
 #EXTINF:-1,PT: Sport TV 2 SD
-http://b5.vc:80/LobatoESM/BQXtc/74964.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74964.ts
 #EXTINF:-1,PT: Sport TV 3
-http://b5.vc:80/LobatoESM/BQXtc/74968.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74968.ts
 #EXTINF:-1,PT: Sport TV 3 FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74970.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74970.ts
 #EXTINF:-1,PT: Sport TV 3 FHD
-http://b5.vc:80/LobatoESM/BQXtc/74969.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74969.ts
 #EXTINF:-1,PT: Sport TV 3 HD
-http://b5.vc:80/LobatoESM/BQXtc/74971.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74971.ts
 #EXTINF:-1,PT: Sport TV 4
-http://b5.vc:80/LobatoESM/BQXtc/74972.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74972.ts
 #EXTINF:-1,PT: Sport TV 4 FHD
-http://b5.vc:80/LobatoESM/BQXtc/74973.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74973.ts
 #EXTINF:-1,PT: Sport TV 4 HD
-http://b5.vc:80/LobatoESM/BQXtc/74974.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74974.ts
 #EXTINF:-1,PT: Sport TV 5
-http://b5.vc:80/LobatoESM/BQXtc/74975.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74975.ts
 #EXTINF:-1,PT: Sport TV 5 FHD
-http://b5.vc:80/LobatoESM/BQXtc/74976.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74976.ts
 #EXTINF:-1,PT: Sport TV 5 HD
-http://b5.vc:80/LobatoESM/BQXtc/74977.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74977.ts
 #EXTINF:-1,PT: Sport TV NBA FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74978.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74978.ts
 #EXTINF:-1,PT: SyFy
-http://b5.vc:80/LobatoESM/BQXtc/74983.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74983.ts
 #EXTINF:-1,PT: SyFy FHD
-http://b5.vc:80/LobatoESM/BQXtc/74984.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74984.ts
 #EXTINF:-1,PT: TCV Internacional
-http://b5.vc:80/LobatoESM/BQXtc/74985.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74985.ts
 #EXTINF:-1,PT: TPA Internacional
-http://b5.vc:80/LobatoESM/BQXtc/74989.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74989.ts
 #EXTINF:-1,PT: Trace & Urban
-http://b5.vc:80/LobatoESM/BQXtc/74990.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74990.ts
 #EXTINF:-1,PT: Trace & Urban FHD
-http://b5.vc:80/LobatoESM/BQXtc/74991.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74991.ts
 #EXTINF:-1,PT: Trace Toca
-http://b5.vc:80/LobatoESM/BQXtc/74992.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74992.ts
 #EXTINF:-1,PT: Travel Channel
-http://b5.vc:80/LobatoESM/BQXtc/74993.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74993.ts
 #EXTINF:-1,PT: Travel Channel FHD
-http://b5.vc:80/LobatoESM/BQXtc/74994.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74994.ts
 #EXTINF:-1,PT: TVCine ACTION
-http://b5.vc:80/LobatoESM/BQXtc/75002.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75002.ts
 #EXTINF:-1,PT: TVCine Action FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/75004.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75004.ts
 #EXTINF:-1,PT: TVCine ACTION FHD
-http://b5.vc:80/LobatoESM/BQXtc/75003.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75003.ts
 #EXTINF:-1,PT: TVCine EDITION
-http://b5.vc:80/LobatoESM/BQXtc/75005.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75005.ts
 #EXTINF:-1,PT: TVCine Edition FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/75007.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75007.ts
 #EXTINF:-1,PT: TVCine EDITION FHD
-http://b5.vc:80/LobatoESM/BQXtc/75006.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75006.ts
 #EXTINF:-1,PT: TVCine EMOTION
-http://b5.vc:80/LobatoESM/BQXtc/75008.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75008.ts
 #EXTINF:-1,PT: TVCine Emotion FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/75010.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75010.ts
 #EXTINF:-1,PT: TVCine EMOTION FHD
-http://b5.vc:80/LobatoESM/BQXtc/75009.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75009.ts
 #EXTINF:-1,PT: TVCine TOP
-http://b5.vc:80/LobatoESM/BQXtc/75011.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75011.ts
 #EXTINF:-1,PT: TVCine Top FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/75013.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75013.ts
 #EXTINF:-1,PT: TVCine TOP FHD
-http://b5.vc:80/LobatoESM/BQXtc/75012.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75012.ts
 #EXTINF:-1,PT: TVC News
-http://b5.vc:80/LobatoESM/BQXtc/75001.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75001.ts
 #EXTINF:-1,PT: TV Globo
-http://b5.vc:80/LobatoESM/BQXtc/131218.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/131218.ts
 #EXTINF:-1,PT: TV Globo FHD
-http://b5.vc:80/LobatoESM/BQXtc/131216.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/131216.ts
 #EXTINF:-1,PT: TV Globo NOW
-http://b5.vc:80/LobatoESM/BQXtc/131208.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/131208.ts
 #EXTINF:-1,PT: TVI
-http://b5.vc:80/LobatoESM/BQXtc/75014.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75014.ts
 #EXTINF:-1,PT: TVI 24
-http://b5.vc:80/LobatoESM/BQXtc/75015.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75015.ts
 #EXTINF:-1,PT: TVI 24 FHD
-http://b5.vc:80/LobatoESM/BQXtc/75016.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75016.ts
 #EXTINF:-1,PT: TVI FHD
-http://b5.vc:80/LobatoESM/BQXtc/75017.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75017.ts
 #EXTINF:-1,PT: TVI Ficcao
-http://b5.vc:80/LobatoESM/BQXtc/75018.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75018.ts
 #EXTINF:-1,PT: TVI Ficcao FHD
-http://b5.vc:80/LobatoESM/BQXtc/75019.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75019.ts
 #EXTINF:-1,PT: TVI Reality
-http://b5.vc:80/LobatoESM/BQXtc/75021.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75021.ts
 #EXTINF:-1,PT: TVI Reality FHD
-http://b5.vc:80/LobatoESM/BQXtc/75022.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75022.ts
 #EXTINF:-1,PT: TV RECORD
-http://b5.vc:80/LobatoESM/BQXtc/74998.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74998.ts
 #EXTINF:-1,PT: TV Series FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/75000.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75000.ts
 #EXTINF:-1,PT: TV Record FHD
-http://b5.vc:80/LobatoESM/BQXtc/74999.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74999.ts
 #EXTINF:-1,PT: VH1
-http://b5.vc:80/LobatoESM/BQXtc/75023.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75023.ts
 #EXTINF:-1,PT: VH1 Classic
-http://b5.vc:80/LobatoESM/BQXtc/75024.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75024.ts
 #EXTINF:-1,PT: ZAP Viva FHD
-http://b5.vc:80/LobatoESM/BQXtc/75025.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/75025.ts
 #EXTINF:-1,PT: 24 Kitchen FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74799.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74799.ts
 #EXTINF:-1,PT: 24 Kitchen FHD
-http://b5.vc:80/LobatoESM/BQXtc/74798.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74798.ts
 #EXTINF:-1,PT: A Bola TV
-http://b5.vc:80/LobatoESM/BQXtc/74800.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74800.ts
 #EXTINF:-1,PT: A Bola TV FHD
-http://b5.vc:80/LobatoESM/BQXtc/74801.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74801.ts
 #EXTINF:-1,PT: Afro Music Channel
-http://b5.vc:80/LobatoESM/BQXtc/74802.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74802.ts
 #EXTINF:-1,PT: AMC
-http://b5.vc:80/LobatoESM/BQXtc/74803.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74803.ts
 #EXTINF:-1,PT: AMC FHD
-http://b5.vc:80/LobatoESM/BQXtc/74804.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74804.ts
 #EXTINF:-1,PT: AMC H265
-http://b5.vc:80/LobatoESM/BQXtc/74805.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74805.ts
 #EXTINF:-1,PT: ARTV Parlamento
-http://b5.vc:80/LobatoESM/BQXtc/74806.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74806.ts
 #EXTINF:-1,PT: AXN Black
-http://b5.vc:80/LobatoESM/BQXtc/74807.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74807.ts
 #EXTINF:-1,PT: AXN Black FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74809.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74809.ts
 #EXTINF:-1,PT: AXN FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74811.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74811.ts
 #EXTINF:-1,PT: AXN Black FHD
-http://b5.vc:80/LobatoESM/BQXtc/74808.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74808.ts
 #EXTINF:-1,PT: AXN FHD
-http://b5.vc:80/LobatoESM/BQXtc/74810.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74810.ts
 #EXTINF:-1,PT: AXN White
-http://b5.vc:80/LobatoESM/BQXtc/74812.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74812.ts
 #EXTINF:-1,PT: AXN White FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74814.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74814.ts
 #EXTINF:-1,PT: AXN White FHD
-http://b5.vc:80/LobatoESM/BQXtc/74813.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74813.ts
 #EXTINF:-1,PT: Baby TV
-http://b5.vc:80/LobatoESM/BQXtc/74815.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74815.ts
 #EXTINF:-1,PT: BBC World News
-http://b5.vc:80/LobatoESM/BQXtc/74816.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74816.ts
 #EXTINF:-1,PT: Blaze
-http://b5.vc:80/LobatoESM/BQXtc/74817.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74817.ts
 #EXTINF:-1,PT: Blaze FHD
-http://b5.vc:80/LobatoESM/BQXtc/74818.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74818.ts
 #EXTINF:-1,PT: Bloomberg
-http://b5.vc:80/LobatoESM/BQXtc/74819.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74819.ts
 #EXTINF:-1,PT: BTV
-http://b5.vc:80/LobatoESM/BQXtc/74821.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74821.ts
 #EXTINF:-1,PT: BTV FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74824.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74824.ts
 #EXTINF:-1,PT: BTV FHD
-http://b5.vc:80/LobatoESM/BQXtc/74823.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74823.ts
 #EXTINF:-1,PT: BTV HD
-http://b5.vc:80/LobatoESM/BQXtc/74825.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74825.ts
 #EXTINF:-1,PT: BTV SD
-http://b5.vc:80/LobatoESM/BQXtc/74822.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74822.ts
 #EXTINF:-1,PT: Cacavision
-http://b5.vc:80/LobatoESM/BQXtc/74826.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74826.ts
 #EXTINF:-1,PT: Canal 11
-http://b5.vc:80/LobatoESM/BQXtc/74827.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74827.ts
 #EXTINF:-1,PT: Canal 11 FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74829.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74829.ts
 #EXTINF:-1,PT: Canal 11 FHD
-http://b5.vc:80/LobatoESM/BQXtc/74828.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74828.ts
 #EXTINF:-1,PT: Canal Historia
-http://b5.vc:80/LobatoESM/BQXtc/74830.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74830.ts
 #EXTINF:-1,PT: Canal Panda
-http://b5.vc:80/LobatoESM/BQXtc/74831.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74831.ts
 #EXTINF:-1,PT: Canal Q
-http://b5.vc:80/LobatoESM/BQXtc/74832.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74832.ts
 #EXTINF:-1,PT: CANCAO NOVA
-http://b5.vc:80/LobatoESM/BQXtc/74833.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74833.ts
 #EXTINF:-1,PT: Cartoon Network
-http://b5.vc:80/LobatoESM/BQXtc/74834.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74834.ts
 #EXTINF:-1,PT: Caza e Pesca
-http://b5.vc:80/LobatoESM/BQXtc/74835.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74835.ts
 #EXTINF:-1,PT: CBS Reality
-http://b5.vc:80/LobatoESM/BQXtc/74836.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74836.ts
 #EXTINF:-1,PT: CineMundo
-http://b5.vc:80/LobatoESM/BQXtc/74837.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74837.ts
 #EXTINF:-1,PT: CineMundo FHD
-http://b5.vc:80/LobatoESM/BQXtc/74838.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74838.ts
 #EXTINF:-1,PT: Clubbing TV
-http://b5.vc:80/LobatoESM/BQXtc/74839.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74839.ts
 #EXTINF:-1,PT: CMTV
-http://b5.vc:80/LobatoESM/BQXtc/74840.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74840.ts
 #EXTINF:-1,PT: CMTV FHD
-http://b5.vc:80/LobatoESM/BQXtc/74841.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74841.ts
 #EXTINF:-1,PT: CNBC
-http://b5.vc:80/LobatoESM/BQXtc/74842.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74842.ts
 #EXTINF:-1,PT: CNN
-http://b5.vc:80/LobatoESM/BQXtc/74843.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74843.ts
 #EXTINF:-1,PT: Crime Investigation
-http://b5.vc:80/LobatoESM/BQXtc/74844.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74844.ts
 #EXTINF:-1,PT: Discovery Channel
-http://b5.vc:80/LobatoESM/BQXtc/74845.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74845.ts
 #EXTINF:-1,PT: Discovery FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74847.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74847.ts
 #EXTINF:-1,PT: Discovery Channel FHD
-http://b5.vc:80/LobatoESM/BQXtc/74846.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74846.ts
 #EXTINF:-1,PT: Disney Channel
-http://b5.vc:80/LobatoESM/BQXtc/74848.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74848.ts
 #EXTINF:-1,PT: Disney Junior
-http://b5.vc:80/LobatoESM/BQXtc/74849.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74849.ts
 #EXTINF:-1,PT: E! Entertainment
-http://b5.vc:80/LobatoESM/BQXtc/74851.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
-#EXTINF:-1,PT: Eleven Sporplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http 1 FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74854.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
-#EXTINF:-1,PT: Eleven Sporplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http 1 FHD
-http://b5.vc:80/LobatoESM/BQXtc/74853.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
-#EXTINF:-1,PT: Eleven Sporplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http 1 HD
-http://b5.vc:80/LobatoESM/BQXtc/74855.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
-#EXTINF:-1,PT: Eleven Sporplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http 2 FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74858.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
-#EXTINF:-1,PT: Eleven Sporplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http 2 FHD
-http://b5.vc:80/LobatoESM/BQXtc/74857.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
-#EXTINF:-1,PT: Eleven Sporplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http 2 HD
-http://b5.vc:80/LobatoESM/BQXtc/74859.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
-#EXTINF:-1,PT: Eleven Sporplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http 2 SD
-http://b5.vc:80/LobatoESM/BQXtc/74856.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
-#EXTINF:-1,PT: Eleven Sporplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http 3 FHD
-http://b5.vc:80/LobatoESM/BQXtc/74861.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
-#EXTINF:-1,PT: Eleven Sporplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http 3 HD
-http://b5.vc:80/LobatoESM/BQXtc/74862.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
-#EXTINF:-1,PT: Eleven Sporplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http 3 SD
-http://b5.vc:80/LobatoESM/BQXtc/74860.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
-#EXTINF:-1,PT: Eleven Sporplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http 4 HD
-http://b5.vc:80/LobatoESM/BQXtc/74865.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
-#EXTINF:-1,PT: Eleven Sporplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http 4 SD
-http://b5.vc:80/LobatoESM/BQXtc/74863.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
-#EXTINF:-1,PT: Eleven Sporplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http 5 FHD
-http://b5.vc:80/LobatoESM/BQXtc/74867.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
-#EXTINF:-1,PT: Eleven Sporplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http 5 HD
-http://b5.vc:80/LobatoESM/BQXtc/74868.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
-#EXTINF:-1,PT: Eleven Sporplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http 5 SD
-http://b5.vc:80/LobatoESM/BQXtc/74866.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
-#EXTINF:-1,PT: Eleven Sporplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http 6 FHD
-http://b5.vc:80/LobatoESM/BQXtc/74870.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
-#EXTINF:-1,PT: Eleven Sporplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http 6 SD
-http://b5.vc:80/LobatoESM/BQXtc/74869.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74851.ts
+#EXTINF:-1,PT: Eleven Sports 1 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74854.ts
+#EXTINF:-1,PT: Eleven Sports 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74853.ts
+#EXTINF:-1,PT: Eleven Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74855.ts
+#EXTINF:-1,PT: Eleven Sports 2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74858.ts
+#EXTINF:-1,PT: Eleven Sports 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74857.ts
+#EXTINF:-1,PT: Eleven Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74859.ts
+#EXTINF:-1,PT: Eleven Sports 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74856.ts
+#EXTINF:-1,PT: Eleven Sports 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74861.ts
+#EXTINF:-1,PT: Eleven Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74862.ts
+#EXTINF:-1,PT: Eleven Sports 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74860.ts
+#EXTINF:-1,PT: Eleven Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74865.ts
+#EXTINF:-1,PT: Eleven Sports 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74863.ts
+#EXTINF:-1,PT: Eleven Sports 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74867.ts
+#EXTINF:-1,PT: Eleven Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74868.ts
+#EXTINF:-1,PT: Eleven Sports 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74866.ts
+#EXTINF:-1,PT: Eleven Sports 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74870.ts
+#EXTINF:-1,PT: Eleven Sports 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74869.ts
 #EXTINF:-1,PT: Euronews
-http://b5.vc:80/LobatoESM/BQXtc/74871.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74871.ts
 #EXTINF:-1,PT: EuroSport 1 FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74873.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74873.ts
 #EXTINF:-1,PT: Eurosport 1 FHD
-http://b5.vc:80/LobatoESM/BQXtc/74872.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74872.ts
 #EXTINF:-1,PT: Eurosport 2
-http://b5.vc:80/LobatoESM/BQXtc/74874.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74874.ts
 #EXTINF:-1,PT: Fashion TV
-http://b5.vc:80/LobatoESM/BQXtc/74875.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74875.ts
 #EXTINF:-1,PT: Fight Network FHD
-http://b5.vc:80/LobatoESM/BQXtc/74876.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74876.ts
 #EXTINF:-1,PT: Fine Living Network FHD
-http://b5.vc:80/LobatoESM/BQXtc/74877.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74877.ts
 #EXTINF:-1,PT: Food Network FHD
-http://b5.vc:80/LobatoESM/BQXtc/74878.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74878.ts
 #EXTINF:-1,PT: Fox
-http://b5.vc:80/LobatoESM/BQXtc/74879.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74879.ts
 #EXTINF:-1,PT: Fox Comedy
-http://b5.vc:80/LobatoESM/BQXtc/74880.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74880.ts
 #EXTINF:-1,PT: Fox Comedy FHD
-http://b5.vc:80/LobatoESM/BQXtc/74881.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74881.ts
 #EXTINF:-1,PT: Fox Crime
-http://b5.vc:80/LobatoESM/BQXtc/74882.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74882.ts
 #EXTINF:-1,PT: FOX Crime FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74884.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74884.ts
 #EXTINF:-1,PT: FOX FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74886.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74886.ts
 #EXTINF:-1,PT: Fox Crime FHD
-http://b5.vc:80/LobatoESM/BQXtc/74883.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74883.ts
 #EXTINF:-1,PT: Fox FHD
-http://b5.vc:80/LobatoESM/BQXtc/74885.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74885.ts
 #EXTINF:-1,PT: Fox Life
-http://b5.vc:80/LobatoESM/BQXtc/74887.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74887.ts
 #EXTINF:-1,PT: FOX Life FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74889.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74889.ts
 #EXTINF:-1,PT: Fox Life FHD
-http://b5.vc:80/LobatoESM/BQXtc/74888.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74888.ts
 #EXTINF:-1,PT: Fox Movies
-http://b5.vc:80/LobatoESM/BQXtc/74890.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74890.ts
 #EXTINF:-1,PT: Fox Movies FHD
-http://b5.vc:80/LobatoESM/BQXtc/74891.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74891.ts
 #EXTINF:-1,PT: Fox News
-http://b5.vc:80/LobatoESM/BQXtc/74892.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74892.ts
 #EXTINF:-1,PT: Fuel TV
-http://b5.vc:80/LobatoESM/BQXtc/74893.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74893.ts
 #EXTINF:-1,PT: Fuel TV FHD
-http://b5.vc:80/LobatoESM/BQXtc/74894.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74894.ts
 #EXTINF:-1,PT: Hollywood
-http://b5.vc:80/LobatoESM/BQXtc/74895.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74895.ts
 #EXTINF:-1,PT: Hollywood FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74897.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74897.ts
 #EXTINF:-1,PT: Hollywood FHD
-http://b5.vc:80/LobatoESM/BQXtc/74896.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
-#EXTINF:-1,PT: IConcerplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http FHD
-http://b5.vc:80/LobatoESM/BQXtc/74898.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74896.ts
+#EXTINF:-1,PT: IConcerts FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74898.ts
 #EXTINF:-1,PT: ID Investigation Discovery FHD
-http://b5.vc:80/LobatoESM/BQXtc/74899.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74899.ts
 #EXTINF:-1,PT: Jim Jam
-http://b5.vc:80/LobatoESM/BQXtc/74900.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74900.ts
 #EXTINF:-1,PT: Kombat Sport
-http://b5.vc:80/LobatoESM/BQXtc/74901.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74901.ts
 #EXTINF:-1,PT: LocalVisao HD
-http://b5.vc:80/LobatoESM/BQXtc/74902.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74902.ts
 #EXTINF:-1,PT: Luxe.TV FHD
-http://b5.vc:80/LobatoESM/BQXtc/74903.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74903.ts
 #EXTINF:-1,PT: MCM Pop
-http://b5.vc:80/LobatoESM/BQXtc/74904.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74904.ts
 #EXTINF:-1,PT: MCM Top
-http://b5.vc:80/LobatoESM/BQXtc/74905.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74905.ts
 #EXTINF:-1,PT: Mezzo
-http://b5.vc:80/LobatoESM/BQXtc/74906.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74906.ts
 #EXTINF:-1,PT: Motorvision
-http://b5.vc:80/LobatoESM/BQXtc/74907.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74907.ts
 #EXTINF:-1,PT: MTV Portugal
-http://b5.vc:80/LobatoESM/BQXtc/74908.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74908.ts
 #EXTINF:-1,PT: MTV Portugal FHD
-http://b5.vc:80/LobatoESM/BQXtc/74909.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74909.ts
 #EXTINF:-1,PT: MVM TV
-http://b5.vc:80/LobatoESM/BQXtc/74910.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74910.ts
 #EXTINF:-1,PT: My Cuisinne
-http://b5.vc:80/LobatoESM/BQXtc/74911.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74911.ts
 #EXTINF:-1,PT: Nat Geo
-http://b5.vc:80/LobatoESM/BQXtc/74912.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74912.ts
 #EXTINF:-1,PT: Nat Geo FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74914.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74914.ts
 #EXTINF:-1,PT: Nat Geo FHD
-http://b5.vc:80/LobatoESM/BQXtc/74913.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74913.ts
 #EXTINF:-1,PT: Nat Geo Wild
-http://b5.vc:80/LobatoESM/BQXtc/74915.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74915.ts
 #EXTINF:-1,PT: Nat Geo Wild FHD
-http://b5.vc:80/LobatoESM/BQXtc/74916.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74916.ts
 #EXTINF:-1,PT: NBA
-http://b5.vc:80/LobatoESM/BQXtc/74917.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74917.ts
 #EXTINF:-1,PT: NBA FHD
-http://b5.vc:80/LobatoESM/BQXtc/74918.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74918.ts
 #EXTINF:-1,PT: Nickelodeon
-http://b5.vc:80/LobatoESM/BQXtc/74920.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74920.ts
 #EXTINF:-1,PT: Nick JR.
-http://b5.vc:80/LobatoESM/BQXtc/74919.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74919.ts
 #EXTINF:-1,PT: NOS Studios
-http://b5.vc:80/LobatoESM/BQXtc/74921.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74921.ts
 #EXTINF:-1,PT: NOS Studios FHD [H265]
-http://b5.vc:80/LobatoESM/BQXtc/74923.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74923.ts
 #EXTINF:-1,PT: NOS Studios FHD
-http://b5.vc:80/LobatoESM/BQXtc/74922.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74922.ts
 #EXTINF:-1,PT: Odisseia
-http://b5.vc:80/LobatoESM/BQXtc/74924.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74924.ts
 #EXTINF:-1,PT: Odisseia FHD
-http://b5.vc:80/LobatoESM/BQXtc/74925.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74925.ts
 #EXTINF:-1,PT: Panda Biggs
-http://b5.vc:80/LobatoESM/BQXtc/74926.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74926.ts
 #EXTINF:-1,PT: PFC
-http://b5.vc:80/LobatoESM/BQXtc/74927.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74927.ts
 #EXTINF:-1,PT: Porto Canal
-http://b5.vc:80/LobatoESM/BQXtc/74928.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74928.ts
 #EXTINF:-1,PT: Porto Canal FHD
-http://b5.vc:80/LobatoESM/BQXtc/74929.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74929.ts
 #EXTINF:-1,PT: RECORD TV (NA)
-http://b5.vc:80/LobatoESM/BQXtc/74930.plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://b5.vc:80/LobatoESM/BQXtc/74930.ts
 
 
 
