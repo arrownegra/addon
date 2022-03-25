@@ -1250,7 +1250,204 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://list.starbr.nz:80/live/julio1234/1234julio/4891.ts
 
 
-
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: RTP 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133561
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: RTP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133560
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: RTP 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133559
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: RTP 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133557
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133556
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: RTP 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133555
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SIC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133554
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133553
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133552
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SIC BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133551
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TVI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133550
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133549
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TVI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133548
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TVI BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133547
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: CMTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133543
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133542
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: CMTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133541
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TVI 24 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133540
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TVI 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133539
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TVI 24 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133538
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: RTP 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133537
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: RTP 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133536
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: RTP 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133535
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SIC NOTICIAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133533
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SIC NOTICIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133532
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SIC NOTICIAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133531
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TVCINE + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133529
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TV CINE TOP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133528
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TV CINE TOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133527
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TV CINE TOP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133526
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TV CINE TOP BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133525
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TV CINE EDITION  BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133521
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TV CINE EMOTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133520
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TV CINE EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133519
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TV CINE EMOTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133518
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TV CINE EMOTION BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133517
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TV CINE ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133516
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TV CINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133515
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TV CINE ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133514
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TV CINE ACTION BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133513
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: NOS STUDIOS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133512
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: NOS STUDIOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133511
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: NOS STUDIOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133510
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: FOX MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133505
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: FOX MOVIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133504
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: CINEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133503
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: CINEMUNDO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133502
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: CINEMUNDO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133501
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133500
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133499
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133498
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: HBO PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133497
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: NETFLIX TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133496
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: MARVEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133495
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: DC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133494
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133489
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133488
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133487
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133486
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV + SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133465
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV +  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133464
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV + FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133463
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133462
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133461
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133460
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133459
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 1 BACKUP***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133456
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 1 BACKUP****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133455
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133454
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133453
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133452
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 2 BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133451
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 2 BACKUP*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133450
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 2 BACKUP**
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133449
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133448
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133447
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133446
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133445
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133444
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133443
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133442
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133441
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133440
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: BTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133438
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: BTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133437
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: BTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133436
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: BTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133435
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: BTV BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133434
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORTING TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133433
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORTING TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133432
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: ELEVEN SPORTS 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133431
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: ELEVEN SPORTS 1 BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133430
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: ELEVEN SPORTS 2 BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133428
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: ELEVEN SPORTS 2 BACKUP*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133427
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: ELEVEN SPORTS 3 BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133426
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: ELEVEN SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133425
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: ELEVEN SPORTS 4 BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133424
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: ELEVEN SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133423
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: ELEVEN SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://fiqueemcasa.club:80/adolfo/102030/133422
 
 
 ############## Brasil: esportes  ############## ############## Brasil############## ############## 
