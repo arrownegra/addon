@@ -1,4 +1,6 @@
 EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="AXN 4K" tvg-logo="http://main.primehugehost.xyz:2095/images/fee8423c3f52dc806b639ce268c18057.png" group-title="CINE & SERIES",AXN 4K
+http://85.17.77.88:2095/432155244/43215524499/7686
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vaeQ0Xersj2y5t1Hkqljb9i8RaU.jpg" group-title="FILMES", Magnatas do Crime (2020)
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:141231A789FFEA164E061F53BACFF896A90A83CF 
  
