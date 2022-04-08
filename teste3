@@ -1,11 +1,17 @@
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
-<channels>
-<channel>
-<name>[COLOR yellow][B][COLOR lime]»»Flashbrasil[/COLOR] Brasil tv [/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/a329OII.jpg</thumbnail>
-<externallink></externallink>
-<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
-</channel>
-</channels>
+<menus>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes m3u [/COLOR]</title>
+<link>NA</link>
+<thumbnail>https://i.imgur.com/s6GiEbv.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/arrownegra/addon/main/torrent.xml</externallink>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT [/COLOR]</title>
+<link>NA</link>
+<thumbnail>https://i.imgur.com/SyWgZnF.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/arrownegra/addon/main/torrent.xml</externallink>
+</menu>
+</menus>
